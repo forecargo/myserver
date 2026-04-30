@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# EasyOCR モデルキャッシュ
+.EasyOCR/
+
+# Docker
+.docker/
+
+# 環境変数（将来APIキー等を使う場合）
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# ログ
+*.log
