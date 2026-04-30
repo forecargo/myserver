@@ -1,0 +1,10 @@
+# Tailscale IPでHTTPSを終端（証明書は自己署名）
+:80 {
+    route /ocr* {
+        reverse_proxy ocr-api:8000
+    }
+
+    route /health {
+        reverse_proxy ocr-api:8000
+    }
+}

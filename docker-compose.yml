@@ -1,0 +1,23 @@
+services:
+  ocr-api:
+    build: ./ocr-api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      # EasyOCRモデルをキャッシュ（コンテナ再起動を高速化）
+      - easyocr-models:/root/.EasyOCR
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./caddy/Caddyfile:/etc/caddy/Caddyfile
+      - caddy-data:/data
+
+volumes:
+  easyocr-models:
+  caddy-data:
