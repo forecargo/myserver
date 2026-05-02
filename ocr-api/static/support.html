@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EGGScan サポート</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+      background: #f2f2f7;
+      color: #1c1c1e;
+      line-height: 1.7;
+    }
+
+    header {
+      background: #fff;
+      border-bottom: 1px solid #e5e5ea;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .app-icon {
+      width: 56px; height: 56px;
+      background: linear-gradient(135deg, #f7c948, #e8a020);
+      border-radius: 14px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 28px;
+    }
+    header h1 { font-size: 22px; font-weight: 700; }
+    header p  { font-size: 13px; color: #6e6e73; margin-top: 2px; }
+
+    main {
+      max-width: 720px;
+      margin: 32px auto;
+      padding: 0 16px 64px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 14px;
+      overflow: hidden;
+    }
+    .card-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #6e6e73;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      padding: 16px 20px 8px;
+    }
+
+    /* FAQ */
+    details {
+      border-top: 1px solid #e5e5ea;
+    }
+    details:first-of-type { border-top: none; }
+    summary {
+      list-style: none;
+      padding: 16px 20px;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    summary::-webkit-details-marker { display: none; }
+    summary::after {
+      content: "+";
+      font-size: 20px;
+      color: #aeaeb2;
+      flex-shrink: 0;
+      transition: transform .2s;
+    }
+    details[open] summary::after { transform: rotate(45deg); }
+    .faq-body {
+      padding: 0 20px 18px;
+      font-size: 14px;
+      color: #3a3a3c;
+    }
+
+    /* Steps */
+    .steps { padding: 4px 20px 20px; }
+    .step {
+      display: flex;
+      gap: 14px;
+      padding: 12px 0;
+      border-bottom: 1px solid #f2f2f7;
+    }
+    .step:last-child { border-bottom: none; }
+    .step-num {
+      width: 28px; height: 28px; flex-shrink: 0;
+      background: #f7c948;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 13px; font-weight: 700; color: #1c1c1e;
+    }
+    .step-text { font-size: 14px; color: #3a3a3c; padding-top: 4px; }
+    .step-text strong { display: block; font-weight: 600; color: #1c1c1e; margin-bottom: 2px; }
+
+    /* Privacy */
+    .privacy-body {
+      padding: 4px 20px 20px;
+      font-size: 14px;
+      color: #3a3a3c;
+    }
+    .privacy-body ul { padding-left: 1.2em; }
+    .privacy-body li { margin: 6px 0; }
+
+    /* Contact */
+    .contact-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-top: 1px solid #e5e5ea;
+      font-size: 15px;
+      text-decoration: none;
+      color: #1c1c1e;
+    }
+    .contact-row:first-child { border-top: none; }
+    .contact-row span { color: #aeaeb2; font-size: 18px; }
+
+    footer {
+      text-align: center;
+      font-size: 12px;
+      color: #aeaeb2;
+      padding: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="app-icon">🥚</div>
+  <div>
+    <h1>EGGScan</h1>
+    <p>POWEREGG スケジュール → カレンダー自動登録</p>
+  </div>
+</header>
+
+<main>
+
+  <!-- 使い方 -->
+  <div class="card">
+    <div class="card-title">使い方</div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-text">
+          <strong>撮影</strong>
+          POWEREGGのスケジュール画面をカメラで撮影します。
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-text">
+          <strong>トリミング</strong>
+          4つのコーナーをドラッグして、読み取りたい範囲を調整します。
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-text">
+          <strong>確認・選択</strong>
+          AIが解析した予定の一覧から、カレンダーに登録したい予定を選択します。
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-text">
+          <strong>登録</strong>
+          「登録する」をタップすると、選択した予定がiOSカレンダーに追加されます。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FAQ -->
+  <div class="card">
+    <div class="card-title">よくある質問</div>
+
+    <details>
+      <summary>対応しているグループウェアは何ですか？</summary>
+      <div class="faq-body">
+        現在は <strong>POWEREGG</strong> のスケジュール画面を主な対象としています。
+        他のグループウェアの画面でも読み取れる場合がありますが、動作は保証されません。
+      </div>
+    </details>
+
+    <details>
+      <summary>予定が正しく読み取れません</summary>
+      <div class="faq-body">
+        以下をお試しください。<br><br>
+        ・画面が明るく、文字がはっきり見える状態で撮影する<br>
+        ・トリミングでスケジュール表の部分だけを切り取る<br>
+        ・画像のぶれや反射がない状態で再撮影する
+      </div>
+    </details>
+
+    <details>
+      <summary>カレンダーへの登録が失敗します</summary>
+      <div class="faq-body">
+        iOSの「設定」→「プライバシーとセキュリティ」→「カレンダー」から、
+        EGGScan にカレンダーへのアクセスが許可されているか確認してください。
+      </div>
+    </details>
+
+    <details>
+      <summary>撮影した画像はどこに保存されますか？</summary>
+      <div class="faq-body">
+        撮影した画像はAI解析のためにサーバーに送信されますが、解析完了後に保持されることはありません。
+        端末内にも保存されません。
+      </div>
+    </details>
+
+    <details>
+      <summary>オフラインでも使えますか？</summary>
+      <div class="faq-body">
+        AI解析にはインターネット接続が必要です。
+        撮影・トリミングはオフラインでも行えますが、解析・登録にはWi-Fiまたはモバイル通信が必要です。
+      </div>
+    </details>
+  </div>
+
+  <!-- プライバシー -->
+  <div class="card">
+    <div class="card-title">プライバシーについて</div>
+    <div class="privacy-body">
+      <p>EGGScanは以下の権限を使用します。</p>
+      <ul>
+        <li><strong>カメラ</strong>：スケジュール画面の撮影のみに使用します。</li>
+        <li><strong>カレンダー</strong>：予定の書き込みのみに使用します。読み取りは行いません。</li>
+      </ul>
+      <br>
+      <p>撮影した画像はAI解析後に破棄され、ユーザーを特定できる情報の収集は行いません。</p>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  &copy; 2025 EGGScan
+</footer>
+
+</body>
+</html>
