@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>スケジュール画面を撮影します</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>スケジュールをカレンダーに登録します</string>
+    <key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+    <string>スケジュールをカレンダーに登録します</string>
+</dict>
+</plist>

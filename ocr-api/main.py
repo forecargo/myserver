@@ -1,11 +1,15 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-import easyocr
-import numpy as np
-from PIL import Image
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import RedirectResponse
+import google.generativeai as genai
 import io
+import os
+import json
+import re
+import base64
 
-app = FastAPI(title="OCR API")
+app = FastAPI(title="Schedule API")
 
 app.add_middleware(
     CORSMiddleware,
@@ -14,37 +18,71 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# 起動時に一度だけロード（日本語＋英語）
-reader = easyocr.Reader(["ja", "en"], gpu=False)
+gemini_api_key = os.getenv("GEMINI_API_KEY")
+if not gemini_api_key:
+    raise RuntimeError("GEMINI_API_KEY が設定されていません")
+genai.configure(api_key=gemini_api_key)
+
+SCHEDULE_PROMPT = """与えられた画像からスケジュール予約を読み取り、以下のフォーマットでJSONをコードブロックとして出力してください。
+
+## フォーマット
+
+```json
+[
+    {
+        "date": "YYYY/MM/DD",
+        "day_of_week": "月〜日のいずれか",
+        "start_time": "HH:MM",
+        "end_time": "HH:MM",
+        "category": "会議 など",
+        "title": "予定のタイトル",
+        "location": "場所",
+        "reserver": "予約者名"
+    }
+]
+```
+
+- 読み取れない項目は空文字列にしてください。
+- 複数の予定がある場合はすべて配列に含めてください。
+- JSONコードブロック以外の説明文は不要です。"""
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse(url="/static/index.html")
 
 @app.get("/health")
 def health():
     return {"status": "ok"}
 
-@app.post("/ocr")
-async def ocr(file: UploadFile = File(...)):
+@app.post("/schedule")
+async def schedule(file: UploadFile = File(...)):
     if file.content_type not in ["image/jpeg", "image/png", "image/webp"]:
         raise HTTPException(status_code=400, detail="jpeg/png/webp のみ対応")
 
     contents = await file.read()
-    image = Image.open(io.BytesIO(contents)).convert("RGB")
-    img_array = np.array(image)
 
-    results = reader.readtext(img_array)
-
-    # [(bbox, text, confidence), ...] を整形
-    extracted = [
-        {
-            "text": text,
-            "confidence": round(conf, 3),
-            "bbox": bbox
+    model = genai.GenerativeModel("gemini-3.1-flash-lite-preview")
+    image_part = {
+        "inline_data": {
+            "mime_type": file.content_type,
+            "data": base64.b64encode(contents).decode("utf-8"),
         }
-        for bbox, text, conf in results
-    ]
-
-    full_text = " ".join([r["text"] for r in extracted])
-
-    return {
-        "full_text": full_text,
-        "details": extracted
     }
+    try:
+        response = model.generate_content([SCHEDULE_PROMPT, image_part])
+    except Exception as e:
+        raise HTTPException(status_code=502, detail=f"Gemini API エラー: {e}")
+
+    raw = response.text
+    match = re.search(r"```(?:json)?\s*([\s\S]*?)```", raw)
+    if not match:
+        raise HTTPException(status_code=500, detail=f"JSONブロックが見つかりませんでした: {raw}")
+
+    try:
+        schedules = json.loads(match.group(1))
+    except json.JSONDecodeError as e:
+        raise HTTPException(status_code=500, detail=f"JSONパースエラー: {e}")
+
+    return {"schedules": schedules}

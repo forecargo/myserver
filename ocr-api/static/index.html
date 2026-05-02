@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OCR API テスト</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #333; }
+    header { background: #1a73e8; color: #fff; padding: 16px 24px; }
+    header h1 { font-size: 18px; font-weight: 600; }
+    main { max-width: 900px; margin: 24px auto; padding: 0 16px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    @media (max-width: 640px) { main { grid-template-columns: 1fr; } }
+
+    .card { background: #fff; border-radius: 10px; box-shadow: 0 1px 4px rgba(0,0,0,.1); padding: 20px; }
+    .card h2 { font-size: 15px; font-weight: 600; margin-bottom: 14px; color: #444; }
+
+    /* Drop zone */
+    #drop-zone {
+      border: 2px dashed #aaa; border-radius: 8px; padding: 32px 16px;
+      text-align: center; cursor: pointer; transition: border-color .2s, background .2s;
+      color: #888; font-size: 14px;
+    }
+    #drop-zone.dragover { border-color: #1a73e8; background: #e8f0fe; }
+    #drop-zone input { display: none; }
+    #preview { margin-top: 14px; text-align: center; }
+    #preview img { max-width: 100%; max-height: 260px; border-radius: 6px; border: 1px solid #ddd; }
+    #file-name { font-size: 12px; color: #666; margin-top: 6px; }
+
+    /* Buttons */
+    .btn-row { display: flex; gap: 10px; margin-top: 16px; }
+    button {
+      flex: 1; padding: 10px; border: none; border-radius: 6px;
+      font-size: 14px; font-weight: 600; cursor: pointer; transition: opacity .15s;
+    }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    #btn-schedule { background: #1a73e8; color: #fff; }
+    button:not(:disabled):hover { opacity: .85; }
+
+    /* Result */
+    .result-card { grid-column: 1 / -1; }
+    #status { font-size: 13px; color: #888; margin-bottom: 10px; min-height: 18px; }
+    #status.error { color: #d93025; }
+    #status.ok { color: #188038; }
+    pre {
+      background: #1e1e1e; color: #d4d4d4; padding: 16px; border-radius: 8px;
+      font-size: 13px; overflow: auto; max-height: 420px; white-space: pre-wrap; word-break: break-all;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { border: 1px solid #e0e0e0; padding: 8px 10px; text-align: left; }
+    th { background: #f8f9fa; font-weight: 600; }
+    tr:nth-child(even) { background: #fafafa; }
+
+    .spinner {
+      display: inline-block; width: 14px; height: 14px; border: 2px solid #ccc;
+      border-top-color: #1a73e8; border-radius: 50%; animation: spin .7s linear infinite; vertical-align: middle;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+<header><h1>OCR API テストUI</h1></header>
+<main>
+  <!-- 左：アップロード -->
+  <div class="card">
+    <h2>画像を選択</h2>
+    <div id="drop-zone">
+      <input type="file" id="file-input" accept="image/jpeg,image/png,image/webp">
+      <div>クリックまたはドロップで画像を選択</div>
+      <div style="font-size:12px;margin-top:4px;">JPEG / PNG / WebP</div>
+    </div>
+    <div id="preview"></div>
+    <div id="file-name"></div>
+    <div class="btn-row">
+      <button id="btn-schedule" disabled>スケジュール変換</button>
+    </div>
+  </div>
+
+  <!-- 右：エンドポイント説明 -->
+  <div class="card">
+    <h2>エンドポイント</h2>
+    <table>
+      <tr><th>パス</th><th>説明</th></tr>
+      <tr><td><code>POST /schedule</code></td><td>Gemini でスケジュールJSON化</td></tr>
+      <tr><td><code>GET /health</code></td><td>ヘルスチェック</td></tr>
+    </table>
+  </div>
+
+  <!-- 下段：結果 -->
+  <div class="card result-card">
+    <h2>結果</h2>
+    <div id="status">画像を選択してボタンを押してください</div>
+    <div id="result"></div>
+  </div>
+</main>
+
+<script>
+  const dropZone = document.getElementById('drop-zone');
+  const fileInput = document.getElementById('file-input');
+  const preview = document.getElementById('preview');
+  const fileName = document.getElementById('file-name');
+  const btnSchedule = document.getElementById('btn-schedule');
+  const status = document.getElementById('status');
+  const result = document.getElementById('result');
+
+  let selectedFile = null;
+
+  dropZone.addEventListener('click', () => fileInput.click());
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+  dropZone.addEventListener('drop', e => {
+    e.preventDefault(); dropZone.classList.remove('dragover');
+    const f = e.dataTransfer.files[0];
+    if (f) setFile(f);
+  });
+  fileInput.addEventListener('change', () => { if (fileInput.files[0]) setFile(fileInput.files[0]); });
+
+  function setFile(f) {
+    selectedFile = f;
+    fileName.textContent = f.name;
+    const url = URL.createObjectURL(f);
+    preview.innerHTML = `<img src="${url}" alt="preview">`;
+    btnSchedule.disabled = false;
+    result.innerHTML = '';
+    setStatus('', '');
+  }
+
+  function setStatus(msg, type) {
+    status.textContent = msg;
+    status.className = type;
+  }
+
+  async function postImage(endpoint) {
+    if (!selectedFile) return;
+    btnSchedule.disabled = true;
+    result.innerHTML = '';
+    setStatus('', '');
+    status.innerHTML = '<span class="spinner"></span> 処理中…';
+
+    const fd = new FormData();
+    fd.append('file', selectedFile);
+
+    try {
+      const res = await fetch(endpoint, { method: 'POST', body: fd });
+      const data = await res.json();
+      if (!res.ok) {
+        setStatus('エラー: ' + (data.detail ?? res.statusText), 'error');
+        result.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+      } else {
+        setStatus('完了', 'ok');
+        if (endpoint === '/schedule' && data.schedules) {
+          result.innerHTML = renderTable(data.schedules);
+        } else {
+          result.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+        }
+      }
+    } catch (e) {
+      setStatus('通信エラー: ' + e.message, 'error');
+    } finally {
+      btnSchedule.disabled = false;
+    }
+  }
+
+  function renderTable(schedules) {
+    if (!schedules.length) return '<p style="color:#888;font-size:13px;">予定が見つかりませんでした</p>';
+    const keys = Object.keys(schedules[0]);
+    const header = keys.map(k => `<th>${k}</th>`).join('');
+    const rows = schedules.map(s =>
+      `<tr>${keys.map(k => `<td>${s[k] ?? ''}</td>`).join('')}</tr>`
+    ).join('');
+    return `<table><thead><tr>${header}</tr></thead><tbody>${rows}</tbody></table>`;
+  }
+
+  btnSchedule.addEventListener('click', () => postImage('/schedule'));
+</script>
+</body>
+</html>
