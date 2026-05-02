@@ -3,7 +3,7 @@
 ## 構成概要
 
 - `ocr-api/` — FastAPI による OCR バックエンド (Python)
-- `ScheduleScanner.swiftpm/` — iOS クライアントアプリ (Swift Playgrounds)
+- `ScheduleScanner/` — iOS クライアントアプリ (Xcode)
 - `docker-compose.yml` — OCR API + Caddy をまとめて起動
 
 ## ドキュメント参照
