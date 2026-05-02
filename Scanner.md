@@ -36,7 +36,7 @@ ScheduleScanner/
 
 ### project.yml (XcodeGen)
 - プラットフォーム: iOS 16.0+
-- Bundle ID: `com.example.ScheduleScanner`
+- Bundle ID: `com.hoshinoji.eggscan`
 - 権限: `NSCameraUsageDescription`, `NSCalendarsUsageDescription`, `NSCalendarsWriteOnlyAccessUsageDescription`
 - `.xcodeproj` 再生成: `cd ScheduleScanner && xcodegen generate`
 
