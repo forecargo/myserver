@@ -8,4 +8,5 @@
 
 ## ドキュメント参照
 
+- ocr-api の詳細構造 → [ocr-api.md](./ocr-api.md)
 - iOS クライアントの詳細構造 → [Scanner.md](./Scanner.md)
