@@ -56,7 +56,7 @@ ocr-api/
 
 ## 使用モデル
 
-- `gemini-3.1-flash-lite-preview` (google-generativeai ライブラリ経由)
+- `gemini-3.1-flash-lite-preview` (google-genai ライブラリ経由、REST 通信)
 
 ## 環境変数
 
