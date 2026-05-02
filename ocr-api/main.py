@@ -2,7 +2,8 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import RedirectResponse
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import io
 import os
 import json
@@ -21,7 +22,7 @@ app.add_middleware(
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 if not gemini_api_key:
     raise RuntimeError("GEMINI_API_KEY が設定されていません")
-genai.configure(api_key=gemini_api_key)
+client = genai.Client(api_key=gemini_api_key)
 
 SCHEDULE_PROMPT = """与えられた画像からスケジュール予約を読み取り、以下のフォーマットでJSONをコードブロックとして出力してください。
 
@@ -52,6 +53,10 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 def root():
     return RedirectResponse(url="/static/index.html")
 
+@app.get("/support", include_in_schema=False)
+def support():
+    return RedirectResponse(url="/static/support.html")
+
 @app.get("/health")
 def health():
     return {"status": "ok"}
@@ -63,15 +68,14 @@ async def schedule(file: UploadFile = File(...)):
 
     contents = await file.read()
 
-    model = genai.GenerativeModel("gemini-3.1-flash-lite-preview")
-    image_part = {
-        "inline_data": {
-            "mime_type": file.content_type,
-            "data": base64.b64encode(contents).decode("utf-8"),
-        }
-    }
     try:
-        response = model.generate_content([SCHEDULE_PROMPT, image_part])
+        response = client.models.generate_content(
+            model="gemini-3.1-flash-lite-preview",
+            contents=[
+                types.Part.from_text(text=SCHEDULE_PROMPT),
+                types.Part.from_bytes(data=contents, mime_type=file.content_type),
+            ],
+        )
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"Gemini API エラー: {e}")
 
