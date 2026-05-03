@@ -167,16 +167,19 @@ VStack
 ### DetailView（詳細・全文表示）
 
 ```
-NavigationBar: "<section_id> <title>" (inline)
+NavigationBar: "<section_id> <title>" (inline)  ← [^N] 除去済み
 ScrollView
-├── breadcrumb（12pt）
+├── breadcrumb（12pt）                           ← [^N] 除去済み
 ├── RequirementBadgeView
 ├── Divider
 ├── GuidelineMarkdownView(text: result.text)
 └── footnotes が存在する場合:
     └── Divider + DisclosureGroup("脚注 (N件)")
-            └── ForEach(footnotes) { ref: 40pt固定, text: 残り }
+            └── ForEach(footnotes) { ref: ※N形式 40pt固定, text: 残り }
 ```
+
+- `plainTitle()` および `stripFootnoteRefs()` でタイトル・パンくずから `[^N]` を除去し、ナビゲーションバー等にリテラル表示されないようにする
+- 脚注パネルの参照番号は `^N` ではなく `※N` 形式で表示し、本文中のインライン表記と対応させる
 
 ### GuidelineMarkdownView（Markdown レンダラー）
 
@@ -191,7 +194,7 @@ ScrollView
 | `①②③` など（U+2460〜U+24FF）で始まる項目 | `•` を付けずぶら下げインデント表示 |
 | `a. text`, `b. text` など（ASCII 1文字 + `". "`）で始まる項目 | `•` を付けずぶら下げインデント表示 |
 | `**bold**`, `_italic_` | `AttributedString(markdown:)` でインライン適用 |
-| `[^N]` 脚注参照 | 正規表現で除去（脚注本文は DisclosureGroup に別表示） |
+| `[^N]` 脚注参照 | `※N` に置換して参照位置を本文中に可視化（脚注本文は DisclosureGroup に別表示） |
 | 空行 | 段落区切り |
 
 **ぶら下げインデントの仕組み**
@@ -205,6 +208,7 @@ ScrollView
 // インライン書式は AttributedString(markdown:, options: .inlineOnlyPreservingWhitespace) を使用
 // タブ → 4スペース正規化後に leadingSpaces / 4 でインデント算出
 // extractSpecialMarker() で ①②③ / a. b. c. マーカーを検出してぶら下げ表示
+// normalizeFootnoteRefs() で [^N] → ※N に置換（参照位置の可視化）
 ```
 
 ### SearchBarView
