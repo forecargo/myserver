@@ -3,7 +3,7 @@
 NCBオンライン（ncbonline@nttdata-ncb.co.jp）から届くシステム障害通知メールを自動収集・解析し、障害情報をPostgreSQLで一元管理するFastAPIサービス。
 
 - ポート: `8002`
-- Caddy経由: `https://<host>/trouble/*`
+- Caddy経由: `https://<host>/trouble/*`（Basic 認証あり、後述）
 - Web UI: `https://<host>/trouble/`（`?id=<id>` でインシデント詳細を直接表示）
 
 ## ファイル構成
@@ -24,19 +24,39 @@ trouble-api/
 └── Dockerfile
 ```
 
+## セキュリティ
+
+### Caddy Basic 認証
+`/trouble/*` へのアクセスは Caddy レイヤーで Basic 認証を要求する。
+
+| 対象パス | 認証 |
+|---|---|
+| `/trouble/line/webhook` | **不要**（LINE プラットフォームからの Webhook のため） |
+| `/trouble/*`（上記以外） | **必要**（Basic 認証） |
+
+認証情報は `caddy/Caddyfile` に bcrypt ハッシュで直接記載（平文は `.env` には保存しない）。
+パスワード変更手順は後述の「[Basic 認証パスワード変更](#basic-認証パスワード変更)」を参照。
+
+### LINE Bot アクセス制限
+`line_handler.py` の `is_allowed_source()` により、`LINE_NOTIFICATION_TARGETS` に登録されていないユーザー・グループからの Bot コマンドは無視する。
+
+- 許可: `LINE_NOTIFICATION_TARGETS` に含まれる userId / groupId
+- 不許可: 上記以外（返信なし・HTTP 200 を返す）
+- 未設定時: 全許可（開発環境向け）
+
 ## API エンドポイント
 
-| Method | Path | 説明 |
-|---|---|---|
-| GET | / | 管理 Web UI |
-| GET | /health | ヘルスチェック |
-| GET | /incidents | インシデント一覧（クエリ: system_name, status, from_date, to_date, limit, offset） |
-| GET | /incidents/{id} | インシデント詳細（JSON） |
-| PUT | /incidents/{id} | 手動更新（ステータス修正等） |
-| DELETE | /incidents/{id} | 削除 |
-| POST | /sync | 即時メール同期（新規インシデントがあれば LINE 通知） |
-| GET | /summary | システム別・ステータス別集計 |
-| POST | /line/webhook | LINE Messaging API Webhook 受信 |
+| Method | Path | 認証 | 説明 |
+|---|---|---|---|
+| GET | / | Basic 認証 | 管理 Web UI |
+| GET | /health | Basic 認証 | ヘルスチェック |
+| GET | /incidents | Basic 認証 | インシデント一覧（クエリ: system_name, status, from_date, to_date, limit, offset） |
+| GET | /incidents/{id} | Basic 認証 | インシデント詳細（JSON） |
+| PUT | /incidents/{id} | Basic 認証 | 手動更新（ステータス修正等） |
+| DELETE | /incidents/{id} | Basic 認証 | 削除 |
+| POST | /sync | Basic 認証 | 即時メール同期（新規インシデントがあれば LINE 通知） |
+| GET | /summary | Basic 認証 | システム別・ステータス別集計 |
+| POST | /line/webhook | **不要** | LINE Messaging API Webhook 受信 |
 
 ## データベーススキーマ
 
@@ -109,12 +129,26 @@ https://forecargo.ngrok.app/trouble/line/webhook
 
 ### 通知ターゲット ID の取得方法
 - **自分の User ID**: LINE Developers Console → プロバイダー → チャンネル → Messaging API 設定 → 「あなたのユーザーID」
-- **グループ ID**: Bot をグループに招待後、Webhook で受信する `source.groupId` を確認
+- **グループ ID**: 下記の手順で取得する
+
+**グループ ID の取得手順:**
+1. `main.py` の webhook ハンドラに以下の1行を追加してサービスを再起動
+   ```python
+   print(f"LINE source: {event.get('source')}", flush=True)
+   ```
+2. 対象グループで Bot に何かメッセージを送る
+3. `docker compose logs -f trouble-api` でログを確認
+   ```
+   LINE source: {'type': 'group', 'groupId': 'Cabc123...', 'userId': 'Udef456...'}
+   ```
+4. `groupId` を `LINE_NOTIFICATION_TARGETS` に追記後、print 文を削除して再起動
 
 ```
 LINE_NOTIFICATION_TARGETS=Uxxxxxxxxxxxx          # 個人のみ
 LINE_NOTIFICATION_TARGETS=Uxxxxxxxxxxxx,Cxxxxxx  # 個人 + グループ
 ```
+
+> **注意**: `LINE_NOTIFICATION_TARGETS` は通知先と Bot コマンド許可先を兼ねる。ここに登録されていないソースからのコマンドは `is_allowed_source()` により無視される。
 
 ### リッチメニュー（チャット下部ボタン）のセットアップ
 ホストマシンで一度だけ実行する。変更時も再実行すれば上書きされる。
@@ -243,3 +277,27 @@ curl -X POST http://localhost:8002/line/webhook \
   -d '{"events":[]}'
 # → {"status":"ok"}
 ```
+
+### Basic 認証付きの curl
+```bash
+# Basic 認証が必要なエンドポイント（Caddy 経由）
+curl -u ncbtrouble:ncb0190842 https://forecargo.ngrok.app/trouble/incidents | jq
+curl -u ncbtrouble:ncb0190842 -X POST https://forecargo.ngrok.app/trouble/sync | jq
+```
+
+## Basic 認証パスワード変更
+
+1. 新しいハッシュを生成
+   ```bash
+   docker run --rm caddy:latest caddy hash-password --plaintext "<新しいパスワード>"
+   ```
+2. `caddy/Caddyfile` の `basicauth` ブロックを更新
+   ```
+   basicauth {
+       ncbtrouble <生成したハッシュ>
+   }
+   ```
+3. Caddy を再起動
+   ```bash
+   docker compose up -d caddy
+   ```
