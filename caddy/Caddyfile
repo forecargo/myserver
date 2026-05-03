@@ -4,6 +4,14 @@
         reverse_proxy ocr-api:8000
     }
 
+    handle_path /guideline* {
+        reverse_proxy guideline-api:8001
+    }
+
+    route /schedule* {
+        reverse_proxy ocr-api:8000
+    }
+
     route /health {
         reverse_proxy ocr-api:8000
     }
