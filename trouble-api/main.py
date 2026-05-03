@@ -12,7 +12,7 @@ from sqlalchemy.orm import Session
 
 from collector import collect_and_process
 from database import get_session, init_db
-from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, notify_new_incidents, verify_signature
+from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, is_allowed_source, notify_new_incidents, send_sample_notification, verify_signature
 from models import Incident, IncidentResponse, IncidentUpdate, SummaryItem, SyncResult
 from scheduler import start_scheduler, stop_scheduler
 
@@ -125,6 +125,12 @@ def trigger_sync():
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.post("/line/test-notify")
+def test_line_notify():
+    sent = send_sample_notification()
+    return {"sent": sent, "targets": LINE_NOTIFICATION_TARGETS}
+
+
 @app.post("/line/webhook")
 async def line_webhook(request: Request):
     body = await request.body()
@@ -133,6 +139,9 @@ async def line_webhook(request: Request):
         raise HTTPException(status_code=400, detail="Invalid signature")
     payload = json.loads(body)
     for event in payload.get("events", []):
+        print(f"LINE source: {event.get('source')}", flush=True)
+        if not is_allowed_source(event):
+            continue
         if event.get("type") == "message" and event["message"]["type"] == "text":
             handle_text_event(event["message"]["text"], event["replyToken"])
     return {"status": "ok"}

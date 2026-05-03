@@ -17,12 +17,41 @@ LINE_NOTIFICATION_TARGETS = [
     t.strip() for t in os.getenv("LINE_NOTIFICATION_TARGETS", "").split(",") if t.strip()
 ]
 BASE_URL = os.getenv("BASE_URL", "").rstrip("/")
+
+
+def get_source_id(event: dict) -> str | None:
+    source = event.get("source", {})
+    source_type = source.get("type")
+    if source_type == "group":
+        return source.get("groupId")
+    if source_type == "user":
+        return source.get("userId")
+    if source_type == "room":
+        return source.get("roomId")
+    return None
+
+
+def is_allowed_source(event: dict) -> bool:
+    if not LINE_NOTIFICATION_TARGETS:
+        return True
+    source_id = get_source_id(event)
+    if source_id is None:
+        return False
+    return source_id in LINE_NOTIFICATION_TARGETS
+
+
 JST = timezone(timedelta(hours=9))
 
 STATUS_COLORS = {
-    "発生中": "#EF4444",
-    "調査中": "#F59E0B",
-    "復旧済み": "#22C55E",
+    "発生中": "#DC2626",
+    "調査中": "#D97706",
+    "復旧済み": "#16A34A",
+}
+
+STATUS_LIGHT_COLORS = {
+    "発生中": "#FEE2E2",
+    "調査中": "#FEF3C7",
+    "復旧済み": "#DCFCE7",
 }
 
 HELP_TEXT = """📋 障害インシデント管理
@@ -74,76 +103,133 @@ def _fmt_dt(dt: datetime | None) -> str:
 
 
 def make_incident_bubble(inc: Incident) -> dict:
-    color = STATUS_COLORS.get(inc.status, "#6B7280")
+    color = STATUS_COLORS.get(inc.status, "#4B5563")
+    light_color = STATUS_LIGHT_COLORS.get(inc.status, "#F3F4F6")
     detail_url = f"{BASE_URL}/?id={inc.id}" if BASE_URL else None
-
-    body_contents = [
-        {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-                {"type": "text", "text": inc.system_name, "weight": "bold", "size": "md", "wrap": True},
-                {
-                    "type": "text",
-                    "text": inc.failure_type or "障害種別不明",
-                    "size": "xs",
-                    "color": "#6B7280",
-                    "wrap": True,
-                    "margin": "xs",
-                },
-            ],
-        },
-        {"type": "separator", "margin": "md"},
-        {
-            "type": "box",
-            "layout": "vertical",
-            "margin": "md",
-            "spacing": "xs",
-            "contents": [
-                {
-                    "type": "box",
-                    "layout": "horizontal",
-                    "contents": [
-                        {"type": "text", "text": "発生", "size": "xs", "color": "#6B7280", "flex": 2},
-                        {"type": "text", "text": _fmt_dt(inc.occurred_at), "size": "xs", "flex": 5},
-                    ],
-                },
-                {
-                    "type": "box",
-                    "layout": "horizontal",
-                    "contents": [
-                        {"type": "text", "text": "クローズ", "size": "xs", "color": "#6B7280", "flex": 2},
-                        {"type": "text", "text": _fmt_dt(inc.closed_at), "size": "xs", "flex": 5},
-                    ],
-                },
-            ],
-        },
-    ]
-
-    footer_contents = []
-    if detail_url:
-        footer_contents.append({
-            "type": "button",
-            "style": "link",
-            "height": "sm",
-            "action": {"type": "uri", "label": f"詳細 #{inc.id} →", "uri": detail_url},
-        })
 
     bubble: dict = {
         "type": "bubble",
-        "header": {
+        "body": {
             "type": "box",
             "layout": "vertical",
-            "backgroundColor": color,
-            "paddingAll": "12px",
+            "paddingAll": "0px",
             "contents": [
-                {"type": "text", "text": inc.status, "color": "#FFFFFF", "weight": "bold", "size": "sm"}
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": color,
+                    "height": "6px",
+                    "contents": [],
+                },
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "paddingAll": "16px",
+                    "paddingTop": "14px",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "backgroundColor": light_color,
+                                    "cornerRadius": "12px",
+                                    "paddingStart": "10px",
+                                    "paddingEnd": "10px",
+                                    "paddingTop": "3px",
+                                    "paddingBottom": "3px",
+                                    "flex": 0,
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": inc.status,
+                                            "color": color,
+                                            "size": "xxs",
+                                            "weight": "bold",
+                                        }
+                                    ],
+                                },
+                                {"type": "filler"},
+                            ],
+                        },
+                        {
+                            "type": "text",
+                            "text": inc.system_name,
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": True,
+                            "color": "#111827",
+                            "margin": "md",
+                        },
+                        {
+                            "type": "text",
+                            "text": inc.failure_type or "障害種別不明",
+                            "size": "xs",
+                            "color": "#6B7280",
+                            "margin": "xs",
+                            "wrap": True,
+                        },
+                        {"type": "separator", "margin": "xl", "color": "#E5E7EB"},
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "margin": "lg",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {"type": "text", "text": "発生", "size": "xs", "color": "#9CA3AF", "flex": 0},
+                                        {
+                                            "type": "text",
+                                            "text": _fmt_dt(inc.occurred_at),
+                                            "size": "xs",
+                                            "color": "#374151",
+                                            "align": "end",
+                                        },
+                                    ],
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {"type": "text", "text": "クローズ", "size": "xs", "color": "#9CA3AF", "flex": 0},
+                                        {
+                                            "type": "text",
+                                            "text": _fmt_dt(inc.closed_at),
+                                            "size": "xs",
+                                            "color": "#374151",
+                                            "align": "end",
+                                        },
+                                    ],
+                                },
+                            ],
+                        },
+                    ],
+                },
             ],
         },
-        "body": {"type": "box", "layout": "vertical", "contents": body_contents},
     }
-    if footer_contents:
-        bubble["footer"] = {"type": "box", "layout": "vertical", "contents": footer_contents}
+
+    if detail_url:
+        bubble["footer"] = {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "12px",
+            "backgroundColor": "#F9FAFB",
+            "contents": [
+                {
+                    "type": "button",
+                    "style": "primary",
+                    "color": color,
+                    "height": "sm",
+                    "action": {"type": "uri", "label": f"詳細を見る  #{inc.id}", "uri": detail_url},
+                }
+            ],
+        }
 
     return bubble
 
@@ -222,7 +308,6 @@ def handle_text_event(text: str, reply_token: str) -> None:
         reply_messages(reply_token, messages)
         return
 
-    reply_messages(reply_token, [text_msg(HELP_TEXT)])
 
 
 def notify_new_incidents(ids: list[int]) -> None:
@@ -236,3 +321,23 @@ def notify_new_incidents(ids: list[int]) -> None:
     messages = _incidents_to_flex(incidents, f"新規障害 {len(incidents)}件")
     for target in LINE_NOTIFICATION_TARGETS:
         push_messages(target, messages)
+
+
+def send_sample_notification() -> bool:
+    if not LINE_NOTIFICATION_TARGETS:
+        return False
+    from types import SimpleNamespace
+    now = datetime.now(JST)
+    sample = SimpleNamespace(
+        id=0,
+        system_name="NCBオンラインバンキング",
+        failure_type="ログイン不可",
+        status="発生中",
+        occurred_at=now,
+        closed_at=None,
+        description="一部のお客様においてオンラインバンキングへのログインができない障害が発生しております。現在調査中です。",
+    )
+    messages = _incidents_to_flex([sample], "新規障害（サンプル通知）")
+    for target in LINE_NOTIFICATION_TARGETS:
+        push_messages(target, messages)
+    return True
