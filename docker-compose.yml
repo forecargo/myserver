@@ -29,6 +29,34 @@ services:
     volumes:
       - ./guidline-api:/app
 
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-trouble}
+      POSTGRES_USER: ${POSTGRES_USER:-trouble}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-trouble}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  trouble-api:
+    build: ./trouble-api
+    restart: unless-stopped
+    ports:
+      - "8002:8002"
+    env_file:
+      - .env
+    volumes:
+      - ./trouble-api:/app
+    depends_on:
+      postgres:
+        condition: service_healthy
+
   ngrok:
     image: ngrok/ngrok:latest
     restart: unless-stopped
@@ -42,3 +70,4 @@ services:
 
 volumes:
   caddy-data:
+  postgres-data:
