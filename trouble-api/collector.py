@@ -134,75 +134,85 @@ def collect_and_process() -> dict:
     try:
         with imapclient.IMAPClient(IMAP_HOST, port=IMAP_PORT, ssl=True, ssl_context=_make_ssl_context()) as server:
             server.login(IMAP_USERNAME, IMAP_PASSWORD)
-            server.select_folder("INBOX", readonly=True)
-            all_uids = server.search(["ALL"])
+            server.select_folder("INBOX", readonly=False)
+            all_uids = server.search(["UNSEEN"])
             if not all_uids:
                 return results
             uids = _filter_sender_uids(server, all_uids)
             if not uids:
                 return results
             messages = server.fetch(uids, ["RFC822", "INTERNALDATE"])
+
+            for uid, data in messages.items():
+                try:
+                    raw_email = data[b"RFC822"]
+                    received_at = data[b"INTERNALDATE"]
+                    msg = email.message_from_bytes(raw_email)
+                    message_id = msg.get("Message-ID", f"no-id-{uid}").strip()
+
+                    with get_session() as session:
+                        if session.get(ProcessedEmail, message_id):
+                            results["skipped"] += 1
+                            try:
+                                server.set_flags([uid], [b"\\Seen"])
+                            except Exception as flag_err:
+                                results["errors"].append(f"UID {uid}: set_flags failed: {flag_err}")
+                            continue
+
+                        subject = _decode_str(msg.get("Subject", ""))
+                        body = _extract_body(msg)
+                        received_str = (
+                            received_at.astimezone(JST).isoformat()
+                            if hasattr(received_at, "astimezone")
+                            else str(received_at)
+                        )
+
+                        extracted = analyze_email(subject, body, received_str)
+
+                        incident = None
+                        if extracted.get("is_update"):
+                            incident = _find_existing_incident(
+                                session,
+                                extracted.get("system_name", ""),
+                                extracted.get("occurred_at"),
+                            )
+
+                        if incident:
+                            _apply_update(incident, extracted, received_at)
+                            results["updated_incidents"] += 1
+                        else:
+                            incident = Incident(
+                                system_name=extracted.get("system_name", "不明"),
+                                failure_type=extracted.get("failure_type"),
+                                status=extracted.get("status", "発生中"),
+                                occurred_at=_parse_dt(extracted.get("occurred_at")),
+                                closed_at=_parse_dt(extracted.get("closed_at")),
+                                description=extracted.get("description"),
+                                response=extracted.get("response"),
+                                email_subject=subject,
+                                email_received_at=received_at,
+                                email_message_id=message_id,
+                                raw_email_body=body,
+                            )
+                            session.add(incident)
+                            session.flush()
+                            results["new_incidents"] += 1
+                            results["new_incident_ids"].append(incident.id)
+
+                        pe = ProcessedEmail(message_id=message_id, incident_id=incident.id)
+                        session.add(pe)
+                        session.commit()
+
+                    try:
+                        server.set_flags([uid], [b"\\Seen"])
+                    except Exception as flag_err:
+                        results["errors"].append(f"UID {uid}: set_flags failed: {flag_err}")
+
+                except Exception as e:
+                    results["errors"].append(f"UID {uid}: {e}")
+
     except Exception as e:
         results["errors"].append(f"IMAP connection error: {e}")
         return results
-
-    for uid, data in messages.items():
-        try:
-            raw_email = data[b"RFC822"]
-            received_at = data[b"INTERNALDATE"]
-            msg = email.message_from_bytes(raw_email)
-            message_id = msg.get("Message-ID", f"no-id-{uid}").strip()
-
-            with get_session() as session:
-                if session.get(ProcessedEmail, message_id):
-                    results["skipped"] += 1
-                    continue
-
-                subject = _decode_str(msg.get("Subject", ""))
-                body = _extract_body(msg)
-                received_str = (
-                    received_at.astimezone(JST).isoformat()
-                    if hasattr(received_at, "astimezone")
-                    else str(received_at)
-                )
-
-                extracted = analyze_email(subject, body, received_str)
-
-                incident = None
-                if extracted.get("is_update"):
-                    incident = _find_existing_incident(
-                        session,
-                        extracted.get("system_name", ""),
-                        extracted.get("occurred_at"),
-                    )
-
-                if incident:
-                    _apply_update(incident, extracted, received_at)
-                    results["updated_incidents"] += 1
-                else:
-                    incident = Incident(
-                        system_name=extracted.get("system_name", "不明"),
-                        failure_type=extracted.get("failure_type"),
-                        status=extracted.get("status", "発生中"),
-                        occurred_at=_parse_dt(extracted.get("occurred_at")),
-                        closed_at=_parse_dt(extracted.get("closed_at")),
-                        description=extracted.get("description"),
-                        response=extracted.get("response"),
-                        email_subject=subject,
-                        email_received_at=received_at,
-                        email_message_id=message_id,
-                        raw_email_body=body,
-                    )
-                    session.add(incident)
-                    session.flush()
-                    results["new_incidents"] += 1
-                    results["new_incident_ids"].append(incident.id)
-
-                pe = ProcessedEmail(message_id=message_id, incident_id=incident.id)
-                session.add(pe)
-                session.commit()
-
-        except Exception as e:
-            results["errors"].append(f"UID {uid}: {e}")
 
     return results
