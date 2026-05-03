@@ -4,7 +4,8 @@
         reverse_proxy ocr-api:8000
     }
 
-    handle_path /guideline* {
+    route /guideline* {
+        uri strip_prefix /guideline
         reverse_proxy guideline-api:8001
     }
 

@@ -14,7 +14,11 @@ struct ContentView: View {
                     case .uploading:
                         progressView(message: "AIが解析中…")
                     case .reviewing(let items):
-                        ScheduleListView(items: items)
+                        if items.isEmpty {
+                            emptyView
+                        } else {
+                            ScheduleListView(items: items)
+                        }
                     case .saving:
                         progressView(message: "カレンダーに保存中…")
                     case .done(let count):
@@ -77,6 +81,23 @@ struct ContentView: View {
             }
             .buttonStyle(.borderedProminent)
             .padding(.horizontal, 40)
+            Spacer()
+        }
+        .padding()
+    }
+
+    private var emptyView: some View {
+        VStack(spacing: 20) {
+            Spacer()
+            Image(systemName: "calendar.badge.exclamationmark")
+                .font(.system(size: 72))
+                .foregroundStyle(.secondary)
+            Text("スケジュールが見つかりませんでした")
+                .font(.title3)
+                .multilineTextAlignment(.center)
+                .foregroundStyle(.secondary)
+            Button("やり直す") { vm.reset() }
+                .buttonStyle(.borderedProminent)
             Spacer()
         }
         .padding()

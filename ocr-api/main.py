@@ -79,7 +79,10 @@ async def schedule(file: UploadFile = File(...)):
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"Gemini API エラー: {e}")
 
-    raw = response.text
+    try:
+        raw = response.text
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Gemini レスポンス取得エラー: {e}")
     match = re.search(r"```(?:json)?\s*([\s\S]*?)```", raw)
     if not match:
         raise HTTPException(status_code=500, detail=f"JSONブロックが見つかりませんでした: {raw}")
