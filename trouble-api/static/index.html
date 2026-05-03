@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>障害インシデント管理</title>
+<style>
+/* ─── Reset ─────────────────────────────────────────────── */
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif;
+     background:#f1f5f9;color:#1e293b;min-height:100vh;
+     padding-bottom:env(safe-area-inset-bottom)}
+
+/* ─── Variables ──────────────────────────────────────────��� */
+:root{
+  --header-h:54px;
+  --col-発生中:#ef4444; --bg-発生中:#fee2e2;
+  --col-調査中:#d97706; --bg-調査中:#fef3c7;
+  --col-復旧済み:#16a34a;--bg-復旧済み:#dcfce7;
+}
+
+/* ─── Header ────────────────────────────────────────────── */
+header{
+  background:#1e293b;color:#fff;
+  padding:0 16px;
+  height:var(--header-h);
+  display:flex;align-items:center;justify-content:space-between;
+  position:sticky;top:0;z-index:60;
+  box-shadow:0 1px 6px rgba(0,0,0,.35);
+  padding-top:env(safe-area-inset-top);
+}
+header h1{font-size:16px;font-weight:600;letter-spacing:.01em}
+.header-right{display:flex;gap:8px;align-items:center}
+.last-upd{font-size:10px;color:#94a3b8;display:none}
+@media(min-width:640px){.last-upd{display:block}}
+
+/* ─── Buttons ───────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:5px;
+     padding:8px 14px;border:none;border-radius:8px;cursor:pointer;
+     font-size:13px;font-weight:500;transition:opacity .15s;
+     -webkit-tap-highlight-color:transparent;white-space:nowrap}
+.btn:active{opacity:.75}
+.btn:disabled{opacity:.45;pointer-events:none}
+.btn-primary{background:#3b82f6;color:#fff}
+.btn-success{background:#22c55e;color:#fff}
+.btn-danger{background:#ef4444;color:#fff}
+.btn-ghost{background:transparent;color:#94a3b8;border:1px solid #475569}
+.btn-sm{padding:5px 10px;font-size:12px;border-radius:6px}
+.btn-icon{padding:6px 10px;border-radius:8px;font-size:16px}
+
+/* ─── Alert toast ───────────────────────────────────────── */
+#alert-area{
+  position:fixed;top:calc(var(--header-h) + 8px);
+  left:50%;transform:translateX(-50%);
+  z-index:300;display:flex;flex-direction:column;gap:6px;
+  width:min(92vw,400px);pointer-events:none;
+}
+.alert{padding:10px 14px;border-radius:10px;font-size:13px;
+       box-shadow:0 3px 12px rgba(0,0,0,.18);
+       animation:slideDown .2s ease;pointer-events:auto}
+@keyframes slideDown{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
+.alert-success{background:#dcfce7;color:#15803d;border:1px solid #bbf7d0}
+.alert-error  {background:#fee2e2;color:#b91c1c;border:1px solid #fecaca}
+
+/* ─── Summary cards ─────────────────────────────────────── */
+.summary{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:8px;padding:12px 12px 0;
+}
+@media(max-width:479px){
+  .summary{grid-template-columns:repeat(2,1fr)}
+}
+.card{
+  background:#fff;border-radius:10px;padding:10px 12px;
+  border-left:4px solid #cbd5e1;cursor:pointer;
+  transition:box-shadow .15s;-webkit-tap-highlight-color:transparent;
+}
+.card:active{box-shadow:0 0 0 2px rgba(59,130,246,.4)}
+.card .cnt{font-size:22px;font-weight:700;line-height:1}
+.card .lbl{font-size:10px;color:#64748b;margin-top:2px;white-space:nowrap}
+.card-total    {border-color:#94a3b8}
+.card-発生中   {border-color:var(--col-発生中)} .card-発生中   .cnt{color:var(--col-発生中)}
+.card-調査中   {border-color:var(--col-調査中)} .card-調査中   .cnt{color:var(--col-調査中)}
+.card-復旧済み {border-color:var(--col-復旧済み)}.card-復旧済み .cnt{color:var(--col-復旧済み)}
+
+/* ─── Badge ─────────────────────────────────────────────── */
+.badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap}
+.badge-発生中  {background:var(--bg-発生中)  ;color:var(--col-発生中)}
+.badge-調査中  {background:var(--bg-調査中)  ;color:var(--col-調査中)}
+.badge-復旧済み{background:var(--bg-復旧済み);color:var(--col-復旧済み)}
+
+/* ─── Filter bar ────────────────────────────────────────── */
+.filter-bar{
+  display:flex;align-items:center;gap:6px;
+  padding:10px 12px;background:#fff;
+  border-top:1px solid #e2e8f0;border-bottom:1px solid #e2e8f0;
+  margin-top:10px;overflow-x:auto;-webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.filter-bar::-webkit-scrollbar{display:none}
+.filter-bar input,.filter-bar select{
+  padding:7px 10px;border:1px solid #cbd5e1;border-radius:8px;
+  font-size:13px;color:#1e293b;background:#fff;
+  min-height:36px;flex-shrink:0;
+}
+.filter-bar input[type=text]{width:160px}
+.filter-bar select{width:130px}
+.filter-bar input[type=date]{width:130px;font-size:12px}
+.sep{color:#cbd5e1;flex-shrink:0}
+
+/* ─── Mobile: filter toggle ─────────────────────────────── */
+.filter-toggle-row{
+  display:none;
+  padding:8px 12px;background:#fff;
+  border-bottom:1px solid #e2e8f0;margin-top:10px;
+}
+.filter-expandable{
+  display:flex;flex-direction:column;gap:8px;
+  padding:10px 12px;background:#fff;
+  border-bottom:1px solid #e2e8f0;
+}
+.filter-expandable.hidden{display:none}
+.filter-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.filter-expandable input,.filter-expandable select{
+  padding:9px 12px;border:1px solid #cbd5e1;border-radius:8px;
+  font-size:14px;color:#1e293b;background:#fff;
+  min-height:44px;flex:1;min-width:120px;
+}
+.filter-expandable select{max-width:160px}
+
+@media(max-width:639px){
+  .filter-bar{display:none}
+  .filter-toggle-row{display:flex;justify-content:space-between;align-items:center}
+}
+
+/* ─── Desktop: table ─────────────────────────────────────── */
+.table-wrap{padding:12px}
+.tscroll{overflow-x:auto;border-radius:10px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+table{width:100%;border-collapse:collapse;background:#fff;font-size:13px}
+thead{background:#f8fafc}
+th{padding:9px 12px;text-align:left;font-size:10px;font-weight:600;color:#64748b;
+   text-transform:uppercase;letter-spacing:.06em;
+   border-bottom:1px solid #e2e8f0;white-space:nowrap}
+td{padding:9px 12px;border-bottom:1px solid #f1f5f9;vertical-align:middle}
+tr:last-child td{border-bottom:none}
+tbody tr:hover td{background:#f8fafc}
+.col-id{color:#94a3b8;font-size:11px;width:40px}
+.sys{font-weight:500}.stype{font-size:11px;color:#64748b;margin-top:1px}
+.col-subj{max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#64748b;font-size:11px}
+.col-dt{font-size:11px;color:#475569;white-space:nowrap}
+.acts{display:flex;gap:4px}
+@media(max-width:639px){.table-wrap{display:none}}
+
+/* ─── Mobile: cards ──────────────────────────────────────── */
+#cards{display:none;padding:12px;display:flex;flex-direction:column;gap:10px}
+@media(min-width:640px){#cards{display:none !important}}
+
+.inc-card{
+  background:#fff;border-radius:12px;overflow:hidden;
+  box-shadow:0 1px 4px rgba(0,0,0,.08);
+  border-left:4px solid #cbd5e1;
+  transition:box-shadow .15s;
+}
+.inc-card.st-発生中  {border-color:var(--col-発生中)}
+.inc-card.st-調査中  {border-color:var(--col-調査中)}
+.inc-card.st-復旧済み{border-color:var(--col-復旧済み)}
+
+.card-top{
+  padding:12px 14px 8px;
+  display:flex;justify-content:space-between;align-items:flex-start;gap:8px;
+}
+.card-sys{font-size:15px;font-weight:600;line-height:1.3;flex:1}
+.card-body{padding:0 14px 8px;font-size:12px;color:#64748b;line-height:1.5}
+.card-meta{
+  display:grid;grid-template-columns:1fr 1fr;gap:4px;
+  padding:8px 14px;border-top:1px solid #f1f5f9;
+  font-size:11px;color:#94a3b8;
+}
+.card-meta .mk{font-weight:600;color:#64748b}
+.card-actions{
+  display:flex;gap:0;border-top:1px solid #f1f5f9;
+}
+.card-actions .btn{
+  flex:1;border-radius:0;padding:11px 0;font-size:13px;
+  border-right:1px solid #f1f5f9;
+}
+.card-actions .btn:last-child{border-right:none}
+
+/* ─── Pagination ─────────────────────────────────────────── */
+.pagination{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:10px 12px 16px;
+}
+.page-info{font-size:12px;color:#64748b}
+.page-btns{display:flex;gap:6px}
+@media(max-width:479px){
+  .pagination{flex-direction:column;gap:8px;align-items:center}
+  .page-btns .btn{min-width:100px;justify-content:center}
+}
+
+/* ─── Modals ─────────────────────────────────────────────── */
+.overlay{
+  display:none;position:fixed;inset:0;
+  background:rgba(0,0,0,.5);z-index:100;
+  align-items:center;justify-content:center;
+}
+.overlay.open{display:flex}
+.modal{
+  background:#fff;border-radius:12px;
+  width:90%;max-width:680px;max-height:90vh;
+  overflow-y:auto;display:flex;flex-direction:column;
+}
+.modal-sm{max-width:420px}
+
+/* Mobile: bottom sheet */
+@media(max-width:639px){
+  .overlay{align-items:flex-end}
+  .modal{
+    width:100%;max-width:100%;border-radius:18px 18px 0 0;
+    max-height:92vh;
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  .modal::before{
+    content:'';display:block;width:36px;height:4px;
+    background:#cbd5e1;border-radius:2px;
+    margin:10px auto 0;flex-shrink:0;
+  }
+}
+
+.mh{
+  padding:14px 18px 12px;border-bottom:1px solid #e2e8f0;
+  display:flex;justify-content:space-between;align-items:center;
+  flex-shrink:0;position:sticky;top:0;background:#fff;z-index:10;
+}
+.mh h2{font-size:15px;font-weight:600}
+.mclose{
+  background:none;border:none;width:28px;height:28px;
+  border-radius:50%;cursor:pointer;color:#94a3b8;
+  font-size:18px;display:flex;align-items:center;justify-content:center;
+  -webkit-tap-highlight-color:transparent;
+}
+.mclose:active{background:#f1f5f9}
+.mb{padding:16px 18px;flex:1}
+.mf{
+  padding:12px 18px;border-top:1px solid #e2e8f0;
+  display:flex;justify-content:flex-end;gap:8px;
+  flex-shrink:0;position:sticky;bottom:0;background:#fff;
+}
+@media(max-width:639px){
+  .mf{padding:10px 14px}
+  .mf .btn{flex:1;justify-content:center;min-height:44px}
+}
+
+/* ─── Form ───────────────────────────────────────────────── */
+.fg{margin-bottom:14px}
+.fg label{display:block;font-size:11px;font-weight:600;color:#475569;
+          margin-bottom:4px;text-transform:uppercase;letter-spacing:.04em}
+.fg input,.fg select,.fg textarea{
+  width:100%;padding:9px 12px;border:1px solid #cbd5e1;border-radius:8px;
+  font-size:14px;font-family:inherit;color:#1e293b;
+  min-height:44px;-webkit-appearance:none;
+}
+.fg textarea{resize:vertical;min-height:90px;line-height:1.55;min-height:auto}
+.fg input:focus,.fg select:focus,.fg textarea:focus{
+  outline:none;border-color:#3b82f6;
+  box-shadow:0 0 0 3px rgba(59,130,246,.15);
+}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:479px){.form-row{grid-template-columns:1fr}}
+
+/* ─── Detail view ────────────────────────────────────────── */
+.dg{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px}
+@media(max-width:479px){.dg{grid-template-columns:1fr}}
+.df .dl{font-size:10px;font-weight:600;color:#94a3b8;
+        text-transform:uppercase;letter-spacing:.05em;margin-bottom:3px}
+.df .dv{font-size:13px;line-height:1.5;word-break:break-word}
+.df-full{margin-bottom:12px}
+.df-full .dl{font-size:10px;font-weight:600;color:#94a3b8;
+             text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px}
+.pre-box{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;
+         padding:10px 12px;font-size:12px;line-height:1.65;
+         white-space:pre-wrap;word-break:break-word;max-height:180px;overflow-y:auto}
+.raw-box{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;
+         padding:10px 12px;font-size:11px;font-family:monospace;line-height:1.55;
+         white-space:pre-wrap;word-break:break-all;max-height:160px;overflow-y:auto}
+
+/* ─── Loading / empty ────────────────────────────────────── */
+.loading,.empty-state{text-align:center;padding:40px;color:#94a3b8;font-size:13px}
+.spin{display:inline-block;width:18px;height:18px;border:2px solid #e2e8f0;
+      border-top-color:#3b82f6;border-radius:50%;
+      animation:spin .7s linear infinite;vertical-align:middle;margin-right:6px}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<!-- ── Header ───────────────────────────────────────────── -->
+<header>
+  <h1>🔧 障害インシデント管理</h1>
+  <div class="header-right">
+    <span class="last-upd" id="last-upd"></span>
+    <button class="btn btn-success" id="sync-btn" onclick="doSync()">📥 同期</button>
+  </div>
+</header>
+
+<div id="alert-area"></div>
+
+<!-- ── Summary ──────────────────────────────────────────── -->
+<div class="summary" style="margin-top:12px">
+  <div class="card card-total"    onclick="filterByStatus('')">      <div class="cnt" id="c-total">—</div>   <div class="lbl">全件</div></div>
+  <div class="card card-発生中"   onclick="filterByStatus('発生中')"> <div class="cnt" id="c-発生中">—</div>  <div class="lbl">発生中</div></div>
+  <div class="card card-調査中"   onclick="filterByStatus('調査中')"> <div class="cnt" id="c-調査中">—</div>  <div class="lbl">調査中</div></div>
+  <div class="card card-復旧済み" onclick="filterByStatus('復旧済み')"><div class="cnt" id="c-復旧済み">—</div><div class="lbl">復旧済み</div></div>
+</div>
+
+<!-- ── Filters: Desktop ─────────────────────────────────── -->
+<div class="filter-bar">
+  <input type="text"  id="fd-system" placeholder="システム名" onkeydown="if(event.key==='Enter')doSearch()">
+  <select id="fd-status" onchange="doSearch()">
+    <option value="">すべてのステータス</option>
+    <option>発生中</option><option>調査中</option><option>復旧済み</option><option>クローズ</option>
+  </select>
+  <input type="date" id="fd-from" onchange="doSearch()">
+  <span class="sep">〜</span>
+  <input type="date" id="fd-to"   onchange="doSearch()">
+  <button class="btn btn-primary" onclick="doSearch()">検索</button>
+  <button class="btn btn-ghost"   onclick="clearSearch()">クリア</button>
+</div>
+
+<!-- ── Filters: Mobile toggle ───────────────────────────── -->
+<div class="filter-toggle-row">
+  <span style="font-size:13px;font-weight:500;color:#475569">インシデント一覧</span>
+  <button class="btn btn-ghost btn-sm" id="filter-toggle-btn" onclick="toggleFilter()">🔍 絞込み</button>
+</div>
+<div class="filter-expandable hidden" id="filter-expandable">
+  <div class="filter-row">
+    <input type="text" id="fm-system" placeholder="システム名で絞込み" onkeydown="if(event.key==='Enter')doSearch()">
+    <select id="fm-status" onchange="doSearch()">
+      <option value="">すべてのステータス</option>
+      <option>発生中</option><option>調査中</option><option>復旧済み</option>
+    </select>
+  </div>
+  <div class="filter-row">
+    <input type="date" id="fm-from" onchange="doSearch()" style="flex:1">
+    <span style="color:#94a3b8;align-self:center">〜</span>
+    <input type="date" id="fm-to"   onchange="doSearch()" style="flex:1">
+  </div>
+  <div class="filter-row">
+    <button class="btn btn-primary" style="flex:1;min-height:44px" onclick="doSearch()">検索</button>
+    <button class="btn btn-ghost"   style="flex:1;min-height:44px" onclick="clearSearch()">クリア</button>
+  </div>
+</div>
+
+<!-- ── Desktop: table ───────────────────────────────────── -->
+<div class="table-wrap">
+  <div class="tscroll">
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th><th>システム名 / 障害種別</th><th>ステータス</th>
+          <th>発生日時</th><th>クローズ日時</th><th>件名</th><th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr><td colspan="7" class="loading"><span class="spin"></span>読み込み中...</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ── Mobile: cards ─────────────────────────────────────── -->
+<div id="cards">
+  <div class="loading"><span class="spin"></span>読み込み中...</div>
+</div>
+
+<!-- ── Pagination ────────────────────────────────────────── -->
+<div class="pagination">
+  <div class="page-info" id="page-info"></div>
+  <div class="page-btns">
+    <button class="btn btn-ghost btn-sm" id="btn-prev" onclick="changePage(-1)">◀ 前へ</button>
+    <button class="btn btn-ghost btn-sm" id="btn-next" onclick="changePage(1)">次へ ▶</button>
+  </div>
+</div>
+
+<!-- ══ Detail Modal ═══════════════════════════════════════ -->
+<div class="overlay" id="ov-detail">
+  <div class="modal">
+    <div class="mh">
+      <h2 id="detail-h">詳細</h2>
+      <button class="mclose" onclick="closeOv('ov-detail')">×</button>
+    </div>
+    <div class="mb" id="detail-body"></div>
+    <div class="mf">
+      <button class="btn btn-ghost"    onclick="closeOv('ov-detail')">閉じる</button>
+      <button class="btn btn-primary"  id="detail-edit-btn">✏️ 編集</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══ Edit Modal ═════════════════════════════════════════ -->
+<div class="overlay" id="ov-edit">
+  <div class="modal">
+    <div class="mh">
+      <h2 id="edit-h">編集</h2>
+      <button class="mclose" onclick="closeOv('ov-edit')">×</button>
+    </div>
+    <div class="mb">
+      <input type="hidden" id="e-id">
+      <div class="form-row">
+        <div class="fg"><label>システム名</label><input type="text" id="e-system_name"></div>
+        <div class="fg"><label>障害種別</label>  <input type="text" id="e-failure_type"></div>
+      </div>
+      <div class="fg" style="max-width:220px">
+        <label>ステータス</label>
+        <select id="e-status">
+          <option>発生中</option><option>調査中</option><option>復旧済み</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <div class="fg"><label>発生日時（JST）</label>  <input type="datetime-local" id="e-occurred_at"></div>
+        <div class="fg"><label>クローズ日時（JST）</label><input type="datetime-local" id="e-closed_at"></div>
+      </div>
+      <div class="fg"><label>障害詳細</label>  <textarea id="e-description" rows="4"></textarea></div>
+      <div class="fg"><label>対応内容</label>  <textarea id="e-response"    rows="5"></textarea></div>
+    </div>
+    <div class="mf">
+      <button class="btn btn-ghost"   onclick="closeOv('ov-edit')">キャンセル</button>
+      <button class="btn btn-primary" onclick="saveEdit()">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══ Delete Confirm Modal ═══════════════════════════════ -->
+<div class="overlay" id="ov-del">
+  <div class="modal modal-sm">
+    <div class="mh">
+      <h2>削除の確認</h2>
+      <button class="mclose" onclick="closeOv('ov-del')">×</button>
+    </div>
+    <div class="mb">
+      <p style="font-size:14px;line-height:1.7;color:#475569">このインシデントを削除します。<br>この操作は<strong>取り消せません</strong>。</p>
+      <div id="del-info" style="margin-top:12px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:10px 14px;font-size:13px"></div>
+    </div>
+    <div class="mf">
+      <button class="btn btn-ghost"  onclick="closeOv('ov-del')">キャンセル</button>
+      <button class="btn btn-danger" onclick="confirmDel()">🗑 削除する</button>
+    </div>
+  </div>
+</div>
+
+<script>
+'use strict';
+const PAGE_SIZE = 20;
+let page = 0, filters = {}, delId = null;
+const isMobile = () => window.innerWidth < 640;
+
+/* ─── Utils ─────────────────────────────────────────────── */
+function esc(s){
+  return String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function fmtDt(iso, short=false){
+  if(!iso) return '—';
+  const d = new Date(iso);
+  if(short) return d.toLocaleString('ja-JP',{
+    month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Tokyo'
+  });
+  return d.toLocaleString('ja-JP',{
+    year:'numeric',month:'2-digit',day:'2-digit',
+    hour:'2-digit',minute:'2-digit',timeZone:'Asia/Tokyo'
+  });
+}
+function toLocalInput(iso){
+  if(!iso) return '';
+  const jst = new Date(new Date(iso).getTime() + 9*3600000);
+  return jst.toISOString().slice(0,16);
+}
+function toISO(s){ return s ? s+':00+09:00' : null; }
+
+/* ─── Overlay ───────────────────────────────────────────── */
+function openOv(id){ document.getElementById(id).classList.add('open'); }
+function closeOv(id){ document.getElementById(id).classList.remove('open'); }
+document.querySelectorAll('.overlay').forEach(el=>{
+  el.addEventListener('click', e=>{ if(e.target===el) el.classList.remove('open'); });
+});
+
+/* ─── Alert ─────────────────────────────────────────────── */
+function toast(type, msg, dur=5000){
+  const area = document.getElementById('alert-area');
+  const d = document.createElement('div');
+  d.className = `alert alert-${type}`;
+  d.textContent = msg;
+  area.appendChild(d);
+  setTimeout(()=>d.remove(), dur);
+}
+
+/* ─── Filter toggle (mobile) ────────────────────────────── */
+let filterOpen = false;
+function toggleFilter(){
+  filterOpen = !filterOpen;
+  document.getElementById('filter-expandable').classList.toggle('hidden',!filterOpen);
+  document.getElementById('filter-toggle-btn').textContent = filterOpen ? '✕ 閉じる' : '🔍 絞込み';
+}
+
+/* ─── Summary ───────────────────────────────────────────── */
+async function loadSummary(){
+  try{
+    const data = await fetch('summary').then(r=>r.json());
+    const c = {発生中:0,調査中:0,復旧済み:0};
+    let total = 0;
+    for(const row of data){ c[row.status]=(c[row.status]||0)+row.count; total+=row.count; }
+    document.getElementById('c-total').textContent = total;
+    ['発生中','調査中','復旧済み'].forEach(s=>{
+      document.getElementById(`c-${s}`).textContent = c[s]||0;
+    });
+    document.getElementById('last-upd').textContent =
+      '更新: '+new Date().toLocaleTimeString('ja-JP');
+  }catch(e){ console.warn(e); }
+}
+
+/* ─── Build query ───────────────────────────────────────── */
+function buildQS(){
+  const p = new URLSearchParams();
+  if(filters.system_name) p.set('system_name',filters.system_name);
+  if(filters.status)      p.set('status',filters.status);
+  if(filters.from_date)   p.set('from_date',filters.from_date);
+  if(filters.to_date)     p.set('to_date',filters.to_date);
+  p.set('limit',PAGE_SIZE); p.set('offset',page*PAGE_SIZE);
+  return p.toString();
+}
+
+/* ─── Load incidents ────────────────────────────────────── */
+async function loadIncidents(){
+  const tbody  = document.getElementById('tbody');
+  const cardsEl= document.getElementById('cards');
+  const loadHtml = '<span class="spin"></span>読み込み中...';
+  tbody.innerHTML  = `<tr><td colspan="7" class="loading">${loadHtml}</td></tr>`;
+  cardsEl.innerHTML= `<div class="loading">${loadHtml}</div>`;
+
+  try{
+    const rows = await fetch(`incidents?${buildQS()}`).then(r=>r.json());
+    if(!rows.length){
+      tbody.innerHTML  = '<tr><td colspan="7" class="empty-state">インシデントが見つかりません</td></tr>';
+      cardsEl.innerHTML= '<div class="empty-state">インシデントが見つかりません</div>';
+      setPagination(0); return;
+    }
+
+    /* Desktop table rows */
+    tbody.innerHTML = rows.map(r=>`
+      <tr>
+        <td class="col-id">#${r.id}</td>
+        <td><div class="sys">${esc(r.system_name)}</div><div class="stype">${esc(r.failure_type||'—')}</div></td>
+        <td><span class="badge badge-${esc(r.status)}">${esc(r.status)}</span></td>
+        <td class="col-dt">${fmtDt(r.occurred_at)}</td>
+        <td class="col-dt">${fmtDt(r.closed_at)}</td>
+        <td><div class="col-subj" title="${esc(r.email_subject)}">${esc(r.email_subject||'—')}</div></td>
+        <td>
+          <div class="acts">
+            <button class="btn btn-ghost btn-sm"   data-id="${r.id}" onclick="showDetail(this.dataset.id)">詳細</button>
+            <button class="btn btn-primary btn-sm" data-id="${r.id}" onclick="openEditById(this.dataset.id)">編集</button>
+            <button class="btn btn-danger btn-sm"  data-id="${r.id}" data-name="${esc(r.system_name)}" onclick="openDel(this.dataset.id,this.dataset.name)">削除</button>
+          </div>
+        </td>
+      </tr>`).join('');
+
+    /* Mobile cards */
+    cardsEl.innerHTML = rows.map(r=>`
+      <div class="inc-card st-${esc(r.status)}">
+        <div class="card-top">
+          <div class="card-sys">${esc(r.system_name)}</div>
+          <span class="badge badge-${esc(r.status)}">${esc(r.status)}</span>
+        </div>
+        <div class="card-body">
+          ${r.failure_type ? `<span>${esc(r.failure_type)}</span><br>` : ''}
+          ${r.email_subject ? `<span style="color:#94a3b8;font-size:11px">${esc(r.email_subject)}</span>` : ''}
+        </div>
+        <div class="card-meta">
+          <div><span class="mk">発生</span><br>${fmtDt(r.occurred_at,true)}</div>
+          <div><span class="mk">クローズ</span><br>${fmtDt(r.closed_at,true)}</div>
+        </div>
+        <div class="card-actions">
+          <button class="btn btn-ghost"   data-id="${r.id}" onclick="showDetail(this.dataset.id)">📋 詳細</button>
+          <button class="btn btn-primary" data-id="${r.id}" onclick="openEditById(this.dataset.id)">✏️ 編集</button>
+          <button class="btn btn-danger"  data-id="${r.id}" data-name="${esc(r.system_name)}" onclick="openDel(this.dataset.id,this.dataset.name)">🗑</button>
+        </div>
+      </div>`).join('');
+
+    setPagination(rows.length);
+  }catch(e){
+    const msg = `<div class="empty-state">読み込みエラー: ${esc(e.message)}</div>`;
+    tbody.innerHTML  = `<tr><td colspan="7">${msg}</td></tr>`;
+    cardsEl.innerHTML= msg;
+  }
+}
+
+function setPagination(count){
+  const start = page*PAGE_SIZE+1, end = page*PAGE_SIZE+count;
+  document.getElementById('page-info').textContent = count ? `${start}〜${end} 件` : '0件';
+  document.getElementById('btn-prev').disabled = page===0;
+  document.getElementById('btn-next').disabled = count<PAGE_SIZE;
+}
+function changePage(dir){ page=Math.max(0,page+dir); loadIncidents(); }
+
+/* ─── Search / filter ───────────────────────────────────── */
+function doSearch(){
+  page = 0;
+  const mobile = isMobile();
+  const sys    = document.getElementById(mobile?'fm-system':'fd-system').value.trim();
+  const status = document.getElementById(mobile?'fm-status':'fd-status').value;
+  const from   = document.getElementById(mobile?'fm-from':'fd-from').value;
+  const to     = document.getElementById(mobile?'fm-to':'fd-to').value;
+  filters = {
+    system_name: sys,
+    status,
+    from_date: from ? from+'T00:00:00' : '',
+    to_date:   to   ? to  +'T23:59:59' : '',
+  };
+  loadIncidents();
+}
+
+function clearSearch(){
+  ['fd-system','fd-status','fd-from','fd-to','fm-system','fm-status','fm-from','fm-to'].forEach(id=>{
+    const el = document.getElementById(id);
+    if(el) el.value='';
+  });
+  filters={}; page=0; loadIncidents();
+}
+
+function filterByStatus(s){
+  // Sync filter UI
+  ['fd-status','fm-status'].forEach(id=>{
+    const el=document.getElementById(id); if(el) el.value=s;
+  });
+  filters={...filters,status:s}; page=0; loadIncidents();
+}
+
+/* ─── Detail ────────────────────────────────────────────── */
+async function showDetail(id){
+  try{
+    const r = await fetch(`incidents/${id}`).then(res=>res.json());
+    document.getElementById('detail-h').textContent = `インシデント #${r.id}`;
+    document.getElementById('detail-edit-btn').onclick = ()=>{ closeOv('ov-detail'); openEdit(r); };
+    document.getElementById('detail-body').innerHTML = `
+      <div class="dg">
+        <div class="df"><div class="dl">システム名</div><div class="dv">${esc(r.system_name)}</div></div>
+        <div class="df"><div class="dl">障害種別</div><div class="dv">${esc(r.failure_type||'—')}</div></div>
+        <div class="df"><div class="dl">ステータス</div><div class="dv"><span class="badge badge-${esc(r.status)}">${esc(r.status)}</span></div></div>
+        <div class="df"><div class="dl">件名</div><div class="dv" style="font-size:12px">${esc(r.email_subject||'—')}</div></div>
+        <div class="df"><div class="dl">発生日時</div><div class="dv">${fmtDt(r.occurred_at)}</div></div>
+        <div class="df"><div class="dl">クローズ日時</div><div class="dv">${fmtDt(r.closed_at)}</div></div>
+        <div class="df"><div class="dl">受信日時</div><div class="dv">${fmtDt(r.email_received_at)}</div></div>
+        <div class="df"><div class="dl">登録 / 更新</div><div class="dv" style="font-size:11px">${fmtDt(r.created_at)}<br><span style="color:#94a3b8">${fmtDt(r.updated_at)}</span></div></div>
+      </div>
+      <div class="df-full"><div class="dl">障害詳細</div><div class="pre-box">${esc(r.description||'—')}</div></div>
+      <div class="df-full"><div class="dl">対応内容</div><div class="pre-box">${esc(r.response||'—')}</div></div>
+      <div class="df-full"><div class="dl">元メール本文</div><div class="raw-box">${esc(r.raw_email_body||'—')}</div></div>`;
+    openOv('ov-detail');
+  }catch(e){ toast('error',`詳細取得エラー: ${e.message}`); }
+}
+
+/* ─── Edit ──────────────────────────────────────────────── */
+async function openEditById(id){
+  try{
+    const r = await fetch(`incidents/${id}`).then(res=>res.json());
+    openEdit(r);
+  }catch(e){ toast('error',`取得エラー: ${e.message}`); }
+}
+function openEdit(r){
+  document.getElementById('e-id').value           = r.id;
+  document.getElementById('edit-h').textContent   = `#${r.id} 編集`;
+  document.getElementById('e-system_name').value  = r.system_name||'';
+  document.getElementById('e-failure_type').value = r.failure_type||'';
+  document.getElementById('e-status').value       = r.status||'発生中';
+  document.getElementById('e-occurred_at').value  = toLocalInput(r.occurred_at);
+  document.getElementById('e-closed_at').value    = toLocalInput(r.closed_at);
+  document.getElementById('e-description').value  = r.description||'';
+  document.getElementById('e-response').value     = r.response||'';
+  openOv('ov-edit');
+}
+async function saveEdit(){
+  const id = document.getElementById('e-id').value;
+  const body = {
+    system_name:  document.getElementById('e-system_name').value.trim()||null,
+    failure_type: document.getElementById('e-failure_type').value.trim()||null,
+    status:       document.getElementById('e-status').value,
+    occurred_at:  toISO(document.getElementById('e-occurred_at').value),
+    closed_at:    toISO(document.getElementById('e-closed_at').value),
+    description:  document.getElementById('e-description').value.trim()||null,
+    response:     document.getElementById('e-response').value.trim()||null,
+  };
+  try{
+    const r = await fetch(`incidents/${id}`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    if(!r.ok){ const e=await r.json(); throw new Error(e.detail||r.status); }
+    closeOv('ov-edit');
+    toast('success',`#${id} を更新しました`);
+    loadIncidents(); loadSummary();
+  }catch(e){ toast('error',`保存エラー: ${e.message}`); }
+}
+
+/* ─── Delete ────────────────────────────────────────────── */
+function openDel(id, name){
+  delId=id;
+  document.getElementById('del-info').innerHTML = `<strong>#${esc(id)}</strong>　${esc(name)}`;
+  openOv('ov-del');
+}
+async function confirmDel(){
+  try{
+    const r = await fetch(`incidents/${delId}`,{method:'DELETE'});
+    if(!r.ok && r.status!==204) throw new Error(r.status);
+    closeOv('ov-del');
+    toast('success',`#${delId} を削除しました`);
+    delId=null; loadIncidents(); loadSummary();
+  }catch(e){ toast('error',`削除エラー: ${e.message}`); }
+}
+
+/* ─── Sync ──────────────────────────────────────────────── */
+async function doSync(){
+  const btn=document.getElementById('sync-btn');
+  btn.disabled=true;
+  btn.innerHTML='<span class="spin" style="width:12px;height:12px;border-width:2px"></span> 同期中...';
+  try{
+    const res=await fetch('sync',{method:'POST'});
+    const {new_incidents:n,updated_incidents:u,skipped:s,errors:errs}=await res.json();
+    if(errs&&errs.length){
+      toast('error',`同期完了（エラーあり）: 新規${n}件 更新${u}件 | ${errs[0]}`,8000);
+    }else{
+      toast('success',`同期完了: 新規 ${n}件、更新 ${u}件、スキップ ${s}件`);
+    }
+    if(n>0||u>0){ loadIncidents(); loadSummary(); }
+  }catch(e){ toast('error',`同期エラー: ${e.message}`); }
+  finally{
+    btn.disabled=false;
+    btn.innerHTML='📥 同期';
+  }
+}
+
+/* ─── Init ──────────────────────────────────────────────── */
+loadSummary();
+loadIncidents();
+const _qid = new URLSearchParams(location.search).get('id');
+if(_qid) showDetail(_qid);
+</script>
+</body>
+</html>

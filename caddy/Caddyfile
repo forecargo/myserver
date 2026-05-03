@@ -16,4 +16,9 @@
     route /health {
         reverse_proxy ocr-api:8000
     }
+
+    route /trouble* {
+        uri strip_prefix /trouble
+        reverse_proxy trouble-api:8002
+    }
 }
