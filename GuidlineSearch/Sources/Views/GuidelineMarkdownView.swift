@@ -23,9 +23,10 @@ struct GuidelineMarkdownView: View {
 
     private static let footnoteRefRegex = try! NSRegularExpression(pattern: #"\[\^[^\]]+\]"#)
 
-    private static func stripFootnotes(_ s: String) -> String {
+    private static func normalizeFootnoteRefs(_ s: String) -> String {
         let range = NSRange(s.startIndex..., in: s)
-        return footnoteRefRegex.stringByReplacingMatches(in: s, range: range, withTemplate: "")
+        // Replace [^N] with ※N so the reference position stays visible in body text
+        return footnoteRefRegex.stringByReplacingMatches(in: s, range: range, withTemplate: "※$1")
     }
 
     private var blocks: [Block] {
@@ -40,7 +41,7 @@ struct GuidelineMarkdownView: View {
 
         for raw in text.components(separatedBy: "\n") {
             // Normalize tabs → 4 spaces, strip footnote refs
-            let normalized = Self.stripFootnotes(raw.replacingOccurrences(of: "\t", with: "    "))
+            let normalized = Self.normalizeFootnoteRefs(raw.replacingOccurrences(of: "\t", with: "    "))
             let leadingSpaces = normalized.prefix(while: { $0 == " " }).count
             let indent = leadingSpaces / 4
             let trimmed = normalized.trimmingCharacters(in: .whitespaces)
@@ -65,7 +66,7 @@ struct GuidelineMarkdownView: View {
     // MARK: - Body
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 10) {
+        VStack(alignment: .leading, spacing: 14) {
             ForEach(blocks) { block in
                 switch block.kind {
                 case .paragraph(let s):
@@ -84,25 +85,27 @@ struct GuidelineMarkdownView: View {
 
     @ViewBuilder
     private func listItemView(content: String, indent: Int) -> some View {
-        let isTopLevel = indent == 0
-        let startsWithCircledNum = content.first.map { isCircledNumber($0) } ?? false
-
         HStack(alignment: .top, spacing: 0) {
-            // Bullet / marker column
-            if isTopLevel && startsWithCircledNum {
-                // ①② serves as its own bullet — no extra marker needed
-                Color.clear.frame(width: 0)
+            if let (marker, rest) = extractSpecialMarker(content) {
+                Text(marker)
+                    .font(.system(size: 16))
+                    .foregroundStyle(Color.glOnSurface)
+                    .lineSpacing(5)
+                    .fixedSize(horizontal: true, vertical: false)
+                    .padding(.trailing, 4)
+
+                inlineMarkdown(rest)
+                    .frame(maxWidth: .infinity, alignment: .leading)
             } else {
                 Text("•")
                     .font(.system(size: 13))
                     .foregroundStyle(Color.glOnSurfaceVariant)
                     .frame(width: 16, alignment: .leading)
                     .padding(.top, 3)
-            }
 
-            // Content
-            inlineMarkdown(content)
-                .frame(maxWidth: .infinity, alignment: .leading)
+                inlineMarkdown(content)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+            }
         }
         .padding(.leading, CGFloat(indent) * 16)
     }
@@ -137,5 +140,28 @@ struct GuidelineMarkdownView: View {
         guard let scalar = c.unicodeScalars.first else { return false }
         // ① U+2460 … ⑳ U+2473, also ⑴-⒇, ⒜-⒵ etc.
         return (0x2460...0x24FF).contains(scalar.value)
+    }
+
+    private func extractSpecialMarker(_ content: String) -> (marker: String, rest: String)? {
+        guard let first = content.first else { return nil }
+
+        if isCircledNumber(first) {
+            let afterFirst = content.dropFirst()
+            let rest = afterFirst.hasPrefix(" ")
+                ? String(afterFirst.dropFirst())
+                : String(afterFirst)
+            return (String(first), rest)
+        }
+
+        if first.isASCII && first.isLetter {
+            let afterFirst = content.dropFirst()
+            if afterFirst.hasPrefix(". ") {
+                let marker = String(first) + "."
+                let rest = String(afterFirst.dropFirst(2))
+                return (marker, rest)
+            }
+        }
+
+        return nil
     }
 }

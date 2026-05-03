@@ -8,7 +8,7 @@ struct DetailView: View {
             VStack(alignment: .leading, spacing: Spacing.lg) {
                 // Header
                 VStack(alignment: .leading, spacing: Spacing.sm) {
-                    Text(result.breadcrumb)
+                    Text(stripFootnoteRefs(result.breadcrumb))
                         .font(.system(size: 12))
                         .foregroundStyle(Color.glOnSurfaceVariant)
 
@@ -27,7 +27,7 @@ struct DetailView: View {
                         VStack(alignment: .leading, spacing: Spacing.sm) {
                             ForEach(result.footnotes, id: \.ref) { fn in
                                 HStack(alignment: .top, spacing: Spacing.sm) {
-                                    Text(fn.ref)
+                                    Text("※" + fn.ref.trimmingCharacters(in: .init(charactersIn: "^")))
                                         .font(.system(size: 12, weight: .semibold, design: .monospaced))
                                         .foregroundStyle(Color.glPrimary)
                                         .frame(width: 40, alignment: .leading)
@@ -51,8 +51,16 @@ struct DetailView: View {
         .navigationBarTitleDisplayMode(.inline)
     }
 
+    private static let footnoteRefRegex = try! NSRegularExpression(pattern: #"\[\^[^\]]+\]"#)
+
+    private func stripFootnoteRefs(_ s: String) -> String {
+        let range = NSRange(s.startIndex..., in: s)
+        return Self.footnoteRefRegex.stringByReplacingMatches(in: s, range: range, withTemplate: "")
+    }
+
     private func plainTitle(_ title: String) -> String {
         let parts = title.split(separator: " ", maxSplits: 1)
-        return parts.count > 1 ? String(parts[1]) : title
+        let raw = parts.count > 1 ? String(parts[1]) : title
+        return stripFootnoteRefs(raw)
     }
 }

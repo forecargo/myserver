@@ -188,17 +188,23 @@ ScrollView
 |------|------|
 | `- text`（インデント 0） | 箇条書き（`•` 付き） |
 | `    - text`（4スペース = 1段） | ネスト箇条書き（16pt 左パディング × 段数） |
-| `①②③` など（U+2460〜U+24FF）で始まる項目 | `•` を付けずそのまま表示 |
+| `①②③` など（U+2460〜U+24FF）で始まる項目 | `•` を付けずぶら下げインデント表示 |
+| `a. text`, `b. text` など（ASCII 1文字 + `". "`）で始まる項目 | `•` を付けずぶら下げインデント表示 |
 | `**bold**`, `_italic_` | `AttributedString(markdown:)` でインライン適用 |
 | `[^N]` 脚注参照 | 正規表現で除去（脚注本文は DisclosureGroup に別表示） |
 | 空行 | 段落区切り |
 
+**ぶら下げインデントの仕組み**
+
+`①②③` および `a. b. c.` 形式の項目は `extractSpecialMarker` でマーカー部分（`①` や `a.`）と本文を分離し、HStack でレンダリングする。マーカー側に `.fixedSize(horizontal: true)` を付けることでマーカー幅を確定させ、本文側が残り幅を占有するため、折り返し行が本文開始位置に揃う。
+
 **実装概要**（`GuidelineMarkdownView.swift`）
 
 ```swift
-// 行を Block（paragraph / listItem）に変換し LazyVStack でレンダリング
+// 行を Block（paragraph / listItem）に変換し VStack(spacing: 14) でレンダリング
 // インライン書式は AttributedString(markdown:, options: .inlineOnlyPreservingWhitespace) を使用
 // タブ → 4スペース正規化後に leadingSpaces / 4 でインデント算出
+// extractSpecialMarker() で ①②③ / a. b. c. マーカーを検出してぶら下げ表示
 ```
 
 ### SearchBarView
