@@ -85,7 +85,7 @@
 | `title` | string | 条項タイトル（番号含む） |
 | `text` | string | チャンク本文（全文） |
 | `snippet` | string | 先頭200文字のプレビュー（カード表示用） |
-| `similarity_score` | float | コサイン類似度スコア（0〜100、%表記） |
+| `similarity_score` | float | 関連度スコア（0〜100、%表記）。セマンティック（コサイン類似度）とBM25（character bigram）を50:50で正規化合成した値。降順で返却。 |
 | `requirement_type` | string | `"basic"` \| `"desirable"` \| `"general"` |
 | `breadcrumb` | string | `" > "` 区切りの階層パス |
 | `footnotes` | array | インライン脚注の展開リスト |
@@ -119,12 +119,12 @@
 
 ```
 ガイドラインMD
-    ↓ parser.py
+     ↓ parser.py
 66チャンク（basic:36 / desirable:19 / general:11）
-    ↓ embedder.py（起動時、キャッシュあれば即時）
+     ↓ embedder.py（起動時、キャッシュあれば即時）
 埋め込みベクトル行列 (66 × 3072) ← gemini-embedding-001
-    ↓ searcher.py（クエリ時）
-コサイン類似度 → top-k チャンク返却
+     ↓ searcher.py（クエリ時）
+セマンティック（コサイン類似度）× BM25（character bigram）→ top-k 選択 → 正規化合成スコアで再ソート → 返却
 ```
 
 ### 埋め込みキャッシュ
