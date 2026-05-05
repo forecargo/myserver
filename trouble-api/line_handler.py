@@ -323,6 +323,32 @@ def notify_new_incidents(ids: list[int]) -> None:
         push_messages(target, messages)
 
 
+def notify_updated_incidents(ids: list[int]) -> None:
+    if not ids or not LINE_NOTIFICATION_TARGETS:
+        return
+    with get_session() as session:
+        incidents = [session.get(Incident, i) for i in ids]
+        incidents = [inc for inc in incidents if inc is not None]
+    if not incidents:
+        return
+    messages = _incidents_to_flex(incidents, f"障害ステータス更新 {len(incidents)}件")
+    for target in LINE_NOTIFICATION_TARGETS:
+        push_messages(target, messages)
+
+
+def notify_resolved_incidents(ids: list[int]) -> None:
+    if not ids or not LINE_NOTIFICATION_TARGETS:
+        return
+    with get_session() as session:
+        incidents = [session.get(Incident, i) for i in ids]
+        incidents = [inc for inc in incidents if inc is not None]
+    if not incidents:
+        return
+    messages = _incidents_to_flex(incidents, f"復旧済み障害のお知らせ {len(incidents)}件")
+    for target in LINE_NOTIFICATION_TARGETS:
+        push_messages(target, messages)
+
+
 def send_sample_notification() -> bool:
     if not LINE_NOTIFICATION_TARGETS:
         return False
