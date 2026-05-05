@@ -21,7 +21,7 @@ struct GuidelineMarkdownView: View {
 
     // MARK: - Parsing
 
-    private static let footnoteRefRegex = try! NSRegularExpression(pattern: #"\[\^[^\]]+\]"#)
+    private static let footnoteRefRegex = try! NSRegularExpression(pattern: #"\[\^([^\]]+)\]"#)
 
     private static func normalizeFootnoteRefs(_ s: String) -> String {
         let range = NSRange(s.startIndex..., in: s)
