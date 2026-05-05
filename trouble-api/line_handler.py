@@ -45,13 +45,11 @@ JST = timezone(timedelta(hours=9))
 
 STATUS_COLORS = {
     "発生中": "#DC2626",
-    "調査中": "#D97706",
     "復旧済み": "#16A34A",
 }
 
 STATUS_LIGHT_COLORS = {
     "発生中": "#FEE2E2",
-    "調査中": "#FEF3C7",
     "復旧済み": "#DCFCE7",
 }
 
@@ -274,7 +272,7 @@ def handle_text_event(text: str, reply_token: str) -> None:
         with get_session() as session:
             stmt = (
                 select(Incident)
-                .where(Incident.status.in_(["発生中", "調査中"]))
+                .where(Incident.status == "発生中")
                 .order_by(Incident.email_received_at.desc())
                 .limit(12)
             )

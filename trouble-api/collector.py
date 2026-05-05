@@ -73,7 +73,7 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
     stmt = (
         select(Incident)
         .where(Incident.system_name == system_name)
-        .where(Incident.status.in_(["発生中", "調査中", "復旧済み"]))
+        .where(Incident.status.in_(["発生中", "復旧済み"]))
         .order_by(Incident.created_at.desc())
     )
     candidates = session.execute(stmt).scalars().all()
@@ -97,7 +97,7 @@ def _sanitize_new_incident_status(extracted: dict) -> str:
     status = extracted.get("status", "発生中")
     report_type = extracted.get("report_type", "不明")
     if status == "復旧済み" and report_type != "最終報":
-        return "調査中"
+        return "発生中"
     return status
 
 
@@ -108,7 +108,7 @@ def _apply_update(incident: Incident, extracted: dict, received_at: datetime) ->
     status_changed = False
     if new_status:
         if new_status == "復旧済み" and report_type == "続報":
-            new_status = "調査中"
+            new_status = "発生中"
         if new_status != incident.status:
             status_changed = True
         incident.status = new_status

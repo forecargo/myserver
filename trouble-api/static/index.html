@@ -18,7 +18,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sa
 :root{
   --header-h:54px;
   --col-発生中:#ef4444; --bg-発生中:#fee2e2;
-  --col-調査中:#d97706; --bg-調査中:#fef3c7;
   --col-復旧済み:#16a34a;--bg-復旧済み:#dcfce7;
 }
 
@@ -68,7 +67,7 @@ header h1{font-size:16px;font-weight:600;letter-spacing:.01em}
 /* ─── Summary cards ─────────────────────────────────────── */
 .summary{
   display:grid;
-  grid-template-columns:repeat(4,1fr);
+  grid-template-columns:repeat(3,1fr);
   gap:8px;padding:12px 12px 0;
 }
 @media(max-width:479px){
@@ -84,13 +83,11 @@ header h1{font-size:16px;font-weight:600;letter-spacing:.01em}
 .card .lbl{font-size:10px;color:#64748b;margin-top:2px;white-space:nowrap}
 .card-total    {border-color:#94a3b8}
 .card-発生中   {border-color:var(--col-発生中)} .card-発生中   .cnt{color:var(--col-発生中)}
-.card-調査中   {border-color:var(--col-調査中)} .card-調査中   .cnt{color:var(--col-調査中)}
 .card-復旧済み {border-color:var(--col-復旧済み)}.card-復旧済み .cnt{color:var(--col-復旧済み)}
 
 /* ─── Badge ─────────────────────────────────────────────── */
 .badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap}
 .badge-発生中  {background:var(--bg-発生中)  ;color:var(--col-発生中)}
-.badge-調査中  {background:var(--bg-調査中)  ;color:var(--col-調査中)}
 .badge-復旧済み{background:var(--bg-復旧済み);color:var(--col-復旧済み)}
 
 /* ─── Filter bar ────────────────────────────────────────── */
@@ -166,7 +163,6 @@ tbody tr:hover td{background:#f8fafc}
   transition:box-shadow .15s;
 }
 .inc-card.st-発生中  {border-color:var(--col-発生中)}
-.inc-card.st-調査中  {border-color:var(--col-調査中)}
 .inc-card.st-復旧済み{border-color:var(--col-復旧済み)}
 
 .card-top{
@@ -316,7 +312,6 @@ tbody tr:hover td{background:#f8fafc}
 <div class="summary" style="margin-top:12px">
   <div class="card card-total"    onclick="filterByStatus('')">      <div class="cnt" id="c-total">—</div>   <div class="lbl">全件</div></div>
   <div class="card card-発生中"   onclick="filterByStatus('発生中')"> <div class="cnt" id="c-発生中">—</div>  <div class="lbl">発生中</div></div>
-  <div class="card card-調査中"   onclick="filterByStatus('調査中')"> <div class="cnt" id="c-調査中">—</div>  <div class="lbl">調査中</div></div>
   <div class="card card-復旧済み" onclick="filterByStatus('復旧済み')"><div class="cnt" id="c-復旧済み">—</div><div class="lbl">復旧済み</div></div>
 </div>
 
@@ -325,7 +320,7 @@ tbody tr:hover td{background:#f8fafc}
   <input type="text"  id="fd-system" placeholder="システム名" onkeydown="if(event.key==='Enter')doSearch()">
   <select id="fd-status" onchange="doSearch()">
     <option value="">すべてのステータス</option>
-    <option>発生中</option><option>調査中</option><option>復旧済み</option><option>クローズ</option>
+    <option>発生中</option><option>復旧済み</option>
   </select>
   <input type="date" id="fd-from" onchange="doSearch()">
   <span class="sep">〜</span>
@@ -344,7 +339,7 @@ tbody tr:hover td{background:#f8fafc}
     <input type="text" id="fm-system" placeholder="システム名で絞込み" onkeydown="if(event.key==='Enter')doSearch()">
     <select id="fm-status" onchange="doSearch()">
       <option value="">すべてのステータス</option>
-      <option>発生中</option><option>調査中</option><option>復旧済み</option>
+      <option>発生中</option><option>復旧済み</option>
     </select>
   </div>
   <div class="filter-row">
@@ -420,7 +415,7 @@ tbody tr:hover td{background:#f8fafc}
       <div class="fg" style="max-width:220px">
         <label>ステータス</label>
         <select id="e-status">
-          <option>発生中</option><option>調査中</option><option>復旧済み</option>
+          <option>発生中</option><option>復旧済み</option>
         </select>
       </div>
       <div class="form-row">
@@ -727,11 +722,11 @@ async function loadSummary(){
     const res = await fetch(apiUrl('summary'),{headers:getAuthHeaders()});
     if(!res.ok) throw new Error(`${res.status} ${res.statusText}`);
     const data = await res.json();
-    const c = {発生中:0,調査中:0,復旧済み:0};
+    const c = {発生中:0,復旧済み:0};
     let total = 0;
     for(const row of data){ c[row.status]=(c[row.status]||0)+row.count; total+=row.count; }
     document.getElementById('c-total').textContent = total;
-    ['発生中','調査中','復旧済み'].forEach(s=>{
+    ['発生中','復旧済み'].forEach(s=>{
       document.getElementById(`c-${s}`).textContent = c[s]||0;
     });
     document.getElementById('last-upd').textContent =
