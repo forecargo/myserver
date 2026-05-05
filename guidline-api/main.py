@@ -55,7 +55,7 @@ async def search(req: SearchRequest):
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"Embedding API error: {e}")
 
-    results = searcher.search(query_vec, req.top_k)
+    results = searcher.search(query_vec, req.query, req.top_k)
 
     return SearchResponse(
         results=[
