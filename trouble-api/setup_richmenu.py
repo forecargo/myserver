@@ -7,6 +7,7 @@ Usage:
     python trouble-api/setup_richmenu.py
 """
 import io
+import math
 import os
 import sys
 from pathlib import Path
@@ -28,33 +29,25 @@ TOKEN = os.getenv("LINE_CHANNEL_ACCESS_TOKEN", "")
 if not TOKEN:
     sys.exit("ERROR: LINE_CHANNEL_ACCESS_TOKEN が設定されていません。")
 
+LIFF_ID = os.getenv("LIFF_ID", "")
+LIFF_URL = f"https://liff.line.me/{LIFF_ID}" if LIFF_ID else ""
+
 LINE_API = "https://api.line.me/v2/bot"
 DATA_API = "https://api-data.line.me/v2/bot"
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
-# ── Button definitions ────────────────────────────────────────────────────────
-#   (main_label, sub_label, send_text, bg_color)
-BUTTONS = [
-    ("発生中", "未解決インシデント", "発生中", "#EF4444"),
-    ("一覧",   "全インシデント",   "一覧",   "#3B82F6"),
-    ("同期",   "メール取込",       "同期",   "#F59E0B"),
-    ("ヘルプ", "コマンド一覧",     "ヘルプ", "#22C55E"),
-]
-
-W, H = 2500, 843  # half-height rich menu (LINE recommended)
+W, H = 2500, 843
 CW, CH = W // 2, H // 2
 
 
 # ── Font loader ───────────────────────────────────────────────────────────────
 def _find_font(size: int):
     candidates = [
-        # macOS (Ventura / Sonoma)
         "/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc",
         "/System/Library/Fonts/ヒラギノ角ゴ W6.ttc",
         "/System/Library/Fonts/ヒラギノ角ゴ ProN W6.ttc",
         "/System/Library/Fonts/Supplemental/Hiragino Sans GB.ttc",
         "/Library/Fonts/Osaka.ttf",
-        # Linux
         "/usr/share/fonts/noto/NotoSansCJK-Regular.ttc",
         "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
         "/usr/share/fonts/truetype/noto/NotoSansCJKjp-Regular.otf",
@@ -69,38 +62,139 @@ def _find_font(size: int):
     return None
 
 
+# ── Icon drawing helpers ──────────────────────────────────────────────────────
+def _draw_arrowhead(draw, tip_x, tip_y, dir_x, dir_y, size, color):
+    length = math.hypot(dir_x, dir_y)
+    if length == 0:
+        return
+    dx, dy = dir_x / length, dir_y / length
+    px, py = -dy, dx
+    wing = size * 0.48
+    bx = tip_x - dx * size
+    by = tip_y - dy * size
+    pts = [
+        (int(tip_x), int(tip_y)),
+        (int(bx + px * wing), int(by + py * wing)),
+        (int(bx - px * wing), int(by - py * wing)),
+    ]
+    draw.polygon(pts, fill=color)
+
+
+def _draw_warning(draw, cx, cy, icon_r, color, font):
+    pts = [
+        (cx, int(cy - icon_r)),
+        (int(cx - icon_r * 0.92), int(cy + icon_r * 0.62)),
+        (int(cx + icon_r * 0.92), int(cy + icon_r * 0.62)),
+    ]
+    draw.polygon(pts, fill=color)
+    if font:
+        bb = draw.textbbox((0, 0), "!", font=font)
+        tw, th = bb[2] - bb[0], bb[3] - bb[1]
+        draw.text((int(cx - tw // 2), int(cy - th // 2 + icon_r * 0.08)), "!", fill="#FFFFFF", font=font)
+    else:
+        bw = max(6, icon_r // 7)
+        draw.rectangle([cx - bw//2, cy - icon_r//3, cx + bw//2, cy + icon_r//5], fill="#FFFFFF")
+        dr = bw
+        draw.ellipse([cx - dr, cy + icon_r//4, cx + dr, cy + icon_r//4 + dr * 2], fill="#FFFFFF")
+
+
+def _draw_list(draw, cx, cy, icon_r, color):
+    lw = max(5, icon_r // 10)
+    pad = icon_r // 6
+    x0, y0 = cx - icon_r + pad, cy - icon_r + pad
+    x1, y1 = cx + icon_r - pad, cy + icon_r - pad
+    try:
+        draw.rounded_rectangle([x0, y0, x1, y1], radius=max(4, icon_r // 8), outline=color, width=lw)
+    except AttributeError:
+        draw.rectangle([x0, y0, x1, y1], outline=color, width=lw)
+    inner_h = y1 - y0
+    for i in (1, 2, 3):
+        hy = y0 + i * inner_h // 4
+        draw.line([x0 + lw, hy, x1 - lw, hy], fill=color, width=lw)
+    vx = x0 + (x1 - x0) // 3
+    draw.line([vx, y0 + lw, vx, y1 - lw], fill=color, width=lw)
+
+
+def _draw_sync(draw, cx, cy, icon_r, color):
+    lw = max(7, icon_r // 7)
+    bbox = [cx - icon_r, cy - icon_r, cx + icon_r, cy + icon_r]
+    draw.arc(bbox, start=200, end=340, fill=color, width=lw)
+    draw.arc(bbox, start=20,  end=160, fill=color, width=lw)
+    ar = lw * 2
+    for angle in (340, 160):
+        t = math.radians(angle)
+        ax = cx + icon_r * math.cos(t)
+        ay = cy + icon_r * math.sin(t)
+        _draw_arrowhead(draw, ax, ay, -math.sin(t), math.cos(t), ar, color)
+
+
+def _draw_help(draw, cx, cy, icon_r, color, font):
+    lw = max(7, icon_r // 8)
+    m = lw // 2
+    draw.ellipse([cx - icon_r + m, cy - icon_r + m, cx + icon_r - m, cy + icon_r - m],
+                 outline=color, width=lw)
+    if font:
+        bb = draw.textbbox((0, 0), "?", font=font)
+        tw, th = bb[2] - bb[0], bb[3] - bb[1]
+        draw.text((int(cx - tw // 2), int(cy - th // 2 - th // 10)), "?", fill=color, font=font)
+
+
 # ── Image generator ───────────────────────────────────────────────────────────
 def make_image() -> bytes:
-    img = Image.new("RGB", (W, H), "#111827")
+    img = Image.new("RGB", (W, H), "#FFFFFF")
     draw = ImageDraw.Draw(img)
-    font_main = _find_font(160)
-    font_sub = _find_font(72)
 
+    font_jp   = _find_font(80)
+    font_en   = _find_font(50)
+    font_icon = _find_font(46)
+
+    CELLS = [
+        ("発生中", "ACTIVE",  "#FEE2E2", "#DC2626", "warning"),
+        ("一覧",   "HISTORY", "#EAECF0", "#3D4451", "list"),
+        ("同期",   "SYNC",    "#EAECF0", "#3D4451", "sync"),
+        ("ヘルプ", "SUPPORT", "#EAECF0", "#3D4451", "help"),
+    ]
+
+    circle_r = 100
+    icon_r   = 54
     positions = [(0, 0), (CW, 0), (0, CH), (CW, CH)]
 
-    for (main_text, sub_text, _, color), (bx, by) in zip(BUTTONS, positions):
-        # Cell background
-        draw.rectangle([bx + 10, by + 10, bx + CW - 10, by + CH - 10], fill=color)
+    for (jp, en, circle_bg, fg, icon_type), (bx, by) in zip(CELLS, positions):
+        cx = bx + CW // 2
+        circle_cy = by + int(CH * 0.29)
 
-        if font_main:
-            # Main label
-            bb = draw.textbbox((0, 0), main_text, font=font_main)
+        # Circle background
+        draw.ellipse([cx - circle_r, circle_cy - circle_r,
+                      cx + circle_r, circle_cy + circle_r], fill=circle_bg)
+
+        # Icon
+        if icon_type == "warning":
+            _draw_warning(draw, cx, circle_cy, icon_r, fg, font_icon)
+        elif icon_type == "list":
+            _draw_list(draw, cx, circle_cy, icon_r, fg)
+        elif icon_type == "sync":
+            _draw_sync(draw, cx, circle_cy, icon_r, fg)
+        elif icon_type == "help":
+            _draw_help(draw, cx, circle_cy, icon_r, fg, font_icon)
+
+        # Japanese label
+        text_y = circle_cy + circle_r + 18
+        if font_jp:
+            bb = draw.textbbox((0, 0), jp, font=font_jp)
             tw, th = bb[2] - bb[0], bb[3] - bb[1]
-            tx = bx + (CW - tw) // 2
-            ty = by + CH // 2 - th - 15
-            draw.text((tx, ty), main_text, fill="#FFFFFF", font=font_main)
+            draw.text((cx - tw // 2, text_y), jp, fill="#1F2937", font=font_jp)
+            text_y += th + 10
 
-            # Sub label
-            if font_sub:
-                sb = draw.textbbox((0, 0), sub_text, font=font_sub)
-                sw, sh = sb[2] - sb[0], sb[3] - sb[1]
-                sx = bx + (CW - sw) // 2
-                sy = by + CH // 2 + 15
-                draw.text((sx, sy), sub_text, fill="#E5E7EB", font=font_sub)
+        # English label
+        if font_en:
+            en_color = fg if icon_type == "warning" else "#9CA3AF"
+            sb = draw.textbbox((0, 0), en, font=font_en)
+            sw = sb[2] - sb[0]
+            draw.text((cx - sw // 2, text_y), en, fill=en_color, font=font_en)
 
-    # Divider lines
-    draw.line([(CW, 0), (CW, H)], fill="#374151", width=8)
-    draw.line([(0, CH), (W, CH)], fill="#374151", width=8)
+    # Dividers
+    draw.line([(CW, 15), (CW, H - 15)], fill="#E5E7EB", width=3)
+    draw.line([(15, CH), (W - 15, CH)], fill="#E5E7EB", width=3)
 
     buf = io.BytesIO()
     img.save(buf, format="PNG")
@@ -117,11 +211,20 @@ def create_rich_menu() -> str:
         "areas": [
             {
                 "bounds": {"x": 0,  "y": 0,  "width": CW, "height": CH},
-                "action": {"type": "message", "label": "発生中", "text": "発生中"},
+                "action": (
+                    {"type": "uri", "label": "発生中",
+                     "uri": LIFF_URL + "?status=%E7%99%BA%E7%94%9F%E4%B8%AD"}
+                    if LIFF_URL else
+                    {"type": "message", "label": "発生中", "text": "発生中"}
+                ),
             },
             {
                 "bounds": {"x": CW, "y": 0,  "width": CW, "height": CH},
-                "action": {"type": "message", "label": "一覧",   "text": "一覧"},
+                "action": (
+                    {"type": "uri", "label": "一覧", "uri": LIFF_URL}
+                    if LIFF_URL else
+                    {"type": "message", "label": "一覧", "text": "一覧"}
+                ),
             },
             {
                 "bounds": {"x": 0,  "y": CH, "width": CW, "height": CH},

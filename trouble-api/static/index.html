@@ -295,6 +295,7 @@ tbody tr:hover td{background:#f8fafc}
       animation:spin .7s linear infinite;vertical-align:middle;margin-right:6px}
 @keyframes spin{to{transform:rotate(360deg)}}
 </style>
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
 </head>
 <body>
 
@@ -302,7 +303,9 @@ tbody tr:hover td{background:#f8fafc}
 <header>
   <h1>🔧 障害インシデント管理</h1>
   <div class="header-right">
+    <span id="liff-user-badge" style="display:none;font-size:12px;color:#cbd5e1;background:#334155;padding:3px 10px;border-radius:12px;white-space:nowrap"></span>
     <span class="last-upd" id="last-upd"></span>
+    <button class="btn btn-ghost btn-sm" id="members-btn" onclick="openMembers()" style="display:none">👥 LIFF管理</button>
     <button class="btn btn-success" id="sync-btn" onclick="doSync()">📥 同期</button>
   </div>
 </header>
@@ -434,6 +437,60 @@ tbody tr:hover td{background:#f8fafc}
   </div>
 </div>
 
+<!-- ══ LIFF Members Modal ══════════════════════════════════ -->
+<div class="overlay" id="ov-members" onclick="if(event.target===this)closeOv('ov-members')">
+  <div class="modal" style="max-width:600px">
+    <div class="mh">
+      <h2>👥 LIFFアクセス許可ユーザー</h2>
+      <button class="mclose" onclick="closeOv('ov-members')">×</button>
+    </div>
+    <div class="mb" style="padding-bottom:0">
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:8px;margin-bottom:12px;align-items:end">
+        <div class="fg" style="margin:0"><label style="font-size:11px">行員コード</label><input type="text" id="m-code" placeholder="0001"></div>
+        <div class="fg" style="margin:0"><label style="font-size:11px">氏名</label><input type="text" id="m-name" placeholder="山田 太郎"></div>
+        <div class="fg" style="margin:0"><label style="font-size:11px">LINE ID</label><input type="text" id="m-lid" placeholder="Uxxxxxxxx"></div>
+        <button class="btn btn-primary" onclick="addMember()" style="height:38px">追加</button>
+      </div>
+      <div style="overflow-x:auto;max-height:260px;overflow-y:auto">
+        <table style="width:100%;border-collapse:collapse;font-size:13px">
+          <thead style="position:sticky;top:0;background:#f8fafc">
+            <tr style="border-bottom:2px solid #e2e8f0">
+              <th style="padding:8px 10px;text-align:left;font-weight:600;color:#475569">行員コード</th>
+              <th style="padding:8px 10px;text-align:left;font-weight:600;color:#475569">氏名</th>
+              <th style="padding:8px 10px;text-align:left;font-weight:600;color:#475569">LINE ID</th>
+              <th style="padding:8px 10px;width:60px"></th>
+            </tr>
+          </thead>
+          <tbody id="members-tbody"><tr><td colspan="4" class="loading"><span class="spin" style="width:12px;height:12px;border-width:2px"></span></td></tr></tbody>
+        </table>
+      </div>
+      <!-- アクセスログ -->
+      <div style="margin-top:20px">
+        <div style="font-size:12px;font-weight:600;color:#64748b;margin-bottom:8px;display:flex;align-items:center;gap:6px">
+          未登録アクセスログ（直近10件）
+          <button class="btn btn-ghost" style="font-size:11px;padding:2px 8px;height:auto" onclick="loadAccessLog()">更新</button>
+        </div>
+        <div style="overflow-x:auto;max-height:200px;overflow-y:auto">
+          <table style="width:100%;border-collapse:collapse;font-size:13px">
+            <thead style="position:sticky;top:0;background:#f8fafc">
+              <tr style="border-bottom:2px solid #e2e8f0">
+                <th style="padding:6px 10px;text-align:left;font-weight:600;color:#475569">氏名（LINE）</th>
+                <th style="padding:6px 10px;text-align:left;font-weight:600;color:#475569">LINE ID</th>
+                <th style="padding:6px 10px;text-align:left;font-weight:600;color:#475569">最終アクセス</th>
+                <th style="padding:6px 10px;width:60px"></th>
+              </tr>
+            </thead>
+            <tbody id="access-log-tbody"><tr><td colspan="4" class="loading"><span class="spin" style="width:12px;height:12px;border-width:2px"></span></td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="mf">
+      <button class="btn btn-ghost" onclick="closeOv('ov-members')">閉じる</button>
+    </div>
+  </div>
+</div>
+
 <!-- ══ Delete Confirm Modal ═══════════════════════════════ -->
 <div class="overlay" id="ov-del">
   <div class="modal modal-sm">
@@ -454,9 +511,167 @@ tbody tr:hover td{background:#f8fafc}
 
 <script>
 'use strict';
+let _liffToken = null;
+const _isLiff = location.pathname.includes('/liff');
 const PAGE_SIZE = 20;
 let page = 0, filters = {}, delId = null;
 const isMobile = () => window.innerWidth < 640;
+
+/* ─── LIFF helpers ──────────────────────────────────────── */
+function apiUrl(path) {
+  // _isLiff が true の場合は常に LIFF 専用パスを使う
+  // （トークンなしで相対パスに fallback すると Caddy の Basic 認証 401 が
+  //   iOS WebKit の認証ダイアログを引き起こし画面が白くなるため）
+  if (_isLiff) return '/trouble/liff/' + path;
+  return path;
+}
+function getAuthHeaders() {
+  return _liffToken ? {Authorization: 'Bearer ' + _liffToken} : {};
+}
+let _currentUser = null;
+
+async function initLiff() {
+  if (!_isLiff || typeof liff === 'undefined') return;
+  try {
+    const cfg = await fetch('/trouble/liff/config').then(r => r.json());
+    if (!cfg.liff_id) {
+      toast('error', 'LIFF_ID が設定されていません。管理者に連絡してください。', 8000);
+      return;
+    }
+    await liff.init({liffId: cfg.liff_id});
+    if (!liff.isLoggedIn()) { liff.login({redirectUri: location.href}); return; }
+    _liffToken = liff.getAccessToken();
+    if (!_liffToken) {
+      toast('error', 'LIFFアクセストークンを取得できませんでした。', 6000);
+      return;
+    }
+    // ホワイトリスト確認 + ユーザー情報取得
+    const meRes = await fetch(apiUrl('me'), {headers: getAuthHeaders()});
+    if (meRes.status === 403) {
+      const err = await meRes.json();
+      _showAccessDenied(err.detail);
+      return;
+    }
+    if (!meRes.ok) throw new Error(`me: ${meRes.status}`);
+    _currentUser = await meRes.json();
+    // ヘッダーにユーザー名を表示
+    const badge = document.getElementById('liff-user-badge');
+    if (badge) { badge.textContent = _currentUser.name; badge.style.display = 'inline'; }
+    // LINE 内ブラウザ: 閉じるボタン追加
+    if (liff.isInClient()) {
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'btn btn-ghost';
+      closeBtn.textContent = '✕';
+      closeBtn.onclick = () => liff.closeWindow();
+      document.querySelector('.header-right').prepend(closeBtn);
+    }
+    const syncBtn = document.getElementById('sync-btn');
+    if (syncBtn) syncBtn.style.display = 'none';
+  } catch(e) {
+    console.error('LIFF init error:', e);
+    toast('error', 'LIFF初期化エラー: ' + e.message, 8000);
+  }
+}
+
+function _showAccessDenied(detail) {
+  document.body.innerHTML = `
+    <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;
+                min-height:100vh;padding:32px;text-align:center;font-family:-apple-system,sans-serif">
+      <div style="font-size:56px;margin-bottom:16px">🚫</div>
+      <h2 style="margin-bottom:12px;color:#1e293b;font-size:18px">アクセス権限がありません</h2>
+      <p style="color:#64748b;font-size:13px;line-height:1.7;max-width:320px;word-break:break-all">${esc(detail)}</p>
+      <p style="color:#94a3b8;font-size:11px;margin-top:16px">システム管理者に登録を依頼してください。</p>
+    </div>`;
+}
+
+/* ─── LIFF Members admin ────────────────────────────────── */
+async function openMembers() {
+  openOv('ov-members');
+  await Promise.all([loadMembers(), loadAccessLog()]);
+}
+
+async function loadMembers() {
+  const tbody = document.getElementById('members-tbody');
+  tbody.innerHTML = '<tr><td colspan="4" class="loading"><span class="spin" style="width:12px;height:12px;border-width:2px"></span></td></tr>';
+  try {
+    const res = await fetch('members', {headers: getAuthHeaders()});
+    if (!res.ok) throw new Error(res.status);
+    const list = await res.json();
+    if (!list.length) {
+      tbody.innerHTML = '<tr><td colspan="4" class="empty-state">登録ユーザーなし</td></tr>';
+      return;
+    }
+    tbody.innerHTML = list.map(m => `
+      <tr style="border-bottom:1px solid #f1f5f9">
+        <td style="padding:8px 10px">${esc(m.employee_code)}</td>
+        <td style="padding:8px 10px">${esc(m.name)}</td>
+        <td style="padding:8px 10px;font-size:11px;color:#64748b;word-break:break-all">${esc(m.line_user_id)}</td>
+        <td style="padding:8px 10px;text-align:center">
+          <button class="btn btn-danger btn-sm" onclick="deleteMember(${m.id},'${esc(m.name)}')">削除</button>
+        </td>
+      </tr>`).join('');
+  } catch(e) { tbody.innerHTML = `<tr><td colspan="4" class="empty-state">読み込みエラー: ${esc(e.message)}</td></tr>`; }
+}
+
+async function addMember() {
+  const code = document.getElementById('m-code').value.trim();
+  const name = document.getElementById('m-name').value.trim();
+  const lid  = document.getElementById('m-lid').value.trim();
+  if (!code || !name || !lid) { toast('error', '全項目を入力してください'); return; }
+  try {
+    const r = await fetch('members', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({employee_code: code, name, line_user_id: lid}),
+    });
+    if (!r.ok) { const e = await r.json(); throw new Error(e.detail || r.status); }
+    ['m-code','m-name','m-lid'].forEach(id => document.getElementById(id).value = '');
+    toast('success', `${name} を追加しました`);
+    await Promise.all([loadMembers(), loadAccessLog()]);
+  } catch(e) { toast('error', '追加エラー: ' + e.message); }
+}
+
+async function deleteMember(id, name) {
+  if (!confirm(`${name} を削除しますか？`)) return;
+  try {
+    const r = await fetch(`members/${id}`, {method: 'DELETE'});
+    if (!r.ok && r.status !== 204) throw new Error(r.status);
+    toast('success', `${name} を削除しました`);
+    await loadMembers();
+  } catch(e) { toast('error', '削除エラー: ' + e.message); }
+}
+
+async function loadAccessLog() {
+  const tbody = document.getElementById('access-log-tbody');
+  if (!tbody) return;
+  tbody.innerHTML = '<tr><td colspan="4" class="loading"><span class="spin" style="width:12px;height:12px;border-width:2px"></span></td></tr>';
+  try {
+    const res = await fetch('access-log');
+    if (!res.ok) throw new Error(res.status);
+    const list = await res.json();
+    if (!list.length) {
+      tbody.innerHTML = '<tr><td colspan="4" class="empty-state">未登録のアクセスなし</td></tr>';
+      return;
+    }
+    tbody.innerHTML = list.map(l => `
+      <tr style="border-bottom:1px solid #f1f5f9">
+        <td style="padding:6px 10px">${esc(l.line_display_name)}</td>
+        <td style="padding:6px 10px;font-size:11px;color:#64748b;word-break:break-all">${esc(l.line_user_id)}</td>
+        <td style="padding:6px 10px;font-size:11px;color:#64748b">${fmtDt(l.accessed_at, true)}</td>
+        <td style="padding:6px 10px;text-align:center">
+          <button class="btn btn-primary btn-sm" onclick="registerFromLog('${esc(l.line_user_id)}','${esc(l.line_display_name)}')">登録</button>
+        </td>
+      </tr>`).join('');
+  } catch(e) { tbody.innerHTML = `<tr><td colspan="4" class="empty-state">読み込みエラー: ${esc(e.message)}</td></tr>`; }
+}
+
+function registerFromLog(userId, displayName) {
+  document.getElementById('m-lid').value = userId;
+  document.getElementById('m-name').value = displayName;
+  document.getElementById('m-code').value = '';
+  document.getElementById('m-code').focus();
+  document.querySelector('#ov-members .mb').scrollTop = 0;
+}
 
 /* ─── Utils ─────────────────────────────────────────────── */
 function esc(s){
@@ -509,7 +724,9 @@ function toggleFilter(){
 /* ─── Summary ───────────────────────────────────────────── */
 async function loadSummary(){
   try{
-    const data = await fetch('summary').then(r=>r.json());
+    const res = await fetch(apiUrl('summary'),{headers:getAuthHeaders()});
+    if(!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+    const data = await res.json();
     const c = {発生中:0,調査中:0,復旧済み:0};
     let total = 0;
     for(const row of data){ c[row.status]=(c[row.status]||0)+row.count; total+=row.count; }
@@ -519,7 +736,7 @@ async function loadSummary(){
     });
     document.getElementById('last-upd').textContent =
       '更新: '+new Date().toLocaleTimeString('ja-JP');
-  }catch(e){ console.warn(e); }
+  }catch(e){ console.warn('summary:', e); toast('error','集計取得エラー: '+e.message); }
 }
 
 /* ─── Build query ───────────────────────────────────────── */
@@ -542,7 +759,9 @@ async function loadIncidents(){
   cardsEl.innerHTML= `<div class="loading">${loadHtml}</div>`;
 
   try{
-    const rows = await fetch(`incidents?${buildQS()}`).then(r=>r.json());
+    const incRes = await fetch(apiUrl(`incidents?${buildQS()}`),{headers:getAuthHeaders()});
+    if(!incRes.ok) throw new Error(`${incRes.status} ${incRes.statusText}`);
+    const rows = await incRes.json();
     if(!rows.length){
       tbody.innerHTML  = '<tr><td colspan="7" class="empty-state">インシデントが見つかりません</td></tr>';
       cardsEl.innerHTML= '<div class="empty-state">インシデントが見つかりません</div>';
@@ -641,7 +860,7 @@ function filterByStatus(s){
 /* ─── Detail ────────────────────────────────────────────── */
 async function showDetail(id){
   try{
-    const r = await fetch(`incidents/${id}`).then(res=>res.json());
+    const r = await fetch(apiUrl(`incidents/${id}`),{headers:getAuthHeaders()}).then(res=>res.json());
     document.getElementById('detail-h').textContent = `インシデント #${r.id}`;
     document.getElementById('detail-edit-btn').onclick = ()=>{ closeOv('ov-detail'); openEdit(r); };
     document.getElementById('detail-body').innerHTML = `
@@ -665,7 +884,7 @@ async function showDetail(id){
 /* ─── Edit ──────────────────────────────────────────────── */
 async function openEditById(id){
   try{
-    const r = await fetch(`incidents/${id}`).then(res=>res.json());
+    const r = await fetch(apiUrl(`incidents/${id}`),{headers:getAuthHeaders()}).then(res=>res.json());
     openEdit(r);
   }catch(e){ toast('error',`取得エラー: ${e.message}`); }
 }
@@ -693,7 +912,7 @@ async function saveEdit(){
     response:     document.getElementById('e-response').value.trim()||null,
   };
   try{
-    const r = await fetch(`incidents/${id}`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const r = await fetch(apiUrl(`incidents/${id}`),{method:'PUT',headers:{...getAuthHeaders(),'Content-Type':'application/json'},body:JSON.stringify(body)});
     if(!r.ok){ const e=await r.json(); throw new Error(e.detail||r.status); }
     closeOv('ov-edit');
     toast('success',`#${id} を更新しました`);
@@ -709,7 +928,7 @@ function openDel(id, name){
 }
 async function confirmDel(){
   try{
-    const r = await fetch(`incidents/${delId}`,{method:'DELETE'});
+    const r = await fetch(apiUrl(`incidents/${delId}`),{method:'DELETE',headers:getAuthHeaders()});
     if(!r.ok && r.status!==204) throw new Error(r.status);
     closeOv('ov-del');
     toast('success',`#${delId} を削除しました`);
@@ -723,7 +942,7 @@ async function doSync(){
   btn.disabled=true;
   btn.innerHTML='<span class="spin" style="width:12px;height:12px;border-width:2px"></span> 同期中...';
   try{
-    const res=await fetch('sync',{method:'POST'});
+    const res=await fetch(apiUrl('sync'),{method:'POST',headers:getAuthHeaders()});
     const {new_incidents:n,updated_incidents:u,skipped:s,errors:errs}=await res.json();
     if(errs&&errs.length){
       toast('error',`同期完了（エラーあり）: 新規${n}件 更新${u}件 | ${errs[0]}`,8000);
@@ -739,10 +958,27 @@ async function doSync(){
 }
 
 /* ─── Init ──────────────────────────────────────────────── */
-loadSummary();
-loadIncidents();
-const _qid = new URLSearchParams(location.search).get('id');
-if(_qid) showDetail(_qid);
+async function main() {
+  await initLiff();
+  // 通常ブラウザ（管理者）の場合は LIFF管理ボタンを表示
+  if (!_isLiff) {
+    const btn = document.getElementById('members-btn');
+    if (btn) btn.style.display = 'inline-flex';
+  }
+  const qStatus = new URLSearchParams(location.search).get('status');
+  if (qStatus) {
+    filters.status = qStatus;
+    ['fd-status', 'fm-status'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.value = qStatus;
+    });
+  }
+  loadSummary();
+  loadIncidents();
+  const qid = new URLSearchParams(location.search).get('id');
+  if (qid) showDetail(qid);
+}
+main();
 </script>
 </body>
 </html>
