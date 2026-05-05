@@ -100,7 +100,7 @@ trouble-api/
 | id | Integer PK | |
 | system_name | String(200) INDEX | 障害発生システム名 |
 | failure_type | String(200) | 障害種別 |
-| status | String(50) INDEX | 発生中 / 調査中 / 復旧済み |
+| status | String(50) INDEX | 発生中 / 復旧済み |
 | occurred_at | DateTime | 障害発生時刻（LLM抽出） |
 | closed_at | DateTime | 復旧時刻 |
 | description | Text | 障害詳細 |
@@ -115,9 +115,8 @@ trouble-api/
 
 | ステータス | 意味 |
 |---|---|
-| 発生中 | 障害が発生し、まだ解決していない |
-| 調査中 | 原因調査中または対応中 |
-| 復旧済み | サービスが復旧・解決済み（根本原因調査中・完全クローズ問わず） |
+| 発生中 | 障害が発生し、まだ解決していない（原因調査中・対応中・一部復旧・復旧作業中なども含む） |
+| 復旧済み | サービスが正式に復旧・解決済み（最終報のみ適用） |
 
 ### processed_emails
 
@@ -261,11 +260,11 @@ python trouble-api/setup_richmenu.py
 
 | コマンド | 説明 |
 |---|---|
-| 一覧 / リスト | 最新インシデント10件（Flex カルーセル） |
-| 発生中 / 障害 | 未解決インシデント（発生中・調査中） |
+| 一覧 / リスト / list | 最新インシデント10件（Flex カルーセル） |
+| 発生中 / 障害 / 未解決 | 発生中インシデント一覧 |
 | #123 | インシデント #123 の詳細 |
 | 同期 / sync | メール同期を即時実行、件数を返信 |
-| ヘルプ / help | コマンド一覧 |
+| ヘルプ / help / ? | コマンド一覧 |
 
 ### Flex Message インシデントカードのデザイン
 
@@ -291,8 +290,8 @@ python trouble-api/setup_richmenu.py
 | ステータス | アクセント色 | バッジ背景 |
 |---|---|---|
 | 発生中 | `#DC2626`（赤） | `#FEE2E2` |
-| 調査中 | `#D97706`（琥珀） | `#FEF3C7` |
 | 復旧済み | `#16A34A`（緑） | `#DCFCE7` |
+| 上記以外（fallback） | `#4B5563`（グレー） | `#F3F4F6` |
 
 **「詳細を見る #ID」ボタンの URL:**
 - `LIFF_ID` 設定時: `https://liff.line.me/<LIFF_ID>?id=<ID>` → LIFF UIでインシデント詳細が自動表示
@@ -343,7 +342,7 @@ with imapclient.IMAPClient('imap.spmode.ne.jp', port=993, ssl=True) as s:
 
 `collector.py` の `_find_existing_incident()` が担当。
 
-1. 同じ `system_name` でステータスが「発生中/調査中/復旧済み」のインシデントを検索
+1. 同じ `system_name` でステータスが「発生中/復旧済み」のインシデントを検索
 2. `occurred_at` が ±4時間以内なら同一インシデントとして更新
 3. 該当なければ最新の未復旧インシデントにフォールバック
 4. それでも見つからなければ新規作成
