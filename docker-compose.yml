@@ -51,6 +51,8 @@ services:
       - "8002:8002"
     env_file:
       - .env
+    environment:
+      BASE_URL: https://${NGROK_DOMAIN}/trouble
     volumes:
       - ./trouble-api:/app
     depends_on:
@@ -60,7 +62,7 @@ services:
   ngrok:
     image: ngrok/ngrok:latest
     restart: unless-stopped
-    command: http --url=forecargo.ngrok.app --pooling-enabled caddy:80
+    command: http --url=${NGROK_DOMAIN} --pooling-enabled caddy:80
     env_file:
       - .env
     ports:
