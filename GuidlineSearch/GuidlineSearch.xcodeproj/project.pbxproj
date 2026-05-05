@@ -196,7 +196,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
@@ -283,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;

@@ -23,3 +23,6 @@ embeddings_cache.json
 
 # ログ
 *.log
+
+# Xcode ユーザー固有の状態ファイル
+*.xcuserstate
