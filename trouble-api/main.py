@@ -12,7 +12,7 @@ from sqlalchemy.orm import Session
 
 from collector import collect_and_process
 from database import get_session, init_db
-from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, is_allowed_source, notify_new_incidents, send_sample_notification, verify_signature
+from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, is_allowed_source, notify_new_incidents, notify_resolved_incidents, notify_updated_incidents, send_sample_notification, verify_signature
 from models import Incident, IncidentResponse, IncidentUpdate, SummaryItem, SyncResult
 from scheduler import start_scheduler, stop_scheduler
 
@@ -23,7 +23,17 @@ def sync_and_notify() -> dict:
         try:
             notify_new_incidents(result["new_incident_ids"])
         except Exception as e:
-            print(f"LINE notify error: {e}")
+            print(f"LINE notify error (new): {e}")
+    if result.get("resolved_new_incident_ids") and LINE_NOTIFICATION_TARGETS:
+        try:
+            notify_resolved_incidents(result["resolved_new_incident_ids"])
+        except Exception as e:
+            print(f"LINE notify error (resolved): {e}")
+    if result.get("status_changed_incident_ids") and LINE_NOTIFICATION_TARGETS:
+        try:
+            notify_updated_incidents(result["status_changed_incident_ids"])
+        except Exception as e:
+            print(f"LINE notify error (updated): {e}")
     return result
 
 

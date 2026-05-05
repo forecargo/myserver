@@ -93,9 +93,25 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
     return candidates[0]
 
 
-def _apply_update(incident: Incident, extracted: dict, received_at: datetime) -> None:
-    if extracted.get("status"):
-        incident.status = extracted["status"]
+def _sanitize_new_incident_status(extracted: dict) -> str:
+    status = extracted.get("status", "発生中")
+    report_type = extracted.get("report_type", "不明")
+    if status == "復旧済み" and report_type != "最終報":
+        return "調査中"
+    return status
+
+
+def _apply_update(incident: Incident, extracted: dict, received_at: datetime) -> bool:
+    """Returns True if status changed."""
+    new_status = extracted.get("status")
+    report_type = extracted.get("report_type", "不明")
+    status_changed = False
+    if new_status:
+        if new_status == "復旧済み" and report_type == "続報":
+            new_status = "調査中"
+        if new_status != incident.status:
+            status_changed = True
+        incident.status = new_status
     if extracted.get("closed_at"):
         incident.closed_at = _parse_dt(extracted["closed_at"])
     if extracted.get("response"):
@@ -103,6 +119,7 @@ def _apply_update(incident: Incident, extracted: dict, received_at: datetime) ->
         incident.response = (incident.response or "") + f"\n\n[{ts} 追記]\n{extracted['response']}"
     if extracted.get("description") and not incident.description:
         incident.description = extracted["description"]
+    return status_changed
 
 
 def _filter_sender_uids(server, all_uids: list) -> list:
@@ -129,7 +146,7 @@ def _filter_sender_uids(server, all_uids: list) -> list:
 
 
 def collect_and_process() -> dict:
-    results = {"new_incidents": 0, "updated_incidents": 0, "skipped": 0, "errors": [], "new_incident_ids": []}
+    results = {"new_incidents": 0, "updated_incidents": 0, "skipped": 0, "errors": [], "new_incident_ids": [], "resolved_new_incident_ids": [], "status_changed_incident_ids": []}
 
     try:
         with imapclient.IMAPClient(IMAP_HOST, port=IMAP_PORT, ssl=True, ssl_context=_make_ssl_context()) as server:
@@ -178,13 +195,16 @@ def collect_and_process() -> dict:
                             )
 
                         if incident:
-                            _apply_update(incident, extracted, received_at)
+                            status_changed = _apply_update(incident, extracted, received_at)
                             results["updated_incidents"] += 1
+                            if status_changed:
+                                results["status_changed_incident_ids"].append(incident.id)
                         else:
+                            safe_status = _sanitize_new_incident_status(extracted)
                             incident = Incident(
                                 system_name=extracted.get("system_name", "不明"),
                                 failure_type=extracted.get("failure_type"),
-                                status=extracted.get("status", "発生中"),
+                                status=safe_status,
                                 occurred_at=_parse_dt(extracted.get("occurred_at")),
                                 closed_at=_parse_dt(extracted.get("closed_at")),
                                 description=extracted.get("description"),
@@ -197,7 +217,10 @@ def collect_and_process() -> dict:
                             session.add(incident)
                             session.flush()
                             results["new_incidents"] += 1
-                            results["new_incident_ids"].append(incident.id)
+                            if safe_status == "復旧済み":
+                                results["resolved_new_incident_ids"].append(incident.id)
+                            else:
+                                results["new_incident_ids"].append(incident.id)
 
                         pe = ProcessedEmail(message_id=message_id, incident_id=incident.id)
                         session.add(pe)

@@ -59,6 +59,7 @@ class IncidentResponse(BaseModel):
     email_subject: Optional[str]
     email_received_at: datetime.datetime
     email_message_id: str
+    raw_email_body: Optional[str]
     created_at: datetime.datetime
     updated_at: datetime.datetime
 
@@ -85,3 +86,5 @@ class SyncResult(BaseModel):
     skipped: int
     errors: list[str]
     new_incident_ids: list[int] = []
+    resolved_new_incident_ids: list[int] = []
+    status_changed_incident_ids: list[int] = []
