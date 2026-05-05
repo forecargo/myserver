@@ -17,6 +17,7 @@ LINE_NOTIFICATION_TARGETS = [
     t.strip() for t in os.getenv("LINE_NOTIFICATION_TARGETS", "").split(",") if t.strip()
 ]
 BASE_URL = os.getenv("BASE_URL", "").rstrip("/")
+LIFF_ID = os.getenv("LIFF_ID", "")
 
 
 def get_source_id(event: dict) -> str | None:
@@ -105,7 +106,12 @@ def _fmt_dt(dt: datetime | None) -> str:
 def make_incident_bubble(inc: Incident) -> dict:
     color = STATUS_COLORS.get(inc.status, "#4B5563")
     light_color = STATUS_LIGHT_COLORS.get(inc.status, "#F3F4F6")
-    detail_url = f"{BASE_URL}/?id={inc.id}" if BASE_URL else None
+    if LIFF_ID:
+        detail_url = f"https://liff.line.me/{LIFF_ID}?id={inc.id}"
+    elif BASE_URL:
+        detail_url = f"{BASE_URL}/?id={inc.id}"
+    else:
+        detail_url = None
 
     bubble: dict = {
         "type": "bubble",

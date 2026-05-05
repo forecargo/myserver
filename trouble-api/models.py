@@ -88,3 +88,49 @@ class SyncResult(BaseModel):
     new_incident_ids: list[int] = []
     resolved_new_incident_ids: list[int] = []
     status_changed_incident_ids: list[int] = []
+
+
+class LiffAllowedUser(Base):
+    __tablename__ = "liff_allowed_users"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    employee_code: Mapped[str] = mapped_column(String(50), unique=True, nullable=False)
+    name: Mapped[str] = mapped_column(String(100), nullable=False)
+    line_user_id: Mapped[str] = mapped_column(String(100), unique=True, nullable=False)
+    created_at: Mapped[datetime.datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
+
+
+class LiffAllowedUserCreate(BaseModel):
+    employee_code: str
+    name: str
+    line_user_id: str
+
+
+class LiffAllowedUserResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    employee_code: str
+    name: str
+    line_user_id: str
+    created_at: datetime.datetime
+
+
+class LiffAccessLog(Base):
+    __tablename__ = "liff_access_logs"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    line_user_id: Mapped[str] = mapped_column(String(100), unique=True, nullable=False)
+    line_display_name: Mapped[str] = mapped_column(String(200), nullable=False)
+    accessed_at: Mapped[datetime.datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
+    )
+
+
+class LiffAccessLogResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    line_user_id: str
+    line_display_name: str
+    accessed_at: datetime.datetime
