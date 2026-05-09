@@ -40,17 +40,25 @@ export default function App() {
       {/* メインエリア */}
       <div className="flex flex-1 flex-col overflow-hidden">
         {/* ヘッダー */}
-        <header className="h-10 bg-gray-800 text-white flex items-center px-4 gap-4 text-sm shrink-0">
+        <header className="h-10 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 text-white flex items-center px-4 gap-4 text-sm shrink-0 border-b border-slate-700/60 shadow-sm">
           <span className="font-medium truncate">{diagram?.name ?? "ダイアグラム未選択"}</span>
           <div className="flex gap-1 ml-auto">
             <button
-              className={`px-3 py-1 rounded text-xs ${tab === "preview" ? "bg-indigo-600" : "hover:bg-gray-700"}`}
+              className={`px-3 py-1 rounded text-xs transition-colors ${
+                tab === "preview"
+                  ? "bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md shadow-indigo-900/40"
+                  : "hover:bg-white/10"
+              }`}
               onClick={() => setTab("preview")}
             >
               プレビュー
             </button>
             <button
-              className={`px-3 py-1 rounded text-xs ${tab === "code" ? "bg-indigo-600" : "hover:bg-gray-700"}`}
+              className={`px-3 py-1 rounded text-xs transition-colors ${
+                tab === "code"
+                  ? "bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md shadow-indigo-900/40"
+                  : "hover:bg-white/10"
+              }`}
               onClick={() => setTab("code")}
             >
               コード

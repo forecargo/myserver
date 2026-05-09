@@ -109,9 +109,9 @@ export default function Sidebar() {
 
   if (collapsed) {
     return (
-      <aside className="w-10 bg-gray-900 text-gray-100 flex flex-col h-full shrink-0">
+      <aside className="w-10 bg-gradient-to-b from-slate-900 via-gray-900 to-slate-950 text-gray-100 flex flex-col h-full shrink-0 border-r border-slate-700/60">
         <button
-          className="h-10 flex items-center justify-center hover:bg-gray-800 border-b border-gray-700"
+          className="h-10 flex items-center justify-center hover:bg-white/5 border-b border-slate-700/60 transition-colors"
           onClick={toggleCollapsed}
           title="サイドバーを開く"
           aria-label="サイドバーを開く"
@@ -123,11 +123,13 @@ export default function Sidebar() {
   }
 
   return (
-    <aside className="w-56 bg-gray-900 text-gray-100 flex flex-col h-full text-sm shrink-0">
-      <div className="px-3 h-10 border-b border-gray-700 flex items-center justify-between">
-        <span className="font-bold text-base truncate">Mermaid Editor</span>
+    <aside className="w-56 bg-gradient-to-b from-slate-900 via-gray-900 to-slate-950 text-gray-100 flex flex-col h-full text-sm shrink-0 border-r border-slate-700/60">
+      <div className="px-3 h-10 border-b border-slate-700/60 flex items-center justify-between">
+        <span className="font-bold text-base truncate bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200 bg-clip-text text-transparent">
+          Mermaid Editor
+        </span>
         <button
-          className="text-gray-400 hover:text-gray-100 shrink-0 ml-2"
+          className="text-gray-400 hover:text-gray-100 shrink-0 ml-2 transition-colors"
           onClick={toggleCollapsed}
           title="サイドバーを閉じる"
           aria-label="サイドバーを閉じる"
@@ -146,14 +148,16 @@ export default function Sidebar() {
       )}
 
       {/* プロジェクト一覧 */}
-      <div className="p-2 border-b border-gray-700">
+      <div className="p-2 border-b border-slate-700/60">
         <div className="text-xs text-gray-400 mb-1 uppercase tracking-wide">Projects</div>
         <ul className="space-y-0.5 max-h-40 overflow-y-auto">
           {projects.map((p) => (
             <li
               key={p.id}
               className={`flex items-center justify-between rounded px-2 py-1 cursor-pointer ${
-                selectedProjectId === p.id ? "bg-indigo-600" : "hover:bg-gray-700"
+                selectedProjectId === p.id
+                  ? "bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md shadow-indigo-900/40"
+                  : "hover:bg-white/5"
               }`}
               onClick={() => selectProject(p.id)}
             >
@@ -178,7 +182,7 @@ export default function Sidebar() {
             onChange={(e) => setNewProjectName(e.target.value)}
           />
           <button
-            className="bg-indigo-600 hover:bg-indigo-500 rounded px-2 py-0.5 text-xs font-bold"
+            className="bg-gradient-to-br from-indigo-500 to-purple-600 hover:from-indigo-400 hover:to-purple-500 rounded px-2 py-0.5 text-xs font-bold shadow-sm shadow-indigo-900/40 transition-all"
             onClick={addProject}
             title="プロジェクトを追加"
           >
@@ -196,7 +200,9 @@ export default function Sidebar() {
               <li
                 key={d.id}
                 className={`flex items-center justify-between rounded px-2 py-1 cursor-pointer ${
-                  selectedDiagramId === d.id ? "bg-indigo-600" : "hover:bg-gray-700"
+                  selectedDiagramId === d.id
+                  ? "bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md shadow-indigo-900/40"
+                  : "hover:bg-white/5"
                 }`}
                 onClick={() => handleSelectDiagram(d.id)}
               >
@@ -221,7 +227,7 @@ export default function Sidebar() {
               onChange={(e) => setNewDiagramName(e.target.value)}
             />
             <button
-              className="bg-indigo-600 hover:bg-indigo-500 rounded px-2 py-0.5 text-xs font-bold"
+              className="bg-gradient-to-br from-indigo-500 to-purple-600 hover:from-indigo-400 hover:to-purple-500 rounded px-2 py-0.5 text-xs font-bold shadow-sm shadow-indigo-900/40 transition-all"
               onClick={addDiagram}
               title="ダイアグラムを追加"
             >
