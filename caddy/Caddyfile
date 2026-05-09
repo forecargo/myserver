@@ -1,5 +1,11 @@
 # Tailscale IPでHTTPSを終端（証明書は自己署名）
 :80 {
+    route /fudebako* {
+        uri strip_prefix /fudebako
+        root * /srv/fudebako
+        file_server
+    }
+
     route /ocr* {
         reverse_proxy ocr-api:8000
     }
@@ -33,5 +39,15 @@
         }
         uri strip_prefix /trouble
         reverse_proxy trouble-api:8002
+    }
+
+    route /gpt-image* {
+        basic_auth {
+            ncbgpt <REDACTED-ROTATED-HASH>
+        }
+        uri strip_prefix /gpt-image
+        reverse_proxy gpt-image:8003 {
+            flush_interval -1
+        }
     }
 }

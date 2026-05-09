@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Image Studio — gpt-image-2</title>
+<style>
+/* ===== CSS Variables ===== */
+:root {
+  --accent: #ff6b35;
+  --accent-hover: #e55a25;
+  --accent-soft: #fff3ee;
+  --ink: #1a1a1a;
+  --ink-soft: #525252;
+  --ink-faint: #8a8a8a;
+  --line: #e0ddd8;
+  --bg: #ffffff;
+  --bg-alt: #f7f6f2;
+  --bg-canvas: #edeae3;
+  --success: #16a34a;
+  --warn: #d97706;
+  --danger: #dc2626;
+  --sidebar-w: 300px;
+  --topbar-h: 52px;
+  --promptbar-h: 120px;
+  --radius: 8px;
+  --shadow: 0 1px 4px rgba(0,0,0,.12);
+}
+
+/* ===== Reset ===== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg-canvas); color: var(--ink); height: 100vh; overflow: hidden; }
+button { cursor: pointer; font-family: inherit; }
+textarea, select, input { font-family: inherit; }
+
+/* ===== Layout ===== */
+#topbar {
+  height: var(--topbar-h);
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+}
+#app {
+  display: flex;
+  height: 100vh;
+  padding-top: var(--topbar-h);
+}
+#sidebar {
+  width: var(--sidebar-w);
+  min-width: var(--sidebar-w);
+  background: var(--bg);
+  border-right: 1px solid var(--line);
+  overflow-y: auto;
+  padding: 16px 12px;
+}
+#main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+#canvas-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+#prompt-bar {
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  padding: 12px 16px;
+  min-height: var(--promptbar-h);
+}
+
+/* ===== Topbar ===== */
+.topbar-logo { font-weight: 700; font-size: 15px; letter-spacing: -.3px; display: flex; align-items: center; gap: 8px; }
+.topbar-logo span { color: var(--accent); font-size: 18px; }
+.topbar-model { font-size: 11px; color: var(--ink-faint); background: var(--bg-alt); border: 1px solid var(--line); border-radius: 4px; padding: 2px 6px; font-family: monospace; }
+.topbar-right { display: flex; gap: 8px; align-items: center; }
+.chip { font-size: 12px; color: var(--ink-soft); background: var(--bg-alt); border: 1px solid var(--line); border-radius: 6px; padding: 4px 10px; cursor: pointer; user-select: none; }
+.chip:hover { background: var(--line); }
+
+/* ===== Sidebar ===== */
+.sb-section { margin-bottom: 18px; }
+.sb-label { font-size: 11px; font-weight: 600; color: var(--ink-faint); text-transform: uppercase; letter-spacing: .6px; margin-bottom: 8px; }
+.sb-divider { border: none; border-top: 1px solid var(--line); margin: 14px 0; }
+
+/* Mode selector */
+.mode-tabs { display: flex; flex-wrap: wrap; gap: 4px; }
+.mode-tab {
+  flex: 1; min-width: 60px; padding: 6px 4px; font-size: 12px; font-weight: 500;
+  border: 1px solid var(--line); border-radius: 6px; background: var(--bg-alt);
+  color: var(--ink-soft); text-align: center; cursor: pointer; transition: all .15s;
+}
+.mode-tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.mode-tab:hover:not(.active) { background: var(--bg-canvas); }
+
+/* Param controls */
+.sb-row { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; }
+.sb-row label { font-size: 12px; color: var(--ink-soft); min-width: 72px; }
+.sb-select {
+  flex: 1; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 12px; background: var(--bg); color: var(--ink); outline: none;
+}
+.sb-select:focus { border-color: var(--accent); }
+
+/* Size preset buttons */
+.size-presets { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 6px; }
+.size-btn {
+  font-size: 11px; padding: 4px 8px; border: 1px solid var(--line); border-radius: 5px;
+  background: var(--bg-alt); color: var(--ink-soft); cursor: pointer;
+}
+.size-btn.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.size-custom { display: flex; gap: 4px; align-items: center; font-size: 12px; color: var(--ink-soft); }
+.size-custom input {
+  width: 60px; padding: 4px 6px; border: 1px solid var(--line); border-radius: 5px;
+  font-size: 12px; text-align: center;
+}
+
+/* n selector */
+.n-btns { display: flex; gap: 4px; }
+.n-btn { padding: 5px 12px; border: 1px solid var(--line); border-radius: 6px; font-size: 13px; background: var(--bg-alt); }
+.n-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* Cost estimate */
+.cost-box { background: var(--bg-alt); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 12px; }
+.cost-label { color: var(--ink-faint); font-size: 11px; margin-bottom: 4px; }
+.cost-val { color: var(--ink); font-weight: 600; font-size: 14px; }
+.cost-note { color: var(--ink-faint); font-size: 10px; margin-top: 2px; }
+
+/* ===== Canvas Area ===== */
+.empty-state {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; color: var(--ink-faint);
+}
+.empty-state svg { margin-bottom: 16px; opacity: .4; }
+.empty-state h2 { font-size: 18px; font-weight: 600; color: var(--ink-soft); margin-bottom: 8px; }
+.empty-state p { font-size: 13px; line-height: 1.6; max-width: 320px; }
+
+/* Image grid */
+.image-grid { display: grid; gap: 12px; grid-template-columns: repeat(2, 1fr); }
+.image-grid.n1 { grid-template-columns: 1fr; max-width: 600px; margin: 0 auto; }
+.image-grid.n3 { grid-template-columns: repeat(2, 1fr); }
+.image-grid.n3 .img-card:first-child { grid-column: 1 / -1; }
+.img-card {
+  background: var(--bg); border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line);
+  position: relative; cursor: pointer;
+}
+.img-card img { width: 100%; display: block; }
+.img-card .img-actions {
+  position: absolute; top: 8px; right: 8px; display: flex; gap: 6px; opacity: 0; transition: opacity .15s;
+}
+.img-card:hover .img-actions { opacity: 1; }
+.img-action-btn {
+  background: rgba(0,0,0,.65); color: #fff; border: none; border-radius: 6px;
+  padding: 5px 8px; font-size: 12px; backdrop-filter: blur(4px);
+}
+.img-action-btn:hover { background: rgba(0,0,0,.85); }
+
+/* Streaming */
+.stream-grid { display: grid; gap: 12px; grid-template-columns: repeat(2, 1fr); }
+.stream-tile {
+  aspect-ratio: 1; background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius);
+  display: flex; align-items: center; justify-content: center; overflow: hidden; position: relative;
+}
+.stream-tile img { width: 100%; height: 100%; object-fit: cover; }
+.stream-tile .stream-placeholder { color: var(--ink-faint); font-size: 12px; }
+.stream-pulse { animation: pulse 1.5s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+.progress-bar { position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: var(--line); }
+.progress-fill { height: 100%; background: var(--accent); transition: width .3s; }
+
+/* Reference images panel */
+.ref-panel { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+.ref-thumb {
+  width: 64px; height: 64px; border-radius: 6px; border: 1px solid var(--line); object-fit: cover;
+  position: relative; cursor: pointer;
+}
+.ref-item { position: relative; }
+.ref-remove {
+  position: absolute; top: -6px; right: -6px; width: 18px; height: 18px; border-radius: 50%;
+  background: var(--danger); color: #fff; border: none; font-size: 11px; line-height: 1;
+  display: flex; align-items: center; justify-content: center; z-index: 1;
+}
+.ref-rgba-badge {
+  position: absolute; bottom: 2px; left: 2px; right: 2px; background: rgba(217,119,6,.9);
+  color: #fff; font-size: 9px; text-align: center; border-radius: 3px; padding: 1px 2px;
+}
+.ref-add {
+  width: 64px; height: 64px; border-radius: 6px; border: 2px dashed var(--line);
+  background: var(--bg-alt); color: var(--ink-faint); font-size: 22px;
+  display: flex; align-items: center; justify-content: center; cursor: pointer;
+}
+.ref-add:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Mask editor */
+#mask-editor-wrap {
+  display: none; flex-direction: column; gap: 8px;
+}
+#mask-editor-wrap.show { display: flex; }
+.mask-canvas-wrap {
+  position: relative; border: 1px solid var(--line); border-radius: var(--radius);
+  overflow: hidden; cursor: crosshair; display: inline-block;
+}
+#mask-canvas { display: block; max-width: 100%; }
+.mask-tools { display: flex; gap: 6px; flex-wrap: wrap; }
+.mask-tool-btn {
+  font-size: 12px; padding: 4px 10px; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--bg-alt); color: var(--ink-soft);
+}
+.mask-tool-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.brush-slider { width: 100px; }
+
+/* Session history */
+.session-turns { display: flex; flex-direction: column; gap: 12px; margin-bottom: 12px; }
+.session-turn { background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.session-turn-header { padding: 8px 12px; font-size: 12px; color: var(--ink-faint); border-bottom: 1px solid var(--line); background: var(--bg-alt); }
+.session-turn-imgs { display: flex; gap: 8px; padding: 8px; }
+.session-turn-imgs img { width: 80px; height: 80px; object-fit: cover; border-radius: 4px; cursor: pointer; }
+
+/* ===== Prompt Bar ===== */
+#prompt-bar { display: flex; flex-direction: column; gap: 8px; }
+.prompt-bar-top { display: flex; gap: 8px; align-items: center; }
+.ref-upload-btn {
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--bg-alt); font-size: 12px; color: var(--ink-soft); white-space: nowrap;
+}
+.ref-upload-btn:hover { border-color: var(--accent); color: var(--accent); }
+.prompt-input {
+  flex: 1; padding: 8px 12px; border: 1px solid var(--line); border-radius: var(--radius);
+  font-size: 14px; resize: none; outline: none; background: var(--bg); min-height: 60px;
+}
+.prompt-input:focus { border-color: var(--accent); }
+.prompt-input:disabled { background: var(--bg-alt); color: var(--ink-faint); cursor: not-allowed; }
+.gen-btn {
+  padding: 8px 18px; background: var(--accent); color: #fff; border: none;
+  border-radius: var(--radius); font-size: 14px; font-weight: 600; white-space: nowrap;
+  min-height: 60px; transition: background .15s;
+}
+.gen-btn:hover:not(:disabled) { background: var(--accent-hover); }
+.gen-btn:disabled { background: var(--bg-alt); color: var(--ink-faint); cursor: default; }
+.prompt-bar-bottom { display: flex; justify-content: space-between; align-items: center; }
+.prompt-hint { font-size: 11px; color: var(--ink-faint); }
+.ref-count-badge { font-size: 11px; background: var(--accent-soft); color: var(--accent); padding: 2px 7px; border-radius: 10px; }
+
+/* ===== Lightbox ===== */
+#lightbox {
+  display: none; position: fixed; inset: 0; background: rgba(0,0,0,.85); z-index: 1000;
+  align-items: center; justify-content: center;
+}
+#lightbox.show { display: flex; }
+.lightbox-inner { position: relative; max-width: 90vw; max-height: 90vh; }
+.lightbox-inner img { max-width: 100%; max-height: 90vh; border-radius: var(--radius); display: block; }
+.lightbox-close { position: absolute; top: -36px; right: 0; background: none; border: none; color: #fff; font-size: 24px; }
+.lightbox-dl { position: absolute; bottom: -36px; right: 0; background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 6px 14px; font-size: 13px; }
+
+/* ===== Toast ===== */
+#toast-wrap { position: fixed; top: 64px; right: 16px; z-index: 2000; display: flex; flex-direction: column; gap: 8px; }
+.toast {
+  background: var(--ink); color: #fff; padding: 10px 16px; border-radius: var(--radius);
+  font-size: 13px; box-shadow: var(--shadow); animation: slideIn .2s ease;
+  display: flex; align-items: center; gap: 8px; max-width: 320px;
+}
+.toast.success { background: var(--success); }
+.toast.error { background: var(--danger); }
+.toast.warn { background: var(--warn); }
+@keyframes slideIn { from { transform: translateX(120%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+
+/* ===== Generating spinner in button ===== */
+.btn-spin { display: inline-block; width: 14px; height: 14px; border: 2px solid rgba(255,255,255,.4); border-top-color: #fff; border-radius: 50%; animation: spin .7s linear infinite; vertical-align: middle; margin-right: 6px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ===== Misc ===== */
+.hidden { display: none !important; }
+.section-title { font-size: 15px; font-weight: 600; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+
+<!-- Top bar -->
+<div id="topbar">
+  <div style="display:flex;align-items:center;gap:12px;">
+    <div class="topbar-logo"><span>⌬</span> Image Studio</div>
+    <div class="topbar-model">gpt-image-2</div>
+  </div>
+  <div class="topbar-right">
+    <button class="chip" onclick="showHistory()">📋 履歴</button>
+    <button class="chip" id="theme-toggle" onclick="toggleTheme()">🌙</button>
+  </div>
+</div>
+
+<div id="app">
+  <!-- Left Sidebar -->
+  <div id="sidebar">
+
+    <!-- Mode -->
+    <div class="sb-section">
+      <div class="sb-label">モード</div>
+      <div class="mode-tabs">
+        <button class="mode-tab active" data-mode="generate" onclick="setMode('generate')">✨ 生成</button>
+        <button class="mode-tab" data-mode="reference" onclick="setMode('reference')">🖼 参照</button>
+        <button class="mode-tab" data-mode="mask" onclick="setMode('mask')">✏️ マスク</button>
+        <button class="mode-tab" data-mode="session" onclick="setMode('session')">💬 会話</button>
+      </div>
+    </div>
+    <hr class="sb-divider">
+
+    <!-- Size -->
+    <div class="sb-section">
+      <div class="sb-label">サイズ</div>
+      <div class="size-presets">
+        <button class="size-btn active" data-size="1024x1024" onclick="setSize('1024x1024')">1024²</button>
+        <button class="size-btn" data-size="1536x1024" onclick="setSize('1536x1024')">横長</button>
+        <button class="size-btn" data-size="1024x1536" onclick="setSize('1024x1536')">縦長</button>
+        <button class="size-btn" data-size="2048x2048" onclick="setSize('2048x2048')">2K</button>
+        <button class="size-btn" data-size="auto" onclick="setSize('auto')">auto</button>
+      </div>
+      <div class="size-custom">
+        <input type="number" id="custom-w" placeholder="W" min="16" max="3840" step="16" oninput="setCustomSize()">
+        <span>×</span>
+        <input type="number" id="custom-h" placeholder="H" min="16" max="3840" step="16" oninput="setCustomSize()">
+        <span style="font-size:10px;color:var(--ink-faint)">px(16倍数)</span>
+      </div>
+    </div>
+    <hr class="sb-divider">
+
+    <!-- Quality -->
+    <div class="sb-section">
+      <div class="sb-row">
+        <label>クオリティ</label>
+        <select id="quality-sel" class="sb-select" onchange="updateCost()">
+          <option value="auto">auto</option>
+          <option value="low">low（安価・速い）</option>
+          <option value="medium">medium</option>
+          <option value="high">high（高品質）</option>
+        </select>
+      </div>
+      <div class="sb-row">
+        <label>フォーマット</label>
+        <select id="format-sel" class="sb-select">
+          <option value="png">PNG</option>
+          <option value="jpeg">JPEG（高速）</option>
+          <option value="webp">WebP</option>
+        </select>
+      </div>
+    </div>
+    <hr class="sb-divider">
+
+    <!-- N -->
+    <div class="sb-section">
+      <div class="sb-label">枚数</div>
+      <div class="n-btns">
+        <button class="n-btn active" data-n="1" onclick="setN(1)">1</button>
+        <button class="n-btn" data-n="2" onclick="setN(2)">2</button>
+        <button class="n-btn" data-n="3" onclick="setN(3)">3</button>
+        <button class="n-btn" data-n="4" onclick="setN(4)">4</button>
+      </div>
+    </div>
+    <hr class="sb-divider">
+
+    <!-- Streaming toggle -->
+    <div class="sb-section">
+      <div class="sb-row">
+        <label>ストリーミング</label>
+        <input type="checkbox" id="stream-toggle">
+      </div>
+      <div class="sb-row" id="partial-row">
+        <label>プレビュー数</label>
+        <select id="partial-sel" class="sb-select">
+          <option value="1">1</option>
+          <option value="2" selected>2</option>
+          <option value="3">3</option>
+        </select>
+      </div>
+    </div>
+    <hr class="sb-divider">
+
+    <!-- Cost estimate -->
+    <div class="sb-section">
+      <div class="cost-box">
+        <div class="cost-label">コスト概算</div>
+        <div class="cost-val" id="cost-val">—</div>
+        <div class="cost-note" id="cost-note">quality を選択してください</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main -->
+  <div id="main">
+    <div id="canvas-area">
+      <!-- Empty state -->
+      <div id="empty-state" class="empty-state">
+        <svg width="72" height="72" viewBox="0 0 72 72" fill="none">
+          <rect x="8" y="12" width="56" height="46" rx="4" stroke="currentColor" stroke-width="2"/>
+          <circle cx="24" cy="28" r="6" stroke="currentColor" stroke-width="2"/>
+          <path d="M12 54l16-16 12 10 16-18 4 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <h2>まだ画像がありません</h2>
+        <p>下のプロンプト欄に作りたい画像を入力して「生成する」を押してください</p>
+      </div>
+
+      <!-- Streaming view -->
+      <div id="stream-view" class="hidden">
+        <div class="section-title">生成中...</div>
+        <div id="stream-grid" class="stream-grid"></div>
+      </div>
+
+      <!-- Image grid -->
+      <div id="image-grid-view" class="hidden">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+          <div class="section-title" style="margin-bottom:0;" id="grid-title">生成完了</div>
+          <button class="chip" onclick="clearImages()">クリア</button>
+        </div>
+        <div id="image-grid" class="image-grid"></div>
+      </div>
+
+      <!-- Mask editor area -->
+      <div id="mask-editor-wrap">
+        <div class="section-title">マスク編集</div>
+        <div style="margin-bottom:8px;font-size:12px;color:var(--ink-faint)">元画像を選択してから、消しゴムで編集したい部分を描いてください</div>
+        <div class="mask-tools">
+          <button class="mask-tool-btn active" id="mask-erase-btn" onclick="setMaskTool('erase')">✏️ 編集領域を描く</button>
+          <button class="mask-tool-btn" id="mask-keep-btn" onclick="setMaskTool('keep')">↩️ 取り消す（保持）</button>
+          <button class="mask-tool-btn" onclick="undoMask()">↰ Undo</button>
+          <button class="mask-tool-btn" onclick="clearMask()">🗑 クリア</button>
+          <input type="range" class="brush-slider" id="brush-size" min="5" max="100" value="40" oninput="updateBrushSize()">
+          <span id="brush-size-label" style="font-size:11px;color:var(--ink-faint)">40px</span>
+        </div>
+        <div>
+          <label style="font-size:12px;color:var(--ink-soft);display:block;margin-bottom:4px;">元画像を選択</label>
+          <input type="file" id="mask-base-input" accept="image/*" onchange="loadMaskBase(event)">
+        </div>
+        <div class="mask-canvas-wrap" id="mask-canvas-wrap">
+          <canvas id="mask-canvas" width="512" height="512"></canvas>
+        </div>
+      </div>
+
+      <!-- Session turns -->
+      <div id="session-view" class="hidden">
+        <div class="section-title">マルチターン会話</div>
+        <div id="session-turns" class="session-turns"></div>
+      </div>
+    </div>
+
+    <!-- Reference images (shown above prompt bar when in reference mode) -->
+    <div id="ref-panel-wrap" class="hidden" style="background:var(--bg);border-top:1px solid var(--line);padding:10px 16px;">
+      <div style="font-size:11px;color:var(--ink-faint);margin-bottom:6px;">参照画像（最大10枚）— RGBA は自動で RGB 変換されます</div>
+      <div class="ref-panel" id="ref-panel">
+        <button class="ref-add" onclick="document.getElementById('ref-input').click()">+</button>
+      </div>
+      <input type="file" id="ref-input" accept="image/*" multiple class="hidden" onchange="addRefImages(event)">
+    </div>
+
+    <!-- Prompt bar -->
+    <div id="prompt-bar">
+      <div class="prompt-bar-top">
+        <button class="ref-upload-btn" id="ref-upload-toggle" onclick="toggleRefPanel()">📎 参照画像</button>
+        <textarea class="prompt-input" id="prompt" placeholder="例: 深夜カフェでノートPCを開いている女性、暖色のあかり、シネマティックな構図…" rows="3"></textarea>
+        <button class="gen-btn" id="gen-btn" onclick="onGenerate()">生成する</button>
+      </div>
+      <div class="prompt-bar-bottom">
+        <span class="prompt-hint" id="prompt-hint">⌘+Enter で送信</span>
+        <span id="ref-badge" class="ref-count-badge hidden"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Lightbox -->
+<div id="lightbox" onclick="closeLightbox(event)">
+  <div class="lightbox-inner" id="lightbox-inner">
+    <button class="lightbox-close" onclick="closeLightbox()">✕</button>
+    <img id="lightbox-img" src="" alt="">
+    <button class="lightbox-dl" id="lightbox-dl" onclick="downloadLightbox()">⬇ ダウンロード</button>
+  </div>
+</div>
+
+<!-- Toast container -->
+<div id="toast-wrap"></div>
+
+<script>
+/* ============================
+   State
+   ============================ */
+const state = {
+  mode: 'generate',
+  size: '1024x1024',
+  quality: 'auto',
+  n: 1,
+  outputFormat: 'png',
+  useStream: false,
+  partialImages: 2,
+  referenceImages: [],   // {file, previewUrl, isRGBA, name}
+  currentImages: [],     // {b64, format}
+  sessionId: null,
+  sessionTurns: [],      // {prompt, images}[]
+  isGenerating: false,
+  maskTool: 'erase',
+  brushSize: 40,
+  maskHistory: [],
+  maskHistoryStep: -1,
+  lightboxB64: null,
+  lightboxFormat: 'png',
+};
+
+/* cost table: [quality][size_bucket] → USD per image */
+const COST = {
+  low:    { '1024x1024': 0.006, '1536x1024': 0.005, '1024x1536': 0.005, '2048x2048': 0.010, other: 0.008 },
+  medium: { '1024x1024': 0.042, '1536x1024': 0.041, '1024x1536': 0.041, '2048x2048': 0.080, other: 0.060 },
+  high:   { '1024x1024': 0.167, '1536x1024': 0.165, '1024x1536': 0.165, '2048x2048': 0.320, other: 0.250 },
+  auto:   null,
+};
+
+/* ============================
+   Mode / Param setters
+   ============================ */
+function setMode(mode) {
+  state.mode = mode;
+  document.querySelectorAll('.mode-tab').forEach(t => t.classList.toggle('active', t.dataset.mode === mode));
+
+  // show/hide panels
+  document.getElementById('mask-editor-wrap').classList.toggle('show', mode === 'mask');
+  document.getElementById('session-view').classList.toggle('hidden', mode !== 'session');
+  document.getElementById('ref-panel-wrap').classList.toggle('hidden', mode !== 'reference');
+  if (mode !== 'reference' && mode !== 'mask') {
+    showCurrentState();
+  }
+  updatePromptHint();
+}
+
+function setSize(size) {
+  state.size = size;
+  document.querySelectorAll('.size-btn').forEach(b => b.classList.toggle('active', b.dataset.size === size));
+  document.getElementById('custom-w').value = '';
+  document.getElementById('custom-h').value = '';
+  updateCost();
+}
+
+function setCustomSize() {
+  const w = document.getElementById('custom-w').value;
+  const h = document.getElementById('custom-h').value;
+  if (w && h) {
+    state.size = `${w}x${h}`;
+    document.querySelectorAll('.size-btn').forEach(b => b.classList.remove('active'));
+    updateCost();
+  }
+}
+
+function setN(n) {
+  state.n = n;
+  document.querySelectorAll('.n-btn').forEach(b => b.classList.toggle('active', b.dataset.n == n));
+  updateCost();
+}
+
+function updateCost() {
+  state.quality = document.getElementById('quality-sel').value;
+  state.outputFormat = document.getElementById('format-sel').value;
+  state.partialImages = parseInt(document.getElementById('partial-sel').value);
+
+  const costValEl = document.getElementById('cost-val');
+  const costNoteEl = document.getElementById('cost-note');
+  const table = COST[state.quality];
+  if (!table) {
+    costValEl.textContent = '—';
+    costNoteEl.textContent = 'auto: モデルが選択';
+    return;
+  }
+  const perImg = table[state.size] ?? table.other;
+  const total = (perImg * state.n).toFixed(4);
+  costValEl.textContent = `$${total}`;
+  costNoteEl.textContent = `$${perImg.toFixed(3)} × ${state.n} 枚`;
+}
+
+/* ============================
+   Generate
+   ============================ */
+async function onGenerate() {
+  if (state.isGenerating) return;
+  const prompt = document.getElementById('prompt').value.trim();
+  if (!prompt) { showToast('プロンプトを入力してください', 'error'); return; }
+
+  state.quality = document.getElementById('quality-sel').value;
+  state.outputFormat = document.getElementById('format-sel').value;
+  state.useStream = document.getElementById('stream-toggle').checked;
+  state.partialImages = parseInt(document.getElementById('partial-sel').value);
+
+  setGenerating(true);
+
+  try {
+    if (state.mode === 'generate') {
+      if (state.useStream) {
+        await doStream(prompt);
+      } else {
+        await doGenerate(prompt);
+      }
+    } else if (state.mode === 'reference') {
+      await doEdit(prompt);
+    } else if (state.mode === 'mask') {
+      await doMaskEdit(prompt);
+    } else if (state.mode === 'session') {
+      await doSession(prompt);
+    }
+  } finally {
+    setGenerating(false);
+  }
+}
+
+function setGenerating(val) {
+  state.isGenerating = val;
+  const btn = document.getElementById('gen-btn');
+  const prompt = document.getElementById('prompt');
+  btn.disabled = val;
+  prompt.disabled = val;
+  btn.innerHTML = val ? '<span class="btn-spin"></span>生成中...' : '生成する';
+}
+
+/* ============================
+   POST /generate
+   ============================ */
+async function doGenerate(prompt) {
+  const body = { prompt, size: state.size, quality: state.quality, n: state.n, output_format: state.outputFormat };
+  const res = await fetch('generate', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  const data = await res.json();
+  if (!res.ok) { showToast(data.detail || 'エラーが発生しました', 'error'); return; }
+  state.currentImages = data.images.map(b64 => ({ b64, format: data.format }));
+  renderImageGrid();
+  showToast(`${data.images.length} 枚生成しました`, 'success');
+}
+
+/* ============================
+   GET /generate/stream (SSE)
+   ============================ */
+async function doStream(prompt) {
+  const params = new URLSearchParams({
+    prompt, size: state.size, quality: state.quality, n: state.n,
+    partial_images: state.partialImages, output_format: state.outputFormat,
+  });
+
+  showStreamView();
+
+  return new Promise((resolve) => {
+    const es = new EventSource(`generate/stream?${params}`);
+    const finalImages = {};
+
+    es.onmessage = (e) => {
+      const data = JSON.parse(e.data);
+      if (data.type === 'partial') {
+        updateStreamTile(data.image_index, data.b64, data.index, state.partialImages);
+        finalImages[data.image_index] = data.b64;
+      } else if (data.type === 'done') {
+        es.close();
+        state.currentImages = Object.values(finalImages).map(b64 => ({ b64, format: state.outputFormat }));
+        renderImageGrid();
+        showToast(`生成完了`, 'success');
+        resolve();
+      } else if (data.type === 'error') {
+        es.close();
+        showToast(data.message, 'error');
+        showCurrentState();
+        resolve();
+      }
+    };
+    es.onerror = () => {
+      es.close();
+      showToast('ストリーム接続エラー', 'error');
+      showCurrentState();
+      resolve();
+    };
+  });
+}
+
+function showStreamView() {
+  document.getElementById('empty-state').classList.add('hidden');
+  document.getElementById('image-grid-view').classList.add('hidden');
+  document.getElementById('stream-view').classList.remove('hidden');
+
+  const grid = document.getElementById('stream-grid');
+  grid.innerHTML = '';
+  grid.className = `stream-grid n${state.n}`;
+  for (let i = 0; i < state.n; i++) {
+    const tile = document.createElement('div');
+    tile.className = 'stream-tile stream-pulse';
+    tile.id = `stream-tile-${i}`;
+    tile.innerHTML = `<span class="stream-placeholder">生成中…</span><div class="progress-bar"><div class="progress-fill" id="progress-${i}" style="width:0%"></div></div>`;
+    grid.appendChild(tile);
+  }
+}
+
+function updateStreamTile(imgIdx, b64, partialIdx, totalPartials) {
+  const tile = document.getElementById(`stream-tile-${imgIdx}`);
+  if (!tile) return;
+  tile.classList.remove('stream-pulse');
+  const pct = Math.round(((partialIdx + 1) / totalPartials) * 100);
+  tile.innerHTML = `<img src="data:image/png;base64,${b64}" alt="生成中"><div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>`;
+}
+
+/* ============================
+   POST /edit (reference)
+   ============================ */
+async function doEdit(prompt) {
+  if (state.referenceImages.length === 0) {
+    showToast('参照画像を1枚以上追加してください', 'error');
+    return;
+  }
+  const fd = new FormData();
+  fd.append('prompt', prompt);
+  fd.append('size', state.size);
+  fd.append('quality', state.quality);
+  fd.append('n', state.n);
+  fd.append('output_format', state.outputFormat);
+  state.referenceImages.forEach(img => fd.append('images', img.file));
+
+  const res = await fetch('edit', { method: 'POST', body: fd });
+  const data = await res.json();
+  if (!res.ok) { showToast(data.detail || 'エラー', 'error'); return; }
+  if (data.rgba_converted?.length) {
+    showToast(`${data.rgba_converted.join(', ')} を RGB 変換しました`, 'warn');
+  }
+  state.currentImages = data.images.map(b64 => ({ b64, format: data.format }));
+  renderImageGrid();
+  showToast(`${data.images.length} 枚生成しました`, 'success');
+}
+
+/* ============================
+   POST /edit/mask
+   ============================ */
+async function doMaskEdit(prompt) {
+  const baseInput = document.getElementById('mask-base-input');
+  if (!baseInput.files[0]) { showToast('元画像を選択してください', 'error'); return; }
+
+  const maskBlob = await exportMaskBlob();
+  if (!maskBlob) { showToast('マスクを描いてください', 'error'); return; }
+
+  const fd = new FormData();
+  fd.append('prompt', prompt);
+  fd.append('size', state.size);
+  fd.append('quality', state.quality);
+  fd.append('n', state.n);
+  fd.append('image', baseInput.files[0]);
+  fd.append('mask', maskBlob, 'mask.png');
+
+  const res = await fetch('edit/mask', { method: 'POST', body: fd });
+  const data = await res.json();
+  if (!res.ok) { showToast(data.detail || 'エラー', 'error'); return; }
+  state.currentImages = data.images.map(b64 => ({ b64, format: 'png' }));
+  renderImageGrid();
+  showToast(`${data.images.length} 枚生成しました`, 'success');
+}
+
+/* ============================
+   POST /session/*
+   ============================ */
+async function doSession(prompt) {
+  let data, res;
+  if (!state.sessionId) {
+    res = await fetch('session/create', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompt, size: state.size, quality: state.quality, output_format: state.outputFormat }),
+    });
+    data = await res.json();
+    if (!res.ok) { showToast(data.detail || 'エラー', 'error'); return; }
+    state.sessionId = data.session_id;
+    showToast('セッション開始', 'success');
+  } else {
+    res = await fetch('session/continue', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ session_id: state.sessionId, prompt }),
+    });
+    data = await res.json();
+    if (!res.ok) {
+      if (res.status === 404) { state.sessionId = null; }
+      showToast(data.detail || 'エラー', 'error');
+      return;
+    }
+  }
+  state.sessionTurns.push({ prompt, images: data.images.map(b64 => ({ b64, format: 'png' })) });
+  renderSessionView();
+  showToast(`Turn ${data.turn} 完了`, 'success');
+}
+
+/* ============================
+   Rendering
+   ============================ */
+function showCurrentState() {
+  if (state.currentImages.length > 0) {
+    renderImageGrid();
+  } else {
+    document.getElementById('empty-state').classList.remove('hidden');
+    document.getElementById('stream-view').classList.add('hidden');
+    document.getElementById('image-grid-view').classList.add('hidden');
+  }
+}
+
+function renderImageGrid() {
+  document.getElementById('empty-state').classList.add('hidden');
+  document.getElementById('stream-view').classList.add('hidden');
+  document.getElementById('image-grid-view').classList.remove('hidden');
+
+  const grid = document.getElementById('image-grid');
+  const n = state.currentImages.length;
+  grid.className = `image-grid n${n}`;
+  grid.innerHTML = '';
+  state.currentImages.forEach(({ b64, format }, i) => {
+    const card = document.createElement('div');
+    card.className = 'img-card';
+    const mime = format === 'jpeg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+    card.innerHTML = `
+      <img src="data:${mime};base64,${b64}" alt="生成画像 ${i+1}" onclick="openLightbox(${i})">
+      <div class="img-actions">
+        <button class="img-action-btn" onclick="openLightbox(${i})">🔍 拡大</button>
+        <button class="img-action-btn" onclick="useAsReference(${i})">🖼 参照に追加</button>
+        <button class="img-action-btn" onclick="useAsMaskBase(${i})">✏️ マスクで編集</button>
+        <button class="img-action-btn" onclick="downloadImage(${i})">⬇ 保存</button>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+  document.getElementById('grid-title').textContent = `${n} 枚生成`;
+}
+
+function renderSessionView() {
+  document.getElementById('empty-state').classList.add('hidden');
+  document.getElementById('session-view').classList.remove('hidden');
+  const container = document.getElementById('session-turns');
+  container.innerHTML = '';
+  state.sessionTurns.forEach(({ prompt, images }, ti) => {
+    const div = document.createElement('div');
+    div.className = 'session-turn';
+    const imgs = images.map((img, i) => `<img src="data:image/png;base64,${img.b64}" alt="" onclick="openLightboxDirect('${img.b64}','png')">`).join('');
+    div.innerHTML = `
+      <div class="session-turn-header">Turn ${ti+1}: ${escapeHtml(prompt.slice(0, 80))}</div>
+      <div class="session-turn-imgs">${imgs}</div>
+    `;
+    container.appendChild(div);
+  });
+  container.scrollTop = container.scrollHeight;
+}
+
+function clearImages() {
+  state.currentImages = [];
+  showCurrentState();
+}
+
+/* ============================
+   Reference images
+   ============================ */
+function toggleRefPanel() {
+  const panel = document.getElementById('ref-panel-wrap');
+  panel.classList.toggle('hidden');
+}
+
+async function addRefImages(event) {
+  const files = Array.from(event.target.files);
+  for (const file of files) {
+    if (state.referenceImages.length >= 10) { showToast('参照画像は最大10枚です', 'warn'); break; }
+    if (!file.type.startsWith('image/')) { showToast(`${file.name} は画像ではありません`, 'error'); continue; }
+    if (file.size > 50 * 1024 * 1024) { showToast(`${file.name} が 50MB を超えています`, 'error'); continue; }
+    const isRGBA = await detectRGBA(file);
+    const previewUrl = URL.createObjectURL(file);
+    state.referenceImages.push({ file, previewUrl, isRGBA, name: file.name });
+  }
+  renderRefPanel();
+  event.target.value = '';
+}
+
+function removeRefImage(idx) {
+  URL.revokeObjectURL(state.referenceImages[idx].previewUrl);
+  state.referenceImages.splice(idx, 1);
+  renderRefPanel();
+}
+
+function renderRefPanel() {
+  const panel = document.getElementById('ref-panel');
+  panel.innerHTML = '';
+  state.referenceImages.forEach(({ previewUrl, isRGBA, name }, i) => {
+    const item = document.createElement('div');
+    item.className = 'ref-item';
+    item.innerHTML = `
+      <img class="ref-thumb" src="${previewUrl}" alt="${escapeHtml(name)}" title="${escapeHtml(name)}">
+      ${isRGBA ? '<div class="ref-rgba-badge">RGBA→RGB</div>' : ''}
+      <button class="ref-remove" onclick="removeRefImage(${i})">✕</button>
+    `;
+    panel.appendChild(item);
+  });
+  if (state.referenceImages.length < 10) {
+    const addBtn = document.createElement('button');
+    addBtn.className = 'ref-add';
+    addBtn.textContent = '+';
+    addBtn.onclick = () => document.getElementById('ref-input').click();
+    panel.appendChild(addBtn);
+  }
+  const badge = document.getElementById('ref-badge');
+  if (state.referenceImages.length > 0) {
+    badge.textContent = `${state.referenceImages.length} 枚`;
+    badge.classList.remove('hidden');
+  } else {
+    badge.classList.add('hidden');
+  }
+}
+
+async function detectRGBA(file) {
+  if (!file.name.toLowerCase().endsWith('.png')) return false;
+  return new Promise(resolve => {
+    const reader = new FileReader();
+    reader.onload = e => {
+      const buf = new Uint8Array(e.target.result);
+      // PNG signature: bytes 1-3 = PNG, color type at offset 25
+      if (buf[1] === 0x50 && buf[2] === 0x4E && buf[3] === 0x47) {
+        resolve(buf[25] === 6 || buf[25] === 4);
+      } else {
+        resolve(false);
+      }
+    };
+    reader.readAsArrayBuffer(file.slice(0, 26));
+  });
+}
+
+/* ============================
+   Mask Editor
+   ============================ */
+let maskCanvas, maskCtx, maskDrawing = false;
+
+function initMaskCanvas() {
+  maskCanvas = document.getElementById('mask-canvas');
+  maskCtx = maskCanvas.getContext('2d');
+  maskCanvas.addEventListener('mousedown', maskStart);
+  maskCanvas.addEventListener('mousemove', maskDraw);
+  maskCanvas.addEventListener('mouseup', maskEnd);
+  maskCanvas.addEventListener('mouseleave', maskEnd);
+  maskCanvas.addEventListener('touchstart', e => { e.preventDefault(); maskStart(e.touches[0]); }, { passive: false });
+  maskCanvas.addEventListener('touchmove', e => { e.preventDefault(); maskDraw(e.touches[0]); }, { passive: false });
+  maskCanvas.addEventListener('touchend', maskEnd);
+  clearMask();
+}
+
+function loadMaskBase(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = e => loadMaskBaseFromDataUrl(e.target.result);
+  reader.readAsDataURL(file);
+}
+
+function loadMaskBaseFromDataUrl(dataUrl) {
+  const img = new Image();
+  img.onload = () => {
+    const maxW = Math.min(img.width, 512);
+    const scale = maxW / img.width;
+    maskCanvas.width = Math.round(img.width * scale);
+    maskCanvas.height = Math.round(img.height * scale);
+    maskCtx.drawImage(img, 0, 0, maskCanvas.width, maskCanvas.height);
+    saveMaskState();
+  };
+  img.src = dataUrl;
+}
+
+function maskStart(e) {
+  maskDrawing = true;
+  saveMaskState();
+  maskDraw(e);
+}
+function maskEnd() { maskDrawing = false; }
+function maskDraw(e) {
+  if (!maskDrawing) return;
+  const rect = maskCanvas.getBoundingClientRect();
+  const x = (e.clientX - rect.left) * (maskCanvas.width / rect.width);
+  const y = (e.clientY - rect.top) * (maskCanvas.height / rect.height);
+  maskCtx.save();
+  maskCtx.globalCompositeOperation = state.maskTool === 'erase' ? 'destination-out' : 'source-over';
+  maskCtx.fillStyle = state.maskTool === 'keep' ? 'white' : 'rgba(0,0,0,1)';
+  maskCtx.beginPath();
+  maskCtx.arc(x, y, state.brushSize / 2, 0, Math.PI * 2);
+  maskCtx.fill();
+  maskCtx.restore();
+}
+
+function setMaskTool(tool) {
+  state.maskTool = tool;
+  document.getElementById('mask-erase-btn').classList.toggle('active', tool === 'erase');
+  document.getElementById('mask-keep-btn').classList.toggle('active', tool === 'keep');
+}
+
+function updateBrushSize() {
+  state.brushSize = parseInt(document.getElementById('brush-size').value);
+  document.getElementById('brush-size-label').textContent = `${state.brushSize}px`;
+}
+
+function saveMaskState() {
+  if (!maskCanvas) return;
+  state.maskHistory = state.maskHistory.slice(0, state.maskHistoryStep + 1);
+  state.maskHistory.push(maskCtx.getImageData(0, 0, maskCanvas.width, maskCanvas.height));
+  state.maskHistoryStep = state.maskHistory.length - 1;
+  if (state.maskHistory.length > 20) {
+    state.maskHistory.shift();
+    state.maskHistoryStep--;
+  }
+}
+
+function undoMask() {
+  if (state.maskHistoryStep <= 0) return;
+  state.maskHistoryStep--;
+  maskCtx.putImageData(state.maskHistory[state.maskHistoryStep], 0, 0);
+}
+
+function clearMask() {
+  if (!maskCanvas) return;
+  maskCtx.clearRect(0, 0, maskCanvas.width, maskCanvas.height);
+  saveMaskState();
+}
+
+async function exportMaskBlob() {
+  if (!maskCanvas) return null;
+  return new Promise(resolve => {
+    // build RGBA mask: painted area = transparent (alpha=0), rest = opaque white
+    const w = maskCanvas.width, h = maskCanvas.height;
+    const src = maskCtx.getImageData(0, 0, w, h);
+    const dst = maskCtx.createImageData(w, h);
+    for (let i = 0; i < w * h; i++) {
+      const alpha = src.data[i * 4 + 3];
+      if (alpha < 128) {
+        // transparent = edit area
+        dst.data[i*4]=0; dst.data[i*4+1]=0; dst.data[i*4+2]=0; dst.data[i*4+3]=0;
+      } else {
+        // opaque white = keep area
+        dst.data[i*4]=255; dst.data[i*4+1]=255; dst.data[i*4+2]=255; dst.data[i*4+3]=255;
+      }
+    }
+    const offscreen = document.createElement('canvas');
+    offscreen.width = w; offscreen.height = h;
+    offscreen.getContext('2d').putImageData(dst, 0, 0);
+    offscreen.toBlob(resolve, 'image/png');
+  });
+}
+
+/* ============================
+   Lightbox
+   ============================ */
+function openLightbox(idx) {
+  const { b64, format } = state.currentImages[idx];
+  openLightboxDirect(b64, format);
+}
+function openLightboxDirect(b64, format) {
+  state.lightboxB64 = b64;
+  state.lightboxFormat = format;
+  const mime = format === 'jpeg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+  document.getElementById('lightbox-img').src = `data:${mime};base64,${b64}`;
+  document.getElementById('lightbox').classList.add('show');
+}
+function closeLightbox(e) {
+  if (!e || e.target === document.getElementById('lightbox')) {
+    document.getElementById('lightbox').classList.remove('show');
+  }
+}
+function downloadLightbox() {
+  downloadB64(state.lightboxB64, state.lightboxFormat, 'image');
+}
+
+/* ============================
+   Use as Reference
+   ============================ */
+async function useAsReference(idx) {
+  if (state.referenceImages.length >= 10) {
+    showToast('参照画像は最大 10 枚です', 'warn');
+    return;
+  }
+  const { b64, format } = state.currentImages[idx];
+  const mime = format === 'jpeg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+  const ext  = format === 'jpeg' ? 'jpg' : format;
+
+  // base64 → Blob → File に変換
+  const byteChars = atob(b64);
+  const bytes = new Uint8Array(byteChars.length);
+  for (let i = 0; i < byteChars.length; i++) bytes[i] = byteChars.charCodeAt(i);
+  const blob = new Blob([bytes], { type: mime });
+  const file = new File([blob], `generated_${idx + 1}.${ext}`, { type: mime });
+
+  const previewUrl = URL.createObjectURL(blob);
+  state.referenceImages.push({ file, previewUrl, isRGBA: false, name: file.name });
+
+  // 参照モードに切り替えてパネルを開く
+  setMode('reference');
+  document.getElementById('ref-panel-wrap').classList.remove('hidden');
+  renderRefPanel();
+  showToast(`画像 ${idx + 1} を参照に追加しました`, 'success');
+}
+
+/* ============================
+   Use as Mask Base
+   ============================ */
+function useAsMaskBase(idx) {
+  const { b64, format } = state.currentImages[idx];
+  const mime = format === 'jpeg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+  const dataUrl = `data:${mime};base64,${b64}`;
+
+  setMode('mask');
+  loadMaskBaseFromDataUrl(dataUrl);
+  showToast(`画像 ${idx + 1} をマスクエディタに読み込みました`, 'success');
+}
+
+/* ============================
+   Download
+   ============================ */
+function downloadImage(idx) {
+  const { b64, format } = state.currentImages[idx];
+  downloadB64(b64, format, `image_${idx + 1}`);
+}
+function downloadB64(b64, format, name) {
+  const ext = format === 'jpeg' ? 'jpg' : format;
+  const mime = format === 'jpeg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+  const byteChars = atob(b64);
+  const bytes = new Uint8Array(byteChars.length);
+  for (let i = 0; i < byteChars.length; i++) bytes[i] = byteChars.charCodeAt(i);
+  const blob = new Blob([bytes], { type: mime });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `${name}.${ext}`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+/* ============================
+   History (basic)
+   ============================ */
+function showHistory() {
+  showToast('履歴機能は今後追加予定です', 'warn');
+}
+
+/* ============================
+   Toast
+   ============================ */
+function showToast(msg, type = '') {
+  const wrap = document.getElementById('toast-wrap');
+  const t = document.createElement('div');
+  t.className = `toast${type ? ' ' + type : ''}`;
+  t.textContent = msg;
+  wrap.appendChild(t);
+  setTimeout(() => t.remove(), 4000);
+}
+
+/* ============================
+   Theme toggle (simple)
+   ============================ */
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  showToast('ダークモードは今後追加予定です', 'warn');
+}
+
+/* ============================
+   Misc
+   ============================ */
+function updatePromptHint() {
+  const hints = {
+    generate: '⌘+Enter（Mac）/ Ctrl+Enter（Win）で送信',
+    reference: '参照画像を選択してからプロンプトを入力してください',
+    mask: '元画像を選択してからマスクを描いてください',
+    session: '会話を続けて画像を磨き上げてください',
+  };
+  document.getElementById('prompt-hint').textContent = hints[state.mode] || '';
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// Cmd+Enter (Mac) / Ctrl+Enter (Windows) で送信
+document.getElementById('prompt').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) { e.preventDefault(); onGenerate(); }
+});
+
+document.getElementById('stream-toggle').addEventListener('change', e => {
+  state.useStream = e.target.checked;
+  document.getElementById('partial-row').style.opacity = e.target.checked ? 1 : 0.4;
+});
+
+/* ============================
+   Init
+   ============================ */
+window.addEventListener('DOMContentLoaded', () => {
+  initMaskCanvas();
+  updateCost();
+  updatePromptHint();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>GPT Image 2 — UI Wireframes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Caveat:wght@400;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles-midfi.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #ece8df; font-family: 'Kalam', cursive; }
+  /* design canvas wraps the artboards; this body just hosts it */
+  #app { height: 100vh; }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<!-- React + Babel -->
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="design-canvas.jsx"></script>
+<script type="text/babel" src="tweaks-panel.jsx"></script>
+<script type="text/babel" src="shared.jsx"></script>
+<script type="text/babel" src="wireframes-1-2.jsx"></script>
+<script type="text/babel" src="wireframes-3-5.jsx"></script>
+<script type="text/babel" src="midfi-shared.jsx"></script>
+<script type="text/babel" src="midfi-patterns.jsx"></script>
+<script type="text/babel" src="midfi-states.jsx"></script>
+
+<script type="text/babel">
+const { useState, useEffect } = React;
+const { DesignCanvas, DCSection, DCArtboard } = window;
+const { TweaksPanel, useTweaks, TweakSection, TweakRadio, TweakToggle, TweakSelect } = window;
+
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "showAnnotations": true,
+  "density": "normal",
+  "language": "ja",
+  "accentColor": "#ff6b35"
+}/*EDITMODE-END*/;
+
+function App() {
+  const [t, setTweak] = useTweaks(TWEAK_DEFAULTS);
+
+  // apply accent color live
+  useEffect(() => {
+    document.documentElement.style.setProperty('--accent', t.accentColor);
+  }, [t.accentColor]);
+
+  // toggle annotations
+  useEffect(() => {
+    document.body.classList.toggle('hide-annotations', !t.showAnnotations);
+  }, [t.showAnnotations]);
+
+  return (
+    <>
+      <DesignCanvas>
+        <DCSection id="overview" title="GPT Image 2 — UI画面 wireframes" subtitle="参照記事「GPT Image 2 API実践ガイド」を反映 ・ 5案 ・ 空状態にフォーカス">
+          <DCArtboard id="wf1" label="A. クラシック左サイドバー — 王道、迷わない" width={1280} height={800}>
+            <Wireframe1 />
+          </DCArtboard>
+          <DCArtboard id="wf2" label="B. 2ペイン・フォーム先導 — 業務ユーザー向け" width={1280} height={800}>
+            <Wireframe2 />
+          </DCArtboard>
+          <DCArtboard id="wf3" label="C. モード選択ハブ — 目的から選ぶ" width={1280} height={800}>
+            <Wireframe3 />
+          </DCArtboard>
+          <DCArtboard id="wf4" label="D. 会話モード — マルチターン編集が主役" width={1280} height={800}>
+            <Wireframe4 />
+          </DCArtboard>
+          <DCArtboard id="wf5" label="E. コンパクトスタジオ — 高密度パワーユーザー" width={1280} height={800}>
+            <Wireframe5 />
+          </DCArtboard>
+        </DCSection>
+
+        <DCSection id="midfi" title="② A案ミッドフィ深掘り — 生成完了 · 複数枚グリッド" subtitle="3パターン比較 + コンポーネント状態仕様">
+          <DCArtboard id="ma1" label="A-1. 等寸2×2グリッド — シンプル王道" width={1280} height={800}>
+            <PatternA1 />
+          </DCArtboard>
+          <DCArtboard id="ma2" label="A-2. ヒーロー+サムネイル — 1枚集中" width={1280} height={800}>
+            <PatternA2 />
+          </DCArtboard>
+          <DCArtboard id="ma3" label="A-3. ランカード積層 — メタ情報リッチ" width={1280} height={800}>
+            <PatternA3 />
+          </DCArtboard>
+          <DCArtboard id="ma-states" label="A. UIコンポーネント状態仕様" width={1280} height={800}>
+            <ComponentStates />
+          </DCArtboard>
+        </DCSection>
+
+        <DCSection id="states" title="③ 他の重要状態・画面" subtitle="ストリーミング/参照アップロード/マスク編集/ライトボックス/エラー">
+          <DCArtboard id="st-stream" label="B-1. 生成中 · ストリーミング (partial_images)" width={1280} height={800}>
+            <StreamingState />
+          </DCArtboard>
+          <DCArtboard id="st-ref" label="B-2. 参照画像アップロード済み (最大 10枚・役割ラベル)" width={1280} height={800}>
+            <RefUploadedState />
+          </DCArtboard>
+          <DCArtboard id="st-mask" label="B-3. マスク編集モード (部分編集)" width={1280} height={800}>
+            <MaskEditMode />
+          </DCArtboard>
+          <DCArtboard id="st-light" label="B-4. 1枚フルスクリーン詳細 (lightbox)" width={1280} height={800}>
+            <LightboxView />
+          </DCArtboard>
+          <DCArtboard id="st-err" label="B-5. エラー・警告状態一覧" width={1280} height={800}>
+            <ErrorStates />
+          </DCArtboard>
+        </DCSection>
+      </DesignCanvas>
+
+      <TweaksPanel title="Tweaks">
+        <TweakSection title="表示">
+          <TweakToggle
+            label="注釈・スタンプを表示"
+            checked={t.showAnnotations}
+            onChange={(v) => setTweak('showAnnotations', v)}
+          />
+        </TweakSection>
+        <TweakSection title="アクセントカラー">
+          <TweakRadio
+            value={t.accentColor}
+            options={[
+              { value: '#ff6b35', label: 'オレンジ' },
+              { value: '#2563eb', label: 'ブルー' },
+              { value: '#16a34a', label: 'グリーン' },
+            ]}
+            onChange={(v) => setTweak('accentColor', v)}
+          />
+        </TweakSection>
+        <TweakSection title="情報密度 (参考)">
+          <TweakRadio
+            value={t.density}
+            options={[
+              { value: 'compact', label: 'コンパクト' },
+              { value: 'normal', label: '標準' },
+            ]}
+            onChange={(v) => setTweak('density', v)}
+          />
+        </TweakSection>
+      </TweaksPanel>
+    </>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('app')).render(<App />);
+</script>
+
+<style>
+  body.hide-annotations .wf-annotation,
+  body.hide-annotations .wf-stamp { display: none !important; }
+</style>
+</body>
+</html>

@@ -1,0 +1,263 @@
+/* Sketchy wireframe aesthetic — handwritten but readable */
+
+:root {
+  --ink: #1a1a1a;
+  --ink-soft: #4a4a4a;
+  --ink-faint: #8a8a8a;
+  --paper: #fafaf7;
+  --paper-warm: #f5f1e8;
+  --line: #1a1a1a;
+  --accent: #ff6b35; /* used very sparingly for emphasis */
+  --accent-soft: #ffd9c8;
+  --highlight: #fff4a3;
+}
+
+* { box-sizing: border-box; }
+
+.wf {
+  font-family: 'Kalam', 'Caveat', 'Comic Sans MS', cursive;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.35;
+}
+
+.wf-mono {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+
+.wf-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-soft);
+}
+
+/* Sketchy borders — slightly irregular look via dual border + offset */
+.wf-box {
+  border: 1.5px solid var(--line);
+  background: var(--paper);
+  border-radius: 4px;
+  position: relative;
+}
+
+.wf-box-dashed {
+  border: 1.5px dashed var(--line);
+  border-radius: 4px;
+  background: transparent;
+}
+
+.wf-box-rough {
+  border: 1.5px solid var(--line);
+  border-radius: 6px;
+  background: var(--paper);
+  box-shadow: 2px 2px 0 var(--line);
+}
+
+.wf-btn {
+  font-family: 'Kalam', cursive;
+  font-size: 14px;
+  padding: 6px 14px;
+  border: 1.5px solid var(--line);
+  border-radius: 4px;
+  background: var(--paper);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.wf-btn-primary {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.wf-btn-accent {
+  background: var(--accent);
+  color: white;
+  border-color: var(--ink);
+  box-shadow: 2px 2px 0 var(--ink);
+}
+
+.wf-input {
+  font-family: 'Kalam', cursive;
+  font-size: 14px;
+  padding: 6px 8px;
+  border: 1.5px solid var(--line);
+  border-radius: 4px;
+  background: var(--paper);
+  width: 100%;
+}
+
+.wf-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border: 1.5px solid var(--line);
+  border-radius: 999px;
+  font-size: 11px;
+  font-family: 'JetBrains Mono', monospace;
+  background: var(--paper);
+}
+
+.wf-chip-active {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.wf-chip-accent {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+/* Hand-drawn style hatching for image placeholders */
+.wf-placeholder {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 6px,
+    rgba(26,26,26,0.08) 6px,
+    rgba(26,26,26,0.08) 7px
+  );
+  border: 1.5px dashed var(--line);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-soft);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-align: center;
+  padding: 8px;
+}
+
+.wf-divider {
+  border: none;
+  border-top: 1.5px dashed var(--line);
+  margin: 12px 0;
+  opacity: 0.5;
+}
+
+.wf-divider-solid {
+  border: none;
+  border-top: 1.5px solid var(--line);
+  margin: 12px 0;
+}
+
+.wf-arrow {
+  font-family: 'Kalam', cursive;
+  color: var(--accent);
+  font-size: 13px;
+  font-style: italic;
+}
+
+.wf-annotation {
+  font-family: 'Caveat', 'Kalam', cursive;
+  font-size: 14px;
+  color: var(--accent);
+  font-style: italic;
+}
+
+.wf-h1 {
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  font-size: 22px;
+  margin: 0;
+}
+
+.wf-h2 {
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 0;
+}
+
+.wf-h3 {
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  font-size: 13px;
+  margin: 0;
+}
+
+.wf-text {
+  font-family: 'Kalam', cursive;
+  font-size: 13px;
+}
+
+.wf-small {
+  font-family: 'Kalam', cursive;
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+/* Small SVG-icon helpers (not real icons — sketchy primitives) */
+.wf-icon {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  vertical-align: middle;
+}
+
+/* Tab bar */
+.wf-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1.5px solid var(--line);
+}
+.wf-tab {
+  padding: 6px 14px;
+  border: 1.5px solid var(--line);
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+  background: var(--paper);
+  font-family: 'Kalam', cursive;
+  font-size: 13px;
+  cursor: pointer;
+  margin-right: -1.5px;
+  margin-bottom: -1.5px;
+}
+.wf-tab-active {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+/* highlighter marker effect for emphasis */
+.wf-highlight {
+  background: linear-gradient(transparent 55%, var(--highlight) 55%);
+  padding: 0 2px;
+}
+
+/* Slider track sketch */
+.wf-slider {
+  position: relative;
+  height: 4px;
+  background: var(--line);
+  border-radius: 2px;
+  margin: 12px 4px;
+}
+.wf-slider-thumb {
+  position: absolute;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 1.5px solid var(--line);
+  transform: translate(-50%, -50%);
+}
+
+/* Stamp / badge */
+.wf-stamp {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1.5px solid var(--accent);
+  color: var(--accent);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transform: rotate(-2deg);
+}

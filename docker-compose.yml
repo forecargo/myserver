@@ -18,6 +18,7 @@ services:
     volumes:
       - ./caddy/Caddyfile:/etc/caddy/Caddyfile
       - caddy-data:/data
+      - ./fudebako:/srv/fudebako
 
   guideline-api:
     build: ./guidline-api
@@ -58,6 +59,14 @@ services:
     depends_on:
       postgres:
         condition: service_healthy
+
+  gpt-image:
+    build: ./gpt-image
+    restart: unless-stopped
+    env_file:
+      - ./gpt-image/.env
+    volumes:
+      - ./gpt-image:/app
 
   ngrok:
     image: ngrok/ngrok:latest
