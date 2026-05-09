@@ -60,6 +60,21 @@ services:
       postgres:
         condition: service_healthy
 
+  mermaid-api:
+    build:
+      context: ./mermaid-api
+      dockerfile: backend/Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8004:8004"
+    env_file:
+      - .env
+    environment:
+      MERMAID_DATABASE_URL: sqlite+aiosqlite:///./data/app.db
+      CLAUDE_MODEL: claude-sonnet-4-6
+    volumes:
+      - ./mermaid-api/data:/app/data
+
   gpt-image:
     build: ./gpt-image
     restart: unless-stopped

@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100dvh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Mermaid プレビュー: ノードをクリック可能に見せる */
+.node, .actor, .messageText,
+.labelText, .loopText, .labelBox, .loopLine { cursor: pointer; }
+
+/* 選択中ノードのハイライト (flowchart) */
+.node-selected > rect,
+.node-selected > circle,
+.node-selected > polygon,
+.node-selected > path {
+  stroke: #4f46e5 !important;
+  stroke-width: 3px !important;
+  filter: drop-shadow(0 0 6px rgba(79, 70, 229, 0.4));
+}
+
+/* 選択中参加者のハイライト (sequenceDiagram) */
+rect.actor-selected {
+  stroke: #4f46e5 !important;
+  stroke-width: 3px !important;
+  filter: drop-shadow(0 0 6px rgba(79, 70, 229, 0.4));
+}
+
+/* 選択中メッセージのハイライト (sequenceDiagram) */
+text.message-selected {
+  fill: #4f46e5 !important;
+  font-weight: bold;
+}
+
+/* 選択中制御ブロックのハイライト (sequenceDiagram) */
+text.block-selected {
+  fill: #4f46e5 !important;
+  font-weight: bold;
+}
+rect.block-selected {
+  fill: #e0e7ff !important;
+  stroke: #4f46e5 !important;
+}

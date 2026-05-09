@@ -26,3 +26,14 @@ embeddings_cache.json
 
 # Xcode ユーザー固有の状態ファイル
 *.xcuserstate
+
+# Node.js
+node_modules/
+
+# ビルド成果物
+dist/
+
+# SQLite DB
+*.db
+*.db-shm
+*.db-wal

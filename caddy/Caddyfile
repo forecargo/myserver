@@ -41,6 +41,21 @@
         reverse_proxy trouble-api:8002
     }
 
+    route /mermaid/assets* {
+        uri strip_prefix /mermaid
+        reverse_proxy mermaid-api:8004
+    }
+
+    route /mermaid* {
+        basic_auth {
+            ncbmermaid <REDACTED-ROTATED-HASH>
+        }
+        uri strip_prefix /mermaid
+        reverse_proxy mermaid-api:8004 {
+            flush_interval -1
+        }
+    }
+
     route /gpt-image* {
         basic_auth {
             ncbgpt <REDACTED-ROTATED-HASH>
