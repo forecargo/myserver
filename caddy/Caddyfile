@@ -35,7 +35,7 @@
 
     route /trouble* {
         basic_auth {
-            ncbtrouble <REDACTED-ROTATED-HASH>
+            ncbtrouble {$TROUBLE_BASIC_AUTH_HASH}
         }
         uri strip_prefix /trouble
         reverse_proxy trouble-api:8002
@@ -48,7 +48,7 @@
 
     route /mermaid* {
         basic_auth {
-            ncbmermaid <REDACTED-ROTATED-HASH>
+            ncbmermaid {$MERMAID_BASIC_AUTH_HASH}
         }
         uri strip_prefix /mermaid
         reverse_proxy mermaid-api:8004 {
@@ -58,7 +58,7 @@
 
     route /gpt-image* {
         basic_auth {
-            ncbgpt <REDACTED-ROTATED-HASH>
+            ncbgpt {$GPT_IMAGE_BASIC_AUTH_HASH}
         }
         uri strip_prefix /gpt-image
         reverse_proxy gpt-image:8003 {
