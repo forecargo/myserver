@@ -37,3 +37,9 @@ dist/
 *.db
 *.db-shm
 *.db-wal
+
+# PostgreSQL ダンプ（make db-dump の生成物）
+backup_*.sql
+
+# 大容量ローカル資産（リポジトリには含めない）
+fudebako/
