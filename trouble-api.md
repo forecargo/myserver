@@ -18,12 +18,145 @@ trouble-api/
 ├── database.py         # SQLAlchemy engine・セッション管理
 ├── scheduler.py        # APScheduler バックグラウンドタスク
 ├── line_handler.py     # LINE Messaging API 連携（通知・Bot）
+├── webex_handler.py    # WebEx Messaging API 連携（通知・Bot）
+├── sync_runner.py      # メール収集→LINE/WebEx 通知ディスパッチ（sync_and_notify）
 ├── setup_richmenu.py   # LINE リッチメニュー初期設定スクリプト（ホストで実行）
 ├── static/
 │   └── index.html      # 管理 Web UI / LIFF UI（共用 SPA）
 ├── requirements.txt
 └── Dockerfile
 ```
+
+## アーキテクチャ概要
+
+### 設計指針
+
+- **メールボックスは単一ソース**: `collector.py` が IMAP（`IMAP_*` 環境変数 1 セット）を読む。LINE と WebEx で別々に取得しない。
+- **通知は LINE / WebEx で並行運用**: `sync_runner.sync_and_notify()` が同じ収集結果を両方の通知関数群にディスパッチ。
+- **片肺運用 OK**: `LINE_NOTIFICATION_TARGETS` / `WEBEX_NOTIFICATION_TARGETS` のどちらかだけ設定すれば、その通知先にのみ送信。両方の通知ブロックは独立 try-except で、片方の API エラーは他方に波及しない。
+
+### データフロー
+
+```
+                                ┌──────────────────────┐
+                                │  IMAP メールボックス    │  ← 単一ソース
+                                │  (NCB障害通知メール)    │
+                                └──────────┬───────────┘
+                                           │
+                  ┌────────────────────────┼────────────────────────┐
+                  │                        │                        │
+       ┌──────────┴──────────┐  ┌──────────┴──────────┐  ┌──────────┴──────────┐
+       │ scheduler.py (15分) │  │ POST /sync          │  │ Bot コマンド「同期」  │
+       │ APScheduler         │  │ (Caddy Basic 認証)  │  │ (LINE / WebEx)      │
+       └──────────┬──────────┘  └──────────┬──────────┘  └──────────┬──────────┘
+                  │                        │                        │
+                  └────────────────────────┼────────────────────────┘
+                                           ▼
+                              ┌─────────────────────────┐
+                              │  sync_runner.py         │
+                              │  sync_and_notify()      │
+                              └────────────┬────────────┘
+                                           │
+                            ┌──────────────┴──────────────┐
+                            ▼                             ▼
+                ┌─────────────────────┐        ┌─────────────────────┐
+                │ collector.py        │        │ 通知ディスパッチ      │
+                │ collect_and_process │        │ (新規/更新/復旧)     │
+                │  ・IMAP 受信         │        └──────┬──────────────┘
+                │  ・Gemini 解析       │               │
+                │  ・DB 書込           │     ┌─────────┴──────────┐
+                └──────────┬──────────┘     ▼                    ▼
+                           │       ┌──────────────────┐  ┌──────────────────┐
+                           ▼       │ line_handler.py  │  │ webex_handler.py │
+                  ┌────────────────┐│ notify_new       │  │ notify_new       │
+                  │ PostgreSQL     ││ notify_updated   │  │ notify_updated   │
+                  │ incidents      ││ notify_resolved  │  │ notify_resolved  │
+                  │ processed_emails│└────────┬─────────┘  └────────┬─────────┘
+                  │ liff_allowed_  │          │                     │
+                  │   users / logs │          ▼                     ▼
+                  └────────────────┘  ┌──────────────┐    ┌──────────────┐
+                                      │ LINE         │    │ WebEx        │
+                                      │ Messaging API│    │ /v1/messages │
+                                      └──────────────┘    └──────────────┘
+```
+
+### Webhook 受信経路
+
+```
+   LINE Platform                                  WebEx Platform
+        │                                               │
+        │ POST /trouble/line/webhook                    │ POST /trouble/webex/webhook
+        │ X-Line-Signature (HMAC-SHA256/base64)         │ X-Spark-Signature (HMAC-SHA1/hex)
+        ▼                                               ▼
+   ┌────────────────────────────────────────────────────────────────┐
+   │ Caddy  ( /trouble/line/webhook, /trouble/webex/webhook は      │
+   │          Basic 認証バイパス。順序: line → webex → liff* → * )  │
+   └─────────────────────────┬──────────────────────────────────────┘
+                             ▼
+                   ┌─────────────────────┐
+                   │ FastAPI (main.py)   │
+                   └────┬────────────┬───┘
+                        │            │
+       ┌────────────────┘            └────────────────┐
+       ▼                                              ▼
+  /line/webhook                                  /webex/webhook
+  - verify_signature                             - verify_signature
+  - is_allowed_source                            - is_bot_message (ループ防止)
+  - handle_text_event(text, reply_token)         - is_allowed_source
+                                                 - fetch_message_content (本文取得)
+                                                 - strip_bot_mention
+                                                 - handle_text_event(text, room_id)
+       │                                              │
+       ▼                                              ▼
+  line_handler.handle_text_event              webex_handler.handle_text_event
+  (ヘルプ/同期/発生中/一覧/#ID)                 (同コマンド、出力は markdown)
+       │                                              │
+       │ ※「同期」のみ sync_runner.sync_and_notify()  │
+       │   を遅延 import で呼ぶ                        │
+       │   （Bot 経由は発信元プラットフォームのみ通知）│
+       ▼                                              ▼
+  /v2/bot/message/reply (Flex/Text)           /v1/messages (markdown)
+```
+
+### モジュール依存
+
+```
+                       ┌──────────┐
+                       │ main.py  │  ← FastAPI エントリ
+                       └──────────┘
+                       /     │     \
+                      ▼      ▼      ▼
+            ┌────────┐  ┌──────────┐  ┌──────────────┐
+            │scheduler│  │sync_runner│  │line/webex   │
+            │.py     │  │.py       │  │_handler.py   │
+            └────────┘  └──────────┘  └──────────────┘
+                          │   │ \         ▲    ▲
+                          │   │  └────────┘    │
+                          │   └────────────────┘
+                          ▼                    │
+                      ┌──────────┐             │
+                      │collector │             │ (Bot「同期」コマンド時のみ
+                      │.py       │             │  遅延 import で循環回避)
+                      └──────────┘             │
+                          │                    │
+                          ▼                    │
+                      ┌──────────┐             │
+                      │analyzer  │             │
+                      │.py       │             │
+                      └──────────┘             │
+                          │                    │
+                          ▼                    │
+                      ┌──────────┐             │
+                      │database  │ ◀───────────┘
+                      │+ models  │
+                      └──────────┘
+                          │
+                          ▼
+                      PostgreSQL
+```
+
+- トップレベル import は一方向（`main → sync_runner → handlers`）
+- Bot コマンドの `同期` だけが `handlers → sync_runner` を **関数内（遅延）import** で参照することで循環参照を回避
 
 ## セキュリティ
 
@@ -32,10 +165,11 @@ trouble-api/
 | 対象パス | 認証 |
 |---|---|
 | `/trouble/line/webhook` | **不要**（LINE プラットフォームからの Webhook） |
+| `/trouble/webex/webhook` | **不要**（WebEx プラットフォームからの Webhook） |
 | `/trouble/liff*` | **不要**（LIFF トークン検証はアプリ内で実施） |
 | `/trouble/*`（上記以外） | **必要**（Caddy Basic 認証） |
 
-**ルート順序が重要**: `Caddyfile` では `/trouble/line/webhook` → `/trouble/liff*` → `/trouble*`（Basic 認証）の順に記述すること。
+**ルート順序が重要**: `Caddyfile` では `/trouble/line/webhook` → `/trouble/webex/webhook` → `/trouble/liff*` → `/trouble*`（Basic 認証）の順に記述すること。
 
 ### LIFF 認証（ホワイトリスト制御）
 
@@ -53,6 +187,15 @@ trouble-api/
 - 不許可: 上記以外（返信なし・HTTP 200 を返す）
 - 未設定時: 全許可（開発環境向け）
 
+### WebEx Bot アクセス制限
+
+`webex_handler.py` の `is_allowed_source()` により、`WEBEX_NOTIFICATION_TARGETS` に登録されていないルームからの Bot コマンドは無視する。
+
+- 許可: `WEBEX_NOTIFICATION_TARGETS` に含まれる roomId
+- 不許可: 上記以外（返信なし・HTTP 200 を返す）
+- 未設定時: 全許可（開発環境向け）
+- Bot 自身の発言は `WEBEX_BOT_EMAIL` 一致で無限ループ防止
+
 ## API エンドポイント
 
 ### 管理 API（Caddy Basic 認証が必要）
@@ -65,13 +208,14 @@ trouble-api/
 | GET | /incidents/{id} | インシデント詳細 |
 | PUT | /incidents/{id} | 手動更新（ステータス修正等） |
 | DELETE | /incidents/{id} | 削除 |
-| POST | /sync | 即時メール同期（新規インシデントがあれば LINE 通知） |
+| POST | /sync | 即時メール同期（新規/更新/復旧があれば LINE・WebEx に通知） |
 | GET | /summary | システム別・ステータス別集計 |
 | GET | /members | LIFF許可ユーザー一覧 |
 | POST | /members | LIFF許可ユーザー追加 |
 | DELETE | /members/{id} | LIFF許可ユーザー削除 |
 | GET | /access-log | 403アクセスログ一覧（未登録ユーザーのみ、直近10件） |
 | POST | /line/test-notify | LINE テスト通知送信 |
+| POST | /webex/test-notify | WebEx テスト通知送信 |
 
 ### LIFF API（Caddy 認証なし・LIFF トークン認証）
 
@@ -90,6 +234,7 @@ trouble-api/
 | Method | Path | 認証 | 説明 |
 |---|---|---|---|
 | POST | /line/webhook | なし | LINE Messaging API Webhook 受信 |
+| POST | /webex/webhook | なし | WebEx Messaging API Webhook 受信 |
 
 ## データベーススキーマ
 
@@ -174,6 +319,12 @@ BASE_URL=https://forecargo.ngrok.app/trouble
 
 # LIFF
 LIFF_ID=<LINE Developers Console > LIFF > 追加 で取得した LIFF ID>
+
+# WebEx Bot
+WEBEX_BOT_TOKEN=<Bot のアクセストークン>
+WEBEX_WEBHOOK_SECRET=<Webhook 作成時の secret（未設定で署名検証スキップ）>
+WEBEX_NOTIFICATION_TARGETS=<通知先 roomId（カンマ区切りで複数可、許可リスト兼用）>
+WEBEX_BOT_EMAIL=<botname>@webex.bot
 ```
 
 > **注意**: docomoのIMAPパスワードはspモードパスワードではなく「メール設定 > IMAP/POP設定」で発行するアプリパスワード。
@@ -210,6 +361,102 @@ LINE_NOTIFICATION_TARGETS=Uxxxxxxxxxxxx,Cxxxxxx  # 個人 + グループ
 ```
 
 > **注意**: `LINE_NOTIFICATION_TARGETS` は通知先と Bot コマンド許可先を兼ねる。ここに登録されていないソースからのコマンドは `is_allowed_source()` により無視される。
+
+## WebEx Bot 設定
+
+### Bot 作成・トークン取得
+1. <https://developer.webex.com/my-apps> → **Create a New App** → **Bot**
+2. Bot username / display name / icon を設定して作成
+3. 表示される **Bot Access Token** を `.env` の `WEBEX_BOT_TOKEN` に設定
+4. Bot のメールアドレス（`<botname>@webex.bot`）を `WEBEX_BOT_EMAIL` に設定
+
+### Webhook 登録
+`WEBEX_WEBHOOK_SECRET` に任意の文字列を決めて `.env` に書き、Bot トークンで Webhook を登録する：
+
+```bash
+curl -X POST https://webexapis.com/v1/webhooks \
+  -H "Authorization: Bearer $WEBEX_BOT_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "trouble-api-webex",
+    "targetUrl": "https://forecargo.ngrok.app/trouble/webex/webhook",
+    "resource": "messages",
+    "event": "created",
+    "filter": "mentionedPeople=me",
+    "secret": "<WEBEX_WEBHOOK_SECRET と同じ値>"
+  }'
+```
+
+**filter 推奨値:**
+
+| シナリオ | filter |
+|---|---|
+| グループスペースで `@Bot` メンション時のみ受信（1:1 DM は常時受信） | `mentionedPeople=me`（推奨） |
+| 特定ルームのみ受信（Webhook を複数登録） | `roomId=<ROOM_ID>` |
+| 全イベント受信して `WEBEX_NOTIFICATION_TARGETS` で絞る | filter 省略 |
+
+### 通知ターゲット roomId の取得手順
+1. Bot を対象スペース（または個人）にメンバー追加
+2. スペース内で `@<BotName> ヘルプ` などメンション付きでメッセージを送る
+3. `docker compose logs -f trouble-api` でログを確認
+   ```
+   WebEx data: {'id': '...', 'roomId': 'Y2lzY29zcGFyazov...', 'personEmail': '...'}
+   ```
+4. `roomId` を `WEBEX_NOTIFICATION_TARGETS` に追記して再起動
+
+```
+WEBEX_NOTIFICATION_TARGETS=Y2lzY29zcGFyazov...                       # 1ルームのみ
+WEBEX_NOTIFICATION_TARGETS=Y2lzY29zcGFyazov...,Y2lzY29zcGFyazov...   # 複数ルーム
+```
+
+> **注意**: `WEBEX_NOTIFICATION_TARGETS` は通知先と Bot コマンド許可先を兼ねる。ここに登録されていない roomId からのコマンドは `webex_handler.is_allowed_source()` により無視される。
+
+### Bot コマンド一覧（WebEx）
+
+LINE と同一コマンド。出力は markdown レンダリングされる。グループでは `@<BotName>` メンション付きで送信（先頭メンションは `strip_bot_mention()` で自動除去）。
+
+| コマンド | 説明 |
+|---|---|
+| 一覧 / リスト / list | 最新インシデント10件（markdown） |
+| 発生中 / 障害 / 未解決 | 発生中インシデント一覧 |
+| #123 | インシデント #123 の詳細 |
+| 同期 / sync | メール同期を即時実行、件数を返信（新規/更新/復旧があれば **WebEx のみ**に通知） |
+| ヘルプ / help / ? | コマンド一覧 |
+
+### インシデント markdown のデザイン
+
+`webex_handler.py` の `make_incident_markdown()` が生成する。一覧系コマンド（「一覧」「発生中」）では基本情報のみ、新規/更新/復旧通知 と `#ID` 詳細コマンドでは末尾に **障害詳細** と **対応内容** を追記する（`include_details=True`）。
+
+一覧系（基本情報のみ）:
+
+```
+**🔴 #42 NCBオンラインバンキング**
+- 種別: ログイン不可
+- 状態: 発生中
+- 発生: 05/12 14:23
+- クローズ: —
+```
+
+通知・`#ID` 詳細（詳細情報あり）:
+
+```
+**🔴 #42 NCBオンラインバンキング**
+- 種別: ログイン不可
+- 状態: 発生中
+- 発生: 05/12 14:23
+- クローズ: —
+
+**障害詳細**: 一部のお客様において…
+**対応内容**: 現在原因を調査中…
+```
+
+| ステータス | 絵文字バッジ |
+|---|---|
+| 発生中 | 🔴 |
+| 復旧済み | 🟢 |
+| その他 | ⚪ |
+
+`description` / `response` は各 300 文字で切り詰め、超過時は末尾に `…` を付与する。Webex クライアントから Web UI へのリンクは到達できないため廃止し、Bot メッセージ自体に詳細を埋め込む方針に統一した。
 
 ## LIFF 設定
 
@@ -263,7 +510,7 @@ python trouble-api/setup_richmenu.py
 | 一覧 / リスト / list | 最新インシデント10件（Flex カルーセル） |
 | 発生中 / 障害 / 未解決 | 発生中インシデント一覧 |
 | #123 | インシデント #123 の詳細 |
-| 同期 / sync | メール同期を即時実行、件数を返信 |
+| 同期 / sync | メール同期を即時実行、件数を返信（新規/更新/復旧があれば **LINE のみ**に通知） |
 | ヘルプ / help / ? | コマンド一覧 |
 
 ### Flex Message インシデントカードのデザイン
@@ -369,6 +616,10 @@ curl -X POST http://localhost:8002/sync | jq
 curl -u ncbtrouble:<パスワード> -X POST https://forecargo.ngrok.app/trouble/sync | jq
 ```
 
+> `POST /sync`・スケジューラー・Bot の `同期` コマンドは、いずれも `sync_runner.sync_and_notify()` を経由する。`LINE_NOTIFICATION_TARGETS` / `WEBEX_NOTIFICATION_TARGETS` が設定されたサービスにのみ通知が飛ぶ（両方設定なら両方、片方なら片方、両方未設定なら通知なし）。
+>
+> **Bot の `同期` だけは発信元プラットフォームのみへ通知を絞る**（LINE Bot で `同期` → LINE のみ / WebEx Bot で `同期` → WebEx のみ）。スケジューラと `POST /sync` は従来どおり両方に通知する。実装は `sync_and_notify(send_line=..., send_webex=...)` のフラグで切り替え。
+
 ### LINE Webhook 疎通テスト
 
 ```bash
@@ -377,6 +628,21 @@ curl -X POST http://localhost:8002/line/webhook \
   -H "Content-Type: application/json" \
   -d '{"events":[]}'
 # → {"status":"ok"}
+```
+
+### WebEx Webhook 疎通テスト
+
+```bash
+# WEBEX_WEBHOOK_SECRET 未設定時は署名検証をスキップ
+curl -X POST http://localhost:8002/webex/webhook \
+  -H "Content-Type: application/json" \
+  -d '{"resource":"messages","event":"created","data":{}}'
+# → {"status":"ok"}（id/roomId なしのため早期 return）
+
+# テスト通知（Basic 認証経由）
+curl -u ncbtrouble:<パスワード> -X POST \
+  https://forecargo.ngrok.app/trouble/webex/test-notify
+# → {"sent": true, "targets": [...]}
 ```
 
 ## Basic 認証パスワード変更

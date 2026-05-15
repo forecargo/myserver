@@ -14,31 +14,20 @@ from sqlalchemy.orm import Session
 
 LIFF_ID = os.getenv("LIFF_ID", "")
 
-from collector import collect_and_process
 from database import get_session, init_db
-from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, is_allowed_source, notify_new_incidents, notify_resolved_incidents, notify_updated_incidents, send_sample_notification, verify_signature
+from line_handler import LINE_NOTIFICATION_TARGETS, handle_text_event, is_allowed_source, send_sample_notification, verify_signature
+from webex_handler import (
+    WEBEX_NOTIFICATION_TARGETS,
+    fetch_message_content as webex_fetch_message_content,
+    handle_text_event as webex_handle_text_event,
+    is_bot_message as webex_is_bot_message,
+    send_sample_notification as webex_send_sample_notification,
+    strip_bot_mention as webex_strip_bot_mention,
+    verify_signature as webex_verify_signature,
+)
 from models import Incident, IncidentResponse, IncidentUpdate, LiffAccessLog, LiffAccessLogResponse, LiffAllowedUser, LiffAllowedUserCreate, LiffAllowedUserResponse, SummaryItem, SyncResult
 from scheduler import start_scheduler, stop_scheduler
-
-
-def sync_and_notify() -> dict:
-    result = collect_and_process()
-    if result["new_incident_ids"] and LINE_NOTIFICATION_TARGETS:
-        try:
-            notify_new_incidents(result["new_incident_ids"])
-        except Exception as e:
-            print(f"LINE notify error (new): {e}")
-    if result.get("resolved_new_incident_ids") and LINE_NOTIFICATION_TARGETS:
-        try:
-            notify_resolved_incidents(result["resolved_new_incident_ids"])
-        except Exception as e:
-            print(f"LINE notify error (resolved): {e}")
-    if result.get("status_changed_incident_ids") and LINE_NOTIFICATION_TARGETS:
-        try:
-            notify_updated_incidents(result["status_changed_incident_ids"])
-        except Exception as e:
-            print(f"LINE notify error (updated): {e}")
-    return result
+from sync_runner import sync_and_notify
 
 
 @asynccontextmanager
@@ -321,6 +310,37 @@ async def line_webhook(request: Request):
         if event.get("type") == "message" and event["message"]["type"] == "text":
             handle_text_event(event["message"]["text"], event["replyToken"])
     return {"status": "ok"}
+
+
+@app.post("/webex/webhook")
+async def webex_webhook(request: Request):
+    body = await request.body()
+    sig = request.headers.get("X-Spark-Signature", "")
+    if not webex_verify_signature(body, sig):
+        raise HTTPException(status_code=400, detail="Invalid signature")
+    payload = json.loads(body)
+    if payload.get("resource") != "messages" or payload.get("event") != "created":
+        return {"status": "ignored"}
+    if webex_is_bot_message(payload):
+        return {"status": "ignored-self"}
+    print(f"WebEx data: {payload.get('data')}", flush=True)
+    data = payload.get("data") or {}
+    message_id = data.get("id")
+    room_id = data.get("roomId")
+    if not message_id or not room_id:
+        return {"status": "ok"}
+    msg = webex_fetch_message_content(message_id)
+    text = webex_strip_bot_mention(msg.get("text") or "")
+    print(f"WebEx command text: {text!r}", flush=True)
+    if text:
+        webex_handle_text_event(text, room_id)
+    return {"status": "ok"}
+
+
+@app.post("/webex/test-notify")
+def test_webex_notify():
+    sent = webex_send_sample_notification()
+    return {"sent": sent, "targets": WEBEX_NOTIFICATION_TARGETS}
 
 
 @app.get("/summary", response_model=list[SummaryItem])

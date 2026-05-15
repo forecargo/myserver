@@ -62,7 +62,8 @@ HELP_TEXT = """📋 障害インシデント管理
 同期　　→ メール同期を実行
 ヘルプ　→ このメッセージ"""
 
-_LINE_API = "https://api.line.me/v2/bot/message"
+_LINE_API_BASE = "https://api.line.me/v2/bot"
+_LINE_API = f"{_LINE_API_BASE}/message"
 
 
 def verify_signature(body: bytes, sig: str) -> bool:
@@ -77,14 +78,49 @@ def _auth_headers() -> dict:
     return {"Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}", "Content-Type": "application/json"}
 
 
+def _post(endpoint: str, payload: dict, op: str) -> None:
+    try:
+        r = httpx.post(endpoint, headers=_auth_headers(), json=payload, timeout=10)
+    except Exception as e:
+        print(f"LINE {op} error: {e}", flush=True)
+        return
+    if r.status_code >= 400:
+        print(f"LINE {op} failed: {r.status_code} {r.text}", flush=True)
+
+
 def reply_messages(reply_token: str, messages: list) -> None:
-    payload = {"replyToken": reply_token, "messages": messages}
-    httpx.post(f"{_LINE_API}/reply", headers=_auth_headers(), json=payload, timeout=10)
+    _post(f"{_LINE_API}/reply", {"replyToken": reply_token, "messages": messages}, "reply")
 
 
 def push_messages(to: str, messages: list) -> None:
-    payload = {"to": to, "messages": messages}
-    httpx.post(f"{_LINE_API}/push", headers=_auth_headers(), json=payload, timeout=10)
+    _post(f"{_LINE_API}/push", {"to": to, "messages": messages}, "push")
+
+
+def check_quota() -> dict | None:
+    """月次送信枠の残量を取得し、不足時は警告ログを出す。
+
+    Returns: {"limit": int|None, "used": int, "remaining": int|None} or None on error.
+    """
+    if not LINE_CHANNEL_ACCESS_TOKEN:
+        return None
+    try:
+        q = httpx.get(f"{_LINE_API_BASE}/message/quota", headers=_auth_headers(), timeout=10)
+        c = httpx.get(f"{_LINE_API_BASE}/message/quota/consumption", headers=_auth_headers(), timeout=10)
+    except Exception as e:
+        print(f"LINE quota check error: {e}", flush=True)
+        return None
+    if q.status_code != 200 or c.status_code != 200:
+        print(f"LINE quota check failed: quota={q.status_code} consumption={c.status_code}", flush=True)
+        return None
+    qd = q.json()
+    used = c.json().get("totalUsage", 0)
+    limit = qd.get("value") if qd.get("type") == "limited" else None
+    remaining = (limit - used) if limit is not None else None
+    if limit is not None and remaining is not None and remaining <= 0:
+        print(f"LINE quota EXHAUSTED: used={used}/{limit} - push messages will be rejected", flush=True)
+    elif limit is not None and remaining is not None and remaining < 20:
+        print(f"LINE quota LOW: used={used}/{limit} (remaining={remaining})", flush=True)
+    return {"limit": limit, "used": used, "remaining": remaining}
 
 
 def text_msg(text: str) -> dict:
@@ -255,8 +291,8 @@ def handle_text_event(text: str, reply_token: str) -> None:
         return
 
     if text in ("同期", "sync"):
-        from collector import collect_and_process
-        result = collect_and_process()
+        from sync_runner import sync_and_notify
+        result = sync_and_notify(send_line=True, send_webex=False)
         msg = (
             f"同期完了\n"
             f"新規: {result['new_incidents']}件\n"
