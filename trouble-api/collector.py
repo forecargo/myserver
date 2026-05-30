@@ -78,7 +78,7 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
     stmt = (
         select(Incident)
         .where(Incident.system_name == system_name)
-        .where(Incident.status.in_(["発生中", "復旧済み"]))
+        .where(Incident.status == "発生中")
         .order_by(Incident.created_at.desc())
     )
     candidates = session.execute(stmt).scalars().all()
@@ -95,6 +95,7 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
                     )
                     if diff <= window:
                         return c
+            return None
     return candidates[0]
 
 
