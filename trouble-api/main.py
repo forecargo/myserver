@@ -343,6 +343,13 @@ def test_webex_notify():
     return {"sent": sent, "targets": WEBEX_NOTIFICATION_TARGETS}
 
 
+@app.post("/webex/test-forward")
+def test_webex_forward():
+    from forward_handler import send_test_forward_notification
+    sent = send_test_forward_notification()
+    return {"sent": sent, "targets": WEBEX_NOTIFICATION_TARGETS}
+
+
 @app.get("/summary", response_model=list[SummaryItem])
 def get_summary(db: DBSession):
     stmt = (

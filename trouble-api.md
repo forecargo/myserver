@@ -325,6 +325,20 @@ WEBEX_BOT_TOKEN=<Bot のアクセストークン>
 WEBEX_WEBHOOK_SECRET=<Webhook 作成時の secret（未設定で署名検証スキップ）>
 WEBEX_NOTIFICATION_TARGETS=<通知先 roomId（カンマ区切りで複数可、許可リスト兼用）>
 WEBEX_BOT_EMAIL=<botname>@webex.bot
+
+# 管理者宛メールの WebEx 転送（FORWARD_ADMIN_SENDER が空なら機能 off）
+FORWARD_ADMIN_SENDER=admin@pa.e-kakushin.com
+FORWARD_ADMIN_LABEL=e-kakushin
+FORWARD_BODY_EXCERPT_LEN=600
+```
+
+### 管理者宛メールの WebEx 転送
+
+`FORWARD_ADMIN_SENDER` に設定したアドレスから届く未読メールを、`collector.collect_and_process()` の同じ IMAP セッション内で検出し、`WEBEX_NOTIFICATION_TARGETS` に登録された WebEx room へ転送する（LLM 解析・Incident 化はせず、件名・差出人・受信日時・本文抜粋を markdown でそのまま通知）。重複防止は `forwarded_emails` テーブル。WebEx 送信成功後にのみ `\Seen` を立てるため、送信失敗時は未読のまま残り次回巡回で再試行される。
+
+疎通確認:
+```
+curl -u <basic> -X POST https://<host>/trouble/webex/test-forward
 ```
 
 > **注意**: docomoのIMAPパスワードはspモードパスワードではなく「メール設定 > IMAP/POP設定」で発行するアプリパスワード。

@@ -30,7 +30,7 @@ def sync_and_notify(send_line: bool = True, send_webex: bool = True) -> dict:
             ローカルに留めたい場合は False。
         send_webex: True なら WebEx 通知を送る（既定）。
     """
-    result = collect_and_process()
+    result = collect_and_process(forward_enabled=send_webex)
     has_payload = bool(
         result["new_incident_ids"]
         or result.get("resolved_new_incident_ids")

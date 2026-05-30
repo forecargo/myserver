@@ -20,6 +20,11 @@ IMAP_USERNAME = os.getenv("IMAP_USERNAME")
 IMAP_PASSWORD = os.getenv("IMAP_PASSWORD")
 SENDER_FILTER = os.getenv("SENDER_FILTER", "ncbonline@nttdata-ncb.co.jp")
 
+RECOVERY_KEYWORDS = (
+    "解消", "復旧確認", "正常稼働確認", "正常稼働を確認",
+    "業務影響なし", "終了確認", "回復確認", "回復済", "復旧済",
+)
+
 
 def _make_ssl_context() -> ssl.SSLContext:
     ctx = ssl.create_default_context()
@@ -93,22 +98,43 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
     return candidates[0]
 
 
-def _sanitize_new_incident_status(extracted: dict) -> str:
+def _has_inline_recovery(extracted: dict, body: str) -> bool:
+    """単一メール内で解消・復旧確認が事実として記載されているか。
+
+    closed_at が抽出されており、かつ本文または response に
+    復旧キーワードが含まれる場合のみ True を返す。
+    """
+    if not extracted.get("closed_at"):
+        return False
+    haystack = (body or "") + " " + (extracted.get("response") or "")
+    return any(kw in haystack for kw in RECOVERY_KEYWORDS)
+
+
+def _sanitize_new_incident_status(extracted: dict, body: str = "") -> str:
     status = extracted.get("status", "発生中")
     report_type = extracted.get("report_type", "不明")
-    if status == "復旧済み" and report_type != "最終報":
-        return "発生中"
-    return status
+    if status != "復旧済み":
+        return status
+    if report_type in ("最終報", "発生回復報"):
+        return "復旧済み"
+    if _has_inline_recovery(extracted, body):
+        return "復旧済み"
+    return "発生中"
 
 
-def _apply_update(incident: Incident, extracted: dict, received_at: datetime) -> bool:
+def _apply_update(incident: Incident, extracted: dict, received_at: datetime, body: str = "") -> bool:
     """Returns True if status changed."""
     new_status = extracted.get("status")
     report_type = extracted.get("report_type", "不明")
     status_changed = False
+
+    if new_status == "復旧済み" and report_type == "続報" and not _has_inline_recovery(extracted, body):
+        new_status = "発生中"
+
+    if extracted.get("closed_at") and incident.closed_at is None and _has_inline_recovery(extracted, body):
+        new_status = "復旧済み"
+
     if new_status:
-        if new_status == "復旧済み" and report_type == "続報":
-            new_status = "発生中"
         if new_status != incident.status:
             status_changed = True
         incident.status = new_status
@@ -122,13 +148,14 @@ def _apply_update(incident: Incident, extracted: dict, received_at: datetime) ->
     return status_changed
 
 
-def _filter_sender_uids(server, all_uids: list) -> list:
+def _filter_uids_by_sender(server, all_uids: list, sender_addr: str) -> list:
     """
     Server-side FROM search is unreliable on some IMAP servers (e.g. iCloud).
     Fetch lightweight headers for all messages and filter by From address in Python.
     Process in batches to avoid oversized requests.
     """
     matching = []
+    needle = sender_addr.lower()
     batch_size = 50
     for i in range(0, len(all_uids), batch_size):
         batch = all_uids[i : i + batch_size]
@@ -140,29 +167,39 @@ def _filter_sender_uids(server, all_uids: list) -> list:
                 if line.lower().startswith("from:"):
                     from_line = line.lower()
                     break
-            if SENDER_FILTER.lower() in from_line:
+            if needle in from_line:
                 matching.append(uid)
     return matching
 
 
-def collect_and_process() -> dict:
-    results = {"new_incidents": 0, "updated_incidents": 0, "skipped": 0, "errors": [], "new_incident_ids": [], "resolved_new_incident_ids": [], "status_changed_incident_ids": []}
+def collect_and_process(forward_enabled: bool = True) -> dict:
+    results = {
+        "new_incidents": 0,
+        "updated_incidents": 0,
+        "skipped": 0,
+        "errors": [],
+        "new_incident_ids": [],
+        "resolved_new_incident_ids": [],
+        "status_changed_incident_ids": [],
+        "forwarded": 0,
+        "forward_skipped": 0,
+        "forward_errors": [],
+    }
 
     try:
         with imapclient.IMAPClient(IMAP_HOST, port=IMAP_PORT, ssl=True, ssl_context=_make_ssl_context()) as server:
             server.login(IMAP_USERNAME, IMAP_PASSWORD)
             server.select_folder("INBOX", readonly=False)
             all_uids = server.search(["UNSEEN"])
-            if not all_uids:
-                return results
-            uids = _filter_sender_uids(server, all_uids)
-            if not uids:
-                return results
-            messages = server.fetch(uids, ["RFC822", "INTERNALDATE"])
+            uids = _filter_uids_by_sender(server, all_uids, SENDER_FILTER) if all_uids else []
+            # BODY.PEEK[] を使う: RFC822 を直接 fetch すると docomo spmode サーバ側で
+            # 暗黙的に \Seen が付与され、後続の set_flags が「変化なし」として無視され、
+            # セッション終了時に暗黙 \Seen が巻き戻る (= 永続化されない) ため。
+            messages = server.fetch(uids, ["BODY.PEEK[]", "INTERNALDATE"]) if uids else {}
 
             for uid, data in messages.items():
                 try:
-                    raw_email = data[b"RFC822"]
+                    raw_email = data[b"BODY[]"]
                     received_at = data[b"INTERNALDATE"]
                     msg = email.message_from_bytes(raw_email)
                     message_id = msg.get("Message-ID", f"no-id-{uid}").strip()
@@ -195,12 +232,12 @@ def collect_and_process() -> dict:
                             )
 
                         if incident:
-                            status_changed = _apply_update(incident, extracted, received_at)
+                            status_changed = _apply_update(incident, extracted, received_at, body)
                             results["updated_incidents"] += 1
                             if status_changed:
                                 results["status_changed_incident_ids"].append(incident.id)
                         else:
-                            safe_status = _sanitize_new_incident_status(extracted)
+                            safe_status = _sanitize_new_incident_status(extracted, body)
                             incident = Incident(
                                 system_name=extracted.get("system_name", "不明"),
                                 failure_type=extracted.get("failure_type"),
@@ -233,6 +270,13 @@ def collect_and_process() -> dict:
 
                 except Exception as e:
                     results["errors"].append(f"UID {uid}: {e}")
+
+            if forward_enabled:
+                try:
+                    from forward_handler import forward_admin_emails
+                    forward_admin_emails(server, results)
+                except Exception as e:
+                    results["forward_errors"].append(f"forward_admin_emails error: {e}")
 
     except Exception as e:
         results["errors"].append(f"IMAP connection error: {e}")

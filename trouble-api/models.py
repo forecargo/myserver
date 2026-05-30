@@ -43,6 +43,20 @@ class ProcessedEmail(Base):
     incident: Mapped["Incident"] = relationship(back_populates="processed_emails")
 
 
+class ForwardedEmail(Base):
+    __tablename__ = "forwarded_emails"
+
+    message_id: Mapped[str] = mapped_column(String(500), primary_key=True)
+    sender: Mapped[str] = mapped_column(String(200), index=True)
+    subject: Mapped[Optional[str]] = mapped_column(String(500), nullable=True)
+    email_received_at: Mapped[Optional[datetime.datetime]] = mapped_column(
+        DateTime(timezone=True), nullable=True
+    )
+    forwarded_at: Mapped[datetime.datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+
 # Pydantic schemas
 
 class IncidentResponse(BaseModel):
@@ -88,6 +102,9 @@ class SyncResult(BaseModel):
     new_incident_ids: list[int] = []
     resolved_new_incident_ids: list[int] = []
     status_changed_incident_ids: list[int] = []
+    forwarded: int = 0
+    forward_skipped: int = 0
+    forward_errors: list[str] = []
 
 
 class LiffAllowedUser(Base):

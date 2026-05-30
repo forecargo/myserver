@@ -137,7 +137,19 @@ def _fmt_dt(dt: datetime | None) -> str:
     return dt.astimezone(JST).strftime("%m/%d %H:%M")
 
 
-def make_incident_bubble(inc: Incident) -> dict:
+_DESCRIPTION_MAX_LEN = 300
+
+
+def _truncate(text: str | None, limit: int = _DESCRIPTION_MAX_LEN) -> str:
+    if not text:
+        return "—"
+    text = text.strip()
+    if len(text) <= limit:
+        return text
+    return text[:limit].rstrip() + "…"
+
+
+def make_incident_bubble(inc: Incident, include_description: bool = False) -> dict:
     color = STATUS_COLORS.get(inc.status, "#4B5563")
     light_color = STATUS_LIGHT_COLORS.get(inc.status, "#F3F4F6")
     if LIFF_ID:
@@ -254,6 +266,44 @@ def make_incident_bubble(inc: Incident) -> dict:
         },
     }
 
+    if include_description:
+        body_box = bubble["body"]["contents"][1]
+        body_box["contents"].extend([
+            {"type": "separator", "margin": "xl", "color": "#E5E7EB"},
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "xs",
+                "contents": [
+                    {"type": "text", "text": "障害詳細", "size": "xs", "color": "#9CA3AF"},
+                    {
+                        "type": "text",
+                        "text": _truncate(inc.description),
+                        "size": "xs",
+                        "color": "#374151",
+                        "wrap": True,
+                    },
+                ],
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "md",
+                "spacing": "xs",
+                "contents": [
+                    {"type": "text", "text": "対応内容", "size": "xs", "color": "#9CA3AF"},
+                    {
+                        "type": "text",
+                        "text": _truncate(getattr(inc, "response", None)),
+                        "size": "xs",
+                        "color": "#374151",
+                        "wrap": True,
+                    },
+                ],
+            },
+        ])
+
     if detail_url:
         bubble["footer"] = {
             "type": "box",
@@ -336,16 +386,8 @@ def handle_text_event(text: str, reply_token: str) -> None:
         if not inc:
             reply_messages(reply_token, [text_msg(f"インシデント #{incident_id} は見つかりませんでした。")])
             return
-        detail = (
-            f"#{inc.id} {inc.system_name}\n"
-            f"種別: {inc.failure_type or '不明'}\n"
-            f"状態: {inc.status}\n"
-            f"発生: {_fmt_dt(inc.occurred_at)}\n"
-            f"クローズ: {_fmt_dt(inc.closed_at)}\n"
-            f"概要: {(inc.description or '')[:200]}"
-        )
-        messages = [flex_msg(f"#{inc.id} {inc.system_name}", make_incident_bubble(inc)), text_msg(detail)]
-        reply_messages(reply_token, messages)
+        bubble = make_incident_bubble(inc, include_description=True)
+        reply_messages(reply_token, [flex_msg(f"#{inc.id} {inc.system_name}", bubble)])
         return
 
 
