@@ -81,7 +81,7 @@ services:
     build: ./gpt-image
     restart: unless-stopped
     env_file:
-      - ./gpt-image/.env
+      - .env
     volumes:
       - ./gpt-image:/app
 
