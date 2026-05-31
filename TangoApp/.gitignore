@@ -1,0 +1,7 @@
+TangoApp.xcodeproj/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+.DS_Store
+build/
