@@ -1,0 +1,488 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2090",
+      "word": "epidemic",
+      "phonetic": "[èpədémik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(病気や思想など)一時的に人々の間に広まること"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "epi-[上] + -dem-[民衆] -> 「民衆の上に来る」",
+        "description": "democracy「民主主義」, pandemic「全世界的な流行」 (pan-[すべて])"
+      },
+      "examples": []
+    },
+    {
+      "id": "2091",
+      "word": "obesity",
+      "phonetic": "[oubísəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(病的な)肥満"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "ob-[反対] + -es-[=eat] -> 「(食べ過ぎて)太った」の深刻な状態」",
+        "description": "obese「肥満の」 (←overweight「太っている」) fat「脂肪」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2092",
+      "word": "neuron",
+      "phonetic": "[njúəran]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "ニューロン、神経単位",
+            "細胞体と多数の樹状突起、および、1本の軸索から成る神経細胞"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "neuroscience",
+          "ja": "「神経科学」"
+        },
+        {
+          "en": "neurology",
+          "ja": "「神経学」"
+        },
+        {
+          "en": "nerve",
+          "ja": "「神経」"
+        }
+      ]
+    },
+    {
+      "id": "2093",
+      "word": "dementia",
+      "phonetic": "[diménʃə]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "認知症",
+            "脳や記憶に影響し、正常な思考や行動ができなくなる病気"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "de-[down 下に] + -men-[記憶] -> 「記憶が低下すること」",
+        "description": "memory「記憶」, mémoir「思い出の品」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2094",
+      "word": "diabetes",
+      "phonetic": "[dàiəbíːtis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "糖尿病",
+            "インスリン作用不足により高血糖の状態が続く病気"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "dia-[横切る] + -betes[=go 行く] -> 「(尿が)通り抜ける」",
+        "description": "develop[suffer from] diabetes「糖尿病になる[を患う]」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2095",
+      "word": "placebo",
+      "phonetic": "[pləsíːbou]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "プラシーボ",
+            "薬効の試験のための対照群(controls)に使われる薬効のない薬"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": null,
+        "description": "please ~「~を喜ばせる」と同じ語源で、「患者を喜ばせるための(気休めの)薬」と覚えよう。"
+      },
+      "examples": []
+    },
+    {
+      "id": "2096",
+      "word": "malnutrition",
+      "phonetic": "[mælnjúːtrɪʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "栄養失調",
+            "必要な食べ物を十分に食べていない状態"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "mal-[悪い、不十分な] + -nutrition[栄養] -> 「栄養が不十分なこと」",
+        "description": "malaria「マラリア」 (mal-[悪い] + -aria[空気] *かつて、マラリアは悪い空気によって感染する病気」) nutrition「栄養(の摂取)」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2097",
+      "word": "dehydration",
+      "phonetic": "[dìːhaidréiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "脱水(症状)",
+            "物質中にある水分を取り除く[なくなる]こと"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "de-[down 下に] + -hydra-[水] -> 「水の消失」",
+        "description": "hydrogen「水素」 a spin dryer「脱水機」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2098",
+      "word": "abortion",
+      "phonetic": "[əbɔ́ːrʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(妊娠)中絶(手術)",
+            "人工的に流産(miscarriage)させること",
+            "生まれるものを流すこと"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "ab-[away] + -or-[=origin 生まれる] -> 「生まれるものを流す」",
+        "description": "orient+「東洋の(←日の昇るところ)」 abort「~を中絶する」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2099",
+      "word": "antibiotic",
+      "phonetic": "[æntibàiɑ́tik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "抗生物質",
+            "ほかの微生物を抑制したり、殺したりする物質"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "anti-[~against 対して] + -bio-[生物] -> 「ある生物に対抗するもの」",
+        "description": "anticancer drug「抗がん剤」 antioxidant「酸化防止剤」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2100",
+      "word": "psychiatry",
+      "phonetic": "[saikáiətri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "精神科、精神医学",
+            "「心の病気の研究や治療を行う科のこと」"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "psych-[精神] + -iatry[治療] -> 「精神治療」",
+        "description": "psychology「心理学」 psychiatrist「精神科医」 autism「自閉症」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2101",
+      "word": "cardiologist",
+      "phonetic": "[kɑ̀ːrdiɑ́lədʒist]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "心臓専門医",
+            "heart の専門用語は cardiac「心臓の」になる。"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "card-[=cord 心] + -ology[学] -> 「心臓(病)学」",
+        "description": "cardiology「心臓学」 córdial「心からの」 cardiovascular「心臓血管の」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2102",
+      "word": "kidney",
+      "phonetic": "[kídni]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "腎臓",
+            "血液の濾過器の機能を果たす泌尿器の器官"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "kidn-[子ども] + -ey[卵] -> 「小さな卵型の臓器」",
+        "description": "stomach「胃」 liver「肝臓」 heart「心臓」 lung「肺」 intestine「腸」 brain「脳」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2103",
+      "word": "posture",
+      "phonetic": "[pɑ́stʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "姿勢",
+            "通例、「(体の)姿勢」"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "post-[置く] + -ture[状態]から「体の置かれた状態」->「姿勢」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "You have good posture.",
+          "ja": "「君は姿勢がいい。」"
+        }
+      ]
+    },
+    {
+      "id": "2104",
+      "word": "metabolism",
+      "phonetic": "[mətǽbəlìzm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "新陳代謝、代謝作用",
+            "食べ物を身体のエネルギーに変える化学作用"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "日本語の「メタボ(=be fat「太っている」)」とは意味が違うので注意。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "speed up your metabolism",
+          "ja": "「新陳代謝を高める」"
+        }
+      ]
+    },
+    {
+      "id": "2105",
+      "word": "famine",
+      "phonetic": "[fǽmin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "飢饉",
+            "救済基金を",
+            "長期に渡り食糧がなく餓死者も多数出ている状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "feast-or-famine",
+          "ja": "「商売など)浮き沈みが激しい(←過剰か過少か)」"
+        }
+      ]
+    },
+    {
+      "id": "2106",
+      "word": "riot",
+      "phonetic": "[ráiət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "暴動(可算)",
+            "静かな暴動"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Quiet Riot",
+          "ja": "「静かな暴動」は1980年代に活躍した米国のハードロックバンド。"
+        },
+        {
+          "en": "riot police",
+          "ja": "「警察機動隊」"
+        }
+      ]
+    },
+    {
+      "id": "2107",
+      "word": "asylum",
+      "phonetic": "[əsáiləm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "亡命",
+            "何らかの理由で自国から逃げてきた亡命を政府が守ること"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "a-[否定] + -sylum[侵す]から「侵されない場所に逃れること」->「亡命」",
+        "description": "seek[apply for, grant] asylum「亡命を求める[申請する、認める]」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2108",
+      "word": "workforce",
+      "phonetic": "[wə́ːrkfɔ̀ːrs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "労働人口、総労働力",
+            "ある産業、全社で働く全人員"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cut[slash] one's workforce",
+          "ja": "「~の従業員数を削減する」"
+        }
+      ]
+    },
+    {
+      "id": "2109",
+      "word": "prefecture",
+      "phonetic": "[príːfektʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "県、府",
+            "東京都は Tokyo Metropolis, 北海道は Hokkaido と表現する。"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "county",
+          "ja": "「郡」"
+        },
+        {
+          "en": "ward",
+          "ja": "「区」"
+        }
+      ]
+    },
+    {
+      "id": "2110",
+      "word": "hierarchy",
+      "phonetic": "[háiərɑ̀ːrki]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "階層構造",
+            "ピラミッド状態の序列化された組織"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "日本語でも「ヒエラルキー」はよく使われるが、発音が違うので注意。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "hierarchical",
+          "ja": "「社会・組織などが階層的な、階段的な」"
+        },
+        {
+          "en": "a social hierarchy",
+          "ja": "「社会階層構造」"
+        }
+      ]
+    }
+  ]
+}

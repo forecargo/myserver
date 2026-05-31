@@ -1,0 +1,281 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "119",
+      "word": "pass",
+      "phonetic": "[pæ̀s]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を通り過ぎる",
+            "② 〜を抜く",
+            "③ (試験)に受かる",
+            "④ ((人)A)に(Aを)渡す"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "⑤ (時が)過ぎる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "⑥ 通行証"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある地点)を通過する」",
+        "頻出 pass away「(人が)亡くなる」",
+        "pass for 〜「〜として(世間で)通る」",
+        "pass the time「暇をつぶす」",
+        "④ pass 〜 down「(次世代へ)〜を伝える」",
+        "⑥ a free pass「無料入場券, フリーパス」",
+        "形 passing「一時的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pass the post office",
+          "ja": "郵便局(の前)を通り過ぎる"
+        },
+        {
+          "en": "pass five runners on the final lap",
+          "ja": "最後の一周で5人の走者を抜く"
+        },
+        {
+          "en": "pass the bar exam",
+          "ja": "司法試験に受かる"
+        },
+        {
+          "en": "Pass me the salt, please.",
+          "ja": "塩を取って(私に渡して)ください."
+        },
+        {
+          "en": "as time passes",
+          "ja": "時の経過(時が過ぎる)と共に"
+        },
+        {
+          "en": "an annual pass for the theme park",
+          "ja": "そのテーマパークの年間パス"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "word": "likely",
+      "phonetic": "[láikli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (to do)〜しそうだ, 可能性が高い"
+          ]
+        },
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "② おそらく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① be likely to do「〜しそうだ」(=It is likely that S V.)",
+        "名 likelihood「可能性」",
+        "反 unlikely「〜しそうにない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Things are likely to improve.",
+          "ja": "事態はよくなりそうだ."
+        },
+        {
+          "en": "He will very likely stay home.",
+          "ja": "おそらく, 彼は家にいるだろう."
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "word": "natural",
+      "phonetic": "[nætʃərəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 当然の",
+            "② 自然の",
+            "③ 生まれながらの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① It is natural (for A) to do.「Aが〜するのは当然だ.」(=It is natural that A (should) do.)",
+        "② natural surroundings「自然環境」",
+        "relax in natural surroundings[×in nature]「自然の中でくつろぐ」",
+        "副 naturally「当然, 自然に」",
+        "反 unnatural「不自然な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It is only natural that you cannot catch words you do not know.",
+          "ja": "知らない単語を聞き取れないのはごく当然のことだ."
+        },
+        {
+          "en": "natural beauty",
+          "ja": "自然美"
+        },
+        {
+          "en": "her natural talent",
+          "ja": "彼女の生まれつきの才能"
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "word": "certain",
+      "phonetic": "[sə́ːrtn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 確かな",
+            "② (名詞の前で)ある〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「特定の人[物]について, あえて名前を出さないで言う」",
+        "◇ some (名詞の単数形)「(具体的にはわからないが)ある〜」",
+        "頻出 ① be certain to do「きっと〜する」",
+        "副 certainly「確かに」",
+        "⇨ Certainly.「もちろん, (店員などが)承りました.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is certain to become a star player.",
+          "ja": "彼はきっとスター選手になるよ."
+        },
+        {
+          "en": "be sent to a certain country",
+          "ja": "ある国に派遣される"
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "word": "probably",
+      "phonetic": "[prɑ́bəbli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "おそらく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 確信度はおよそ70%以上.",
+        "◇ perhaps「ひょっとすると(←確信度はおよそ30%以上)」",
+        "注意 will probably「〜するだろう」は will より意味が弱くなる.",
+        "形 probable「ありそうな, 起こりそうな」",
+        "名 probability「見込み, 確率」"
+      ],
+      "word_origin": {
+        "formula": "prob-[証明] + -abl-[〜できる] -> 「おそらく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The repairs will probably take a month.",
+          "ja": "修理はおそらく1か月はかかるだろう."
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "word": "face",
+      "phonetic": "[féis]",
+      "level_tag": "A2A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に直面する",
+            "② 〈方向〉〜向きである"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 顔, 体面, 文字盤"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① (人) face 〜「(人が)〜に直面する」(*能動的)",
+        "(人) be faced with 〜「(人が)〜に直面している」(*受動的)",
+        "③ in the face of 〜「〜にもかかわらず」",
+        "注意 Don't put your head[×face] out of the window.「窓から顔を出すな.」",
+        "派生 facial「顔の」",
+        "⇨ facial expressions「顔の表情」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We are faced with a crisis.",
+          "ja": "私たちは危機に直面している."
+        },
+        {
+          "en": "a window facing (to the) south",
+          "ja": "南向きの窓"
+        },
+        {
+          "en": "lose face",
+          "ja": "面目を失う"
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "word": "avoid",
+      "phonetic": "[əvɔ́id]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を避ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険なものや嫌なもの)を遠ざける」",
+        "頻出 avoid doing「〜するのを避ける」([×avoid to do])",
+        "⇨ vacant「空いている」",
+        "形 unavoidable「避けられない」"
+      ],
+      "word_origin": {
+        "formula": "a-[=away 離れて] + -void[空っぽの]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Avoid making eye contact with monkeys.",
+          "ja": "サルとは目を合わせないようにしなさい(サルと目を合わせることを避けろ)."
+        }
+      ]
+    }
+  ]
+}

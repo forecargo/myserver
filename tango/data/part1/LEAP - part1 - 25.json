@@ -1,0 +1,288 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "176",
+      "word": "decide",
+      "phonetic": "[disáid]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (to do) (~すること)を決定する, 決心する",
+            "② (on~) (~について)決める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では make up one's mind 「決める」も使われる",
+        "頻出 〈decide + wh-節〉の形はよく使われる.",
+        "注意 〈decide + (名詞)〉の形はあまり使われない.",
+        "名 decision「決定」⇔make a decision「決定する」",
+        "形 decisive「決定的な」"
+      ],
+      "word_origin": {
+        "formula": "de-[下]+-cide[切る] -> 「(ほかの選択肢)を切り離す」→「〜を決定する」",
+        "description": "suicide「自殺(←自分を切る)」, pesticide「殺虫剤(←害虫を切る)」"
+      },
+      "examples": [
+        {
+          "en": "decide to live on my own",
+          "ja": "一人で暮らすことを決心する"
+        },
+        {
+          "en": "decide on a date for the wedding",
+          "ja": "結婚式の日取りを決める"
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "word": "judge",
+      "phonetic": "[dʒʌ́dʒ]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を判断する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 裁判官, 審判(員)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① judging from 〜 「〜から判断すると」",
+        "名 judgment「判断」"
+      ],
+      "word_origin": {
+        "formula": "ju-[正しい]+-dge[言う]",
+        "description": "justice「正義」"
+      },
+      "examples": [
+        {
+          "en": "① judge someone by their appearance",
+          "ja": "① 人を外見で判断する"
+        },
+        {
+          "en": "② a Supreme Court judge",
+          "ja": "② 最高裁判所の裁判官"
+        },
+        {
+          "en": "the lay judge system",
+          "ja": "(日本の)裁判員制度"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "word": "quit",
+      "phonetic": "[kwít]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(完全に)やめる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ stop「〜を中断する」",
+        "頻出 目的語には名や doing がくる. ([×]to do は不可.)",
+        "☆quiet「静かな」",
+        "[活用]quit-quit(〈英〉quitted)-quit(〈英〉quitted)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "quit my job",
+          "ja": "仕事をやめる"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "word": "retire",
+      "phonetic": "[ritáiər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(from~) (~を)引退する, 退職する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ resign「辞職する」",
+        "名 retirement「引退, 退職」⇔life after retirement「老後(←引退後の生活)」",
+        "reach[raise] the retirement age「定年に達する[を延長する]」",
+        "形 retired「退職した」(⇔incumbent [inkʌ́mbənt]「現職の」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "retire from the company",
+          "ja": "会社を(定年で)退職する"
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "word": "review",
+      "phonetic": "[rivjúː]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 再検討",
+            "② (新聞などの)批評",
+            "③ 復習"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を再検討する, 復習する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① place 〜 under review「〜を再検討する」",
+        "☆revisit「〜を再び訪れる, 見直す」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び]+-view[見る] -> 「再検討, 復習」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a review of the tax system",
+          "ja": "① 税制の見直し"
+        },
+        {
+          "en": "② a review of his new book",
+          "ja": "② 彼の新刊本の書評"
+        },
+        {
+          "en": "③ do a review of the last lesson",
+          "ja": "③ 前の課を復習する"
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "word": "choose",
+      "phonetic": "[tʃúːz]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を選ぶ"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 選ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ select「(注意深く)精選する」",
+        "頻出 ② choose from[between] 〜 「〜から選ぶ」",
+        "名 choice「選択」⇔have no choice but to do「〜せざるを得ない」",
+        "[活用]choose-chose-chosen"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① choose what to wear to school",
+          "ja": "① 学校へ着ていく服を選ぶ"
+        },
+        {
+          "en": "② choose between the two",
+          "ja": "② 2つから選ぶ"
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "word": "imagine",
+      "phonetic": "[imǽdʒin]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を想像する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「どうなるかなと考える」",
+        "注意 目的語には名, 動名詞, that 節, wh-節などさまざまな形がくる.",
+        "名 imagination「想像」⇔use[exercise] one's imagination「想像力を働かせる」",
+        "名 image [ímidʒ]「像」⇔visual images「視覚映像」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Imagine life without electricity.",
+          "ja": "電気のない生活を想像してごらん."
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "word": "guess",
+      "phonetic": "[gés]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を推測する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 推測"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(事実などを持ち合わせずに)推測する」",
+        "頻出 ① guess (名詞)[wh-節]「〜を(と)推測する」",
+        "名 guesswork「当てずっぽう」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Guess what is in this bag.",
+          "ja": "① この袋に何が入っているかを当ててごらん."
+        },
+        {
+          "en": "② This is only a guess.",
+          "ja": "② これは推測にすぎない."
+        },
+        {
+          "en": "Guess what!",
+          "ja": "あのね, 何だと思う."
+        },
+        {
+          "en": "Make[Take] a guess!",
+          "ja": "当ててごらん."
+        }
+      ]
+    }
+  ]
+}

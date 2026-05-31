@@ -1,0 +1,293 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "057",
+      "word": "physical",
+      "phonetic": "[fízikəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 身体的な",
+            "② 物理的な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① physical contact",
+            "② physical science",
+            "③ physics",
+            "④ physicist"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 形ある",
+        "反 mental 「精神的な」",
+        "反 metaphysical 「形而上の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "physical health",
+          "ja": "体の健康"
+        },
+        {
+          "en": "the physical world",
+          "ja": "物質界"
+        }
+      ]
+    },
+    {
+      "id": "058",
+      "word": "fever",
+      "phonetic": "[fíːvər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (体温の)熱",
+            "② 熱狂"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "feverish 「熱っぽい」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 熱がある状態",
+        "◇ température 「体温」, heat 「(物理的な)熱, 暑さ」",
+        "頻出 ① have[be running] a high[slight] fever 「高[微]熱がある」",
+        "My fever has gone. 「熱が下がった。」",
+        "suffer from hay fever 「花粉症だ」〈不可算〉"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have a fever.",
+          "ja": "熱がある."
+        },
+        {
+          "en": "be gripped by soccer fever",
+          "ja": "サッカー熱に取りつかれる"
+        }
+      ]
+    },
+    {
+      "id": "059",
+      "word": "strength",
+      "phonetic": "[stréŋkθ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (physical -)体力",
+            "② 力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (肉体的, 物理的な)強さ",
+        "頻出 ① have enough physical strength to do「〜するだけの体力がある」",
+        "注意 「体力がつく[衰える]」は get stronger[weaker]と表現するのがよい。",
+        "派生 strong 「強い」の動名詞。",
+        "他 strengthen 「〜を強化する」 (⇔ weaken 「〜を弱める」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "build up my physical strength",
+          "ja": "体力をつける"
+        },
+        {
+          "en": "try with all my strength to lift the piano",
+          "ja": "全力でそのピアノを持ち上げようとする"
+        }
+      ]
+    },
+    {
+      "id": "060",
+      "word": "tear",
+      "phonetic": "[tiər] / [téər]",
+      "level_tag": "名A2 動B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (通例 -s)涙"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (up)〜を引き裂く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (布や紙などを)を無理に引っ張って破る, 引き裂く",
+        "頻出 ① burst into tears 「わっと泣き出す」",
+        "in tears 「泣きながら」",
+        "wipe (away) [hold back] one's tears 「涙を拭く[こらえる]」",
+        "▶ 「涙」は「(目から)引き裂かれたもの」と覚えよう。",
+        "[活用]tear-tore-torn"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was moved to tears.",
+          "ja": "私は感動して泣いた."
+        },
+        {
+          "en": "tear up the letter from him",
+          "ja": "彼からの手紙を引き裂く"
+        }
+      ]
+    },
+    {
+      "id": "061",
+      "word": "taste",
+      "phonetic": "[téist]",
+      "level_tag": "動名B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 〜の味がする"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜の味をみる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 味",
+            "④ 好み"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "tasty 「おいしい」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① taste of (名詞)「〜の味がする」",
+        "頻出 ④ have good taste in clothes 「服のセンスがよい」",
+        "類義 delicious 「とてもおいしい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This apple tastes sweet.",
+          "ja": "このリンゴは甘い(味がする)."
+        },
+        {
+          "en": "taste the soup",
+          "ja": "スープの味見をする"
+        },
+        {
+          "en": "This wine has a strong acid taste.",
+          "ja": "このワインは酸味が強い."
+        },
+        {
+          "en": "have good taste in clothes",
+          "ja": "服のセンスがよい"
+        }
+      ]
+    },
+    {
+      "id": "062",
+      "word": "rule",
+      "phonetic": "[rúːl]",
+      "level_tag": "名A1 動B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 規則",
+            "② 支配"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を支配する"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "ruling 「支配している」"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "ruler 「支配者, 定規」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (学校や競技などの)ルール",
+        "◇ regulation 「(交通法規などの)ルール」",
+        "頻出 ① as a rule 「概して」",
+        "observe[obey, follow] the rules 「規則に従う」",
+        "② rule 〜 out 「(可能性などを)除外する」",
+        "⇔ the ruling party 「与党」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It is against the rules.",
+          "ja": "それは規則違反だ."
+        },
+        {
+          "en": "rule the country",
+          "ja": "その国を支配する"
+        }
+      ]
+    },
+    {
+      "id": "063",
+      "word": "role",
+      "phonetic": "[róul]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "役割"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (劇での)役から「(社会での)役割」まで",
+        "頻出 play a 〜 role in A 「Aにおいて〜な役割を果たす, 演じる」",
+        "play the role of 〜 「(芝居で)〜の役を演じる」",
+        "a role model 「手本」",
+        "▶ 「(役者のセリフが書かれた)巻物」が元の意味。",
+        "派生 roll 「転がる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "play an important role in society",
+          "ja": "社会で重要な役割を果たす"
+        }
+      ]
+    }
+  ]
+}

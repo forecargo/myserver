@@ -1,0 +1,224 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "327",
+      "word": "marry",
+      "phonetic": "[mǽri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜と結婚する"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② (-ied)結婚している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷くだけた表現では, 〈A marry B〉よりも〈A get married to B〉や〈A and B get married〉のほうが使われる。",
+        "頻出 ② be married (to 〜)「(〜と)結婚している」",
+        "get married (to 〜)「(〜と)結婚する」",
+        "(* with は用いないので注意。)",
+        "注意 口語では自 marry 「結婚する」も可。",
+        "マ marry は元々 give の意味で〈marry (花嫁) to 〜〉「〜に(花嫁)を当てがう」だった。名 marriage「結婚」(⇔ divorce「離婚」) 参 a wedding (ceremony)「結婚式」, bride「花嫁」(←bread(パン)を焼く人)から)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Will you marry me?",
+          "ja": "① (私と)結婚してくれますか?"
+        },
+        {
+          "en": "a married couple",
+          "ja": "② 夫婦(結婚しているカップル)"
+        }
+      ]
+    },
+    {
+      "id": "328",
+      "word": "greet",
+      "phonetic": "[gríːt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に挨拶する, 出迎える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ welcome「(初めて来た人)を出迎える」",
+        "頻出 greet 〜 with a smile[a handshake, applause]「〜を笑顔[握手, 拍手]で出迎える」",
+        "注意 日常では say hello[hi] (to 〜)のほうがふつう。",
+        "名 greeting「挨拶」▷ a New Year's greeting card「年賀状」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "greet each other",
+          "ja": "お互いに挨拶をする"
+        }
+      ]
+    },
+    {
+      "id": "329",
+      "word": "order",
+      "phonetic": "[ɔ́ːrdər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を注文する",
+            "② (医者や上官などが)〜に命令する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 注文",
+            "④ 命令",
+            "⑤ 順序",
+            "⑥ 秩序"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① order A from B「AをBに注文する」",
+        "② order (人) to do「(人)に〜するよう命令する」",
+        "▷ ④「命令」→⑥「秩序」",
+        "▷ ⑤ in order「〜の順番に」",
+        "⑥ out of order「乱れている, 故障中の」(⇔ in order「整然として」)",
+        "形 orderly「秩序だった」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① order rice directly from the farm",
+          "ja": "① 産地に直接米を注文する"
+        },
+        {
+          "en": "② order him to stop smoking",
+          "ja": "② たばこをやめるよう彼に命じる"
+        },
+        {
+          "en": "③ place an order by telephone",
+          "ja": "③ 電話で注文する"
+        },
+        {
+          "en": "④ obey an order",
+          "ja": "④ 命令に従う"
+        },
+        {
+          "en": "⑤ in alphabetical order",
+          "ja": "⑤ アルファベット順で"
+        },
+        {
+          "en": "⑥ maintain peace and order",
+          "ja": "⑥ 平和と秩序を維持する"
+        }
+      ]
+    },
+    {
+      "id": "330",
+      "word": "room",
+      "phonetic": "[rúːm]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 部屋",
+            "② 余地, 空間(不可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ ②「余地, 空間」→①「部屋」",
+        "頻出 ② room for 〜「〜のための余地」",
+        "make room for 〜「〜のために空間を作る, (電車などで)〜のために詰める」",
+        "▷「8号室」は a room (numbered) eight[Room (No.) 8]と表現する。",
+        "参 spacious「広々とした」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① book a single room for two nights",
+          "ja": "① シングルルームを2泊予約する"
+        },
+        {
+          "en": "② have room for dessert",
+          "ja": "② デザートは別腹だ (デザートのための余地はある)"
+        }
+      ]
+    },
+    {
+      "id": "331",
+      "word": "story",
+      "phonetic": "[stɔ́ːri]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "階"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷「(何階建てか, 建物の高さを示す)階」を表す。「(建物の特定の)階」は floor で表す。⇔ the second floor「2階」",
+        "頻出 a ○-story building「○階建ての建物」",
+        "a multi-story parking garage「立体駐車場」",
+        "マ 中世ヨーロッパでは, 大きな建物の各階の外壁や窓に物語(story)を描く慣習があったことに由来。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a two-hundred-story skyscraper",
+          "ja": "200階建ての超高層ビル"
+        }
+      ]
+    },
+    {
+      "id": "332",
+      "word": "site",
+      "phonetic": "[sáit]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 用地",
+            "② 現場, 場所",
+            "③ (史跡などの)跡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷「(ある特定の目的で使用される)場所, (重要な)場所」",
+        "マ website は「インターネット上で展開されているウェブページ(情報)の場所」のこと。図 on-site「現地[現場]の」⇔ an on-site childcare center「社内託児所」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a dam site (=a site for a dam)",
+          "ja": "① ダムの用地"
+        },
+        {
+          "en": "② a construction[camping] site",
+          "ja": "② 建設現場[キャンプ地]"
+        },
+        {
+          "en": "③ the site of the Battle of Sekigahara",
+          "ja": "③ 関ヶ原の戦いの跡"
+        }
+      ]
+    }
+  ]
+}

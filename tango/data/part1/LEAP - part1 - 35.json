@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "251",
+      "word": "terrible",
+      "phonetic": "[térəbl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① ひどい",
+            "② 苦手で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 元は「恐ろしい、怖い」の意味。（*日常では「ひどい、ひどく不快な」などの意味でよく使われる。）",
+        "頻出 be terrible at ~「〜が苦手だ」",
+        "頻出 be terrible with ~「〜の扱いが苦手だ」",
+        "注意 terrific「(主に男性言葉)すばらしい」と混同しないようにする",
+        "名 terror「恐怖」",
+        "名 terrorism「テロ」",
+        "他 terrify「〜を怖がらせる」",
+        "副 terribly「とても」（*マイナスとは限らない。）",
+        "I'm terribly sorry.「本当にごめんなさい。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have a terrible sense of direction.",
+          "ja": "私は方向音痴(ひどい方向感覚)だ。"
+        },
+        {
+          "en": "I am terrible at remembering people's names.",
+          "ja": "人の名前を覚えるのが苦手だ。"
+        }
+      ]
+    },
+    {
+      "id": "252",
+      "word": "awful",
+      "phonetic": "[ɔ́ːfəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "ひどい, 不快な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「気持ちがひどく不快な」（=very bad）",
+        "頻出 feel awful「気分が悪い」",
+        "look awful「ひどい顔(色)をしている」",
+        "語源 awe-[畏敬の念]+-ful [に満ちた]（*意味が逆転している。）",
+        "名 awe「畏敬の念」",
+        "副 awfully「ひどく」",
+        "形 awesome「(とても)すごい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an awful smell of cat urine [júərin]",
+          "ja": "ネコの尿のひどい臭い"
+        }
+      ]
+    },
+    {
+      "id": "253",
+      "word": "thin",
+      "phonetic": "[θín]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 薄い",
+            "② (病的に)やせた",
+            "③ (毛が)薄い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「やせている(肉づきが少ない)」",
+        "◇ slim「ほっそりして魅力的な」",
+        "slender「(均整がとれて)スラッとした」",
+        "注意 ① soup や milk などの「薄い」には thin が使えるが, tea や coffee のようなカフェイン飲料の「薄い」には weak を使う。",
+        "名 thinner「シンナー(塗料の薄め液)」",
+        "反 ① thick「厚い」",
+        "反 ② fat「太った」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a thin jacket",
+          "ja": "薄い上着"
+        },
+        {
+          "en": "Although she eats a lot, she is very thin.",
+          "ja": "彼女はたくさん食べるが, とてもやせている。"
+        },
+        {
+          "en": "His hair is getting thin on top.",
+          "ja": "彼の頭のてっぺんが薄くなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "254",
+      "word": "tight",
+      "phonetic": "[táit]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 引き締まった, きつい",
+            "② 厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ぎっしり詰まって余裕がない」",
+        "日本語でも「タイトなスケジュール」などとよく使われる。",
+        "他 tighten「〜を引き締める」",
+        "反 ① loose「緩い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tight jeans",
+          "ja": "きついジーンズ"
+        },
+        {
+          "en": "tight control on immigration",
+          "ja": "移民に関する厳しい管理"
+        }
+      ]
+    },
+    {
+      "id": "255",
+      "word": "loose",
+      "phonetic": "[lúːs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① ゆるい",
+            "② 解き放たれた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② let ~ loose「〜を解き放す」",
+        "注意 つづりの似ている lose [lúːz]「〜を失う, 負ける」と区別。",
+        "他 loosen「〜をゆるめる」",
+        "loosen one's tie「ネクタイをゆるめる」",
+        "反 ① tight「きつい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wear loose clothes",
+          "ja": "ダボッとした(ゆるい)服を着ている"
+        },
+        {
+          "en": "let my dog loose on the beach",
+          "ja": "海岸でイヌを自由にしてやる"
+        }
+      ]
+    },
+    {
+      "id": "256",
+      "word": "raw",
+      "phonetic": "[rɔ́ː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "生の, 加工されていない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(食物が)生の」から「(材料, 原料, データなどが)加工されていない」まで。",
+        "◇ wild「野生の, 天然の, 突飛な」",
+        "頻出 raw materials「原料」",
+        "派生 rude「無礼な(=粗野な[生の]状態)」",
+        "反 cooked「火を使って調理した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "raw fish",
+          "ja": "生魚"
+        }
+      ]
+    },
+    {
+      "id": "257",
+      "word": "empty",
+      "phonetic": "[émpti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 空の, 中身のない"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を空にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「中身が空っぽの」",
+        "頻出 an empty box [space]「空箱[空きスペース]」",
+        "反 full「いっぱいの」",
+        "熟 empty-handed「手ぶらで, なんの収穫もなく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an empty bottle",
+          "ja": "空瓶"
+        },
+        {
+          "en": "empty his glass in one gulp",
+          "ja": "ひと口でグラスを空にする"
+        }
+      ]
+    }
+  ]
+}

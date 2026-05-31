@@ -1,0 +1,239 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "244",
+      "word": "bright",
+      "phonetic": "[bráit]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 明るい",
+            "② (主に子どもや若者が)賢い"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を明るくする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(明かりが)ぱっと明るい」から「(服などが)明るい」まで。",
+        "◇cheerful「(人の性格が)明るい」",
+        "他 brighten「〜を明るくする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The moon is bright tonight.",
+          "ja": "今夜は月が明るい."
+        },
+        {
+          "en": "a bright child",
+          "ja": "聡明な子ども"
+        }
+      ]
+    },
+    {
+      "id": "245",
+      "word": "brilliant",
+      "phonetic": "[bríljənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 輝いている",
+            "② すばらしい"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "輝き, すばらしい才能"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「きらきらと明るく輝いている」(* bright よりも明るい。)",
+        "頻出 ② a brilliant success「すばらしい成功」",
+        "名 brilliance「輝き, すばらしい才能」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "swim in the brilliant sunshine",
+          "ja": "まばゆい太陽光の下で泳ぐ"
+        },
+        {
+          "en": "a brilliant idea",
+          "ja": "すばらしい考え"
+        }
+      ]
+    },
+    {
+      "id": "246",
+      "word": "lively",
+      "phonetic": "[láivli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "生き生きとした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人」から「物」に対してまで幅広く使える。",
+        "頻出 a lively conversation[discussion]「生き生きとした会話[活発な議論]」",
+        "live-[生きている]+-ly[ような]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a lively conversation",
+          "ja": "生き生きとした会話をする"
+        }
+      ]
+    },
+    {
+      "id": "247",
+      "word": "comfortable",
+      "phonetic": "[kʌ́mfərtəbl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (物が)快適な",
+            "② (人が)心地よい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(苦痛や不安から開放されて)快適な」",
+        "頻出 ② Please make yourself comfortable.「気楽になさってください。」",
+        "a comfortable life「(経済的にゆとりのある)快適な生活」",
+        "名 comfort「快適さ」",
+        "他 〜を慰める",
+        "副 comfortably「快適に」",
+        "反 uncomfortable「心地よくない」",
+        "参 cozy「居心地のよい, アットホームな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a comfortable bed",
+          "ja": "快適なベッド"
+        },
+        {
+          "en": "I feel comfortable in that café.",
+          "ja": "あのカフェは居心地がよい."
+        }
+      ]
+    },
+    {
+      "id": "248",
+      "word": "pleasant",
+      "phonetic": "[plézənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(人にとって)楽しい, 心地よい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「心温まる」という意味なので, 「(娯楽的に)楽しい」は fun が適している。",
+        "⇨Traveling is a lot of fun[▲very pleasant].「旅は実に楽しい。」",
+        "頻出 It is pleasant (for (人)) to do.「((人)にとって)〜するのは楽しい」",
+        "注意 (人)を主語にはしない。([×]I am[find] pleasant.)",
+        "派 please「〜を喜ばせる」の形容詞形。",
+        "形 pleased「(人が)満足している」",
+        "名 pleasure「楽しみ, 快楽」",
+        "反 unpleasant「不愉快な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I find it pleasant[×feel pleasant] to talk with her.",
+          "ja": "彼女と話すのは楽しいと感じる."
+        }
+      ]
+    },
+    {
+      "id": "249",
+      "word": "convenient",
+      "phonetic": "[kənvíːnjənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 都合がよい",
+            "② 近くて便利がよい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶(時間, 場所, やり方が)都合がよい",
+        "頻出 ① A is convenient for B「AはBにとって都合がよい」",
+        "注意「(物が)便利な」を表現する場合, useful, handy を使うのがふつう。",
+        "名 convenience「便利さ」",
+        "反 inconvenient「不便な」",
+        "⇨cause an inconvenience「不便をかける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Call me when it is convenient for you[×when you are convenient].",
+          "ja": "都合のよいときに電話してください."
+        },
+        {
+          "en": "My house is convenient to[〈英〉for] the station.",
+          "ja": "私の家は駅から近くて便利だ."
+        }
+      ]
+    },
+    {
+      "id": "250",
+      "word": "false",
+      "phonetic": "[fɔ́ːls]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 誤った",
+            "② 偽の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(事実と)異なる」",
+        "◇fake「(相手をだますという意味で)本物そっくりの」",
+        "fake jewelry「にせの宝石」",
+        "頻出 ① true-or-false questions「正誤問題」",
+        "make a false start「(陸上競技などで)フライングをする」",
+        "a false accusation「えん罪」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "false information",
+          "ja": "誤った情報"
+        },
+        {
+          "en": "give a false name",
+          "ja": "偽名を使う"
+        }
+      ]
+    }
+  ]
+}

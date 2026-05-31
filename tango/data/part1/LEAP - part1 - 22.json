@@ -1,0 +1,258 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "155",
+      "word": "happen",
+      "phonetic": "[hæpən]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to 〜) (〜に) 起こる",
+            "② (to do) 偶然〜する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(偶然、不意に)起こる」",
+        "注意 ① 主語は what, something, nothing などが多い。",
+        "名 happening「(思いがけない)出来事, (奇妙な)事件」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What happened to her?",
+          "ja": "彼女に何が起こったの."
+        },
+        {
+          "en": "I happened to meet him.",
+          "ja": "彼にたまたま会った."
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "word": "appear",
+      "phonetic": "[əpíər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 現れる",
+            "② (to be 〜)〜のように思える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(TVなどに出る)から「(市場に出る→)発売される」まで。",
+        "▶ ② seem to be 〜よりも堅い表現。",
+        "注意 「(友人などが約束の場所に)現れる」は show up (≠appear) と表現する。",
+        "名 appearance「出現, 外見」",
+        "反 disappear「消える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The singer appeared on the stage.",
+          "ja": "その歌手がステージに現れた."
+        },
+        {
+          "en": "He appears to be sleeping.",
+          "ja": "彼は寝ているようだ."
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "word": "remain",
+      "phonetic": "[riméin]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 〜のままでいる",
+            "② 残る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「同じ状態が続く」",
+        "頻出 ① remain to be done 「まだ〜されていない(←これからなされる状態)」",
+        "語法 The fact remains that SV.「〜という事実に変わりはない」",
+        "注意 後ろに名や形が置かれたら①, なければ②の意味になる。",
+        "類 maintain「〜を維持する」",
+        "名 remains「遺物, 遺跡」",
+        "形 remaining「残りの」",
+        "コロ the remaining money「残りのお金」"
+      ],
+      "word_origin": {
+        "formula": "re-[後ろ]+-main[維持する]から「後ろに置いておく」→「〜のままでいる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The cause of the accident remains unknown.",
+          "ja": "その事故の原因はいまだに知られていない(知られていないままだ)."
+        },
+        {
+          "en": "Five people remained in the room.",
+          "ja": "部屋には5人が残っていた."
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "word": "survive",
+      "phonetic": "[sərváiv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 生き残る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜から生き延びる, 〜の後も存続する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かを乗り越えて)生き延びる, 生き抜く」",
+        "類 live「生きる」",
+        "注意 「(生命の存続にかかわってくる場合の)生きる」は survive が適切。",
+        "類 vital「極めて重要な(←生命の)」",
+        "名 survival「生存, 生き残ること」"
+      ],
+      "word_origin": {
+        "formula": "sur-[上]+-vi-[命]から「〜を越えて命をつなぐ」→「〜を生き残る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "eat grass in order to survive",
+          "ja": "生き延びるため草を食べる"
+        },
+        {
+          "en": "survive a plane crash",
+          "ja": "飛行機の事故で生き残る"
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "word": "belong",
+      "phonetic": "[bilɔ́ŋ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (〜に)所属している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期[恒久]的な所属→)あるべき場所にある」",
+        "注意 join「〜に所属する, 参加する」と区別。また, 「(長期[恒久]的な)所属」を示す喫は I am on[(<英語>in)] the baseball team. と表現するほうが自然。",
+        "名 (one's) belongings「(〜の)持ち物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Sam belongs[×is belonging] to the Sales Department.",
+          "ja": "サムは営業部に所属している."
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "word": "represent",
+      "phonetic": "[rèprizént]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を代表する",
+            "② (記号などが)を表す",
+            "③ 〜を表現する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「シンボルとして〜を示す」",
+        "▶ ①「(会社や国など)を代表する」",
+        "名 representative「代表者」",
+        "コロ sales representative「販売外交員」",
+        "名 representation「代表, 表現」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び→強意]+-present[提示する]→「示す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "represent Japan at the World Cup",
+          "ja": "ワールドカップ日本代表となる"
+        },
+        {
+          "en": "This sign represents a temple.",
+          "ja": "このマークは寺を表す."
+        },
+        {
+          "en": "This painting represents the fight between good and evil.",
+          "ja": "この絵画は善と悪の戦いを表現している."
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "word": "base",
+      "phonetic": "[béis]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜の基礎を置く"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 基礎(の部分), 基盤",
+            "③ 基地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① base A on B 「Aの基礎をBに置く」",
+        "コロ be based on 〜「〜に基づいて」",
+        "コロ make a judgement based on experience「経験に基づいて判断する」",
+        "形 basic「基礎の」",
+        "コロ on a daily basis「毎日」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This novel is based on facts.",
+          "ja": "この小説は事実に基づいている."
+        },
+        {
+          "en": "I work in many places, but my base is here.",
+          "ja": "多くの場所で働いているが, 私の基盤はここだ."
+        },
+        {
+          "en": "a secret base",
+          "ja": "秘密基地"
+        }
+      ]
+    }
+  ]
+}

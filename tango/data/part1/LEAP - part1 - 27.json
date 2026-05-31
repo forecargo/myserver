@@ -1,0 +1,259 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "190",
+      "word": "accept",
+      "phonetic": "[æksépt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を受け入れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(納得[同意]して), 申し出, 招待)を受け入れる」",
+        "頻出 目的語は an offer「申し出」, an invitation「招待」, a fate「運命」など。",
+        "注意 receive「〜を受け取る」と区別。「((仕事)を引き受ける」は take on",
+        "語源 ac-[方向] + -cept[取る]",
+        "名 accéptance「受け入れ」",
+        "形 accéptable「受け入れられる, 容認可能な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "accept other people's opinions",
+          "ja": "他人の意見を受け入れる"
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "word": "consider",
+      "phonetic": "[kənsídər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をよく考える, 考慮する",
+            "② (人の気持ち)を思いやる",
+            "③ (A (to be[as])) B) (A)を(Bと)みなす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (判断, 決定する前に)よく考える",
+        "頻出 ① consider doing「〜することを考える」",
+        "名 considerátion「考慮, 思いやり」",
+        "形 consíderate「思いやりのある」",
+        "形 consíderable「(数量が)かなりの(←考えられる限りの)」",
+        "前 consídering (that) SV「〜を考慮すれば」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① consider all the possibilities",
+          "ja": "① すべての可能性を考える"
+        },
+        {
+          "en": "② consider other people",
+          "ja": "② (人の気持ち)を思いやる"
+        },
+        {
+          "en": "③ consider it (to be) meaningless",
+          "ja": "③ それは無意味だとみなす"
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "word": "mind",
+      "phonetic": "[máind]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 気にする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 精神, 頭脳",
+            "③ (才能, 知性のある)人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 否定文, 疑問文で使うのがふつう。",
+        "頻出 ① Do[Would] you mind if SV?「〜してもいいですか(〜を気にしますか)」。(*「いいですよ。」の場合は Certainly not. や Not at all. など否定で答える。) if you do not mind「よろしければ」",
+        "熟 make up[change] one's mind「決心する[心変わりする]」",
+        "英作文で「〜を気にしない」は do not care about 〜, 「〜を心配する」は be worried[anxious] about 〜と表現するのが無難。",
+        "他 mind (doing)は「((〜するの)を気にする」の意味。",
+        "形 -minded「〜気質の」 ⇔ internátionally-minded「国際感覚のある」",
+        "(*人と意見が一致したときにふざけて言う表現。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Do you mind if I open the window?",
+          "ja": "① 窓を開けてもいいですか(窓を開けるのを気にしますか)。"
+        },
+        {
+          "en": "② the minds of children",
+          "ja": "② 子どもの心"
+        },
+        {
+          "en": "③ Great minds think alike.",
+          "ja": "③ 《ことわざ》賢人は同じように考える。"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "word": "wonder",
+      "phonetic": "[wʌ́ndər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (wh-節 / if SV)〜かなと思う"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (at 〜)(〜に)驚く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「疑問を持って問いかける」",
+        "頻出 I was wondering if you could do.「〜していただけますでしょうか」",
+        "名 wónder「驚き」 ⇔ It is no wonder SV.「〜なのは不思議ではない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I wonder[×think] where he has gone.",
+          "ja": "① 彼がどこに行ってしまったのだろうか。"
+        },
+        {
+          "en": "② wonder at his ability",
+          "ja": "② 彼の才能に驚く"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "word": "seem",
+      "phonetic": "[síːm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "〜のように思われる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(見た目や状況, 自分の考えなどから)〜のようだ」",
+        "頻出 seem 〜 to do「〜するように思われる」",
+        "注意 日本語では一見, 受け身のようだが, つられて seem を受け身にしないこと。",
+        "副 seemingly「一見」 ⇔ a seemingly easy task「簡単そうに思える仕事」",
+        "(=He seems to know what happened.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It seems that he knows what happened.",
+          "ja": "彼は起きたことを知っているようだ。"
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "word": "compare",
+      "phonetic": "[kəmpéər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A with [to, and] B) (A)を(Bと)比較する",
+            "② (A to B) (A)を(Bに)例える"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (with[to] 〜)(〜に)匹敵する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 com-[共に] + -pare[等しい]から「同等の状態に置く」→「〜を比較する, 例える」",
+        "名 compárisón「比較」",
+        "形 compárative「比較的な」",
+        "形 cómpárable「似た, 比較できる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① compare city life with country life",
+          "ja": "① 都会の生活を田舎の生活と比較する"
+        },
+        {
+          "en": "② compare life to a voyage",
+          "ja": "② 人生を航海に例える"
+        },
+        {
+          "en": "③ No one can compare with him in academic ability.",
+          "ja": "③ 学力で彼に匹敵する者はいない。"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "word": "concentrate",
+      "phonetic": "[kάnsəntrèit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (on 〜)(〜に)集中する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (A on B) (A)を(Bに)集中させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「(人を主語として)エネルギーを1か所に集める」",
+        "語源 con-[共に] + -centra-[中心] →「(意識を)中心に集める」",
+        "名 concentrátion「集中, 濃度, (トランプの)神経衰弱」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① concentrate on my studies",
+          "ja": "① 勉強に集中する"
+        },
+        {
+          "en": "② Concentrate your attention on your job.",
+          "ja": "② 仕事に集中しなさい(仕事に注意を集中させなさい)。"
+        }
+      ]
+    }
+  ]
+}

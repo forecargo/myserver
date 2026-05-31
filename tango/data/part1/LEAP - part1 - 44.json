@@ -1,0 +1,240 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "308",
+      "word": "provide",
+      "phonetic": "[prəváid]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A with B) (AにBを供給する, 与える)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(今後に備えるため、必要としている人に)〜を与える」(*giveはマイナスイメージのものにも使えるが、provideはプラスイメージのものだけに使う。)",
+        "頻出 provide (人) with 〜「(人)に〜を与える」(*「人」に重点を置く場合, provide 〜 for (人)とする。) provide for 〜「〜を養う」",
+        "語源 pro-[前に] + -vide[見る] -> 「先を見越して与える」 *vídeo「ビデオ」",
+        "名 provision「供給, 用意」",
+        "接 provided「もし〜なら, 〜という条件で」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前に] + -vide[見る] -> 「先を見越して与える」",
+        "description": "*vídeo「ビデオ」"
+      },
+      "examples": [
+        {
+          "en": "provide students with an opportunity to study in the U.K.",
+          "ja": "イギリス留学の機会を学生に与える"
+        }
+      ]
+    },
+    {
+      "id": "309",
+      "word": "board",
+      "phonetic": "[bɔ́ːrd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (細長い)板",
+            "② (幹部などによる)委員会"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜に乗る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「板」→「机」→②「会議, 委員会」",
+        "▶①「板」→「(乗り物の)床」→③「〜に搭乗する」(*堅い表現。)",
+        "頻出 on board「(電車, 飛行機などに)乗って」",
+        "a boarding pass「搭乗券」",
+        "a bulletin board「掲示板」",
+        "語源 signboard「(店の)看板」",
+        "cardboard box「段ボール」(不可算)",
+        "a cardboard box「段ボール箱」",
+        "前副 aboard「((〜に)乗って)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① drill a hole through a board",
+          "ja": "① 板にドリルで穴を開ける"
+        },
+        {
+          "en": "② a board of education",
+          "ja": "② 教育委員会"
+        },
+        {
+          "en": "③ board a bus",
+          "ja": "③ バスに乗る"
+        }
+      ]
+    },
+    {
+      "id": "310",
+      "word": "garbage",
+      "phonetic": "[gɑ́ːrbidʒ]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "ごみ〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(台所で出る)生ごみ, 空き缶など」を指し, 「(紙くずなどの乾燥した)ごみ」はtrashを使う。(英)rubbish.",
+        "頻出 take out [throw away] garbage「ごみを出す[捨てる]」",
+        "語源 búrnable「燃える」 ⇔ unburnable「燃えないごみ」",
+        "júnk「がらくた」 = junk food「ジャンクフード」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "plastic garbage bags",
+          "ja": "ビニールのごみ袋"
+        }
+      ]
+    },
+    {
+      "id": "311",
+      "word": "item",
+      "phonetic": "[áitəm]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 品物",
+            "② (集合名詞を数えるときに用いる)・・・点, 個",
+            "③ (リストなどの)項目"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(1つ1つの)品物」",
+        "◇goods「(集合的に)商品」",
+        "頻出 ① a household [stolen] item「家庭用品[盗品]」",
+        "② a news item (=an item of news)「1つのニュース」",
+        "日本語でも「必須アイテム」(a must-have item)などと表現する。",
+        "character items from the cartoon「そのマンガのキャラクターアイテム」",
+        "他 itemize「〜を項目別にする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① buy items on sale",
+          "ja": "① バーゲン品を買う"
+        },
+        {
+          "en": "② a news item about the village",
+          "ja": "② その村に関する(1つの)ニュース"
+        },
+        {
+          "en": "③ check all the items on the list",
+          "ja": "③ リストのすべての項目を確認する"
+        }
+      ]
+    },
+    {
+      "id": "312",
+      "word": "wheel",
+      "phonetic": "[hwíːl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 車輪",
+            "② (the 〜)ハンドル"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (車輪のついたものを)動かす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶② steering wheel「操縦のための輪」の省略形。",
+        "頻出 ② at [behind] the wheel「運転中(←ハンドルのところ[後ろ]で)」",
+        "注意「(車のタイヤの)ホイール(キャップ)」は和製英語で, 英語ではa hubcapと表現する。また, a handleは「取っ手」の意味。",
+        "名 wheelchair「車いす」",
+        "名 wheelbarrow「手押し一輪車」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the front wheel of my bicycle",
+          "ja": "① 自転車の前輪"
+        },
+        {
+          "en": "② sit at the wheel",
+          "ja": "② 運転する(ハンドルの所に座る)"
+        },
+        {
+          "en": "③ wheel a cart",
+          "ja": "③ カートを動かす"
+        }
+      ]
+    },
+    {
+      "id": "313",
+      "word": "note",
+      "phonetic": "[nóut]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① メモ",
+            "② 〈英〉紙幣"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (that SV) (〜ということを)指摘する",
+            "④ 〜に注意を払う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶③「(大切だから)注意を払う(指摘する)」",
+        "頻出 ④ It is worth noting that SV.「特筆すべきは〜だ.」",
+        "It is interesting to note that SV.「〜なのは興味深い.」",
+        "形 nótable「注目すべき」",
+        "副 nótably「とりわけ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① take notes in class",
+          "ja": "① 授業中にメモをとる"
+        },
+        {
+          "en": "② a 50-pound note",
+          "ja": "② 50ポンド紙幣"
+        },
+        {
+          "en": "③ note that we face a real challenge",
+          "ja": "③ 私たちは大きな難題に直面していると指摘する"
+        },
+        {
+          "en": "④ Please note that the homework is due on Friday.",
+          "ja": "④ 宿題の締め切りは金曜日だということを忘れずに注意してください。"
+        }
+      ]
+    }
+  ]
+}

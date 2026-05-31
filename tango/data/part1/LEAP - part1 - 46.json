@@ -1,0 +1,223 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "321",
+      "word": "refrigerator",
+      "phonetic": "[rìfrídʒərèitər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "冷蔵庫"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では fridge と略すことが多い。",
+        "頻出 put[keep] ~ in the refrigerator「〜を冷蔵庫に入れる[入れておく]」",
+        "派生 re-[引き戻す→下] + -friger-[冷やす] →「冷やして(温度を)下げる物」",
+        "派生 defrost「〜を解凍する」 microwave「〜を電子レンジで温める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "put the leftovers in the refrigerator",
+          "ja": "冷蔵庫に残り物を入れる"
+        }
+      ]
+    },
+    {
+      "id": "322",
+      "word": "traffic",
+      "phonetic": "[trǽfik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "交通(量) 〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「自動車やバイクの流れ」",
+        "頻出 heavy traffic「渋滞(←重い交通の流れ)」 a traffic jam「(交通量の多い)渋滞」 a traffic accident「交通事故」",
+        "派生 human traffic(king)「人身売買(←人を移動させること)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There is little traffic on the street today.",
+          "ja": "今日は, 通りに車が少ない(交通量がほとんどない)."
+        }
+      ]
+    },
+    {
+      "id": "323",
+      "word": "sell",
+      "phonetic": "[sél]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を売る"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 売れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(お金と引き換えに物を)売る」",
+        "頻出 ② sell out「売り切れる」(=be sold out) ⇨The tickets for the concert were sold out.[were sold out]「そのコンサートのチケットは売り切れた。」",
+        "注意 ② well や badly などの副詞を伴い, 受け身のような意味を持つ。 ⇨sell well「よく売れる」",
+        "派生 名 sale「販売, 売上高」 ⇨for sale「売り物の」 on sale「販売されて」",
+        "派生 名 seller「売り手, 売れる商品」 [活用]sell-sold-sold"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① We sold our car for[at] 500,000 yen.",
+          "ja": "① 私たちは車を 50 万円で売った。"
+        },
+        {
+          "en": "② Her books sell very well.",
+          "ja": "② 彼女の本は売れ行きがとてもよい(よく売れる)."
+        }
+      ]
+    },
+    {
+      "id": "324",
+      "word": "pay",
+      "phonetic": "[péi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A for B) (Bの代金としてA)を支払う",
+            "③ (仕事などが)割に合う"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (for A) (Aの代金)を支払う"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ 給料"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 pay ~ off「〜を完済する」 pay in cash[by credit card]「現金[カード]で払う」 pay (A) a visit「(Aを訪問する)(≒pay a visit to (人)) pay ~ back「〜を返す」",
+        "派生 名 payment「支払い」 ⇨payment in installments[advance]「分割[前]払い」 monthly payment of $100「毎月 100 ドルの支払い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① pay five dollars for the book",
+          "ja": "① その本の代金として 5 ドルを払う"
+        },
+        {
+          "en": "② pay for the room",
+          "ja": "② その部屋代を払う"
+        },
+        {
+          "en": "③ Honesty does not pay.",
+          "ja": "③ 正直者がばかを見る(正直は割に合わない)."
+        },
+        {
+          "en": "④ have a vacation with pay (=have a paid vacation)",
+          "ja": "④ 有給休暇をとる"
+        }
+      ]
+    },
+    {
+      "id": "325",
+      "word": "wear",
+      "phonetic": "[wέər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を身につけている",
+            "② 〜をすり減らす"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ すり減る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 服, 靴, 眼鏡, カツラ(wig), 化粧(makeup)など「身につけられるもの」に対して幅広く使える。(*②③「着古す」→「すり減らす(減る))」",
+        "頻出 ① wear A to B「Aを着てBに行く」",
+        "wear a cap backward「帽子を後ろ前にかぶる」",
+        "② be worn out「すり切れている, 疲れきっている」",
+        "注意 wear「〜を身につけている(状態)」と put on「〜を身につける(動作)」を区別。(「一時的に)着ている」は通例, be wearing で表現する。)",
+        "派生 形 weary[wíəri]「疲れきった」 [活用]wear-wore-worn"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I wear contact lenses.",
+          "ja": "① コンタクトレンズをつけている."
+        },
+        {
+          "en": "I am wearing contact lenses now.",
+          "ja": "◇私は今コンタクトレンズをつけている(日頃はメガネなどをかけている)."
+        },
+        {
+          "en": "② My shirt is badly worn.",
+          "ja": "② 私のシャツはひどくすり切れている."
+        },
+        {
+          "en": "③ The carpet is starting to wear a little.",
+          "ja": "③ カーペットが少しすり減り始めている."
+        }
+      ]
+    },
+    {
+      "id": "326",
+      "word": "clothes",
+      "phonetic": "[klóuðz]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(集合的に)衣服全般"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(帽子や靴まで含めた)身につけるもの全般」",
+        "頻出 put on[take off] ~「〜を着る[脱ぐ]」",
+        "注意 常に複数扱いで, 数詞とは一緒に使わない。",
+        "「服1点」は a piece[an item, an article] of clothes と表現する。",
+        "単に「服を着る」は get dressed と表現するのがふつう。",
+        "派生 「衣服」は複数の cloth(s) [klɔ́θ(s)]「布」で作られる",
+        "派生 food, clothing, and shelter「衣食住」 dress「(女性用の)服, ワンピース」 costume「(舞台用, 民族, 時代特有の)衣装」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "change my clothes",
+          "ja": "服を着替える"
+        }
+      ]
+    }
+  ]
+}

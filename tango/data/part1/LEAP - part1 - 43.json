@@ -1,0 +1,218 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "302",
+      "word": "ancient",
+      "phonetic": "[éinʃənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 古代の",
+            "② 古びた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶西洋史では「西ローマ帝国滅亡(A.D. 476)」までを示す。⇔modern「近代の」",
+        "頻出 ① ancient times「古代」",
+        "ancient people[civilization]「古代人[文明]」",
+        "ancient Greece[Rome, Egypt]「古代ギリシャ[ローマ, エジプト]」",
+        "an-[(=ante)前の]",
+        "A.D.「西暦(=Anno Domini『我らの主(イエス・キリスト)の年に』)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① in ancient times",
+          "ja": "① 大昔に"
+        },
+        {
+          "en": "② an ancient, worn-out coat",
+          "ja": "② 古びてすり切れたコート"
+        }
+      ]
+    },
+    {
+      "id": "303",
+      "word": "spend",
+      "phonetic": "[spénd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (時間)を費やす",
+            "② (お金)を使う"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "spending「出費」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(金, 時間, 労力など)を費やす」",
+        "頻出 ① spend (時間) doing[副詞(句)]「〜するのに[〜で](時間)を費やす」",
+        "② spend (時間) [お金] (on 〜)「((〜に)(時間)を費やす, (お金)を使う)」",
+        "注意 ①「時間を何に使ったか」に重点があり, doing や副詞(句)を伴う。have[×spend] a good[busy] time「楽しい[忙しい]時を過ごす」",
+        "s-[=ex 外]+-pend[重さを量る, 支払う] ☆expensive「高価な」",
+        "[活用]spend-spent-spent"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① spend most of my time reading[in my room, with my family]",
+          "ja": "① 時間の大半を読書に[部屋の中で, 家族と一緒に]費やす[過ごす]"
+        },
+        {
+          "en": "② spend too much money on clothes",
+          "ja": "② 洋服にお金をかけすぎる"
+        }
+      ]
+    },
+    {
+      "id": "304",
+      "word": "delay",
+      "phonetic": "[diléi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を遅らせる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 遅延, 延期"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶主に「(公共交通機関や会議, 決定など)を遅らせる」",
+        "頻出 ① A delay B「AのためにBが遅れる」(=B is delayed by A)",
+        "注意「(予定よりも)遅れているバス」は[×]a delayed busではなく, a bus that is delayed[late]と表現する。また, a late busは「深夜バス」の意味。"
+      ],
+      "word_origin": {
+        "formula": "de-[下→強意]+-lay[置く] -> 「置いたままにする」→「〜を遅らせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① Our train was delayed (for) two hours.",
+          "ja": "① 私たちが乗った列車が2時間遅れた。"
+        },
+        {
+          "en": "② without delay",
+          "ja": "② 遅れることなく"
+        }
+      ]
+    },
+    {
+      "id": "305",
+      "word": "borrow",
+      "phonetic": "[bárou]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を借りる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(無償で)物を借りる」から「(銀行がお金を)借りる」「(考えなど)を借用する」まで。",
+        "頻出 borrow A from B「BからAを借りる」",
+        "注意 トイレなど「移動できない物」を「借りる」場合はuseを使う。",
+        "反 return「〜を返却する」(=give 〜 back)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "borrow two books from the library",
+          "ja": "図書館から2冊の本を借りる"
+        }
+      ]
+    },
+    {
+      "id": "306",
+      "word": "lend",
+      "phonetic": "[lénd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (無償で)〜を貸す",
+            "② (銀行が利子をつけて)を貸す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① lend (人)〜「(人に)〜を貸す」(≒lend 〜 to (人))",
+        "lend (人) a (helping) hand「(人)に手を貸す」",
+        "[活用]lend-lent-lent"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Could you lend me 10,000 yen?",
+          "ja": "① 1万円貸してもらえませんか。"
+        },
+        {
+          "en": "② How much will the bank lend me?",
+          "ja": "② 銀行はいくら貸してくれるだろうか。"
+        }
+      ]
+    },
+    {
+      "id": "307",
+      "word": "rent",
+      "phonetic": "[rént]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を借りる",
+            "② (A to B) (AをBに)賃貸しする"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 家賃, 賃貸料, 使用料"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(金を払って, 家や車など)を借りる」",
+        "注意 ②「貸し出す相手」をto〜と明記したり, rent outという形で使う。",
+        "「レンタカー(rent-a-car)」のrent。",
+        "「貸し家」は〈米〉“For rent.”, 〈英〉“To let.”と表記される。",
+        "派生 名 rental「賃貸の」 ⑩ tenant「入居者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① rent a car for six hours",
+          "ja": "① 6時間, 車を借りる"
+        },
+        {
+          "en": "② She rents out three rooms to students.",
+          "ja": "② 彼女は学生に3部屋を賃貸ししている。"
+        },
+        {
+          "en": "③ pay a high[low] rent",
+          "ja": "③ 高い[安い]家賃を払う"
+        }
+      ]
+    }
+  ]
+}

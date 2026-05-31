@@ -1,0 +1,252 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "162",
+      "word": "include",
+      "phonetic": "[inklúːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を含む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(それだけで取り出すことのできる、全体の構成要素の1つとして)〜を含む」",
+        "頻出 目的語には「料金」や「メンバー」などがくることが多い。",
+        "反 exclude「〜を除外する(←外に閉じる)」",
+        "副 including「〜を含めて」",
+        "(≒ Postage is included in the price.)"
+      ],
+      "word_origin": {
+        "formula": "in-[中] + -clude[閉じる] -> 「中に閉じる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The price includes postage.",
+          "ja": "価格には送料が含まれています(送料を含む)。"
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "word": "contain",
+      "phonetic": "[kəntéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を含む",
+            "② (主に否定で)〜を抑える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「具体的な要素(固体、液体、気体)をまんべんなく含む」→②「自分の中心に含む→感情を抑える」",
+        "名 container「容器, 入れ物, コンテナ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This soup contains various herbs.",
+          "ja": "① このスープにはさまざまな薬草が入っている(さまざまな薬草を含んでいる)。"
+        },
+        {
+          "en": "② I cannot contain my anger.",
+          "ja": "② 怒りを抑えられない。"
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "word": "own",
+      "phonetic": "[óun]",
+      "level_tag": "A1, B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(所有格の後にで)① 自分自身の",
+            "② (名詞的に)自分自身のもの"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を所有している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③「(契約を交わし、マンションや高級外車など)を所有する」",
+        "頻出 ② A of one's own「自分自身のA」 on one's own「自分の力で」",
+        "注意 ①「私自身の家」は my own house[×own house]と表現する"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① with my own eyes",
+          "ja": "① 私自身の目で"
+        },
+        {
+          "en": "② I decided to quit the company and start my own.",
+          "ja": "② 会社を辞め、自分の会社を始めることに決めた。"
+        },
+        {
+          "en": "③ own ten companies in India",
+          "ja": "③ インドに10の会社を所有している"
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "word": "share",
+      "phonetic": "[ʃéər]",
+      "level_tag": "A1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を共有する",
+            "② (考えなど)を(人に)伝える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 共有",
+            "④ 分け前"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「1つのものを2人(以上)で分け合う、共有する」",
+        "頻出 share A with B「① AをBと共有する ② AをBに伝える」",
+        "語法 give (人) A「(人におすそ分けする)」",
+        "▶「ルームシェア(部屋の共有)」の share のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① share a table with a stranger",
+          "ja": "① 知らない人と相席(席を共有)する"
+        },
+        {
+          "en": "② Could you share your opinion about this?",
+          "ja": "② これについてのご意見をお聞かせください。"
+        },
+        {
+          "en": "③ a flat share",
+          "ja": "③ アパートの共有"
+        },
+        {
+          "en": "④ a share of the profits",
+          "ja": "④ 利益の分け前"
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "word": "collect",
+      "phonetic": "[kəlékt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (同種の物を)集める",
+            "② 〜を徴収する, 回収する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① collect signatures「署名を集める」",
+        "名 collection「集めること, 収集」",
+        "形 collective「集合的な」 ⇔ the right of collective defense「集団的自衛権」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① collect teddy bears",
+          "ja": "① クマのぬいぐるみを集める"
+        },
+        {
+          "en": "② collect empty cans for recycling",
+          "ja": "② リサイクルのために空き缶を回収する"
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "word": "gather",
+      "phonetic": "[gǽðər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を集める"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 集まる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(分散している物, 人)をーか所に寄せ集める」",
+        "頻出 a hunter-gatherer「狩猟採集民」",
+        "熟 together「一緒に」 名 gathering「集会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① gather information",
+          "ja": "① 情報を集める"
+        },
+        {
+          "en": "② gather around the teacher",
+          "ja": "② 先生のまわりに集まる"
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "word": "history",
+      "phonetic": "[hístəri]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 歴史",
+            "② 履歴, 前歴, 病歴"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「過去に起きたこと」",
+        "頻出 ①② have a history of 〜「〜の歴史[履歴, 病歴]がある」",
+        "形 historic「歴史的に重要な」 ⇔ a historic event「歴史的に重要な事件」",
+        "形 historical「歴史に関する」 ⇔ historical studies「歴史に関する研究」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the best soccer player in history",
+          "ja": "① 史上最高のサッカー選手"
+        },
+        {
+          "en": "② an update history",
+          "ja": "② 更新履歴"
+        }
+      ]
+    }
+  ]
+}

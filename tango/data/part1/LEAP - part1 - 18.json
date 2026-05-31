@@ -1,0 +1,309 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "126",
+      "word": "solve",
+      "phonetic": "[sálv]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を解決する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「困難や問題」を解く",
+        "◇answer「(試験の問題)を解く、(アンケートなど質問)に答える」",
+        "注意「問題を解決する」は solve a problem[×question]と表現する。",
+        "元は「〜を溶かす」の意味。",
+        "名 solution「解決策, 溶解, 溶液」",
+        "⇨ a solution to[×of] a problem「問題の解決策」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "solve the math problem",
+          "ja": "その数学の問題を解く"
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "word": "trouble",
+      "phonetic": "[trábl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 問題, ごたごた (通例〈不可算〉)"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を困らせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(集合的に)通常の人々の進行を妨げるもの」 ≒ difficult problems",
+        "頻出 ① have trouble doing「〜するのに苦労する」",
+        "The trouble is that SV.「困ったことに〜だ.」",
+        "be in trouble「(自己責任で)困っている」",
+        "注意 英作文で「問題」を表現する際は a problem を使うのが無難。",
+        "形 troublesome「やっかいな, 面倒な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have trouble sleeping",
+          "ja": "① 寝つけない (眠るのに苦労する)"
+        },
+        {
+          "en": "② I'm sorry to trouble you.",
+          "ja": "② お手数をおかけして (あなたを困らせて) すみません."
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "word": "issue",
+      "phonetic": "[íʃuː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 問題",
+            "② (雑誌の)号"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (切手など)を発行する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(多くの人々に影響を与える, 社会[政治]的な)問題」",
+        "頻出 ① take issue with 〜「〜に反対する」",
+        "② the current[latest] issue「今[最新]の号」",
+        "☆exit「出口」"
+      ],
+      "word_origin": {
+        "formula": "iss-[=ex 外に] + -u[=it 出る] →「外へ出る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① an international issue",
+          "ja": "① 国際問題"
+        },
+        {
+          "en": "② the latest issue of a magazine",
+          "ja": "② 雑誌の最新号"
+        },
+        {
+          "en": "③ issue a passport",
+          "ja": "③ パスポートを発行する"
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "word": "cheer",
+      "phonetic": "[tʃíər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (on)〜に声援を送る",
+            "② (up)〜を励ます"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 声援, 励まし",
+            "④ (-s)乾杯"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③「(みんなで)声を上げて応援する」",
+        "頻出 Cheer up!「元気を出せ！」",
+        "「チアガール」は和製英語で, 正しくは cheerleader と表現する。",
+        "形 cheerful「陽気な, 明るい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① cheer all the players on",
+          "ja": "① すべての選手たちに声援を送る"
+        },
+        {
+          "en": "② His arrival cheered me up.",
+          "ja": "② 彼の到着で元気が出た (私を励ました)."
+        },
+        {
+          "en": "③ give[raise] a cheer",
+          "ja": "③ 声援を送る"
+        },
+        {
+          "en": "④ “Cheers!” shouted Adam.",
+          "ja": "④ 「乾杯！」とアダムは叫んだ."
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "word": "encourage",
+      "phonetic": "[inkə́ːridʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A to do) (A) (に〜するよう)促す, 奨励する",
+            "② 〜を励ます"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「状況や気持ちを前向きに促す」",
+        "名 encouragement「激励」",
+        "反 discourage「(人)が〜するのをやめさせる」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -courage[勇気]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① encourage people to bike to work",
+          "ja": "① 人々に自転車通勤するよう促す"
+        },
+        {
+          "en": "② encourage the students",
+          "ja": "② 生徒たちを元気づける"
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "word": "support",
+      "phonetic": "[səpɔ́ːrt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を支持する",
+            "② (家族など)を養う",
+            "③ (理論など)を立証する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 支持, 支援 (不可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① strongly support 〜「〜を強く支持する」",
+        "▶「(倒れないように)下から支える」",
+        "名 supporter「支持者, サポーター, ファン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① firmly support her",
+          "ja": "① 強く彼女を支持する"
+        },
+        {
+          "en": "② support a family of four",
+          "ja": "② 4人家族を養う"
+        },
+        {
+          "en": "③ This supports my idea.",
+          "ja": "③ これが私の考えを立証する."
+        },
+        {
+          "en": "④ financial support",
+          "ja": "④ 財政的援助"
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "word": "prevent",
+      "phonetic": "[privént]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A from B) (AがBするの)を妨げる",
+            "② 〜を予防する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① prevent A from doing「Aが〜するのを妨げる」",
+        "☆invent「発明する(←頭の中に新しく入ってくる)」",
+        "名 prevention「防止, 予防」",
+        "形 preventable「予防可能な」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -vent[来る] →「先回りして防ぐ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① The heavy snow prevented us from going out.",
+          "ja": "① 大雪のため外出できなかった (私たちが外出するのを妨げた)."
+        },
+        {
+          "en": "② prevent the flu",
+          "ja": "② インフルエンザの予防をする"
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "word": "deny",
+      "phonetic": "[dinái]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を否定する",
+            "② 〈SVO₁O₂〉(O₁)に(O₂)を与えない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① deny (that S) V[doing]「〜すること]を否定する」",
+        "名 denial「否定, 与えないこと」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① deny that he is a great scientist",
+          "ja": "① 彼が偉大な科学者であることを否定する"
+        },
+        {
+          "en": "② deny them the right to vote",
+          "ja": "② 彼らに投票権を与えない"
+        }
+      ]
+    }
+  ]
+}

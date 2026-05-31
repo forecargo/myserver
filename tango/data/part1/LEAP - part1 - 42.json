@@ -1,0 +1,246 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "296",
+      "word": "recently",
+      "phonetic": "[ríːsntli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "最近, 近ごろ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「数か月前からここ数日前まで」",
+        "注意 原則的には過去時制, 現在完了時制で使われる. 現在時制で使うことができるが, 現在時制の場合は these days, nowadays を使うほうが自然.",
+        "▶ in recent years「近年」",
+        "反 形 récent「最近の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I moved to this city just recently.",
+          "ja": "最近この市に引っ越して来ました。"
+        }
+      ]
+    },
+    {
+      "id": "297",
+      "word": "used",
+      "phonetic": "[júːst]",
+      "level_tag": "B1 A2",
+      "definitions": [
+        {
+          "part_of_speech": "助",
+          "meanings": [
+            "① (to 〜)以前は〜だった, よく〜したものだ"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (be 〜 to doing)〜することに慣れている",
+            "③ 中古の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② get used to doing「〜することに慣れる」",
+        "注意 ① used to 〜が「以前は〜だった」(過去の習慣/動作/状態)を表すのに対し, would (often) 〜は「(昔は)よく〜したものだ」(過去の習慣/動作)のみを表す(「〜だった」という状態は表せない). used to 〜は「現在」とは比較した過去の習慣(動作)や状態を表す(「昔は〜だったが, 今はしていない」)のに対して, would (often) 〜は「現在」とは比較せず, 「過去の習慣」のみを表す(「よく〜した」という動作のみ).",
+        "▶ be accustomed to doing「〜するのに慣れている」(*堅い表現)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I used to drive to work, but nowadays I take the train.",
+          "ja": "① 以前は車で仕事に行っていたが, 今は電車を利用する。"
+        },
+        {
+          "en": "② be used to getting up early",
+          "ja": "② 早起きに慣れている"
+        },
+        {
+          "en": "③ a[×an] used car",
+          "ja": "③ 中古車"
+        }
+      ]
+    },
+    {
+      "id": "298",
+      "word": "early",
+      "phonetic": "[ə́ːrli]",
+      "level_tag": "A1 A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① (時間, 時期が)早く, 初期に",
+            "② (予定より)早く"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ 早い, 初期の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある期間の中で時間[時期]が)早い」",
+        "◇ fast「(速度が)速い」",
+        "▶「(動作が)素早い」",
+        "◇ rapid「(変化が)急な」",
+        "◇ soon「(今から)すぐに」",
+        "頻出 ① early in my life「人生の早い時期に[段階で], 幼いころに」",
+        "② get up early「早く起きる」",
+        "③ at[from] an early age「若いころに[から]」",
+        "反 láte「遅く, 遅い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① early in the morning",
+          "ja": "① 朝早くに"
+        },
+        {
+          "en": "② The bus came three minutes earlier than usual.",
+          "ja": "② そのバスはいつもより3分早く来た。"
+        },
+        {
+          "en": "③ the early works of Murakami Haruki",
+          "ja": "③ 村上春樹の初期の作品"
+        }
+      ]
+    },
+    {
+      "id": "299",
+      "word": "first",
+      "phonetic": "[fə́ːrst]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 第1の",
+            "② (for the - time)初めて"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "③ 初めて",
+            "④ (文頭で)まず第1に"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "⑤ (at -)最初のうちは"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① on a first-come-first-served basis「先着順で」",
+        "on the first floor「〈米〉1階に, 〈英〉2階に」",
+        "at first hand「直接」",
+        "in the first place「まず第1に, そもそも」",
+        "② for the first time in 〜 years「〜年ぶりに」",
+        "③ first of all「何よりもまず」",
+        "注意 ②「2回目以降の存在」を示唆する。",
+        "③「(生まれて)初めて」の意味では動詞の前に置かれる。",
+        "⑤「後で変化すること」を示唆する。",
+        "派 first-aid「応急の(〈医者が来るまでの最初の助手)手当て)」",
+        "形 first-class「一流の, 最高級の」",
+        "形 first-hand「(経験や知識などが)直接の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① win first prize",
+          "ja": "① 1等賞をとる"
+        },
+        {
+          "en": "② I went up Tokyo Tower for the first time in my life.",
+          "ja": "② 生まれて初めて東京タワーにのぼった。(*2回目もあることを示唆。)"
+        },
+        {
+          "en": "③ When I first met her, she was a student.",
+          "ja": "③ 彼女と初めて会ったとき, 彼女は学生だった。"
+        },
+        {
+          "en": "④ First, e-books are less expensive.",
+          "ja": "④ まず第1に, 電子書籍のほうが安い。"
+        },
+        {
+          "en": "⑤ At first I thought it was a joke, but later I realized it was true.",
+          "ja": "⑤ 最初は冗談かと思ったが, 後で事実だとわかった。"
+        }
+      ]
+    },
+    {
+      "id": "300",
+      "word": "latest",
+      "phonetic": "[léitist]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(the -)最新の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「最も新しい(本, 映画, 流行, 情報, 機械など)」",
+        "◇ up-to-date「最新式の」",
+        "the most up-to-date training methods「最新式の訓練方法」",
+        "◇ the most advanced medical equipment「最新の(=最も進んだ)医療機器」",
+        "頻出 the latest version[edition]「最新版」",
+        "反 late の最上級「最も遅い(現在に近い)」→「最新の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "follow the latest fashions",
+          "ja": "最新のファッションを追う"
+        }
+      ]
+    },
+    {
+      "id": "301",
+      "word": "modern",
+      "phonetic": "[mádərn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 現代の",
+            "② 近代的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 原則的には「現代の」の意味だが, 名とのコロケーションによって は「近代の」と訳すこともある。",
+        "modern history「近代史」",
+        "派 mode-[尺度]→「現代の尺度に合わせた」",
+        "名 modernization「近代化, 現代化」",
+        "他 modernize「〜を最新式にする, 近代化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① in modern society",
+          "ja": "① 現代社会では"
+        },
+        {
+          "en": "② a bright, modern office",
+          "ja": "② 明るい近代的なオフィス"
+        }
+      ]
+    }
+  ]
+}

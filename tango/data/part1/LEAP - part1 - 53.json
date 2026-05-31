@@ -1,0 +1,219 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "369",
+      "word": "disturb",
+      "phonetic": "[distə́ːrb]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (うるさくして)〜に迷惑をかける",
+            "② (平和など)を乱す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大きな音を立てたりして)人の邪魔をする」",
+        "頻出 〈ホテルの部屋のドアの掲示〉Do not disturb.「起こさないでください。」",
+        "disturb the balance of one's mind [of nature]「心の[自然の]バランスを乱す」",
+        "語源 dis-[バラバラ] + -turb[回す]から「バラバラに回す」→「かき乱す」",
+        "派生 turbine「タービン」 名 disturbance「妨害, かく乱」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -turb[回す] -> 「バラバラに回す」→「かき乱す」",
+        "description": "turbine「タービン」, 名 disturbance「妨害, かく乱」"
+      },
+      "examples": [
+        {
+          "en": "① Don't disturb other people.",
+          "ja": "① ほかの人に迷惑をかけないようにしなさい。"
+        },
+        {
+          "en": "② disturb my sleep[concentration]",
+          "ja": "② 睡眠[集中]を妨げる"
+        }
+      ]
+    },
+    {
+      "id": "370",
+      "word": "frighten",
+      "phonetic": "[fráitn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を怯えさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「びくっとさせる, ぎょっとさせる」",
+        "頻出 be frightened of 〜「〜に怯える」",
+        "a frightened child[dog]「怯えた子供[イヌ]」",
+        "派生 freeze「凍る」 形 frightening「ぞっとするような」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am frightened of spiders.",
+          "ja": "クモがこわい(クモに怯えさせられる)。"
+        }
+      ]
+    },
+    {
+      "id": "371",
+      "word": "regret",
+      "phonetic": "[rigrét]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を後悔する",
+            "② (to do) 残念ながら〜しないといけない"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 後悔"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(現実に起こったこと)を残念に思う, 後悔する」",
+        "頻出 ① regret that SV「〜を後悔する」",
+        "頻出 regret doing[having done]「〜したことを後悔する」",
+        "注意 [×]regret that S should have (過去分詞) は不可。(＊should have (過去分詞) にはすでに「後悔」の気持ちが入っているため。)「(後で)後悔する」は日常では You'll be sorry. と表現することが多い。",
+        "派生 re-[再び] + -gret[泣く] →「(繰り返し泣くほど)後悔する」",
+        "派生 形 regretful「(人が)後悔している」 形 regrettable「(物事が)残念な」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -gret[泣く] -> 「(繰り返し泣くほど)後悔する」",
+        "description": "形 regretful「(人が)後悔している」, 形 regrettable「(物事が)残念な」"
+      },
+      "examples": [
+        {
+          "en": "① I regret that I did not study[×should have studied] hard in my teens.",
+          "ja": "① 10代のころ一生懸命勉強しなかったことを後悔している。"
+        },
+        {
+          "en": "② I regret to say that I cannot help you.",
+          "ja": "② 残念ながらあなたを助けられないと言わなければなりません。"
+        },
+        {
+          "en": "③ I have no regrets.",
+          "ja": "③ 後悔はしていない。"
+        }
+      ]
+    },
+    {
+      "id": "372",
+      "word": "favor",
+      "phonetic": "[féivər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 親切な行為",
+            "② 支持"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① do (人) a favor「(人に)便宜を図る」(＊やや堅い表現。)",
+        "注意 「お願いがあるのでですが」は改まった状況でなければ Would you do something for me? と表現するのがふつう。",
+        "頻出 ② be in favor of 〜「〜に賛成する」",
+        "派生 形 favorite「一番好きな」 (＊[×most favorite]は不可。「好きな本を買う」は buy a book you like[×your favorite book]と表現する。)",
+        "派生 形 favorable「好ましい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Could you do me a couple of favors? (=May I ask a couple of favors of you?)",
+          "ja": "① いくつかお願いがあるのですが。"
+        },
+        {
+          "en": "② be in favor of his proposal",
+          "ja": "② 彼の提案に賛成だ"
+        }
+      ]
+    },
+    {
+      "id": "373",
+      "word": "interest",
+      "phonetic": "[íntərəst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 関心",
+            "② (-s) 利益",
+            "③ (銀行などの)利子"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自己の利益に基づく)関心」",
+        "頻出 ① have[show] an interest in 〜「〜に興味を持っている」",
+        "lose interest in 〜「〜への興味を失う」",
+        "注意 ② 主に複数形で使用。(「利益」といっても「お金」のことではない。)「興味を抱く」は be interested in 〜「〜に興味がある」",
+        "派生 名 self-interest「利己主義」",
+        "派生 形 interested「興味がある」 形 interesting「面白い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have an interest in history",
+          "ja": "① 歴史に興味を持っている"
+        },
+        {
+          "en": "② It is in your best interests to stay with your grandparents.",
+          "ja": "② 君は祖父母と暮らすのが一番よい。"
+        },
+        {
+          "en": "③ the interest on a loan",
+          "ja": "③ ローンの利子"
+        }
+      ]
+    },
+    {
+      "id": "374",
+      "word": "pity",
+      "phonetic": "[píti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 残念なこと〈可算〉",
+            "② 哀れみ〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② しばしば, 「(相手を下に見だ)同情の気持ち」を表す。",
+        "類義 sympathy「(相手に共感し, 同等の立場に立つ)同情」",
+        "頻出 ① It is a (great) pity that SV.「〜とは(とても)残念だ。」",
+        "頻出 ② feel pity for 〜「〜を哀れに思う」",
+        "派生 太ったイヌに着せられた「ピチッ」とした服は「哀れみ」を誘う。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① It is a pity that you missed the movie.",
+          "ja": "① あなたがその映画を見損ねたのは残念です。"
+        },
+        {
+          "en": "② feel pity for the child",
+          "ja": "② その子どもをかわいそうに思う"
+        }
+      ]
+    }
+  ]
+}

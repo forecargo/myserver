@@ -1,0 +1,234 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "362",
+      "word": "weep",
+      "phonetic": "[wiːp]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "しくしく泣く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「泣き声」より「涙を流す」ことに重点がある。",
+        "◇ sób「(息をつまらせながら)しゃくりあげて泣く」",
+        "＊ gróan「(苦痛、悲嘆で)うめく」",
+        "[活用] weep-wept-wept"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "All America wept.",
+          "ja": "全米が泣いた。"
+        }
+      ]
+    },
+    {
+      "id": "363",
+      "word": "hate",
+      "phonetic": "[héit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を嫌う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ do not like よりも直接的な表現。",
+        "頻出 hate to do [doing]「〜することをいやに思う」",
+        "▶ hate it when S V「〜はいやだ」(＊it は when S V の内容を受ける。)",
+        "派 hated [héitrid]「憎しみ」(＊-ed で過去形に見えるので注意。)",
+        "形 hateful「ひどくいやな、不愉快な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "hate doing housework",
+          "ja": "家事をするのが嫌いだ"
+        }
+      ]
+    },
+    {
+      "id": "364",
+      "word": "worry",
+      "phonetic": "[wə́ːri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 心配をする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 心配(事)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① worry about 〜「〜について心配する」",
+        "worry (about) whether S V「〜かどうか心配する」",
+        "worry that S V「〜ということで心配する」",
+        "▶ 書き言葉では concerns「不安、心配」のほうが好まれる。",
+        "派 worried「心配して」 ⇒ be worried about 〜「〜について心配している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Don't worry about it.",
+          "ja": "① そんなことを気にするな。"
+        },
+        {
+          "en": "② Life is full of worries.",
+          "ja": "② 人生は心配事が多い。"
+        }
+      ]
+    },
+    {
+      "id": "365",
+      "word": "anxious",
+      "phonetic": "[ǽŋkʃəs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (about 〜)〜を心配して",
+            "② (to do / for 〜)〜を切望して"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(未知のことを)心配している」(＊worried よりも「心配」の度合いが強い。)",
+        "頻出 give (人) an anxious look「(人)に不安な表情を見せる」",
+        "▶ ①「不安」と②「切望」は表裏一体。(「不安」だから、何かを「切望」する。)",
+        "派 anxiety [æŋzáiəti]「心配、切望」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I'm anxious about her health.",
+          "ja": "① 彼女の健康が心配だ。"
+        },
+        {
+          "en": "② Ben is anxious to see you.",
+          "ja": "② ベンが君に会いたがっているよ。"
+        }
+      ]
+    },
+    {
+      "id": "366",
+      "word": "satisfy",
+      "phonetic": "[sǽtisfài]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を満足させる",
+            "② (必要性、空腹など)を満たす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(足りていないもの)を(十分に)満たす」",
+        "注意 ① be satisfied with 〜は「〜に(十分に)満足する」の意味で、非常に「完全に」満足する」と表現する場合, satisfied の前に completely, fully, entirely などをつける。",
+        "派 satisfactory「基準を(ギリギリ)満たしている」",
+        "派 satisfaction「満足」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I'm not satisfied with the exam result.",
+          "ja": "① 試験結果に満足していない。"
+        },
+        {
+          "en": "② satisfy the needs of tourists",
+          "ja": "② 旅行者のニーズに応える"
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "word": "annoy",
+      "phonetic": "[ənɔ́i]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を苛立たせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 少し怒らせる, むっとさせる」",
+        "頻出 annoy A with B「BでAを苛立たせる」",
+        "注意 繰り返し annoy する → irritate「〜をいらいらさせる」",
+        "＊ 発音が似ている noise「騒音」と組み合わせて, The noise annoys me. 「騒音が私を苛立たせる。」という文で覚えよう。",
+        "派 annoyance「苛立ち」",
+        "形 annoying「苛立たしい」",
+        "形 annoyed「(人が)苛立って」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It really annoys me when I see people smoking while (they are) walking.",
+          "ja": "歩きタバコを見かけると頭にくる(歩きタバコは私を苛立たせる)。"
+        }
+      ]
+    },
+    {
+      "id": "368",
+      "word": "bother",
+      "phonetic": "[bɔ́ðər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に面倒をかける",
+            "② (to do)わざわざ〜する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 面倒なもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(怒らせない程度に)迷惑をかける」",
+        "頻出 ① Don't bother me!「(私に)構わないでくれ。」",
+        "I'm sorry to bother you, but 〜.",
+        "「ご迷惑をおかけしてすみませんが、〜。」(＊丁寧な表現)",
+        "＊ The Beatles の曲に “Don't Bother Me” (俺に構うな→放っておいてくれ)がある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I'm sorry to bother you, but could you give me a hand?",
+          "ja": "① ご迷惑をおかけしてすみませんが, 手を貸していただけないでしょうか。"
+        },
+        {
+          "en": "② Don't bother to giftwrap it.",
+          "ja": "② わざわざ包装しなくて構いません。"
+        },
+        {
+          "en": "③ find it a bother to go out in the rain",
+          "ja": "③ 雨の中, 外出するのは面倒だと思う"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "079",
+      "word": "evidence",
+      "phonetic": "[évədəns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "証拠〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (血痕のような明白な)証拠(の集合)",
+        "頻出 a body of strong evidence 「一連の有力な証拠」",
+        "e-(=ex 外に)+-vid-(=見る)→外に見えてくる",
+        "形 évident 「明白な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There is no evidence to support his story.",
+          "ja": "彼の話を裏づける証拠はない。"
+        }
+      ]
+    },
+    {
+      "id": "080",
+      "word": "vote",
+      "phonetic": "[vóut]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 投票(数)"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 投票する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① vote for[against] ~ 「〜に賛成[反対]の投票をする」",
+        "▶ 「(~を支持すると)誓う」が元の意味。",
+        "☆ vów 「〜を誓う」",
+        "形 vóting 「投票の」",
+        "⇨ the voting age 「選挙権年齢」",
+        "参 cast a ballot 「投票する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① receive 45% of the vote",
+          "ja": "① 投票数の45%を獲得する"
+        },
+        {
+          "en": "② the right to vote",
+          "ja": "② 投票権(投票する権利)"
+        }
+      ]
+    },
+    {
+      "id": "081",
+      "word": "government",
+      "phonetic": "[gávərnmənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "政府"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(中央の)政府」から「地方自治体」まで。",
+        "注意 「日本政府」は the Japanese government と表現する。",
+        "他 govern 「〜を治める、統治する」",
+        "名 governor 「知事」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Japanese government",
+          "ja": "日本政府"
+        }
+      ]
+    },
+    {
+      "id": "082",
+      "word": "nation",
+      "phonetic": "[néiʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 国",
+            "② (the -) 国民"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (政治的、経済的な構造における)国",
+        "注意 「国、国家」と訳して違和感があれば「国民」と訳す。",
+        "形 national 「国家の、国民の」",
+        "⇨ a national flag 「国旗」",
+        "名 nationalism 「民族主義、国粋主義」",
+        "形 nationwide 「全国的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the most powerful nation in the world",
+          "ja": "① 世界で一番力のある国"
+        },
+        {
+          "en": "② the voice of the nation",
+          "ja": "② 国民の声"
+        }
+      ]
+    },
+    {
+      "id": "083",
+      "word": "capital",
+      "phonetic": "[kæpətl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 首都",
+            "② 資本"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ 重大な, 死に値する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 頭(=もっとも重要な)",
+        "頻出 ③ a capital letter 「大文字」(⇔a small letter 「小文字」)",
+        "a genius with a capital G 「真の天才(←géniusの強調)」",
+        "☆ cáp 「帽子(←頭にかぶる物)」",
+        "名 cápitalism 「資本主義」",
+        "形 per cápita 「1人あたりの(←頭1つにつき)」",
+        "⇨ per capita income 「1人あたりの収入」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① What is the capital of Canada?",
+          "ja": "① カナダの首都はどこですか。"
+        },
+        {
+          "en": "② start a company with only a little capital",
+          "ja": "② わずかな資本で会社を始める"
+        },
+        {
+          "en": "③ a capital offence",
+          "ja": "③ 死罪"
+        }
+      ]
+    },
+    {
+      "id": "084",
+      "word": "state",
+      "phonetic": "[stéit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 州",
+            "② 状態",
+            "③ 国家〈まれ〉"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ (意見, 情報)を述べる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「立っている状態」→①「州」→③「国家」→④「(正式に)〜を述べる」",
+        "頻出 one's state of mind 「〜の精神状態」",
+        "the state of the art 「先端技術」",
+        "☆ sta-「じっととしている」状態",
+        "☆ stár 「星(←じっとしているもの)」",
+        "名 státésman 「政治家」(state's[国家の]+man[男]) (*褒めた表現)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the United States of America",
+          "ja": "① アメリカ合衆国"
+        },
+        {
+          "en": "② his state of mind",
+          "ja": "② 彼の精神状態"
+        },
+        {
+          "en": "③ the separation of church and state",
+          "ja": "③ 政教分離(教会と国家の分離)"
+        },
+        {
+          "en": "④ state my opinion",
+          "ja": "④ 私の意見を言う"
+        }
+      ]
+    },
+    {
+      "id": "085",
+      "word": "political",
+      "phonetic": "[pəlítikəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "政治的な, 政治の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a political activist 「政治活動家」",
+        "a political party 「政党」",
+        "☆ poli-「(ギリシャの都市国家ポリス→)政治, 管理」から。",
+        "名 pólitics 「政治(学)」",
+        "名 politician 「政治家」",
+        "参 ideólogy 「イデオロギー, (政治, 経済的)思想」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the political situation in Russia",
+          "ja": "ロシアの政治情勢"
+        }
+      ]
+    },
+    {
+      "id": "086",
+      "word": "price",
+      "phonetic": "[práis]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 価格",
+            "② (-s) 物価",
+            "③ 代償"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(物の)値段」",
+        "◇ cóst 「費用」",
+        "注意 「(値段が)高い[安い]」は high[low]で表現する。([×]The price is expensive[cheap].)",
+        "(*)expénsive[chéap]は「商品, 店」などが主語。",
+        "形 príceless 「きわめて高価な(←価格がない)」",
+        "参 díscount 「値引き」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① pay a very high price for the painting",
+          "ja": "① その絵に非常に高額(の価格)を支払う"
+        },
+        {
+          "en": "② Prices have gone up by 5%.",
+          "ja": "② 物価が5%上がった。"
+        },
+        {
+          "en": "③ pay the price of success",
+          "ja": "③ 成功の代償を払う"
+        }
+      ]
+    }
+  ]
+}

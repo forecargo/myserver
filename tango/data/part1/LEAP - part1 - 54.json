@@ -1,0 +1,259 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "375",
+      "word": "due",
+      "phonetic": "[djuː]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (due to (名詞)) が原因で",
+            "② 締め切りの",
+            "③ 到着[出発]予定の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「与えられて当然だ」",
+        "頻出 ① A is due to B. 「BのためにAとなる(←AにはBが与えられて当然だ).」",
+        "② the due date 「返却日, 支払期日」",
+        "③ be due to do 「〜する予定である」",
+        "形 overdue 「期限が過ぎた」",
+        "④ deadline 「締切」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our flight was delayed due to the storm.",
+          "ja": "嵐のために飛行機が遅れた。"
+        },
+        {
+          "en": "The report is due on Monday.",
+          "ja": "報告書は月曜日が締め切りだ。"
+        },
+        {
+          "en": "The train is due to arrive at 9:00.",
+          "ja": "電車は9時に到着予定です。"
+        }
+      ]
+    },
+    {
+      "id": "376",
+      "word": "reason",
+      "phonetic": "[ríːzn]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 理由",
+            "② 理性"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を推理する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "④ 思考する, 判断する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある行為[出来事]の結果を説明するもの, 「理由」を表す最も一般的な語。",
+        "頻出 ① the reason for 〜「〜の理由」 for 〜 reason「〜の理由で」",
+        "V for the following two reasons. と表現するのがふつう.",
+        "the reason (why) SV 「〜の理由」",
+        "▶ reason [=rate 計算する, 考える] →「推理する」",
+        "名 reasoning 「推論」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I agree with his opinion for the following reasons",
+          "ja": "次の理由で彼の意見に賛成だ"
+        },
+        {
+          "en": "reason and emotion",
+          "ja": "理性と感情"
+        },
+        {
+          "en": "He reasoned that he must have left his bag on the bus.",
+          "ja": "彼はかばんをバスの中に忘れてきたに違いないと推論した。"
+        },
+        {
+          "en": "have the ability to reason",
+          "ja": "(論理的に)思考する力がある"
+        }
+      ]
+    },
+    {
+      "id": "377",
+      "word": "result",
+      "phonetic": "[rizʌ́lt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 結果"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (in 〜) 結果として(〜に)なる",
+            "③ (from 〜) (〜の)結果として生じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「あることの結果」を示す一般的な語。",
+        "頻出 ① as a result (of 〜) 「(〜の)結果として」",
+        "② result in 〜「結果として〜になる」",
+        "③ result from 〜「〜の結果として生じる」",
+        "派生 resilient 「回復の早い」"
+      ],
+      "word_origin": {
+        "formula": "re-[戻る] + -sult[跳ぶ] -> 「跳ね返る」→「何かをやって返ってくる」結果",
+        "description": "salmon「鮭(←跳んで帰る魚)」"
+      },
+      "examples": [
+        {
+          "en": "as a result of inflation",
+          "ja": "インフレの結果として"
+        },
+        {
+          "en": "The project resulted in success.",
+          "ja": "その事業は結果として成功した。"
+        },
+        {
+          "en": "Serious damage resulted from the earthquake.",
+          "ja": "その地震の結果, 深刻な損害が生じた。"
+        }
+      ]
+    },
+    {
+      "id": "378",
+      "word": "effect",
+      "phonetic": "[ifékt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "効果, 影響, 結果"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かの影響を受けて生じた)結果や効果」(*「影響」と訳すことも多い.)",
+        "頻出 have [×give] a 〜 effect on A 「Aに〜の影響を与える」(*「影響」は与えてもならいので give は不可. influence も同様.)",
+        "比較 cause and effect「原因と結果」",
+        "the greenhouse effect「温室効果」",
+        "形 effective 「効果的な」",
+        "an effective medicine 「よく効く薬」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Drinking too much has a bad effect on the brain.",
+          "ja": "過度の飲酒は脳に悪影響を与える。"
+        }
+      ]
+    },
+    {
+      "id": "379",
+      "word": "influence",
+      "phonetic": "[ínfluəns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 影響(力)"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜に影響を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶主に「(間接的に思想, 考え方など)に影響を与える」",
+        "頻出 ① have [×give] a 〜 influence on A 「Aに〜な影響を与える」",
+        "drive under the influence「飲酒運転をする(←アルコールの影響下で)」",
+        "派生 flu「インフルエンザ」",
+        "形 influential 「影響力のある」"
+      ],
+      "word_origin": {
+        "formula": "in-[中] + -flu-[流れる] -> 「流れ込む」",
+        "description": "flu「インフルエンザ」"
+      },
+      "examples": [
+        {
+          "en": "have a strong influence on them",
+          "ja": "彼らに強い影響を与える"
+        },
+        {
+          "en": "This book deeply influenced my way of thinking.",
+          "ja": "この本は私の考え方に深く影響を与えた。"
+        }
+      ]
+    },
+    {
+      "id": "380",
+      "word": "end",
+      "phonetic": "[énd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (end up doing) 結局〜することになる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 端, 終わり",
+            "③ (最終的な) 目的"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① end up doing [in + 名詞]「結局〜になる」",
+        "end with 〜 [by doing] 「〜することで」終わる」",
+        "② in the end 「最後には」",
+        "put an end to 〜「〜を終わらせる」",
+        "注意 ③の意味では a means と一緒に使うのがふつう。",
+        "形 endless 「果てしない」",
+        "名 ending 「((物語などの)結末)」",
+        "The story has a happy ending. [×end]. 「その物語はハッピーエンドだ。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We ended up spending the night at the airport.",
+          "ja": "私たちは結局, 空港で一夜を過ごすことになった。"
+        },
+        {
+          "en": "at the end of May",
+          "ja": "5月の終わりに"
+        },
+        {
+          "en": "a means to an end",
+          "ja": "目的のための手段"
+        }
+      ]
+    }
+  ]
+}

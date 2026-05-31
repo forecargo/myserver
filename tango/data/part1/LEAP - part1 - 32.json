@@ -1,0 +1,255 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "229",
+      "word": "character",
+      "phonetic": "[kǽriktər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 性格, 特徴",
+            "② 登場人物",
+            "③ 文字"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「その人[物]が持つ(全体的な)特徴, 特色」",
+        "頻出 ① a side of his character「彼の性格の一面」",
+        "注意 「(ある個性を待つ)人物」の意味でも使われる。(＊②③は不可算)",
+        "他 characterize「〜を特徴づける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Printed books have character.",
+          "ja": "活字の本には味(特徴)がある."
+        },
+        {
+          "en": "the main character of this novel",
+          "ja": "この小説の主人公(主な登場人物)"
+        },
+        {
+          "en": "Chinese characters",
+          "ja": "漢字"
+        }
+      ]
+    },
+    {
+      "id": "230",
+      "word": "characteristic",
+      "phonetic": "[kæ̀riktərístik]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 特徴〈可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 特有の, 特徴的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(具体的な個々の)特徴」",
+        "注意 characteristic を集めたものが character「性格, 特徴」",
+        "副 characteristically「特徴的に」 ⇔ Characteristically S V.「〜が特徴である.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "one of the characteristics of large cities",
+          "ja": "大都会の特徴の1つ"
+        },
+        {
+          "en": "his characteristic writing style",
+          "ja": "彼特有の文体"
+        }
+      ]
+    },
+    {
+      "id": "231",
+      "word": "feature",
+      "phonetic": "[fíːtʃər]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 特徴",
+            "② 特集記事"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を特集する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(目立った, 重要な)特徴」→②「特集記事」→③「〜を特集する」",
+        "日本語でも「フィーチャー(特集)」はよく使われる。",
+        "「作られたもの」が元の意味。☆factory「工場(←作る所)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Low rainfall is a feature of deserts.",
+          "ja": "少ない降水量は砂漠の特徴の1つだ."
+        },
+        {
+          "en": "a feature on Samoa",
+          "ja": "サモアに関する特集記事"
+        },
+        {
+          "en": "The exhibition features paintings by Van Gogh.",
+          "ja": "その展覧会はヴァン・ゴッホの絵画が目玉だ(を特集している)."
+        }
+      ]
+    },
+    {
+      "id": "232",
+      "word": "detail",
+      "phonetic": "[díːteil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 詳細",
+            "② (建物などの)細部"
+          ]
+        },
+        {
+          "part_of_speech": "動詞",
+          "meanings": [
+            "〜を詳細に述べる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(細かく切り分けた)細部」",
+        "頻出 ① in detail「詳細に」 ⇔ explain the event in detail「その事件を詳細に説明する」 in more[greater] detail「さらに詳細に」",
+        "注意 上記の熟語以外は〈可算〉で主に複数形で使用する。",
+        "de-[下→分離] + -tail[切る] ☆tailor「仕立屋」 形 detailed「詳細な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "check the details of the report",
+          "ja": "その報告書の詳細を確認する"
+        },
+        {
+          "en": "see the details of the building",
+          "ja": "その建物の細部を見る"
+        }
+      ]
+    },
+    {
+      "id": "233",
+      "word": "advantage",
+      "phonetic": "[ædvǽntidʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(over 〜)(〜に対する)利点"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかよりも有利な点」",
+        "頻出 take advantage of 〜「(機会などを)を利用する, 〜につけこむ」",
+        "ad-[方向] + -van-[進む] →「人より進んだ所」 ☆advance「前進, 前進する」",
+        "反 disadvantage「不利な点」",
+        "類 drawback「欠点」 downside「悪い面, 欠点」",
+        "(*merit / demerit はとても堅い語で, 日常ではほとんど使われない。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There are advantages and disadvantages to self-driving cars.",
+          "ja": "自動運転の車にはメリットとデメリットがある."
+        }
+      ]
+    },
+    {
+      "id": "234",
+      "word": "fault",
+      "phonetic": "[fɔ́ːlt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (ちょっとした)欠点, 不具合〈可算〉",
+            "② (one's 〜)責任〈不可算〉",
+            "③ 断層(まれ)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不完全なこと」→①「欠点, 短所, 過失」→②「(誤りなどに対する)責任」",
+        "頻出 ① find fault[×faults] with 〜「〜の過ちを指摘する」",
+        "注意 ② A is one's fault.「Aは〜の責任だ.」の形で使う。",
+        "テニスの「フォールト(サーブを失敗すること)」もこの単語から。",
+        "派 default「デフォルト(初期設定)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "complain about my husband's faults",
+          "ja": "夫の欠点について文句を言う"
+        },
+        {
+          "en": "That is my fault.",
+          "ja": "それは私の責任です."
+        },
+        {
+          "en": "an active fault",
+          "ja": "活断層"
+        }
+      ]
+    },
+    {
+      "id": "235",
+      "word": "quality",
+      "phonetic": "[kwάləti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 質〈不可算〉",
+            "② (通例-s)(人間の)資質"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 Quality of Life (=QOL)「(物質的な豊かさだけでなく, 健康や精神的な幸福感などを含めた)生活の質」",
+        "注意 〈quality (名詞)〉で「良質な〜」 ⇔ quality leather「良質な革」",
+        "日本語でも「ハイクオリティ(高品質)」などで使われる。",
+        "反 quantity「量」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "improve the quality of life",
+          "ja": "生活の質を向上させる"
+        },
+        {
+          "en": "the personal qualities necessary to be a successful salesperson",
+          "ja": "営業マンとして成功するのに必要な個人的資質"
+        }
+      ]
+    }
+  ]
+}

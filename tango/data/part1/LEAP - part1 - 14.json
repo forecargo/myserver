@@ -1,0 +1,269 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "095",
+      "word": "cost",
+      "phonetic": "[kɔ́ːst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (費用)を要する, 〜がかかる",
+            "② 〜を犠牲にする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 費用, 犠牲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かを得るために必要な)対価[犠牲](を払う)」",
+        "頻出 ① It costs (人) (お金) to do「(人)が〜するのにお金がかかる」",
+        "the cost of 〜「〜を犠牲にして」",
+        "at all costs「どんな犠牲を払っても」",
+        "[活用]cost-cost-cost",
+        "形 costly「高価な, 損失が多い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The suit cost me 500 dollars.",
+          "ja": "そのスーツは500ドルした(かかった)。"
+        },
+        {
+          "en": "That mistake cost me my fortune.",
+          "ja": "そのミスで財産を失った。"
+        },
+        {
+          "en": "In Switzerland, the cost of living is very high.",
+          "ja": "スイスでは生活費がとても高い。"
+        }
+      ]
+    },
+    {
+      "id": "096",
+      "word": "company",
+      "phonetic": "[kʌ́mpəni]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 会社",
+            "② (one's -)一緒にいること",
+            "③ 仲間",
+            "④ 来客〈まれ〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 ② 〈不可算〉なので、複数形にはならない。⇨ enjoy their company「彼らと一緒にいるのを楽しむ」",
+        "名 compánion「仲間, 連れ」",
+        "an office worker「会社員」"
+      ],
+      "word_origin": {
+        "formula": "com-[共に] + -pan-[パン] -> 「一緒にパンを食べる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "work for a big company",
+          "ja": "大きな会社で働く"
+        },
+        {
+          "en": "I always enjoy his company.",
+          "ja": "彼と一緒にいるといつも楽しい。"
+        },
+        {
+          "en": "People judge you by the company you keep.",
+          "ja": "人は付き合っている仲間で判断されます。"
+        },
+        {
+          "en": "We are expecting company today.",
+          "ja": "今日は来客があります。"
+        }
+      ]
+    },
+    {
+      "id": "097",
+      "word": "task",
+      "phonetic": "[tǽsk]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "仕事〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(骨が折れる)仕事」",
+        "◇一般に「仕事」というときは work「仕事」〈不可算〉がふつう。a job「(お金をもらう)仕事, 職」〈可算〉",
+        "頻出 perform[do, carry out] a task「仕事を⾏う」",
+        "「táx (税金)に代わって課せられたもの」が元の意味。(táx → táşk)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "accomplish a difficult task",
+          "ja": "困難な仕事を成し遂げる"
+        }
+      ]
+    },
+    {
+      "id": "098",
+      "word": "earn",
+      "phonetic": "[ə́ːrn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (金)を稼ぐ, もうける",
+            "② (評判など)を得る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「働いて賃金(や評判など)を(正当な報いとして)得る」",
+        "頻出 ① earn a[one's] living「生活費を稼ぐ」(= earn one's keep)",
+        "名 earnings「収入, 所得」",
+        "名 earner「稼ぎ手」",
+        "⇨ a six figure earner「年収10万ドル(およそ1千万円)以上の人」",
+        "breadwinner「稼ぎ頭」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "earn money to pay my school fees",
+          "ja": "学費を払う金を稼ぐ"
+        },
+        {
+          "en": "earn a reputation as a hard worker",
+          "ja": "勤勉との評判を得る"
+        }
+      ]
+    },
+    {
+      "id": "099",
+      "word": "hurt",
+      "phonetic": "[hə́ːrt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (身体の部位が)痛む"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (身体, 感情)を傷つける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「身体」だけでなく, 「感情」を「傷つける」場合にも使う。",
+        "頻出 ② hurt one's pride[feelings]「〜の自尊心[気持ち]を傷つける」",
+        "It hurts me to think that S V.「〜と考えると辛い。」",
+        "「傷の程度」は slightly「少し」や badly「ひどく」などで表現する。",
+        "[活用]hurt-hurt-hurt",
+        "心 heart[hάːrt]「心臓」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My back hurts a lot.",
+          "ja": "腰がとても痛い。"
+        },
+        {
+          "en": "He hurt his knee while (he was) playing football.",
+          "ja": "彼はサッカーをやっていて膝を痛めた。"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "word": "injure",
+      "phonetic": "[índʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を痛める",
+            "② 〜をけがさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意図的でなく, 主に事故や暴力などで)傷つける」(*日常では húrt)",
+        "頻出 ① injure one's shoulder[ankle, leg]「肩[足首, 脚]を痛める」",
+        "注意 ② 受け身の形で使うことが多い。⇨ be injured「けがをする」",
+        "名 injury「けが」",
+        "scar「傷跡」",
+        "bruise「打撲傷」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定] + -jure[=just 正しい] -> 「正しくない状態にする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "injure my back",
+          "ja": "腰を痛める"
+        },
+        {
+          "en": "be seriously injured in an accident",
+          "ja": "事故で重傷を負う"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "word": "damage",
+      "phonetic": "[dǽmɪdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に損害を与える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 損害, 被害〈不可算〉",
+            "③ (-s)賠償金"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物理的な被害(を与える)」という意味で広く使用。",
+        "頻出 ② do[cause] damage to 〜「〜に損害を与える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "seriously damage the environment",
+          "ja": "環境に深刻な被害を与える"
+        },
+        {
+          "en": "do damage to the village",
+          "ja": "その村に被害を与える"
+        },
+        {
+          "en": "claim damages",
+          "ja": "損害賠償を請求する"
+        }
+      ]
+    }
+  ]
+}

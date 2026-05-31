@@ -1,0 +1,205 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "258",
+      "word": "smooth",
+      "phonetic": "[smuːð]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 滑らかな",
+            "② 順調な"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (服のしわ)をのばす, (髪)をなでつける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(表面に凹凸がなく)滑らかな」→②「(問題, 障害がなく)順調な」",
+        "注意 -thで終わる単語の発音はふつう /θ/だが, この単語は例外。",
+        "副 smoothly「滑らかに, 順調に」 ⇔ help human relationships run smoothly「人間関係を円滑にするのに役立つ」",
+        "反 rough「粗い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This soap makes your skin very smooth.",
+          "ja": "この石けんでお肌はツルツル(とても滑らか)になります。"
+        },
+        {
+          "en": "the smooth running of the company",
+          "ja": "会社の順調な運営"
+        },
+        {
+          "en": "smooth back my hair",
+          "ja": "髪の毛をなでつける"
+        }
+      ]
+    },
+    {
+      "id": "259",
+      "word": "direct",
+      "phonetic": "[dirékt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 直接的な"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を指揮[監督, 演出]する",
+            "③ (注意などを)〜に向ける",
+            "④ 〜に道を教える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「〜へ(まっすぐ)導く」",
+        "副 directly「直接に, まっすぐに」 (*「(人)に直接会う」はmeet (人) in person[×directly]と表現する。)",
+        "名 director「取締役, 監督」 ⇔ a movie director「映画監督」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a direct flight to Paris",
+          "ja": "パリへの直行便"
+        },
+        {
+          "en": "direct the play",
+          "ja": "その劇を演出する"
+        },
+        {
+          "en": "direct their attention to this problem",
+          "ja": "この問題に彼らの注意を向ける"
+        },
+        {
+          "en": "direct her to the airport",
+          "ja": "彼女に空港への道を教える"
+        }
+      ]
+    },
+    {
+      "id": "260",
+      "word": "familiar",
+      "phonetic": "[fəmíljər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 知られた",
+            "② (人が)(よく)知っている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「家族のように親密な」",
+        "頻出 ① be familiar to 〜「〜に(よく)知られている」 (*「よく」を強調するときはvery familiarとする。)",
+        "② be familiar with 〜「〜を(よく)知っている, 〜に詳しい」 (*本来familiarは①の意味だが, A come up「Aが生じる」, A come up with A「Aを思いつく」と同様にA be familiar to (人)「Aが知られている」→(人) be familiar with Aに変化した。)",
+        "名 familiarity「(よく)知っていること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Shakespeare is familiar to people all over the world.",
+          "ja": "① シェイクスピアは世界中の人々に知られている。"
+        },
+        {
+          "en": "I am very familiar with this town.",
+          "ja": "② 私はこの街をよく知っている。"
+        }
+      ]
+    },
+    {
+      "id": "261",
+      "word": "similar",
+      "phonetic": "[símələr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(to 〜)(〜に)似た"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「〜に似ている」の意味で最も一般的に使用される表現はlook like 〜。",
+        "頻出 A is similar to B (in 〜)「Aは(〜の点で)Bに似ている」",
+        "注意 「同じ〜」はthe same 〜と表現する。(*必ずtheをつける。)強調する際はremarkablyやstrikinglyを用いる。",
+        "語源 sim-[=same同じ] ⇔ similarity「類似(点)」(*相似の記号(∽)はsimilarityの頭文字Sを横にしたもの。) ⇔ simúlation「シミュレーション, 模擬実験」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She is similar to her mother in appearance.",
+          "ja": "彼女は見た目が母親に似ている。"
+        }
+      ]
+    },
+    {
+      "id": "262",
+      "word": "differ",
+      "phonetic": "[dífər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "異なる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 differ from 〜「〜と異なる」 (*be different from 〜より堅い表現。)",
+        "語法 differ in 〜「〜の点で異なる」",
+        "注意 óffer, súffer, dífferはアクセントが前の音節にある。",
+        "名 difference「違い」 ⇔ make no difference「重要ではない」",
+        "他 differentiate (A from B)「(Aを)(Bと)区別する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His tastes differ from mine.",
+          "ja": "彼の趣味は私の(趣味)と異なる。"
+        }
+      ]
+    },
+    {
+      "id": "263",
+      "word": "vary",
+      "phonetic": "[véəri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "さまざまだ, 変わる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 S vary from A to A.「SはAによってさまざまだ。」 (*Aはcountry, place, culture, person, schoolなどの名詞が置かれる。S以外はS vary according to[depending on]〜.「Sは〜に応じてさまざまだ。」と表現する。 ⇔ Ticket prices vary according to where you sit.「チケットの値段は席によってさまざまだ。」)",
+        "名 variation「変化」 ⇔ variety「種類, 多様性」",
+        "副 invariably「いつも」(in-[否定]+-vari-[=vary変化する]+-able[可能]から「変化できない」→「いつも(同じ)」) ⇔ variable「変数」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The way people greet each other varies from country to country.",
+          "ja": "挨拶の仕方は国によりさまざまだ。"
+        }
+      ]
+    }
+  ]
+}

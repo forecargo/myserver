@@ -1,0 +1,254 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "213",
+      "word": "degree",
+      "phonetic": "[digríː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (温度などの)度",
+            "② 程度",
+            "③ 学位"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②「温度」「角度」「程度」③「ある段階に達した証」",
+        "頻出 ② by degrees「徐々に」 to some degree「ある程度」",
+        "③ a bachelor's [master's, doctor's] degree「学士[修士, 博士]号」"
+      ],
+      "word_origin": {
+        "formula": "de-[下]+-gree[=grade]から「いくつかの段のある物」→「段階, 程度」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "freeze at zero degrees",
+          "ja": "ゼロ度で凍る"
+        },
+        {
+          "en": "speak French to some degree",
+          "ja": "ある程度フランス語を話す"
+        },
+        {
+          "en": "get a degree in engineering",
+          "ja": "工学の学位をとる"
+        }
+      ]
+    },
+    {
+      "id": "214",
+      "word": "flood",
+      "phonetic": "[flʌ́d]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 洪水"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を水浸しにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (可算)「どっと押し寄せるもの」",
+        "頻出 ① a flood of 〜「(比較的に)多数の〜」 Noah's Flood「ノアの洪水」",
+        "注意 -oo- で /uː/ と発音する単語は「血の洪水」(blood と flood) と発音を混同しないこと。",
+        "◆ a linear precipitation zone [belt]「線状降水帯」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The flood washed the bridge away.",
+          "ja": "洪水で橋が流された。"
+        },
+        {
+          "en": "The streets are flooded.",
+          "ja": "通りは水浸しだ(水浸しにされた)。"
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "word": "freeze",
+      "phonetic": "[fríːz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 凍る, 凍りつく"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を凍らせる"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "frozen"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(物が)凍りつく」から「(人が)(こわばって)動けなくなる」まで。",
+        "頻出 ① freeze to death「凍死する」",
+        "頻出 ② frozen「冷凍の」 freezer「冷凍庫」 defrost「〜を解凍する」",
+        "活用 freeze-froze-frozen"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The pond froze over.",
+          "ja": "池が一面凍った。"
+        },
+        {
+          "en": "freeze bananas in the freezer",
+          "ja": "冷凍庫でバナナを凍らせる"
+        }
+      ]
+    },
+    {
+      "id": "216",
+      "word": "reflect",
+      "phonetic": "[riflékt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を反射する",
+            "② 〜を反映する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (on 〜) (〜を)熟考する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(光などを)を反射する」→②「(物, 事)を反映する」③「熟考する, 反省する」",
+        "頻出 ③ reflect on 〜「〜を熟考する」 (*reflect oneself on 〜「〜について自らを反射する」から oneself が省略された形と考えてよい) →「(主に過去の出来事について)考える」の意味。",
+        "名 refléction「反射, 反映, 熟考」 ⇔on reflection「よく考えた上で」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び]+-flect[曲げる]→「反射する」",
+        "description": "☆fléxible「柔軟な(←曲げやすい)」"
+      },
+      "examples": [
+        {
+          "en": "reflect the sunlight",
+          "ja": "日光を反射する"
+        },
+        {
+          "en": "The clothes people wear reflect the times.",
+          "ja": "人々の着ている服は時代を反映している。"
+        },
+        {
+          "en": "reflect on my successes and failures",
+          "ja": "私の成功と失敗について振り返る"
+        }
+      ]
+    },
+    {
+      "id": "217",
+      "word": "polite",
+      "phonetic": "[pəláit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(人, 言動が)礼儀正しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「礼儀上の, 社交辞令の」の意味もある。 ⇔I smiled, but I was just being polite.「私はほほえんだが, 礼儀上そうしただけだ。」",
+        "副 politely「礼儀正しく, 丁寧に」 反 impolite, rude「無礼な」",
+        "類 courteous「(ホテルの従業員などが)礼儀正しい(←court「宮廷」から)」"
+      ],
+      "word_origin": {
+        "formula": "pol-[滑らかに]→「人間関係を滑らかにするような」",
+        "description": "☆pólish「〜を磨く」"
+      },
+      "examples": [
+        {
+          "en": "a polite young man",
+          "ja": "礼儀正しい若い男性"
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "word": "rude",
+      "phonetic": "[rúːd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(言葉, 行動が)無礼な, 不作法な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 be rude to 〜「〜に失礼なことをする[言う]」",
+        "反 polite「礼儀正しい」"
+      ],
+      "word_origin": {
+        "formula": "rud-[raw 生の]→「粗野な状態」",
+        "description": "☆raw「生の」"
+      },
+      "examples": [
+        {
+          "en": "It is rude to ask women their age.",
+          "ja": "女性に年齢を尋ねるのは無礼です。"
+        }
+      ]
+    },
+    {
+      "id": "219",
+      "word": "lonely",
+      "phonetic": "[lóunli]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "孤独な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「独りぼっちで寂しい」 ◊alóne「(物理的に)ただ1人で」",
+        "頻出 lead [live] a lonely life「寂しい生活を送る」",
+        "名 lóneliness「孤独」",
+        "類 sólitary「孤高の(←sóle「唯一の」から)」(＋プラスイメージ)"
+      ],
+      "word_origin": {
+        "formula": "lone-[孤独]は alone「たった1人で」から a- が脱落した形。",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "lonely old people",
+          "ja": "孤独な老人たち"
+        }
+      ]
+    }
+  ]
+}

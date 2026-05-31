@@ -1,0 +1,269 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "381",
+      "word": "cause",
+      "phonetic": "[kɔːz]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を引き起こす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 原因"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① cause A to do「Aに〜させる（原因となる）」",
+        "③ the cause of 〜「〜の原因」（⇔ the reason for 〜「〜の理由」）",
+        "▶「偶発的に悪い結果」を引き起こす",
+        "派 because は be[=by]+cause[原因]→「原因によって」が元の意味。",
+        "形 causal「因果関係を示す, 原因となる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① cause trouble",
+          "ja": "① 面倒を引き起こす"
+        },
+        {
+          "en": "② the root cause of the war",
+          "ja": "② その戦争の根源的な原因"
+        }
+      ]
+    },
+    {
+      "id": "382",
+      "word": "affect",
+      "phonetic": "[əfékt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "（直接的に）〜に影響を与える, 作用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「（温室効果などの）影響」から「（増税の）影響」まで。",
+        "派 af-[=ad 方向]+-fect-[働きかける] ☆infection「感染」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Lack of sleep seriously affects your performance at work.",
+          "ja": "睡眠不足は仕事（の出来栄え）に悪影響を及ぼす。"
+        }
+      ]
+    },
+    {
+      "id": "383",
+      "word": "way",
+      "phonetic": "[wéi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 方法",
+            "② (in 〜 way)(の)点(で)",
+            "③ 道"
+          ]
+        },
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "④ はるかに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「やり方」を示す最も一般的な語。",
+        "頻出 ① the way (that[×how]) SV「〜の方法」",
+        "③ go all the way to 〜「はるばる（長い道を）〜まで行く」",
+        "④ 副詞（句）や比較級などの前に置かれ、強調する。（*口語では much よりも使われる。）",
+        "注意 ① (in) that way「その方法で」などの場合, in は省略可。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① my way of studying",
+          "ja": "① 私の勉強の仕方"
+        },
+        {
+          "en": "② We differ in this way.",
+          "ja": "② この点で私たちは異なる。"
+        },
+        {
+          "en": "③ go all the way to Tokyo",
+          "ja": "③ はるばる（長い道を）東京まで行く"
+        },
+        {
+          "en": "④ His IQ is way above average.",
+          "ja": "④ 彼の知能指数は平均よりはるかに上だ。"
+        }
+      ]
+    },
+    {
+      "id": "384",
+      "word": "manner",
+      "phonetic": "[mǽnər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 方法",
+            "② 流儀, 態度",
+            "③ (-s) マナー"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「（ある人に特有の）行為や態度」",
+        "頻出 ① in a 〜 manner「〜のやり方で」",
+        "a manner of 〜「〜のやり方」",
+        "③ It is good[bad] manners to do.「〜するのはよい[悪い]マナーだ。」",
+        "注意 ③ 日本語では単数だが英語では常に複数形を使う。",
+        "（*「マナー」とはいくつかの「方法」の組み合わせと考える。）",
+        "（*マナーは「知識」ではなく「身についているもの」なので have を使う。）"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① behave in a responsible manner",
+          "ja": "① 責任ある方法でふるまう"
+        },
+        {
+          "en": "② his manner of speaking",
+          "ja": "② 彼の話し方"
+        },
+        {
+          "en": "③ have no manners",
+          "ja": "③ マナーを知らない"
+        }
+      ]
+    },
+    {
+      "id": "385",
+      "word": "purpose",
+      "phonetic": "[pə́ːrpəs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "目的, 目標"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「目的, 目標」を表す最も一般的な語。",
+        "◇aim「（より具体的な）狙い, 目的」",
+        "goal「（努力して達成する）目標」",
+        "頻出 for the purpose of 〜「〜の目的で」",
+        "on purpose「故意に（←目的に基づき）」",
+        "派 pur-[=pro 前方]+-pose[置く]から「目の前に置かれた達成すべきもの」",
+        "☆pursue「〜を追跡する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What is the purpose of your visit?",
+          "ja": "あなたの訪問の目的は何ですか。"
+        }
+      ]
+    },
+    {
+      "id": "386",
+      "word": "sake",
+      "phonetic": "[séik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (for 〜)ため",
+            "② 日本酒"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶② 日本語の「酒」と発音が異なる。",
+        "頻出 ① for the sake of A「Aのために」（= for A's sake）",
+        "for its own sake「それ自体のために」",
+        "注意 「健康のために」を for your health と表現すると, 「健康と引き換えになる可能性」がある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① for the sake of your health",
+          "ja": "① 健康のため"
+        },
+        {
+          "en": "② Sake is becoming popular among Europeans.",
+          "ja": "② 日本酒はヨーロッパの人々の間で人気が出ている。"
+        }
+      ]
+    },
+    {
+      "id": "387",
+      "word": "right",
+      "phonetic": "[ráit]",
+      "level_tag": "A1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① （場所や時の副詞（句）を修飾して）ちょうど"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 正しい, 適切な",
+            "③ 右の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ (to 〜)(〜の)権利"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 「私の右手」のように対になっているもの以外の「右の〜」は on the[one's] right と表現するのがふつう。",
+        "派 「まっすぐ」から「正しい」→「右」は, 左は不吉で, 右は正しいという考えがあった。",
+        "turn right「右に曲がる」",
+        "right-handed「右利きの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① right in front of me",
+          "ja": "① 私のちょうど目の前で"
+        },
+        {
+          "en": "② You are right.",
+          "ja": "② 君が正しいよ。"
+        },
+        {
+          "en": "③ my right hand",
+          "ja": "③ 私の右手"
+        },
+        {
+          "en": "④ the right to vote",
+          "ja": "④ 投票権"
+        }
+      ]
+    }
+  ]
+}

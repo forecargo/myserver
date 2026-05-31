@@ -1,0 +1,248 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "388",
+      "word": "complete",
+      "phonetic": "[kəmplíːt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 完全な"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を完成させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「時間を要する作業」を完成させる",
+        "頻出 ② complete an application form「申込書に記入する(←完成させる)」",
+        "★ com-[すべて] + -ple-[満たす] →「すべてを満たす」",
+        "supplement「サプリ(←栄養素を補う)」",
+        "副 completely「完全に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a complete stranger",
+          "ja": "見ず知らずの人(完全に知らない人)"
+        },
+        {
+          "en": "This tunnel took ten years to complete.",
+          "ja": "このトンネルは完成するのに10年かかった。"
+        }
+      ]
+    },
+    {
+      "id": "389",
+      "word": "hardly",
+      "phonetic": "[hάːrdli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① (程度)ほとんど〜ない",
+            "② (－ever)めったに〜ない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ seldom, rarely「めったに〜ない」は書き言葉。",
+        "注意 ②「回数が少ない」の意味では、①「程度」と区別するため通例 ever を伴う。「熱心に勉強する」は study hard と表現する。 [×study hardly]",
+        "♥ hard「難しい」→「ほとんどできない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I can hardly wait for the summer.",
+          "ja": "夏が待ち遠しい(ほとんど待てない)."
+        },
+        {
+          "en": "He hardly ever smiles.",
+          "ja": "彼はめったに笑わない."
+        }
+      ]
+    },
+    {
+      "id": "390",
+      "word": "almost",
+      "phonetic": "[ɔ́ːlmoust]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "ほとんど"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「少し足りない」(＊厳密には＝very nearly.)",
+        "◇ about[around] 10 は「10前後」だが, almost[nearly] 10 は「10未満」を意味する。",
+        "注意 副詞なので×almost[almost] people「大半の人々」は不可。ただし, almost everyone「ほとんど皆」のように, 形容詞的な要素を含む名詞の前には置ける。",
+        "★ al-[(=all)すべて] + -most[ほとんど]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I go to the gym almost every day.",
+          "ja": "ほとんど毎日ジムに通っている。"
+        }
+      ]
+    },
+    {
+      "id": "391",
+      "word": "partly",
+      "phonetic": "[pάːrtli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "ある程度, 部分的に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ in part と表現することもある。",
+        "頻出 partly because SV「1つには〜が理由で」",
+        "★ part-[部分] + -ly[副詞語尾]",
+        "形 partial「部分的な」(⇔ impartial「偏らない」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am partly to blame.",
+          "ja": "私にも一部責任がある。"
+        }
+      ]
+    },
+    {
+      "id": "392",
+      "word": "indeed",
+      "phonetic": "[indíːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① (強調として)実際に, 本当に",
+            "② (butを伴って)確かに〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①形式ばった語で, ふつう in fact などを使う。",
+        "★ in deed「行為において」という表現からできた語。(＊deed は do の名詞形 で「善悪の行為」の意味。⇔ do a good deed「善行をする」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is indeed a kind person.",
+          "ja": "彼は本当に親切な人です。"
+        },
+        {
+          "en": "Indeed, he is young, but he is very smart.",
+          "ja": "確かに彼は若いですが, とても頭がいい."
+        }
+      ]
+    },
+    {
+      "id": "393",
+      "word": "even",
+      "phonetic": "[íːvən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① さえも",
+            "② (比較級の前で)さらに",
+            "⑤ (数字が)ちょうど"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 偶数の",
+            "④ 均一の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「平らな, 同じ高さの」の意から③④「同等の(数に分けられる)」①②「(結局は同じレベル)の意から転じて強意語として)(〜で)さえも, さらに」",
+        "頻出 even though SV「〜だけれど」",
+        "even so「たとえそうでも」",
+        "注意 ② a lot, much「ずっと」(←差が大きいことを示す副詞)と区別。",
+        "副 evenly「均等に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Even Homer sometimes nods.",
+          "ja": "《ことわざ》弘法にも筆の誤り(ホメロスでさえ時には居眠りする)."
+        },
+        {
+          "en": "Things became even more difficult.",
+          "ja": "事態はさらに難しくなった."
+        },
+        {
+          "en": "even numbers (⇔ odd numbers)",
+          "ja": "偶数(⇔奇数)"
+        },
+        {
+          "en": "white, even teeth",
+          "ja": "白くきれいにそろった歯"
+        },
+        {
+          "en": "It cost 10 dollars even.",
+          "ja": "ちょうど10ドルでした."
+        }
+      ]
+    },
+    {
+      "id": "394",
+      "word": "exactly",
+      "phonetic": "[igzǽktli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① 正確に",
+            "② 〈会話〉そのとおり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「寸分違わずに」",
+        "頻出 ① 疑問詞の前後にも置かれることが多い。",
+        "not exactly「正確には〜ない」",
+        "exactly the same「まったく同じ」",
+        "exactly the opposite「正反対」",
+        "形 exact「正確な」⇔ the exact date[cause]「正確な日付[原因]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Where exactly did you stay in Australia?",
+          "ja": "オーストラリアの正確にはどこに滞在したのですか."
+        },
+        {
+          "en": "Exactly.",
+          "ja": "そのとおりです."
+        },
+        {
+          "en": "/ Not exactly.",
+          "ja": "ちょっと違います(そのとおりではないです)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "264",
+      "word": "specific",
+      "phonetic": "[spisífik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 特定の",
+            "② 明確な, 具体的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(集団や一般的なものではなく)ある1つ[1人]に焦点を当てた」",
+        "頻出 ① be specific to ~「〜に特有の」",
+        "語源 speci-[見る]+-fic[作る]から「見えるようにする」→「明確な」",
+        "派生 aspect「側面, 外観」 副 specifically「特に, 明確に」 他 specify「〜を明記する, 具体化する」 反 general「一般的な」"
+      ],
+      "word_origin": {
+        "formula": "speci-[見る]+-fic[作る] -> 「見えるようにする」",
+        "description": "「明確な」"
+      },
+      "examples": [
+        {
+          "en": "a specific age group",
+          "ja": "ある特定の年齢のグループ"
+        },
+        {
+          "en": "specific instructions",
+          "ja": "明確な指示"
+        }
+      ]
+    },
+    {
+      "id": "265",
+      "word": "common",
+      "phonetic": "[kámən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 普及した, 普通の",
+            "② (主に名詞の前で)共通の"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "commonly「一般に」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(みんなに)共通の」→①「普通の, ありふれた」",
+        "頻出 ② common sense「常識(←共通の意識)」 have ~ in common「〜という共通点を持つ(←〜を共通に持つ)」(*この場合, 冠詞は不要)",
+        "注意 Colds are common[×popular] in winter.「冬はかぜが流行する。」",
+        "派生 形 commonplace「ありふれた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "E-books are becoming common.",
+          "ja": "電子書籍は普及しつつある。"
+        },
+        {
+          "en": "a common ancestor",
+          "ja": "共通の祖先"
+        }
+      ]
+    },
+    {
+      "id": "266",
+      "word": "unusual",
+      "phonetic": "[ʌnjúːʒuəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "珍しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「生物」から「才能」「行動」まで。",
+        "頻出 It is not unusual for A to do.「Aが〜するのは珍しくない。」",
+        "注意 always「(例外なく)いつも」, usually「(例外はあるが)いつも」, often「しばしば」, sometimes「時々」, hardly ever「めったに〜ない」, rarely「めったに〜ない」, seldom「めったに〜ない」など頻度を示す副詞はnot(=頻度0回)の位置に置かれるのがふつう。",
+        "反 usual「いつもの」 比較級 than usual「いつも以上に〜」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "These days, it is not unusual for men to wear makeup.",
+          "ja": "最近は, 男性が化粧するのは珍しくない。"
+        }
+      ]
+    },
+    {
+      "id": "267",
+      "word": "add",
+      "phonetic": "[æd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を加える"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (to ~) (~を)増やす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「既にある物に新しく物を加える」",
+        "頻出 ① add A to B「AをBに加える」 ② add up to ~「合計〜になる」",
+        "Add to this ~, and SV.「これに〜を加えれば, SVとなる。」",
+        "派生 名 addition「追加, 足し算」 熟 in addition (to ~)「(~に)加えて」 形 additional「追加の」 副 additionally「さらに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "add some milk to the coffee",
+          "ja": "コーヒーにミルクを加える"
+        },
+        {
+          "en": "His chilling words added to her fear.",
+          "ja": "彼のぞっとするような言葉で彼女の恐怖は増した。"
+        }
+      ]
+    },
+    {
+      "id": "268",
+      "word": "increase",
+      "phonetic": "動*[inkríːs] 名*[ínkriːs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 増える"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を増やす"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ (in ~) (~の)増加"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ③ be on the increase「増加している」",
+        "注意「(~な)人々が増えている」と表現する場合には the number of people who ~, 「数」を明確にする。「量」は the amountと表現する。「ますます増えている」は be increasingと表現する。([×]be increasing more and more)",
+        "反 decrease「減少する, 減少」とセットで覚えよう。",
+        "副 increasingly「ますます」 skyrocket「急騰する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "increase by 30 percent",
+          "ja": "30%増える"
+        },
+        {
+          "en": "increase my vocabulary",
+          "ja": "語彙を増やす"
+        },
+        {
+          "en": "an increase in land prices",
+          "ja": "地価の上昇"
+        }
+      ]
+    },
+    {
+      "id": "269",
+      "word": "reduce",
+      "phonetic": "[ridjúːs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を減らす",
+            "② (A to B) AをBにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「意識的に減らす」",
+        "注意「(酒, タバコの量)を減らす」は cut down on ~とも表現できる。",
+        "語源 re-[後ろへ]+-duce[導く]→「逆へ導く」 produce「〜を生産する(←前に導く)」",
+        "派生 名 reduction「減少」 cost reduction「コスト削減」[×cost down]「コストダウン」"
+      ],
+      "word_origin": {
+        "formula": "re-[後ろへ]+-duce[導く] -> 「逆へ導く」",
+        "description": "produce「〜を生産する(←前に導く)」"
+      },
+      "examples": [
+        {
+          "en": "reduce the amount of garbage",
+          "ja": "生ゴミ(の量)を減らす"
+        },
+        {
+          "en": "be reduced to poverty",
+          "ja": "貧困に陥る"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "395",
+      "word": "gradually",
+      "phonetic": "[grǽdʒuəli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "徐々に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「時間をかけてゆっくりと」",
+        "頻出 gradually become clear「徐々に明白になる」",
+        "gradually increase [decrease]「徐々に増加[減少]する」",
+        "grade [等級] が一段一段上がっていく →「徐々に」",
+        "反 grádual「徐々の」 反 rápidly「急速に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Land prices are gradually increasing.",
+          "ja": "土地の値段が徐々に上がっている。"
+        }
+      ]
+    },
+    {
+      "id": "396",
+      "word": "therefore",
+      "phonetic": "[ðéərfɔ̀ːr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "それゆえに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 堅い語で「原因」を示したあとの「結果」や「結論」を述べる。",
+        "注意 文中では, and therefore の形で使われる。",
+        "there- [=that] + -fore [=for] から「そのために」→「それゆえに」",
+        "thereby「それによって」 thereafter「その後」"
+      ],
+      "word_origin": {
+        "formula": "there- [=that] + -fore [=for] から「そのために」→「それゆえに」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Even experts are only human, and therefore mistakes sometimes occur.",
+          "ja": "専門家でもただの人間だ。それゆえ, ミスが時々起きる。"
+        }
+      ]
+    },
+    {
+      "id": "397",
+      "word": "instead",
+      "phonetic": "[instéd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 代わりに",
+            "② (of ~) (~の)代わりに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「同時にできないことの」代わりに",
+        "注意 「同時にできる」場合には without ~ を使う。 ⇔ leave the room without saying goodbye「さよならも言わずに部屋を出る」",
+        "in- [中に] + -stead [その場所] から「〜の場所で」→「〜の代わりに」"
+      ],
+      "word_origin": {
+        "formula": "in- [中に] + -stead [その場所] から「〜の場所で」→「〜の代わりに」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① If you can't make it, your mother may go instead.",
+          "ja": "① もし君が行けないのなら, 君のお母さんが代わりに行ってもよい。"
+        },
+        {
+          "en": "② take the stairs instead of the elevator",
+          "ja": "② エレベーターの代わりに階段を使う"
+        }
+      ]
+    },
+    {
+      "id": "398",
+      "word": "until",
+      "phonetic": "[əntíl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① 〜まで(ずっと)"
+          ]
+        },
+        {
+          "part_of_speech": "接",
+          "meanings": [
+            "② 〜まで(ずっと)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かが継続していること」を示す。(*till と同意だが, until のほうが頻度が高い。)",
+        "頻出 ① It is not until ~ that SV.「〜して初めて SV.」",
+        "S V, until S'V'. 「SV, そして, ついに S'V'.」",
+        "注意 前 by ~「〜までには」や接 by the time SV「〜までには」と区別。",
+        "(until 副詞 (句) も可。) ⇔ until recently「最近まで」",
+        "「何時までで (=どれくらい遅くまで)」は how late ~ と表現するのがふつう。 ⇔ How late are you open?「何時まで開いていますか。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① We are open until 11 p.m. on weekdays.",
+          "ja": "① 平日は午後 11 時まで営業しています。"
+        },
+        {
+          "en": "② Stay here until I get back.",
+          "ja": "② 私が戻るまでここにいて。"
+        }
+      ]
+    },
+    {
+      "id": "399",
+      "word": "besides",
+      "phonetic": "[bisáidz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① 〜に加えて"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "② おまけに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② 先行する文の内容よりも重要な新情報を追加する。",
+        "注意 口語的な表現なので, 書き言葉では ① in addition to ~, ② in addition, moreover などを使用。",
+        "be- [ある] + -side [そばに] + -s [副詞語尾] →「〜に加えて」",
+        "always「いつも」 sómetimes「時々」"
+      ],
+      "word_origin": {
+        "formula": "be- [ある] + -side [そばに] + -s [副詞語尾] →「〜に加えて」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① learn another foreign language besides English",
+          "ja": "① 英語以外の(英語に加えて)外国語を勉強する"
+        },
+        {
+          "en": "② It's too late to go out; besides, it's snowing.",
+          "ja": "② 外出するには遅すぎるし, おまけに, 雪が降っている。"
+        }
+      ]
+    },
+    {
+      "id": "400",
+      "word": "except",
+      "phonetic": "[iksépt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① 〜を除いて",
+            "② (for ~) (~を)除いて"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「含まないもの」についての言及",
+        "⇔ besides「〜のほかに, 〜に加えて」 ⇔ I visited two cities besides London.「ロンドン以外に 2 つの都市を訪れた。」",
+        "頻出 ① except (that) SV「〜ということを除けば」",
+        "注意 ①は Everybody was happy except Bob. のように主文の要素と同格のものが置かれるが, ②は必ずしもそうではない。また, ②は通例文末に置かれる。",
+        "形 excéptional「例外的な, 素晴らしい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Everybody was asleep except (for) him.",
+          "ja": "① 彼以外は皆眠っていた。"
+        },
+        {
+          "en": "② Except for a dog, the park was empty.",
+          "ja": "② 1匹のイヌを除いて, 公園には誰もいなかった。"
+        }
+      ]
+    }
+  ]
+}

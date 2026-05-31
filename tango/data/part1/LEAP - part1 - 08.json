@@ -1,0 +1,269 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "050",
+      "word": "condition",
+      "phonetic": "[kəndíʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 状態, 容態",
+            "② (通例 -s) (周囲の)状況, 条件"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(人や物の一時的な)状況, 状態」",
+        "▶ ②「(仕事場, 気象などの)状況」",
+        "頻出 ① in (a[an]) condition「〜の状態で」",
+        "② on (〈米〉under) (the) condition that SV「〜という条件で」",
+        "形 conditional「条件付きの」⇔ a conditional offer「条件付きの申し出」",
+        "形 unconditional「無条件の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My body is in good condition.",
+          "ja": "私の体は調子がよい。"
+        },
+        {
+          "en": "work under bad conditions",
+          "ja": "悪条件の下で働く"
+        }
+      ]
+    },
+    {
+      "id": "051",
+      "word": "medical",
+      "phonetic": "[médikəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 医療の",
+            "② 医学の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① medical care「医療」",
+        "② a medical examination「健康診断」",
+        "★ medi-[医療] + -cal[形容詞語尾]",
+        "(* medicine より堅い表現.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "medical expenses",
+          "ja": "医療費"
+        },
+        {
+          "en": "medical science",
+          "ja": "医学"
+        }
+      ]
+    },
+    {
+      "id": "052",
+      "word": "stress",
+      "phonetic": "[strés]",
+      "level_tag": "B1/B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① ストレス",
+            "② (on 〜) (〜に対する)強調"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を強調する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③ emphasize と言い換え可能.",
+        "頻出 ① have [be under] stress「ストレスを感じている」",
+        "stress builds up「ストレスがたまる」",
+        "reduce stress「ストレスを減らす」",
+        "relieve [get rid of] stress「ストレスを取り除く」",
+        "形 stressed「ストレスで疲れた」⇔ feel stressed (out)「ストレスを感じる」",
+        "形 stressful「ストレスの多い」⇔ stressful work「ストレスの多い仕事」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a lot of stress",
+          "ja": "ストレスが多い"
+        },
+        {
+          "en": "put[lay] stress on foreign language education",
+          "ja": "外国語教育に重点を置く"
+        },
+        {
+          "en": "stress the importance of teamwork",
+          "ja": "チームワークの重要性を強調する"
+        }
+      ]
+    },
+    {
+      "id": "053",
+      "word": "suffer",
+      "phonetic": "[sʌ́fər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (from 〜) (病気などで)苦しむ"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (苦痛, 損害)を経験する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 suffer a blow[setback]「一撃を受ける[痛手を被る]」",
+        "注意 ① 一時的な状態であることを示す場合は進行形で表現する.",
+        "名 suffering「苦痛, 苦しみ」"
+      ],
+      "word_origin": {
+        "formula": "suf-(=sub 下) + -fer[運ぶ]",
+        "description": "から「何かの下に自らを運ぶ」→「苦しむ, 経験する」"
+      },
+      "examples": [
+        {
+          "en": "I am suffering from jet lag.",
+          "ja": "時差ぼけに苦しんでいる。"
+        },
+        {
+          "en": "The company suffered a heavy loss.",
+          "ja": "その会社は大きな損失を出した (大きな損失を経験した)。"
+        }
+      ]
+    },
+    {
+      "id": "054",
+      "word": "exercise",
+      "phonetic": "[éksərsàiz]",
+      "level_tag": "A2/A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 運動",
+            "② (-s) 練習"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 運動する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "④ 〜を行使する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「家畜を囲いから出して働かせる」→③「運動する」→④「(権利が働くように)行使する」",
+        "頻出 ① get[〈英〉take] exercise「運動する(ことに時間をとる)」",
+        "注意 ①「(漠然とした)運動」は〈不可算〉だが,「(特定部位の)運動」は〈可算〉"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "get light exercise",
+          "ja": "軽い運動をする"
+        },
+        {
+          "en": "piano exercises",
+          "ja": "ピアノの練習"
+        },
+        {
+          "en": "exercise regularly",
+          "ja": "定期的に運動する"
+        },
+        {
+          "en": "exercise the right to vote",
+          "ja": "投票権を行使する"
+        },
+        {
+          "en": "do exercises to strengthen the leg muscles",
+          "ja": "足の筋肉を強化するための運動をする"
+        }
+      ]
+    },
+    {
+      "id": "055",
+      "word": "breathe",
+      "phonetic": "[bríːð]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "呼吸する, 息をする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 breathe in[out]「息を吸う[吐く]」",
+        "名 breath [bréθ]「息」⇔ take a deep breath「大きく息を吸う」",
+        "under one's breath「声をひそめて」",
+        "形 breathtaking「はらはらさせるような」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "breathe deeply",
+          "ja": "深呼吸する"
+        }
+      ]
+    },
+    {
+      "id": "056",
+      "word": "thirsty",
+      "phonetic": "[θə́ːrsti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① のどが渇いた",
+            "② (for 〜) (〜を)切望して"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② 書き言葉.",
+        "頻出 ① feel[be] thirsty「のどが渇いている」",
+        "② be thirsty for 〜「〜を切望している」",
+        "★「乾くこと」が元の意味. ☆toast「トースト(←パンをあぶる[乾かす])」",
+        "名 thirst「のどの渇き, 渇望」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I'm really thirsty.",
+          "ja": "本当にのどが渇いた."
+        },
+        {
+          "en": "He is thirsty for power.",
+          "ja": "彼は権力志向が強い(権力を切望している)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "111",
+      "word": "customer",
+      "phonetic": "[kʌ́stəmər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "客"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(商店や企業から商品やサービスを購入する)顧客」",
+        "◇ client「(弁護士など専門家に助言を求める)依頼人」guest「招待客, 宿泊客」",
+        "頻出 a repeat[regular] customer「常連客, リピーター」",
+        "✖︎ custom「(習慣的)にくる人(客)」が元の意味."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The restaurant was crowded with customers from abroad.",
+          "ja": "そのレストランは外国人客で混雑していた。"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "word": "passenger",
+      "phonetic": "[pǽsəndʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "乗客"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「乗務員」はa crew memberと表現する.",
+        "頻出 a train[bus, airline] passenger「列車[バス, 飛行機]の乗客」",
+        "✖︎ passeng-(=pass 過ぎる)+-er[人]→「通り過ぎて行く人」",
+        "類 a train, taxi, bus, driver「列車, タクシー, バス運転手」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There were a lot of passengers on the train.",
+          "ja": "列車には多くの乗客が乗っていた。"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "word": "elderly",
+      "phonetic": "[éldərli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 年配の",
+            "② (the -) (総称的に)年配の人々"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「年配の, 年老いた(old, aged)」の丁寧で遠回しな表現.",
+        "頻出 ① elderly people [the elderly]「年配の人々」",
+        "② middle-aged and elderly people「中高年の人々」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① give up my seat to elderly people",
+          "ja": "① お年寄り(年配の人)に席を譲る"
+        },
+        {
+          "en": "② priority seats for the elderly",
+          "ja": "② お年寄りのための優先席"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "word": "female",
+      "phonetic": "[fíːmeil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 女性の",
+            "② (動物)雌の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 女性, 雌"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 生物学上, または警察や調査員によって使われる堅い語. 日常ではwomanのほうが使われる. ⇨ women's rights「女性の権利」",
+        "反 male「男性の, 雄の」",
+        "類 feminist「女権拡張論者」",
+        "派 feminine「女性らしい」(⇔ masculine「男性らしい」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① female workers",
+          "ja": "① 女性の労働者"
+        },
+        {
+          "en": "② a female cat",
+          "ja": "② 雌のネコ"
+        },
+        {
+          "en": "③ the female of the species",
+          "ja": "③ その種の雌"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "word": "head",
+      "phonetic": "[héd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 向かう"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を率いる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 頭",
+            "④ (新聞, 雑誌などの)大見出し"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「頭を向ける」 ②「頭(リーダー)になる」",
+        "頻出 ① head for 〜「〜へ向かう」",
+        "② A headed by B「Bに率いられたA」",
+        "類 head-on「正面衝突の」",
+        "▶「正面衝突の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① head for the beach",
+          "ja": "① 海辺に向かう"
+        },
+        {
+          "en": "② an investigative team headed by Mr. Nakahara",
+          "ja": "② 中原氏が率いる調査団"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "word": "follow",
+      "phonetic": "[fálou]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜の後にについて行く, 〜に続く",
+            "② (忠告, 方針など)に従う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① be followed by 〜「次に〜が続く」",
+        "as follows「以下のとおり」",
+        "Just because S V, it does not follow that S' V'.「S VというだけでS' V'というわけではない.」",
+        "(*この場合, followは自.)",
+        "形 following「次の, 以下のような」 ⇨ the following reason「次の理由」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Someone was following me.",
+          "ja": "① 誰かが私をつけていた。"
+        },
+        {
+          "en": "② follow his advice",
+          "ja": "② 彼の忠告に従う"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "word": "wander",
+      "phonetic": "[wándər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "歩き回る, さまよう"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(当てもなく, ぶらぶら)歩く」",
+        "頻出 しばしば around, about「(〜の)あちこち」を伴う.",
+        "注意 wonder「不思議に思う」[wʌ́ndər]と区別.",
+        "✖︎ wand-[=wend 行く]+-er[繰り返し]→「行ったり来たりする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wander about the town",
+          "ja": "街をぶらぶら歩き回る"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "word": "travel",
+      "phonetic": "[trǽvəl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 旅行する, 移動する",
+            "② (光, 音などが)進む"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 旅行"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「遠くへ移動する」",
+        "◇ a trip to 〜「〜への(短期から長期の)旅」",
+        "a journey「(通例, 陸路の)長旅」",
+        "頻出 ① travel abroad「海外旅行をする」",
+        "travel by plane[ship, car]「飛行機[船, 車]で移動する」",
+        "travel into[×to] space「宇宙へ旅行する」",
+        "類 travel(ing)「旅行」(不可算)",
+        "類 tourism「観光(業)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① travel around the world",
+          "ja": "① 世界中を旅する"
+        },
+        {
+          "en": "② Light travels faster than sound.",
+          "ja": "② 光は音より速く進む。"
+        }
+      ]
+    }
+  ]
+}

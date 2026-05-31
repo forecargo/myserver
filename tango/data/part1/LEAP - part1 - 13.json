@@ -1,0 +1,310 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "087",
+      "word": "sum",
+      "phonetic": "[sʌm]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (修飾語を伴って)金額",
+            "② 合計",
+            "③ (簡単な)計算"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ (up)〜を要約する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① a large[huge, small] sum (of money) 「多[巨, 少]額の金」",
+        "頻出 ④ to sum up 「要約すれば」",
+        "名 summary 「要約」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pay a large sum for antiques",
+          "ja": "骨とう品に大金を使う"
+        },
+        {
+          "en": "The sum of 5 and 8 is 13.",
+          "ja": "5と8の和は13だ"
+        },
+        {
+          "en": "do sums in my head",
+          "ja": "暗算する(頭の中で計算する)"
+        },
+        {
+          "en": "sum up the main points",
+          "ja": "重要な点を要約する"
+        }
+      ]
+    },
+    {
+      "id": "088",
+      "word": "budget",
+      "phonetic": "[bʌdʒit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 予算"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 安い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(国家の)予算」から「(家庭内の)予算」まで",
+        "頻出 ① under[over] budget 「予算内[オーバー]で」",
+        "cut down one's budget 「家計を切りつめる」",
+        "on a tight[limited] budget 「限られた予算で」",
+        "語源 budg-[=bag 袋] + -et[小さい]から「小さい袋(財布)」→「予算」"
+      ],
+      "word_origin": {
+        "formula": "budg-[=bag 袋] + -et[小さい]から「小さい袋(財布)」→「予算」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "our budget for this trip",
+          "ja": "今回の旅の予算"
+        },
+        {
+          "en": "at a budget price",
+          "ja": "お手頃価格で"
+        }
+      ]
+    },
+    {
+      "id": "089",
+      "word": "fee",
+      "phonetic": "[fiː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (会費, 遊園地などの)料金",
+            "② (専門職への)謝礼"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(医師や弁護士など専門職から受けたサービスに対する)謝礼, 料金」",
+        "頻出 a ~ fee の形でさまざまな「料金」を表す。⇨ a doctor's[lawyer's] fee「診察[弁護]料」a school[an admission, an entrance] fee「授業[入場]料」a membership fee「会費」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pay a cancellation fee",
+          "ja": "キャンセル料を払う"
+        },
+        {
+          "en": "legal fees",
+          "ja": "弁護士への謝礼"
+        }
+      ]
+    },
+    {
+      "id": "090",
+      "word": "fare",
+      "phonetic": "[fɛər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "運賃"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (乗り物の)運賃",
+        "頻出 What[How much] is the fare from A to B? 「AからBまでの運賃はいくらですか。」",
+        "a bus[train] fare 「バス[電車]の運賃」",
+        "語源 fare「行く→旅」",
+        "語源 farewell「別れの(あいさつ)(←よい旅を)」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "fare「行く→旅」, farewell「別れの(あいさつ)(←よい旅を)」"
+      },
+      "examples": [
+        {
+          "en": "Taxi fares are low in Singapore.",
+          "ja": "シンガポールのタクシー料金(運賃)は安い。"
+        }
+      ]
+    },
+    {
+      "id": "091",
+      "word": "bill",
+      "phonetic": "[bil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 勘定",
+            "② 請求書",
+            "③ 〈米〉紙幣",
+            "④ 法案"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 日常では①がほとんど。③ a thousand-yen bill「千円札」のような連語で使われる。",
+        "語源 元は「押印した文書」→「請求書, 紙幣, 法案」",
+        "参照 invoice「(会社などから送られてくる商品の明細を兼ねた)請求書」",
+        "参照 flyer「チラシ」"
+      ],
+      "word_origin": {
+        "formula": "元は「押印した文書」→「請求書, 紙幣, 法案」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "May we have the bill?",
+          "ja": "お会計お願いします。"
+        },
+        {
+          "en": "the phone bill",
+          "ja": "電話代の請求書"
+        },
+        {
+          "en": "a ten thousand-yen bill",
+          "ja": "1万円札"
+        },
+        {
+          "en": "approve[veto] a bill",
+          "ja": "法案を承認[拒否]する"
+        }
+      ]
+    },
+    {
+      "id": "092",
+      "word": "trade",
+      "phonetic": "[tréid]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 貿易",
+            "② (the ~)〜業",
+            "③ 商売"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ 〜を交換する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ④ trade A in for B 「Aを下取りに出してBを買う」",
+        "語法 日本語ではプロ野球のトレードする(←同等の戦力を持つ選手同士などを交換すること), など, 主に④の意味で使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Japan's trade with the U.S.",
+          "ja": "日本の対米貿易"
+        },
+        {
+          "en": "the hotel trade",
+          "ja": "ホテル業"
+        },
+        {
+          "en": "the basics of trade",
+          "ja": "商売の基本"
+        },
+        {
+          "en": "trade email addresses with him",
+          "ja": "彼とメールアドレスを交換する"
+        }
+      ]
+    },
+    {
+      "id": "093",
+      "word": "wealth",
+      "phonetic": "[welθ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 富, 財産〈不可算〉",
+            "② (a - of ~)豊富な〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「豊富な(知識などの役立つもの)」(*この表現では〈可算〉。)",
+        "頻出 achieve[gain, acquire] wealth 「富を手にする」",
+        "語源 weal-[=well] + -th[名詞語尾]から「(経済的に)よい状態」→「富」",
+        "派生 名 wealthy「裕福な, 富んだ」⇨ a wealthy family「裕福な家庭」"
+      ],
+      "word_origin": {
+        "formula": "weal-[=well] + -th[名詞語尾]から「(経済的に)よい状態」→「富」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "achieve wealth and power",
+          "ja": "富と権力を手にする"
+        },
+        {
+          "en": "a wealth of knowledge",
+          "ja": "豊富な知識"
+        }
+      ]
+    },
+    {
+      "id": "094",
+      "word": "economy",
+      "phonetic": "[ikɑ́nəmi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 経済",
+            "② 節約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (生計上の)やり繰り, (生活上の)営み, 経済",
+        "注意 ①の形容詞形は economic「経済の」⇨ economic growth「経済成長」an economic superpower「経済大国」",
+        "注意 ②の形容詞形は economical「経済的な(=安上がりな)」",
+        "派生 名 economics「経済学」",
+        "派生 名 economist「経済学者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "boost the Japanese economy",
+          "ja": "日本経済を活性化する"
+        },
+        {
+          "en": "for the sake of economy",
+          "ja": "節約のため"
+        }
+      ]
+    }
+  ]
+}

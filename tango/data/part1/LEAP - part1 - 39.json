@@ -1,0 +1,247 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "277",
+      "word": "figure",
+      "phonetic": "[fígjər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 数字",
+            "② 人物",
+            "③ スタイル, 体つき",
+            "④ 図"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "⑤ 目立つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「さまざまな形態での姿, 形」→⑤「姿が浮かび上がる」",
+        "頻出 figure ~ out「(考えた末に)〜を理解する, 解決する」",
+        "注意 名 figureは通例①の意味だが, 明確に「人」を表す場合は②, 熟語では③になる。(*なお, styleは「様式, 文体」の意味で使われることが多い。",
+        "④ fig.と略されることが多い。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "memorize a list of figures",
+          "ja": "数字の一覧を暗記する"
+        },
+        {
+          "en": "a political figure",
+          "ja": "政治家"
+        },
+        {
+          "en": "have a nice figure",
+          "ja": "スタイルがよい"
+        },
+        {
+          "en": "See Fig.1.",
+          "ja": "図1を見なさい."
+        },
+        {
+          "en": "Her name figures in history.",
+          "ja": "彼女の名前は歴史上有名だ."
+        }
+      ]
+    },
+    {
+      "id": "278",
+      "word": "lack",
+      "phonetic": "[lǽk]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① ((a) ~ of ~) (〜の)不足"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を欠いている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物, 事の量や供給が)十分でない, 不足している」②=do not have",
+        "頻出 ① for lack of ~「〜がないので」",
+        "注意 waterやdoctorsなど「(外から供給されるもの)不足」はshortageを使う。冠詞のないlack of ~が一般的だが, a lack of ~も可。",
+        "形 lacking「欠けている」⇔be lacking in ~「((必要な物)を欠いている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am tired due to (a) lack of sleep.",
+          "ja": "私は睡眠不足のため疲れている."
+        },
+        {
+          "en": "He lacks confidence. (=He is lacking in confidence.)",
+          "ja": "彼は自信がない(自信を欠いている)."
+        }
+      ]
+    },
+    {
+      "id": "279",
+      "word": "extra",
+      "phonetic": "[ékstrə]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 余分な, 追加の, 臨時の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 余分な[追加された]もの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 take extra care「特に注意を払う」",
+        "extraordinary「非凡な」の省略形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an extra charge",
+          "ja": "追加料金"
+        },
+        {
+          "en": "pay a little extra",
+          "ja": "少しだけ余分に(少しの余分を)払う"
+        }
+      ]
+    },
+    {
+      "id": "280",
+      "word": "ready",
+      "phonetic": "[rédi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 用意ができている",
+            "② (be ~ to do)進んで〜する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的, 精神的に)準備ができていて, すぐにでも〜できる」",
+        "頻出 ① get ready for ~「〜の準備をする」",
+        "副 readily「進んで, すぐに」",
+        "形 ready-made「できあいの, 既成の」",
+        "名 readiness「準備, 進んでやること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I'm not ready yet.",
+          "ja": "まだ準備ができていません."
+        },
+        {
+          "en": "be ready to help us",
+          "ja": "進んで私たちを助けてくれる"
+        }
+      ]
+    },
+    {
+      "id": "281",
+      "word": "prepare",
+      "phonetic": "[pripéər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜の準備をする, 用意をする"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 準備をする, 用意をする"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ (be ~d to do) (〜する)準備ができている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(〜に備えて)作る」",
+        "注意 prepare ~「〜そのものを準備[用意]する」とprepare for ~「〜のために事前に準備[用意]する」を区別。② 日常ではget ready for ~と表現することが多い。③「(物理的, 精神的な)準備」を意味する。",
+        "名 preparation「準備, 用意」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "prepare a meal",
+          "ja": "食事の準備をする"
+        },
+        {
+          "en": "prepare for a powerful typhoon",
+          "ja": "大型の台風に備える"
+        },
+        {
+          "en": "I am prepared to accept your advice.",
+          "ja": "あなたの忠告をよろこんで受け入れます(受け入れる準備ができています)."
+        }
+      ]
+    },
+    {
+      "id": "282",
+      "word": "adjust",
+      "phonetic": "[əʤʌ́st]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~) (〜に)慣れる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を調整する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(微調整して)ぴったり合った状態にする」",
+        "頻出 ① adjust (oneself) to ~「〜に慣れる, 順応する」",
+        "② adjust one's tie「ネクタイを直す」",
+        "名 adjustment「調整, 適合」⇔a fare adjustment machine「(交通機関の料金の)自動精算機」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向]+-just[ぴったり]→「〜にぴったり合わせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "adjust to a new school life",
+          "ja": "新しい学校生活に慣れる"
+        },
+        {
+          "en": "adjust the temperature on the air conditioner",
+          "ja": "エアコンの温度を調整する"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "220",
+      "word": "lazy",
+      "phonetic": "[léizi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (やる気がなく)怠惰な, いい加減な",
+            "② (名詞の前で)くつろいだ, のんびりした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(性質が)怠惰な, だらしない」",
+        "▶ ②「(何もせず)くつろいだ」",
+        "◇ idle「(やるべきことがなかったりして)何もしていない」",
+        "名 laziness「怠惰」",
+        "反 hardworking「勤勉な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is lazy at work.",
+          "ja": "彼は仕事をいい加減にやる。"
+        },
+        {
+          "en": "spend lazy days on the beach",
+          "ja": "浜辺でのんびりした日々を過ごす"
+        }
+      ]
+    },
+    {
+      "id": "221",
+      "word": "strict",
+      "phonetic": "[stríkt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(先生や規則が)厳しい」",
+        "頻出 be strict with (人)「(人)に厳しい」",
+        "▶「ぴんと張られた」から「緊急状態」→「厳しい」",
+        "☆ strain「緊張」",
+        "副 strictly「厳密に」",
+        "参 stern「(温かみのかけらもないほど)厳しい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a strict rule",
+          "ja": "厳しい規則"
+        }
+      ]
+    },
+    {
+      "id": "222",
+      "word": "ugly",
+      "phonetic": "[ʌ́gli]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "醜い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「非常に強い嫌悪感」を表す。(「見た目」から「状況や意見」まで)",
+        "名 ugliness「醜さ」",
+        "反 beautiful「美しい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The Ugly Duckling",
+          "ja": "『醜いアヒルの子』(Andersenの童話)"
+        }
+      ]
+    },
+    {
+      "id": "223",
+      "word": "intelligent",
+      "phonetic": "[intélədʒənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "知的な, 賢い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「知的能力が高く, 理解力や判断力がある」",
+        "注意 clever「(しばしば)ずる賢い」",
+        "wise「(経験によって)知恵がある」",
+        "smart「(頭の回転が速い)」",
+        "bright「(子どもが)利発な」と区別",
+        "名 intelligence「知能」",
+        "⇔ artificial intelligence (AI)「人工知能」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a highly intelligent woman",
+          "ja": "きわめて聡明な女性"
+        }
+      ]
+    },
+    {
+      "id": "224",
+      "word": "silly",
+      "phonetic": "[síli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "ばかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(常識外れで)ばかげている」",
+        "(* foolish より口語的)",
+        "頻出 a silly joke「(言った本人が後で後悔するような)ばかげた冗談」",
+        "▶ 尻を出すのはばからしい",
+        "参 naïve [na:í:v]「世間知らずの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't be silly!",
+          "ja": "ばかなことを言う[する]な!"
+        }
+      ]
+    },
+    {
+      "id": "225",
+      "word": "nervous",
+      "phonetic": "[nə́ːrvəs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① あがって, 落ち着かない",
+            "② 神経質な, 臆病な",
+            "③ (身体の)神経の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(緊張で)ドキドキしている」",
+        "◇ shy「(生まれつき)内気な」",
+        "頻出 ① I am the nervous type.「私はあがり症だ。」",
+        "▶ nerv- [=nerve 神経] +-ous の特徴を持つ",
+        "☆ neuron「神経細胞」",
+        "名 nerve「神経, 図太さ」",
+        "⇔ get on one's nerves「〜の神経にさわる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "get nervous during the exam",
+          "ja": "試験中にあがる"
+        },
+        {
+          "en": "a nervous child",
+          "ja": "臆病な子ども"
+        },
+        {
+          "en": "the nervous system",
+          "ja": "神経系統"
+        }
+      ]
+    },
+    {
+      "id": "226",
+      "word": "awake",
+      "phonetic": "[əwéik]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "目を覚ましている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 awake や alive は名詞の前に置かず, 補語として使う。",
+        "▶ a- [強意] +wake [目を覚ませる]",
+        "反 asleep「眠っている」",
+        "他 awaken「〜を目覚めさせる」",
+        "(*同義の wake ~ up は口語。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The noise kept me awake all night.",
+          "ja": "騒音で一晩中眠れなかった (目を覚ました状態にされていた)."
+        }
+      ]
+    },
+    {
+      "id": "227",
+      "word": "alone",
+      "phonetic": "[əlóun]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① 1人で"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② (名詞+alone)〜だけ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ lonely「孤独な」と違って, 「寂しい」ことを含意しない。",
+        "頻出 ① S be not alone in doing.「〜するのはSだけではない。」(主に否定文に続いて)",
+        "let alone 〜「まして〜ない」",
+        "注意 ① We are alone. は「私たちだけだ。」の意味。",
+        "▶ al- [=all] +-one 1つ →「まったくの1人1つで」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She lives alone.",
+          "ja": "彼女は一人暮らしだ。"
+        },
+        {
+          "en": "Bob alone went there.",
+          "ja": "ボブだけがそこへ行った。"
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "word": "attitude",
+      "phonetic": "[ǽtitjùːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "態度, 姿勢"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 have [show] a ~ attitude toward [to] ...「…に対して〜な態度をとる[示す]」",
+        "show ~ in one's attitude「(怒りなど)を態度で示す」",
+        "注意「態度が悪い」は behave badly と表現する。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a positive attitude toward life",
+          "ja": "人生に対して前向きな姿勢でいる"
+        }
+      ]
+    }
+  ]
+}

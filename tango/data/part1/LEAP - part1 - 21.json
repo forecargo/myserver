@@ -1,0 +1,247 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "148",
+      "word": "serve",
+      "phonetic": "[sə́ːrv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (飲食物)を出す",
+            "② 〜に役立つ"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 役立つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① First come, first served.「早い者勝ち(←早く来た者が出される)」",
+        "② (It) serves you right.「当然の報いだ(←君に正しく役立っている)」",
+        "③ serve as 〜「(本当は違うが)〜として役立つ, 使われる」",
+        "▶「(召使い, 奴隷として)〜に仕える, 奉仕する」が元の意味.",
+        "名 servant「使用人, 召使い」 ⇨ a public[civil] servant「公務員」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "serve wine to the guests",
+          "ja": "客にワインを出す"
+        },
+        {
+          "en": "This experience will serve you well.",
+          "ja": "この経験は君の役に立つだろう。"
+        },
+        {
+          "en": "The hospital served as a school.",
+          "ja": "その病院は学校として使われていた。"
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "word": "pour",
+      "phonetic": "[pɔ́ːr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を注ぐ"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 降りそそぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(液状の物や光など)を流し込む」",
+        "頻出 ① pour A into B「AをBに注ぐ」 ⇨ pour coffee into a cup「コーヒーをカップに注ぐ」 pour A over B「AをBにかける」 ⇨ pour sauce over the omelette「オムレツにソースをかける」",
+        "ポ(ー)ットからお湯を「注ぐ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pour tea for all of the guests",
+          "ja": "客みんなにお茶を注ぐ"
+        },
+        {
+          "en": "It poured all night.",
+          "ja": "一晩中土砂降りだった(雨が降りそそいだ)。"
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "word": "spill",
+      "phonetic": "[spíl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をこぼす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (石油などの)流出"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① spill A on[down, over] B「AをBにこぼす」",
+        "▶ sp-で始まる単語は spit「つばを吐く」や spring「春(←命が吹き出す季節)」など「外部に飛び出す力」を含意するものが多い。",
+        "[活用] spill-spilled(〈英〉spilt)-spilled(〈英〉spilt)",
+        "参 spillover「波及効果, 過剰(←あふれて流出したもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "spill coffee all over my laptop",
+          "ja": "コーヒーをノートパソコンの上にこぼす"
+        },
+        {
+          "en": "an oil spill in the Atlantic Ocean",
+          "ja": "大西洋の石油流出"
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "word": "pretend",
+      "phonetic": "[priténd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(to do / that SV)(〜する / 〜である)ふりをする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 make believe that SV「〜ごっこをする」と区別.",
+        "自の用法もある.",
+        "▶ pre-[前に] + -tend[伸ばす] →「みんなに気づかれる前に自分をある方向にもっていって行く」",
+        "名 pretense「見せかけ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pretend to be sleeping",
+          "ja": "寝ているふりをする"
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "word": "behave",
+      "phonetic": "[bihéiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "ふるまう"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「行動の仕方」を重点. ◇ act「(個別の)行動, 行動する」",
+        "頻出 通例, 「行動の仕方」を表す副詞を伴う. ⇨ behave well[badly] like a child「行儀よく[行儀悪く, 子どものように]ふるまう」",
+        "[例外] Behave yourself.「(子どもに対して)行儀よくしなさい。」",
+        "▶ be-[強意] + -have[持つ]から「自分自身を持つ」→「(正しく)ふるまう」",
+        "名 behavior「ある人の全般的な)行動」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He behaves badly in class.",
+          "ja": "彼の授業中の態度は悪い(彼は授業中, 行儀悪くふるまう)。"
+        },
+        {
+          "en": "tell him to behave himself",
+          "ja": "彼に行儀よくふるまうように言う"
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "word": "bear",
+      "phonetic": "[bέər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (can 〜)〜に耐える",
+            "② 〜を持つ, 運ぶ",
+            "③ 〜を産む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② bear responsibility「責任を持つ」 bear[keep] 〜 in mind「〜を心に留める」 ③ bear fruit「実をつける, (努力などが)実る」",
+        "注意 ① 通例, cannot bear 〜の形で使われる. 口語では can't stand 〜を使用.",
+        "▶「クマ(béar)が何かを背負って運んでいる」→「〜を持つ, 〜に耐える」",
+        "[活用] ①② bear-bore-borne ③ bear-bore-born",
+        "参 food-borne disease「食品媒介疾患」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cannot bear the noise",
+          "ja": "騒音に耐えられない"
+        },
+        {
+          "en": "bear the responsibility for the accident",
+          "ja": "その事故の責任を負う"
+        },
+        {
+          "en": "She was born with a silver spoon in her mouth.",
+          "ja": "彼女は裕福な家に生まれた。"
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "word": "explore",
+      "phonetic": "[iksplɔ́ːr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を探検する, (街など)を探索する",
+            "② (問題など)を探る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「〜を探検する」より幅広く使える.",
+        "名 exploration「探検, 探索」 参 explorer「探検家」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "explore the surface of Mars",
+          "ja": "火星の地表を探索する"
+        },
+        {
+          "en": "explore the possibility of collaboration",
+          "ja": "コラボの可能性を探る"
+        }
+      ]
+    }
+  ]
+}

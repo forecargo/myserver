@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "204",
+      "word": "landscape",
+      "phonetic": "[lǽndskèip]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 風景",
+            "② (the -) (政治, 社会の)情勢"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(一望できる陸地の)景色」",
+        "頻出 an urban[a rural] landscape「都会[田舎]の風景」",
+        "語源: land-[土地] + -scape[風景]",
+        "派生: 名 landscaping「造園」",
+        "派生: a landscape company「造園会社」",
+        "派生: riverscape「川の風景」",
+        "派生: landlord「家主」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the beautiful landscape of Scotland",
+          "ja": "スコットランドの美しい風景"
+        },
+        {
+          "en": "the political landscape of Japan",
+          "ja": "日本の政治情勢"
+        }
+      ]
+    },
+    {
+      "id": "205",
+      "word": "nature",
+      "phonetic": "[néitʃər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (無冠詞)自然",
+            "② (しばしば the - of ~) (~の)性質"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 by nature「生まれつき」",
+        "頻出 be in harmony with nature「自然と調和している」",
+        "頻出 the true nature of ~「~の本質」",
+        "注意 spend time outdoors「自然の中で過ごす」のように, 日本語では「自然」と表現しても nature を使わないことも多い。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "preserve nature",
+          "ja": "自然を守る"
+        },
+        {
+          "en": "the true nature of the problem",
+          "ja": "その問題の本質"
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "word": "seed",
+      "phonetic": "[síːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 種",
+            "② シード選手"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「(種をまくように)特定の場所を与えられた選手(チーム)」という意味。",
+        "頻出 ① plant[sow] seeds「種をまく」",
+        "派生: 形 seedless「種なしの」",
+        "派生: 形 seedy「種の多い」",
+        "派生: 名 seedling「苗」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sunflower seeds",
+          "ja": "① ひまわりの種"
+        },
+        {
+          "en": "He is top seed in this tournament.",
+          "ja": "② 彼はこのトーナメントで第1シードの選手だ。"
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "word": "plant",
+      "phonetic": "[plǽnt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 植物",
+            "② (大規模な)工場, 発電所"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を植える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「その場所に留まるもの」が元の意味。",
+        "派生: 名 plantation「農園」",
+        "派生: 他 implant「(人工歯根, 臓器などを)埋め込む, インプラント」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "water a plant",
+          "ja": "① 植物に水をやる"
+        },
+        {
+          "en": "a chemical plant",
+          "ja": "② 化学工場"
+        },
+        {
+          "en": "plant tulips in the garden",
+          "ja": "③ 庭にチューリップを植える"
+        }
+      ]
+    },
+    {
+      "id": "208",
+      "word": "bloom",
+      "phonetic": "[blúːm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (花が)咲く"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 開花"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「満開に(観賞用の)花が咲く」→②「(花盛り)最盛期」",
+        "頻出 ② be in full bloom「満開である」",
+        "頻出 the bloom of ~「~の真盛りで[に]」",
+        "派生: 名 blossom「(集合的に)花」",
+        "派生: in full blossom「満開で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Flowers bloomed all over the field.",
+          "ja": "① 野原には一面花が咲いていた。"
+        },
+        {
+          "en": "The cherry trees are in full bloom.",
+          "ja": "② サクラが満開だ。"
+        }
+      ]
+    },
+    {
+      "id": "209",
+      "word": "harvest",
+      "phonetic": "[hάːrvist]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 収穫"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を収穫する",
+            "③ (臓器, 体液などを)摘出する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① at harvest time「収穫時に」",
+        "頻出 a good harvest「豊作」",
+        "派生: 名 crop「作物」",
+        "派生: 他 reap「〜を刈り取る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the rice harvest this year",
+          "ja": "① 今年の米の収穫"
+        },
+        {
+          "en": "newly-harvested rice",
+          "ja": "② 新米(新たに収穫された米)"
+        },
+        {
+          "en": "harvest organs",
+          "ja": "③ 臓器を摘出する"
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "word": "insect",
+      "phonetic": "[ínsekt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "昆虫"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「頭・胸・腹の3部分が分かれている虫」(*主に〈米〉では bug, 〈英〉では insect を使う)",
+        "比較: worm「ミミズのようなはう虫」",
+        "頻出 an insect bite「虫さされ」",
+        "語源: in-[中に] + -sect[=section 刻み] →「体に刻みがあるもの」→昆虫"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -sect[=section 刻み] -> 「体に刻みがあるもの」→昆虫",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the chirping of insects",
+          "ja": "(チーッチーッという)虫の音"
+        }
+      ]
+    },
+    {
+      "id": "211",
+      "word": "earthquake",
+      "phonetic": "[ə́ːrθkwèik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "地震"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "比較: tremor「弱い揺れ」",
+        "頻出 a large[powerful, major, massive] earthquake「大地震」",
+        "頻出 There is an earthquake.「地震が起きる。」(=An earthquake occurs.)",
+        "頻出 An earthquake hits[strikes]~.「地震が〜を襲う。」",
+        "語源: earth-[地面] + -quake[震える]",
+        "派生: 形 earthquake-proof「耐震性の」"
+      ],
+      "word_origin": {
+        "formula": "earth-[地面] + -quake[震える]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "There was an earthquake last week.",
+          "ja": "先週, 地震が起きた。"
+        }
+      ]
+    },
+    {
+      "id": "212",
+      "word": "temperature",
+      "phonetic": "[témpərətʃər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 温度, 気温",
+            "② 体温"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "比較: féver「(発熱している場合の)熱」",
+        "注意: Celsius「摂氏(日本などで使われている温度の単位(℃))」",
+        "注意: Fahrenheit「華氏(アメリカなどで使われている温度の単位(℉))」(*0℃=32℉)",
+        "派生: 名 temperament「気質(←人間の感情の温度)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The temperature reached 40 degrees.",
+          "ja": "① 気温が40度まで上がった。"
+        },
+        {
+          "en": "take his temperature",
+          "ja": "② 彼の体温を測る"
+        }
+      ]
+    }
+  ]
+}

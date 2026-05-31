@@ -1,0 +1,237 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "001",
+      "word": "agree",
+      "phonetic": "[əgríː]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 賛成する (意見が一致する)",
+            "② (主語の中で)意見が一致する",
+            "③ (with ~) (気候、食べ物が)(~に)合う"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "「喜んで受け入れられる」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法 disagree「意見が合わない」",
+        "名 agreement「一致、協定」",
+        "形 agreeable「感じのよい(←受け入れられる)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I totally agree with this opinion.",
+          "ja": "私はこの意見に全面的に賛成です。"
+        },
+        {
+          "en": "We agreed on this point.",
+          "ja": "私たちはこの点で意見が一致した。"
+        },
+        {
+          "en": "Spicy food does not agree with me.",
+          "ja": "辛い食べ物は私には合わない。"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "word": "oppose",
+      "phonetic": "[əpóuz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "~に反対する",
+            "「(何らかの行動を伴って)反対する」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法 be opposed to ~「~に反対している、同意しない」",
+        "英作文では「~に反対する」と表現する場合, be opposed to ~「~とは対照的に」を用いるのがよい。",
+        "名 position「位置」",
+        "名 opposition「反対、対立」",
+        "名 opponent「(試合の)相手」",
+        "形 opposite「反対の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "strongly oppose the plan",
+          "ja": "その計画に強固に反対する"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "word": "advise",
+      "phonetic": "[ədváiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "~に忠告する",
+            "「(どのようにするべきか)助言、忠告する」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法 advise A to do「Aに~するように忠告する」",
+        "注意 名 advice [ədváis]「(専門的な)助言、忠告」(不可算)",
+        "ad-[方向] + -vis-[見る]から「~を見るようにさせる」→「助言する」",
+        "形 visible「見える」",
+        "形 advisable「望ましい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "advise him not to eat too much",
+          "ja": "食べすぎないよう彼に忠告する"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "word": "tip",
+      "phonetic": "[típ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 助言、ヒント",
+            "② チップ",
+            "③ (足や山などの)先、先端(いずれも可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟語 give a tip on [for] ~「~についての助言[ヒント]を与える」",
+        "句 on tiptoe「つま先(←足の指の先端)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tips on how to use the library",
+          "ja": "図書館の利用法に関するヒント"
+        },
+        {
+          "en": "leave a tip for the waiter",
+          "ja": "ウェイターにチップを置く"
+        },
+        {
+          "en": "the tips of my toes",
+          "ja": "足の指先"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "word": "discuss",
+      "phonetic": "[diskás]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① ~について話し合う、議論する",
+            "② ~を話題に出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法 talk about ~より堅い表現だが、日本語の「議論する」ほど堅くない。",
+        "注意 他動詞なので、[×]discuss about ~は不可。",
+        "名 discussion「話し合い、議論」",
+        "句 have a discussion an issue under discussion「議論中の問題」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "discuss the problem with a specialist",
+          "ja": "専門家とその問題について話し合う"
+        },
+        {
+          "en": "discuss my hidden past",
+          "ja": "自分の隠された過去のことを話す"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "word": "blame",
+      "phonetic": "[bléim]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "~に責任があるとする",
+            "「責任の所在を明確にする」(≠非難する(ひどい言葉でなじる))"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟語 blame A for B「Bの責任はAにあるとする」",
+        "(*Aに重点を置く場合)には blame B on A とする。",
+        "be to blame (for ~)「(~に対して)責任がある」",
+        "無礼! ムッとして、「お前が悪い」と言う"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "blame the car's brakes for the accident",
+          "ja": "その事故の原因は車のブレーキにあるとする"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "word": "argue",
+      "phonetic": "[áːrgjuː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (that SV~) ~と主張する",
+            "② (with ~) (~と)言い争う"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "「理由や証拠を挙げて、自分の意見を筋道立てて主張する」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟語 argue for [against] ~「~に賛成[反対]と主張」",
+        "注意 「~とけんかする」は have a fight with ~ と表現する方が多い。",
+        "名 argument「主張、議論、論拠」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "argue that reading aloud is important",
+          "ja": "音読は大切だと主張する"
+        },
+        {
+          "en": "argue with her about training methods",
+          "ja": "練習方法のことで彼女と言い争う"
+        }
+      ]
+    }
+  ]
+}

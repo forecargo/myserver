@@ -1,0 +1,275 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "314",
+      "word": "present",
+      "phonetic": "[préznt] [prizént]",
+      "level_tag": "A1, B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① プレゼント",
+            "② 現在"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 現在の",
+            "④ 出席して, 存在して"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "⑤ 〜を贈る, 提示する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①gift「贈り物」よりもくだけた語.",
+        "頻出 ② at present 「現在は」 for the moment 「当面の間」",
+        "注意 ③は名の前, ④は名の後ろに置かれる.",
+        "⑤ present (人) with 〜「(人)に〜を贈る」",
+        "派生 名 présence 「出席, いること」, presentation 「発表, プレゼン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "open the present",
+          "ja": "プレゼントを開ける"
+        },
+        {
+          "en": "up to the present",
+          "ja": "現在に至るまで"
+        },
+        {
+          "en": "my present job",
+          "ja": "(私の)今の仕事"
+        },
+        {
+          "en": "those present",
+          "ja": "出席者(出席している人々)"
+        },
+        {
+          "en": "present him with an award",
+          "ja": "彼に賞を贈る"
+        }
+      ]
+    },
+    {
+      "id": "315",
+      "word": "bargain",
+      "phonetic": "[báːrgən]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 買い得品〈可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (商談などで)交渉する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「バーゲン」は sale で表現する。",
+        "例 a winter clothes sale 「冬物衣料のバーゲン」",
+        "頻出 ① a good [real] bargain 「掘り出し物」",
+        "派生 a bargain hunter 「掘り出し物を漁る人」 a bargain counter 「特売場」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "find a good bargain",
+          "ja": "お買い得品を見つける"
+        },
+        {
+          "en": "bargain for better pay",
+          "ja": "賃上げを求めて交渉する"
+        }
+      ]
+    },
+    {
+      "id": "316",
+      "word": "stuff",
+      "phonetic": "[stʌ́f]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (漠然とした)もの〈不可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を詰める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ごちゃごちゃと詰まったもの」→①「名前がわからないもの」",
+        "頻出 ① 〜 and stuff 「〜などなど」 ② stuff A with B 「AをBで詰める」",
+        "派生 形 stuffed 「剥製の, 詰めた」 ⇨ a stuffed lion 「〈米〉ライオンのぬいぐるみ」 (*〈英〉で「ぬいぐるみ」は a soft [cuddly] toy)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lift heavy stuff",
+          "ja": "重い物を持ち上げる"
+        },
+        {
+          "en": "chicken stuffed with rice",
+          "ja": "お米が詰められた鶏肉"
+        }
+      ]
+    },
+    {
+      "id": "317",
+      "word": "string",
+      "phonetic": "[stríŋ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① ひも",
+            "② (a 〜 of 〜)一連の〜",
+            "③ (ギターなどの)弦"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(ropeより細い)物を縛るひも」",
+        "頻出 ① tie (up) 〜 with (some) string 「ひもで〜を縛る」",
+        "tighten [loosen] one's purse strings 「財布のひもを締める[ゆるめる]」",
+        "注意 「(明確な1本の)ひも」→〈可算〉",
+        "「(巻かれた)ひも」は ball of string)→〈不可算〉",
+        "派生 thread 「糸」 needle 「針」 (shoe)lace 「靴ひも」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tie up the box with some string",
+          "ja": "ひもで箱を縛る"
+        },
+        {
+          "en": "a string of questions",
+          "ja": "一連の質問"
+        },
+        {
+          "en": "a six-string (guitar)",
+          "ja": "6弦ギター"
+        }
+      ]
+    },
+    {
+      "id": "318",
+      "word": "leisure",
+      "phonetic": "[líːʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 余暇"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② (形容詞的に)余暇の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(仕事や勉強をしなくてよい)自由時間」",
+        "頻出 ① at leisure 「のんびりと」 (=leisurely)",
+        "注意 「娯楽」の意味はない。(*日本語の「レジャー(←余暇を利用した旅行や娯楽)」は leisure activities と表現する。)",
+        "派生 副 leisurely 「のんびりした」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "enjoy my leisure (time)",
+          "ja": "余暇を楽しむ"
+        },
+        {
+          "en": "the leisure industry",
+          "ja": "レジャー(余暇の)産業"
+        }
+      ]
+    },
+    {
+      "id": "319",
+      "word": "diet",
+      "phonetic": "[dáiət]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 食事",
+            "② 規定食",
+            "③ (D-) (日本の)国会"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(日常の, 主に栄養面からみた)飲食物」 ②「(治療, 減量のための)食事」(*一般に「(1回分の)食事」は a meal)",
+        "頻出 ② go [be] on a diet 「ダイエットする[している]」",
+        "派生 国会は〈米〉Congress 〈英〉Parliament[pάːrləmənt]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a well-balanced diet",
+          "ja": "栄養バランスのとれた食事"
+        },
+        {
+          "en": "I am on a diet now.",
+          "ja": "今ダイエット中です."
+        },
+        {
+          "en": "a Diet member",
+          "ja": "国会議員"
+        }
+      ]
+    },
+    {
+      "id": "320",
+      "word": "furniture",
+      "phonetic": "[fə́ːrnətʃər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "家具〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ソファ, テーブル, ベッドなどの)家具類の総称」",
+        "頻出 rearrange the furniture 「家具の配置を変える」",
+        "注意 「一つの家具」は a piece [an item] of furniture と表現する。",
+        "派生 他 furnish 「〜を備え付ける」 ⇨ furnish A with B 「AにBを備え付ける」",
+        "派生 名 furnishings 「(カーペットなどを含む)家具, 調度品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a set of furniture",
+          "ja": "家具一式"
+        }
+      ]
+    }
+  ]
+}

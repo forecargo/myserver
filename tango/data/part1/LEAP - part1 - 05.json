@@ -1,0 +1,260 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "029",
+      "word": "material",
+      "phonetic": "[mətíəriəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 材料, 生地",
+            "② 資料, 教材"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 物質的な",
+            "④ 重大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物が作られる元になる物質」「中身がある」→「重大な」",
+        "頻出 ① raw materials「原料」",
+        "注意 ② 〈不可算〉でも複数形でも使われる。",
+        "派生 名 materialism「唯物論」(⇔ idealism「観念論」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "collect materials for a paper",
+          "ja": "レポートの材料を集める"
+        },
+        {
+          "en": "use movies as teaching materials",
+          "ja": "映画を教材として使う"
+        },
+        {
+          "en": "give material support",
+          "ja": "物質的な援助をする"
+        },
+        {
+          "en": "material changes to the schedule",
+          "ja": "計画の重大な変更"
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "word": "artificial",
+      "phonetic": "[ὰːrtəfíʃəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "人工的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「本物に似せて作った」",
+        "頻出 an artificial sweetener「人工甘味料」artificial grass「人工芝」artificial snow「人工雪」",
+        "反義 natural「自然の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "artificial intelligence (AI)",
+          "ja": "人工知能"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "word": "electric",
+      "phonetic": "[ilékrtik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "電気の, 電動の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶主に「電気を生じさせる, 電気で動く」(*単に「電気に関する」という場合はelectricalを使う。⇔electrical work「電気関係の仕事」)",
+        "注意 electronic「電子の」と区別。(*emailやe-bookのe(-)はelectronicの省略形。)",
+        "派生 名 electricity「電気」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an electric car",
+          "ja": "電気自動車"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "word": "invent",
+      "phonetic": "[invént]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を発明する",
+            "② (話などを)でっち上げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(今までに存在しなかった物)を作る」",
+        "語源 in-[中に] + -vent[来る] →「(アイデアが)頭の中に入ってくる」",
+        "派生 名 invention「発明(品)」, 名 inventor「発明家」",
+        "参考 inventory「在庫(←中に入っているもの)」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -vent[来る] -> 「(アイデアが)頭の中に入ってくる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "invent a speaking robot",
+          "ja": "会話のできるロボットを発明する"
+        },
+        {
+          "en": "invent a fantastic story",
+          "ja": "とんでもない話をでっち上げる"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "word": "discover",
+      "phonetic": "[diskʌ́vər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を発見する",
+            "② (that SV)〜を知る, 〜に気がつく",
+            "③ (知るという意味で)〜に出会う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(すでに存在している物)を発見する」(*②find outの堅い表現。)",
+        "語源 dis-[バラバラ] + -cover[覆い] →「覆いをとる」",
+        "派生 名 discovery「発見」",
+        "参考 disclose「〜を公表する」, finding「(研究の成果としての)発見」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -cover[覆い] -> 「覆いをとる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "discover a human mummy",
+          "ja": "人間のミイラを発見する"
+        },
+        {
+          "en": "discover that the painting is a fake",
+          "ja": "その絵が偽物であることに気がつく"
+        },
+        {
+          "en": "discover the Beatles",
+          "ja": "ビートルズ(の音楽)に出会う"
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "word": "develop",
+      "phonetic": "[divéləp]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 発達する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を発達させる",
+            "③ 〜を開発する",
+            "④ (話, 考え)を発展させる",
+            "⑤ (病気に)かかる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶マイナス方向にも使われる。",
+        "頻出 ② develop one's ~ skills「〜の技術を発達させる」",
+        "派生 形 developing「発展途上の」⇔ developing countries「発展途上国」",
+        "派生 形 developed「発展した, 先進の」⇔ developed countries「先進国」",
+        "派生 名 developer「開発者」⇔ land developers「土地開発業者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "develop into a big city",
+          "ja": "大都市に発展する"
+        },
+        {
+          "en": "develop a sense of humor",
+          "ja": "ユーモアのセンスを伸ばす"
+        },
+        {
+          "en": "develop software",
+          "ja": "ソフトウェアを開発する"
+        },
+        {
+          "en": "develop your ideas",
+          "ja": "考えを発展させる"
+        },
+        {
+          "en": "develop pneumonia",
+          "ja": "肺炎になる"
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "word": "skill",
+      "phonetic": "[skíl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "技術, 力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(修練によって身につけた)卓越した技術」",
+        "頻出 improve [develop] one's ~ skills「〜の力を伸ばす」",
+        "(*「〜の能力」はさまざまな技術を要するので複数形にする。) with great skill「非常に巧みに」(*〈不可算〉扱い)",
+        "派生 形 skilled「(人が)熟練した, (仕事が)熟練を要する」",
+        "派生 形 skillful (with ~)「(〜の扱いが)上手な」",
+        "派生 副 skillfully「上手に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "improve my tennis skills",
+          "ja": "テニスの技術を高める"
+        }
+      ]
+    }
+  ]
+}

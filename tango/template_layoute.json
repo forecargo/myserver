@@ -1,0 +1,65 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "001", 
+      "word": "agree",
+      "phonetic": "əgríː",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "賛成する",
+            "（主語の中で）意見が一致する",
+            "（with ～）（気候、食べ物などが）（～に）合う"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "「喜んで受け入れる」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "agree with ～ / that SV 「（人、人の意見に）賛成する」",
+        "agree to ～ / that SV 「（計画、提案に）同意する」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "disagree「意見が合わない」, agreement「一致、協定」"
+      },
+      "examples": [
+        {
+          "en": "I totally agree with this opinion.",
+          "ja": "私はこの意見に全面的に賛成です。"
+        },
+        {
+          "en": "We agreed on this point.",
+          "ja": "私たちはこの点で意見が一致した。"
+        }
+      ]
+    },
+    {
+      "id": "2090",
+      "word": "epidemic",
+      "phonetic": "èpədémik",
+      "level_tag": "最難関",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "（大）流行",
+            "「（病気や思想などが）一時的に人々の間に広まること」"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "epi-[上] + -dem-[民衆] -> 「民衆の上に来る」",
+        "description": "democracy「民主主義」, pandemic「全世界的な流行」"
+      },
+      "examples": []
+    }
+  ]
+}

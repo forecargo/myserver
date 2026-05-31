@@ -1,0 +1,279 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "340",
+      "word": "art",
+      "phonetic": "[ɑːrt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 芸術",
+            "② (何かを行う)技術",
+            "③ (liberal ~s)一般教養"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(色々な物を)つなぎあわせる」→「芸術, 技術」",
+        "参 a[an art] museum「美術館」",
+        "a[an art] gallery「(絵画の購入ができる)画廊, 美術館」",
+        "形 artistic「芸術の」",
+        "名 artisan「職人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "works of modern art",
+          "ja": "① 現代芸術の作品"
+        },
+        {
+          "en": "the art of conversation",
+          "ja": "② 会話の技術"
+        },
+        {
+          "en": "a liberal arts course",
+          "ja": "③ 一般教養課程"
+        }
+      ]
+    },
+    {
+      "id": "341",
+      "word": "cartoon",
+      "phonetic": "[kɑːrtúːn]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "漫画"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(1コマの)時事風刺漫画」から「アニメーション作品(an animated cartoon)」まで。(＊漫画本)は a comic book.",
+        "名 cartoonist「漫画家」",
+        "参 anime[ænəmèi]「((日本のアニメ))」",
+        "名 manga「(日本の)マンガ」<不可算>"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Japanese animated cartoons",
+          "ja": "日本のアニメーション作品(アニメ化された漫画)"
+        }
+      ]
+    },
+    {
+      "id": "342",
+      "word": "novel",
+      "phonetic": "[nɑ́vəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 小説"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 斬新な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 主に「長編小説」を指す。(＊「短編小説」は short story.)",
+        "▶「新しいこと」から「斬新な話」→「小説」",
+        "☆ nóva「新星」",
+        "名 novelty「目新しさ」",
+        "名 novelist「小説家」",
+        "参 fiction「(集合的に)小説」<不可算>"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the plot of this novel",
+          "ja": "① この小説のあらすじ"
+        },
+        {
+          "en": "come up with a novel idea",
+          "ja": "② 斬新な考えを思いつく"
+        }
+      ]
+    },
+    {
+      "id": "343",
+      "word": "instrument",
+      "phonetic": "[ínstrəmənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 楽器",
+            "② 器具"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「(主に科学や医療に使う)器具」(＊tool「道具」より精密な物.)",
+        "頻出 ① a musical instrument「楽器」とも表現する.",
+        "⇨ 比較 play the piano「(ほかの楽器ではなく)ピアノを弾く」",
+        "play a piano「(ある1台の)ピアノを弾く」",
+        "形 instrumental「役に立つ, 楽器で演奏される」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "play a musical instrument",
+          "ja": "① 楽器を演奏する"
+        },
+        {
+          "en": "a medical instrument",
+          "ja": "② 医療器具"
+        }
+      ]
+    },
+    {
+      "id": "344",
+      "word": "tune",
+      "phonetic": "[tʃúːn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 曲"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (番組に)チャンネルを合わせる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜の調子を合わせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「曲」(＊メロディ, 旋律に重点)",
+        "◇ song「歌」(＊歌声に重点)",
+        "lyrics「歌詞」",
+        "頻出 ① in tune「曲に合って」",
+        "② Stay tuned.「チャンネルはそのままで.」",
+        "▶「チューンナップ(tune up)」は「調子を合わせる(整備する)」の意味.",
+        "⇨ be attuned to ~「〜に調和している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That is a nice tune.",
+          "ja": "① いい曲だね."
+        },
+        {
+          "en": "tune in to channel 6",
+          "ja": "② 6チャンネルに合わせる"
+        },
+        {
+          "en": "tune the piano",
+          "ja": "③ ピアノを調律する"
+        }
+      ]
+    },
+    {
+      "id": "345",
+      "word": "sentence",
+      "phonetic": "[séntəns]",
+      "level_tag": "A1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (1つ1つの)文",
+            "② 判決"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (A to B) (A)を(B)の刑にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(1つの)文」なので, 英作文で「(よい)文(章)を書く」は write (well) と表現するのがよい. また「〜についての感想文を書く」は write an essay about ~ と表現するのがふつう.",
+        "注意 sentence は「文」と「判決」の2つの意味がある.",
+        "参 letter「文字」",
+        "phrase「フレーズ」",
+        "chapter「章」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "delete the sentence",
+          "ja": "① その1文を削除する"
+        },
+        {
+          "en": "be given the death sentence",
+          "ja": "② 死刑判決を受ける"
+        },
+        {
+          "en": "be sentenced to five years in prison",
+          "ja": "③ 懲役5年の刑が言い渡される"
+        }
+      ]
+    },
+    {
+      "id": "346",
+      "word": "article",
+      "phonetic": "[ɑ́ːrtikl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 記事",
+            "② 品物",
+            "③ 冠詞",
+            "④ 条項"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人が作った小さな物」→「(全体の中の1つの)記事[品物, 条項]」",
+        "頻出 ① an article on[about] ~「〜に関する記事」",
+        "注意「〜という記事」は an article saying[that says] that SV((×an article that SV))と表現する。(＊a letter, an email も同様の表現をする.)",
+        "参 headline「(新聞などの)大見出し」"
+      ],
+      "word_origin": {
+        "formula": "art-[つなぐもの] + -cle[小さな] -> 「小さなつなぎ目」",
+        "description": "☆ icicle「つらら(←小さい氷の柱)」"
+      },
+      "examples": [
+        {
+          "en": "a magazine article on Portugal",
+          "ja": "① ポルトガルに関する雑誌の記事"
+        },
+        {
+          "en": "an article of furniture",
+          "ja": "② 家具1点"
+        },
+        {
+          "en": "This word takes no article.",
+          "ja": "③ この語は冠詞をつけない."
+        },
+        {
+          "en": "Article 9 of the Japanese Constitution",
+          "ja": "④ 日本の憲法9条"
+        }
+      ]
+    }
+  ]
+}

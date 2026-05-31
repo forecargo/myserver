@@ -1,0 +1,285 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "290",
+      "word": "time",
+      "phonetic": "[táim]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (漠然とした)時間",
+            "② (ある長さの)時間",
+            "③ 回数",
+            "④ 倍",
+            "⑤ (-s)情勢, 時代",
+            "⑥ (接続詞的に (the) next -)次に〜するとき"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "timely「タイミングのいい, タイムリーな」"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "timetable「予定表, 〈英〉(交通機関の)時刻表, (学校の)時間割」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①のみ〈不可算〉.",
+        "頻出 ① from time to time「時々」",
+        "all the time「ずっと」",
+        "in time「間に合って」",
+        "on time「時間通りに」",
+        "make[find] time to do「〜する時間を作る」",
+        "take one's time「ゆっくりやる」",
+        "注意 ③④ 「1回」は once, 「2回, 2倍」は twice と表現するのがふつう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "If you have time, help me.",
+          "ja": "① 時間があれば手伝ってよ."
+        },
+        {
+          "en": "wait for a long time",
+          "ja": "② 長時間待つ"
+        },
+        {
+          "en": "change jobs many times",
+          "ja": "③ 職を何回も変える"
+        },
+        {
+          "en": "This one is three times as large as that one.",
+          "ja": "④ これはあれの3倍の大きさだ."
+        },
+        {
+          "en": "keep up with the times",
+          "ja": "⑤ 時代についていく"
+        },
+        {
+          "en": "(the) next time you come here",
+          "ja": "⑥ あなたが次にここに来るとき"
+        }
+      ]
+    },
+    {
+      "id": "291",
+      "word": "spring",
+      "phonetic": "[spríŋ]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 春",
+            "② 泉, 温泉"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 飛び出る, 突然出現する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「飛び跳ねる」→①「春(生命が躍動する時期)」②「温泉(←お湯が噴き出す)」",
+        "注意 「春に」は in (the) spring と表現するが, 「この[次の, この前の]春に」は this[next, last] spring と表現し, in はつかない.",
+        "派生 spri-[飛び跳ねる] ☆sprinkle「〜を(一面に)まく, ふりかける」",
+        "[活用] spring-sprang[〈米〉sprung]-sprung"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Spring has come.",
+          "ja": "① 春が来た."
+        },
+        {
+          "en": "a hot spring resort",
+          "ja": "② 温泉(地)"
+        },
+        {
+          "en": "spring out of bed",
+          "ja": "③ ベッドから飛び起きる"
+        }
+      ]
+    },
+    {
+      "id": "292",
+      "word": "minute",
+      "phonetic": "名[mínit] 形[mainjúːt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (時間の)分",
+            "② (a -)ちょっとの間",
+            "③ (-s)議事録(まれ)"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "④ とても小さい, 細かい"
+          ]
+        },
+        {
+          "part_of_speech": "接続詞",
+          "meanings": [
+            "⑤ (the -)〜するとすぐに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① at the last minute「どたん場になって」",
+        "注意 〈(数字)-minute〉で「〜分の」という形容詞になるが, その場合, minute は複数形にしない. ⇨ ten-minute「10分の」",
+        "▶ ①は a minute hour「短い時間(→分)」から. (*a second「秒」は a second minute「2番目の短い時間 ← minute よりさらに細かい」から.) ☆diminish「減少する」 minimum「最小限の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The station is ten minutes'[a ten-minute] walk from here.",
+          "ja": "① 駅はここから歩いて 10 分です."
+        },
+        {
+          "en": "Wait a minute.",
+          "ja": "② ちょっと待ってください."
+        },
+        {
+          "en": "take the minutes of the meeting",
+          "ja": "③ 会議の議事録を取る"
+        },
+        {
+          "en": "a minute fraction",
+          "ja": "④ ごく小さな破片"
+        },
+        {
+          "en": "We stopped talking the minute he came in.",
+          "ja": "⑤ 彼が入ってきた瞬間に私たちは話を止めた."
+        }
+      ]
+    },
+    {
+      "id": "293",
+      "word": "age",
+      "phonetic": "[éidʒ]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 年齢",
+            "② 時代",
+            "③ (-s)長い間"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "④ 高齢化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人や物が)経てきた年月」",
+        "頻出 ① at the age of 〜「〜歳のときに」",
+        "(of) the same age「同年齢で」",
+        "② in the age of 〜「〜の時代に」",
+        "③ for ages「長い間」",
+        "派生 形 antiaging「老化防止の」",
+        "形 aged「〜歳の[で]」⇨ a man aged 40「40歳の男性」",
+        "形 middle-aged「中年の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a man past middle age",
+          "ja": "① 中年過ぎの男性"
+        },
+        {
+          "en": "in the Middle Ages",
+          "ja": "② 中世において"
+        },
+        {
+          "en": "It's been ages since I saw you last.",
+          "ja": "③ 久しぶり(最後にあなたに会ってから長い間経つ)."
+        },
+        {
+          "en": "an aging society",
+          "ja": "④ 高齢化社会"
+        }
+      ]
+    },
+    {
+      "id": "294",
+      "word": "generation",
+      "phonetic": "[dʒènəréiʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 世代",
+            "② 生み出すこと",
+            "③ 発電"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「(ある時期に生まれ育った)世代, 同世代の人々」",
+        "頻出 ① for generations「何世代もの間」",
+        "派生 gen-[生む] 他 generate「〜を生み出す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a generation gap",
+          "ja": "① 世代間格差"
+        },
+        {
+          "en": "the generation of wealth",
+          "ja": "② 富を生み出すこと"
+        },
+        {
+          "en": "hydropower generation",
+          "ja": "③ 水力発電"
+        }
+      ]
+    },
+    {
+      "id": "295",
+      "word": "anniversary",
+      "phonetic": "[æ̀nəvə́ːrsəri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "記念日"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「年に一度の, 記念すべき出来事があった日」",
+        "頻出 celebrate A's + (序数詞) + anniversary「Aの…周年を祝う」",
+        "one's wedding anniversary「結婚記念日」",
+        "the anniversary of his death「彼の命日」",
+        "派生 anni-(=annual 年一回) + -vers-[回る] →「年に一度回ってくるもの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "celebrate our school's 100th anniversary",
+          "ja": "我が校の創立 100 周年を祝う"
+        }
+      ]
+    }
+  ]
+}

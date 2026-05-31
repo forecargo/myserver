@@ -1,0 +1,16 @@
+# 本番スキャン画像 (著作物のため git 管理外)
+/scans/
+
+# 親リポジトリの .env.* ルールで除外されるが、テンプレは追跡したい
+!.env.template
+
+# venv / Python キャッシュ
+.venv/
+__pycache__/
+*.pyc
+
+# pytest
+.pytest_cache/
+
+# macOS
+.DS_Store

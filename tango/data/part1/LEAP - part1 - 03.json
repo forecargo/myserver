@@ -1,0 +1,227 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "015",
+      "word": "excuse",
+      "phonetic": "[ikskjúːs] [ikskjúːz]",
+      "level_tag": "A1 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 言い訳"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を許す",
+            "③ (A from B) (BからA)を免除する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「非難から解放する」→「〜を許す, 大目に見る」",
+        "頻出 excuse (人) for 〜「(人)が〜をしたことについて許す」",
+        "注意 ③「(個人が)免除される」の意味。「(組織が兵役などを)免除する」は exempt A from B と表現するのがふつう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't make excuses.",
+          "ja": "言い訳するな."
+        },
+        {
+          "en": "Excuse me, but do you happen to know where the station is?",
+          "ja": "すみませんが, 駅がどこにあるかご存じですか."
+        },
+        {
+          "en": "He was excused from the exam.",
+          "ja": "彼は試験を免除された."
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "word": "celebrate",
+      "phonetic": "[séləbrèit]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (特別な日, 出来事)を祝う",
+            "② (儀式など)を挙行する, 執り行う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(記念日や特定の出来事)を祝福する」",
+        "比較 congratulate「(人)を祝福する」と区別する。",
+        "形 celebrated「有名な(←大勢の人に祝福される)」",
+        "名 celebration「祝うこと, 祝賀会」",
+        "名 celebrity「(芸能界などの存命の)有名人, 著名人」",
+        "名 ceremony「儀式」",
+        "他 commemorate「(正式に儀式, 祭典で)〜を祝う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "celebrate her 18th birthday",
+          "ja": "彼女の18歳の誕生日を祝う"
+        },
+        {
+          "en": "celebrate Mass [mæs]",
+          "ja": "ミサを執り行う"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "word": "congratulate",
+      "phonetic": "[kəngrǽtʃulèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(人)を祝う, 〜にお祝いを述べる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 congratulate (人) on 〜「〜に関して(人)を祝う」",
+        "名 congratulation「祝いの言葉, 祝うこと」 ⇔ Congratulations on winning first prize!「一等賞おめでとう!」(＊強調のため複数形にする。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "congratulate her on her exam results",
+          "ja": "試験結果について彼女を祝福する"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "word": "admire",
+      "phonetic": "[ædmáiər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を称賛する, 〜に感心する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ respect より強い語で「すごいな, 自分もそうなりたいな」と思う。",
+        "頻出 admire A for B「B(の理由)でAを称賛する」",
+        "☆ ad-[方向] + -mire[驚嘆] → ☆miracle「奇跡」",
+        "名 admiration「称賛」",
+        "形 admirable「称賛に値する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "admire him for his great performance",
+          "ja": "すばらしい演技に対して彼を称賛する"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "word": "impress",
+      "phonetic": "[imprés]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に感銘を与える, 〜を感心させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「印象づける」",
+        "頻出 be impressed by [with] 〜「〜に感銘を受ける」",
+        "(*強調する場合 greatly や deeply, véry などをつける。)",
+        "☆ im-(=in 中に) + -press[押しつける] →「心の中に押しつける」",
+        "名 impression[印象] ⇔ make a 〜 impression on ...「…に〜な印象を与える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was deeply impressed by his speech.",
+          "ja": "彼の演説に深い感銘を受けた(感銘を与えられた)。"
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "word": "award",
+      "phonetic": "[əwɔ́ːrd]",
+      "level_tag": "A2 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 賞"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を授与する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(審査によって)賞や褒美を与える」",
+        "頻出 ① win an Academy Award「アカデミー賞を取る」 a People's Honor Award「国民栄誉賞」",
+        "② award A B「AにBを授与する」(≒award B to A)",
+        "☆ award-winning「(作品などが)受賞した, 賞を取った」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an award ceremony",
+          "ja": "授賞式"
+        },
+        {
+          "en": "She was awarded first prize. (≒The first prize went to her.)",
+          "ja": "彼女は一等賞をもらった(授与された)。"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "word": "explain",
+      "phonetic": "[ikspléin]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を説明する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(難しいこと)を(わかりやすいように言葉で)説明する」",
+        "◇ show「(言葉に加え, 実際にやってみせたりして)説明する」",
+        "頻出 explain to (人) 〜「〜を(人)に説明する」(≒explain 〜 to (人))",
+        "注意 [×] explain (人) 〜 [×] explain about 〜という形は不可。",
+        "☆ ex-[外に] + -plain[平ら] →「平らに(わかりやすく)して出す」 ☆plain「平野」",
+        "名 explanation「説明」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "explain [×explain about] the rules of baseball to him",
+          "ja": "彼に野球のルールを説明する"
+        }
+      ]
+    }
+  ]
+}

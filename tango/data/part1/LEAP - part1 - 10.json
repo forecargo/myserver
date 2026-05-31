@@ -1,0 +1,244 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "064",
+      "word": "habit",
+      "phonetic": "[hǽbɪt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "習慣",
+            "癖"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「(意識せずに伴う)個人の癖」",
+        "頻出 improve one's eating habits「食生活を改善する」",
+        "get into the habit of ~「〜の習慣がつく」(*よい習慣と悪い習慣のどちらにも使用可。)",
+        "注意 [×]have a habit to do は不可。",
+        "形 habitual「習慣的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a habit of making excuses",
+          "ja": "言い訳をする癖がある"
+        }
+      ]
+    },
+    {
+      "id": "065",
+      "word": "custom",
+      "phonetic": "[kʌ́stəm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 習慣",
+            "② (-s) 税関, 関税"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(社会的な)習慣, 慣習」",
+        "頻出 ① a local custom「地元の習慣」",
+        "形 customary「慣習の」 ▷ In Japan, it is customary to bow when people meet someone.「日本では人に会ったときはおじぎをするのが習慣です。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Different countries have different customs.",
+          "ja": "① 習慣は国によって違う(異なる国は異なる習慣をもつ)."
+        },
+        {
+          "en": "② show what is in my suitcase at customs",
+          "ja": "② 税関でスーツケースの中を見せる"
+        }
+      ]
+    },
+    {
+      "id": "066",
+      "word": "tradition",
+      "phonetic": "[trədíʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "伝統"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(昔から代々引き継がれる)しきたり, 伝統」",
+        "頻出 by tradition「伝統的に, 慣例で」",
+        "hand down[follow, break with] a tradition「伝統を伝える[を守る, と決別する]」",
+        "注意「(個々の)伝統」は〈可算〉。",
+        "副 traditionally「伝統的に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Japanese traditions",
+          "ja": "日本の伝統"
+        }
+      ]
+    },
+    {
+      "id": "067",
+      "word": "society",
+      "phonetic": "[səsáɪəti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 社会〈不可算〉",
+            "② (ある具体的な)社会〈可算〉",
+            "③ (one's ~)〜と同席すること",
+            "④ 協会"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "〜と(打ち解けて)交際する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人が集まっていること」",
+        "頻出 ② a society in which[×that] SV「〜な社会」",
+        "注意 Japanese society「日本社会」には冠詞は不要。",
+        "▶ Life is not easy.[×Society is severe.]と表現し,「実社会」は the real world と表現するのがふつう。",
+        "形 social「社会の」",
+        "形 sociable「社交的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① women's status in society",
+          "ja": "① 社会での女性の地位"
+        },
+        {
+          "en": "② an internet-dependent society",
+          "ja": "② インターネット依存社会"
+        },
+        {
+          "en": "③ enjoy her society",
+          "ja": "③ 彼女と同席することを楽しむ"
+        },
+        {
+          "en": "④ the Royal Society for the Prevention of Cruelty to Animals",
+          "ja": "④ 英国王立動物虐待防止協会"
+        }
+      ]
+    },
+    {
+      "id": "068",
+      "word": "law",
+      "phonetic": "[lɔ́ː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (the ~)集合的に)法律, 国法",
+            "② (個々の)法律",
+            "③ (科学などの)法則"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① obey[keep] the law「法を守る」 ⇔ break[violate] the law「法を犯す」",
+        "by law「法によって」",
+        "a law firm「法律事務所」",
+        "注意 ① ある国の「法(制度全般)」は the law と表現する。",
+        "形 lawful「合法的な」",
+        "名 lawyer「弁護士」〈米〉attorney"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Parking here is against the law.",
+          "ja": "① ここでの駐車は法律違反だ。"
+        },
+        {
+          "en": "② a law against smoking on the street",
+          "ja": "② 路上喫煙を禁じる法律"
+        },
+        {
+          "en": "③ the laws of nature",
+          "ja": "③ 自然の法則"
+        }
+      ]
+    },
+    {
+      "id": "069",
+      "word": "ancestor",
+      "phonetic": "[ǽnsestər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "祖先"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「祖父母より前の先祖」",
+        "注意 人間以外にも使用する。",
+        "▷ the ancestor of the modern computer「現代のコンピュータの原型」"
+      ],
+      "word_origin": {
+        "formula": "an-(=ante 先に) + -ces-(=ceed 行く)から「先に行く人」→「祖先」",
+        "description": "派生 名 ancestry「(集合的に)先祖, 血統」 反 descendant「子孫」 類 grandparents「祖父母」 形 ancient「古代の」"
+      },
+      "examples": [
+        {
+          "en": "My ancestors were French.",
+          "ja": "私の祖先はフランス人だった。"
+        }
+      ]
+    },
+    {
+      "id": "070",
+      "word": "population",
+      "phonetic": "[pɑ̀pjʊléɪʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 人口, 個体数",
+            "② (一定の地域に住む)住民"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「住む者すべて(の数)」",
+        "頻出 ① the world('s) population「世界人口」",
+        "注意「(人口が多い[少ない])」は large[small]で表現する。",
+        "形 popu-[人々]",
+        "形 populous「人口のある」",
+        "他 populate「(場所に)住む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The population of Tokyo is larger [×more] than that of Osaka.",
+          "ja": "① 東京の人口は大阪の人口より多い."
+        },
+        {
+          "en": "② L.A. has a large Chinese population.",
+          "ja": "② ロサンゼルスには多くの中国人が住んでいる(多くの中国人住民をもつ)."
+        }
+      ]
+    }
+  ]
+}

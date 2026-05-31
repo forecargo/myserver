@@ -1,0 +1,279 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "283",
+      "word": "apply",
+      "phonetic": "[əplái]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~) (~に) 当てはまる",
+            "② (for ~) (~に) 申し込む"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を当てはめる, 応用する",
+            "④ (薬, 口紅などを) 塗る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ③④ apply A to B 「AをBに適用する[塗る]」",
+        "apply oneself to ~ 「〜に専念する」",
+        "☆ ap-[方向] + -ply[折りたたむ] →「〜にくっつける」 ☆comply「従う」",
+        "名 applicant「志願者」",
+        "名 application「申請, 応用, 塗布」",
+        "名 appliance「機器(←応用したもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That rule applies to students.",
+          "ja": "その規則は学生に適用される."
+        },
+        {
+          "en": "apply for a passport",
+          "ja": "パスポートを申請する"
+        },
+        {
+          "en": "apply the technology to a wide range of fields",
+          "ja": "さまざまな分野にその技術を応用する"
+        },
+        {
+          "en": "apply enough sunscreen to my face",
+          "ja": "顔に十分な日焼け止めクリームを塗る"
+        }
+      ]
+    },
+    {
+      "id": "284",
+      "word": "suit",
+      "phonetic": "[súːt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人)に適している, 好都合だ",
+            "② (服装, 色が人)に似合う"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 訴訟 (=lawsuit)",
+            "④ スーツ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 follow suit 「先例にならう」",
+        "☆ suit[=sueついて行く]から「そろっている」→「〜に適する」(*③は「悪事についてくるもの」から。) ☆pursue「〜を追求する」(pur-[前方]+-sue[ついて行く])",
+        "形 suitable (for ~)「(~に)適した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What time suits you best?",
+          "ja": "何時が(あなたに)ご都合がいいですか."
+        },
+        {
+          "en": "That tie suits you.",
+          "ja": "そのネクタイは君に似合う."
+        },
+        {
+          "en": "file a suit against her",
+          "ja": "彼女を告訴する"
+        },
+        {
+          "en": "a three-piece suit",
+          "ja": "スリーピースのスーツ"
+        }
+      ]
+    },
+    {
+      "id": "285",
+      "word": "case",
+      "phonetic": "[kéis]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 場合",
+            "② (the ~) 事実",
+            "③ (犯罪) 事件",
+            "④ 症例",
+            "⑤ (make a ~) 主張(する)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「起きたこと」",
+        "頻出 ① in case SV 「〜の場合に備えて」 in any case 「いずれにせよ」 just in case 「念のため」 ② It is the case that SV. 「〜は事実だ」 as is often the case with ~ 「〜にはよくあることだが」",
+        "語法 「〜の場合には」は in the case of ~と表現する。ただし「火事[緊急, 地震]の場合には」は in case of fire[emergency, an earthquake]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "In some cases, honesty does not pay.",
+          "ja": "正直が割に合わない場合もある."
+        },
+        {
+          "en": "This is the case with humans.",
+          "ja": "これは人間にも当てはまる(人間にとっても事実である)."
+        },
+        {
+          "en": "a murder case",
+          "ja": "殺人事件"
+        },
+        {
+          "en": "new cases of Ebola",
+          "ja": "エボラ出血熱の新たな症例"
+        },
+        {
+          "en": "make a case before the judge",
+          "ja": "裁判官の前で言い分を述べる"
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "word": "scene",
+      "phonetic": "[síːn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (劇, 小説などの) 場面",
+            "② (事故) 現場",
+            "③ (the ~ scene) 〜(業)界"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① behind the scenes 「裏で, 密かに」",
+        "語法 ② (the ~ scene) 「(自然の)美しい風景」〈不可算〉",
+        "形 scenic「眺めがよい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a love scene",
+          "ja": "ラブシーン"
+        },
+        {
+          "en": "Police cars rushed to the scene.",
+          "ja": "パトカーが現場に急行した."
+        },
+        {
+          "en": "the American music scene",
+          "ja": "アメリカの音楽業界"
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "word": "chance",
+      "phonetic": "[tʃǽns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (to do) (~する) 機会",
+            "② (of ~/ that SV) (~の / ~する) 可能性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 by chance「偶然に」 take a chance「一か八かやってみる」 miss a chance「機会を逃がす」",
+        "語法 ② Chances are (that) SV. 「おそらく〜だろう.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a chance to play the lead",
+          "ja": "主役を演じる機会"
+        },
+        {
+          "en": "There is little chance of his winning.",
+          "ja": "彼が勝つ可能性はほとんどない."
+        }
+      ]
+    },
+    {
+      "id": "288",
+      "word": "opportunity",
+      "phonetic": "[ὰpərtjúːnəti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(よい)機会, 好機"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 seize[jump at] an opportunity 「機会をつかむ[に飛びつく]」",
+        "☆ op-[=ob方向] + -port-[運ぶ] →「(自分を)〜の方向に運んで行くこと」",
+        "☆ portable「持ち運びできる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a golden opportunity to speak English",
+          "ja": "英語を話す絶好の機会を持つ"
+        }
+      ]
+    },
+    {
+      "id": "289",
+      "word": "experience",
+      "phonetic": "[ikspíəriəns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 経験",
+            "② (個々の)体験"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を経験する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① know from experience that SV 「経験上〜だと知っている」 give ~ hands-on experience 「〜に実地経験させる」",
+        "語法 ② the experience of ~[×that SV]「〜という経験」 〈不可算〉 ②「(具体的な)体験」〈可算〉",
+        "注意 ①「(漠然とした)経験」",
+        "☆ 形 experienced「経験豊かな」 ⇔inexperienced「経験不足の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "learn from experience",
+          "ja": "経験から学ぶ"
+        },
+        {
+          "en": "the bitter experience of losing in the first round",
+          "ja": "初戦敗退という苦い経験"
+        },
+        {
+          "en": "experience many hardships",
+          "ja": "多くの困難を経験する"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "184",
+      "word": "expect",
+      "phonetic": "[ikspékt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を予期する",
+            "② (A of [from] B) (B に A) を期待する",
+            "③ (be ~ing) (~を)身ごもっている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主観的な判断に基づいて)予期する」(＊①よいことだけでなく悪いことにも使う。③prégnant「妊娠している」を遠回しに表現する語)",
+        "頻出 expect to do「〜するつもりだ」expect (人, 物) to do「(人, 物)が〜するだろうと思う」expect (that) SV「〜だと思う」",
+        "語源 ex-[外に] + -pect[=spect 見る] →「未来を見る」",
+        "名 expectation「期待」",
+        "▷ live up to one's expectations「〜の期待に沿う」",
+        "名 expectancy「予想, (統計上の)予測値」",
+        "▷ life expectancy「余命」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We are expecting a typhoon.",
+          "ja": "台風が来るらしい(来ることを予期している)."
+        },
+        {
+          "en": "Don't expect too much of [from] him.",
+          "ja": "彼にあまり期待しすぎる(あまりに多くのことを期待する)な."
+        },
+        {
+          "en": "She is expecting (a baby).",
+          "ja": "彼女はおめでたです(赤ちゃんを身ごもっています)."
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "word": "predict",
+      "phonetic": "[pridíkt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を予測する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「山勘」から「(信頼できるデータに基づく)予測」",
+        "頻出 predict the future [the weather, an earthquake]「未来[天気, 地震]を予測する」",
+        "predict wh-節「〜かと予測する」",
+        "語源 pre-[前に] + -dict[言う]",
+        "☆ dictionary「辞書(←言ったことをまとめたもの)」",
+        "名 prediction「予言」",
+        "形 predictable「予測可能な, (ドラマなどが)つまらない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "predict when cherry blossoms will start to flower",
+          "ja": "桜の開花時期を予測する"
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "word": "remember",
+      "phonetic": "[rimémbər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (doing) (過去にしたこと)を覚えている",
+            "② (to do) (〜すること)を覚えている",
+            "③ (me to ~) (〜に)よろしく伝える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③ say hello to 〜のほうが口語的な表現.",
+        "語源 re-[再び] + -mem-[心]から「再び心に留める」→「〜を覚えている」",
+        "▷ memory「記憶」",
+        "名 remembrance「覚えていること, 記憶」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I remember meeting her here[that I met her here].",
+          "ja": "彼女にここで会ったことを覚えています."
+        },
+        {
+          "en": "Did you remember to feed the dog?",
+          "ja": "イヌにエサをやるのを覚えてた?"
+        },
+        {
+          "en": "Remember me to your wife.",
+          "ja": "奥さんによろしくお伝えください."
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "word": "remind",
+      "phonetic": "[rimáind]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A of B) (A に B のこと)を思い出させる",
+            "② ((人) to do) (人)に〜するように念を押す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 remind ((人) that SV「((人)に〜ということを思い出させる」も可)",
+        "語源 re-[再び] + -mind[心]から「再び心に呼び戻す」→「思い出させる」",
+        "名 reminder「思い出させるもの, 催促状」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This song reminds me of him.",
+          "ja": "この歌は彼のことを私に思い出させる."
+        },
+        {
+          "en": "remind him not to be late",
+          "ja": "彼に遅れないように念を押す"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "word": "realize",
+      "phonetic": "[ríːəlàiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(はっきり)理解する",
+            "② (夢, 計画など)を実現する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(精神的な認識として重要性, 深刻さなど)に気づく」",
+        "▷ notice「(五感を通して)気づいている」",
+        "▷ find out「(情報, 真相などを)見つけ出す」",
+        "語法 ①目的語には, (a) that 節 (b) that 節に相当する語句 (例: I realized my mistake[=that I am mistaken]) (c) wh-節を置くのがふつう。",
+        "名 realization「よく理解すること, 実現」",
+        "形 real「現実の」",
+        "名 reality「現実, 現実味」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jim realized [×noticed] that he not love her any more.",
+          "ja": "ジムはもう彼女のことを愛していないことに気づいた."
+        },
+        {
+          "en": "She realized her dream of running her own shop.",
+          "ja": "彼女は自分の店を経営するという夢を実現した."
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "word": "appreciate",
+      "phonetic": "[əpríːʃièit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(正しく)理解する",
+            "② 〜のよさがわかる",
+            "③ 〜に感謝する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 対象は①「価値, 重要性など」②「芸術, 味など」③「人の好意など」",
+        "頻出 ③ I would appreciate it if you could do.「〜していただければありがたいのですが。」(* it は if の内容を示す。)",
+        "注意 「(人)に感謝する」は〈thank + (人)〉で表現する。",
+        "語源 ap-[=ad 方向] + -preci-[=precious 貴重な]から「〜を貴重だと思う」→「〜を正しく理解する」",
+        "名 appreciation「理解, 鑑賞, 評価」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "appreciate the importance of discussion",
+          "ja": "話し合いの重要性を理解する"
+        },
+        {
+          "en": "appreciate [×understand] the flavors of Japanese cuisine",
+          "ja": "和食の味がわかる"
+        },
+        {
+          "en": "I'd appreciate it if you could help me.",
+          "ja": "助けていただければありがたいのですが."
+        }
+      ]
+    }
+  ]
+}

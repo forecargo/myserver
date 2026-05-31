@@ -1,0 +1,267 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "169",
+      "word": "subject",
+      "phonetic": "[sʌ́bdʒɪkt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 科目",
+            "② 話題",
+            "③ 被験者"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "④ (be - to ~) 〜を受けやすい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜の下」が基本的なイメージ。",
+        "①「(勉強の『下』)科目」",
+        "②「(話の『下』)話題」",
+        "③「(実験の『下』)被験者」",
+        "④「(支配の『下』)支配される」",
+        "形 subjective「主観的な」",
+        "theme [θíːm]「(作品中に何度も登場する)テーマ, 主題」"
+      ],
+      "word_origin": {
+        "formula": "sub-[下] + -ject[投げる] -> 「下に来るもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a required subject",
+          "ja": "① 必須科目"
+        },
+        {
+          "en": "get off the subject",
+          "ja": "② 話題からそれる"
+        },
+        {
+          "en": "the subject of the experiment",
+          "ja": "③ その実験の被験者"
+        },
+        {
+          "en": "The program is subject to change.",
+          "ja": "④ プログラムは変更の可能性があります(変更を受けやすい)."
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "word": "education",
+      "phonetic": "[èdʒukéiʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "教育"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「教育によって能力や素質を外に引き出すこと」",
+        "頻出 compulsory education「義務教育」 formal education「正規教育」",
+        "receive [get] (an) education「教育を受ける」",
+        "注意 通例, 〈不可算〉だが, a good[poor, basic] education は〈可算〉扱い。",
+        "他 educate「〜を教育する」",
+        "形 educated「教育を受けた, 教養のある」",
+        "形 educational「教育に関する」",
+        "参 coeducation [cóu-éd]「男女共学」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive a good education",
+          "ja": "よい教育を受ける"
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "word": "knowledge",
+      "phonetic": "[nɑ́lɪdʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "知識, 知っていること"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(教育や経験によって得た)知識」",
+        "頻出 to (the best of) one's knowledge「〜の知る範囲では」",
+        "gain[acquire, ×learn] knowledge「知識を得る」",
+        "improve[expand, ×increase] one's knowledge「知識を増やす」",
+        "注意 通例, 〈不可算〉だが, 形 (a lot of や some などは除く)がつく場合は, knowledge となるのがふつう。",
+        "形 knowledgeable (about ~)「(〜に)精通している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a wide range of knowledge of cinema",
+          "ja": "映画に関する幅広い知識を持っている"
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "word": "uniform",
+      "phonetic": "[júːnəfɔ̀ːrm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 制服"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 同一の, 一定の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① wear a uniform「制服を着ている」 in uniform「制服を着て」",
+        "参 form「形, 形態, 申込用紙, 〈英〉学年; 〜を形作る」",
+        "名 uniformity「均一性」"
+      ],
+      "word_origin": {
+        "formula": "uni-[1つ] + -form[形] -> 「形が同じ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① wear a school uniform",
+          "ja": "① 学校の制服を着ている"
+        },
+        {
+          "en": "② maintain a uniform temperature",
+          "ja": "② 一定の温度を保つ"
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "word": "grade",
+      "phonetic": "[gréɪd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (小, 中, 高の)学年",
+            "② 等級",
+            "③ 成績"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「段(階)」",
+        "頻出 ③ get good[bad] grades「よい[悪い]成績をとる」",
+        "注意 1st - 6th grade (小学校) 7th - 9th (中学校) 10th - 12th (高校)",
+        "▶日本語の「グレード」は②の意味のみ。",
+        "他 degrade「〜の品位を下げる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① She is in the eighth grade. (=She is an eighth grader.)",
+          "ja": "① 彼女は8年生(中学2年生)だ。"
+        },
+        {
+          "en": "② low-grade products",
+          "ja": "② 低級の製品"
+        },
+        {
+          "en": "③ a high grade in math",
+          "ja": "③ 数学での好成績"
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "word": "senior",
+      "phonetic": "[síːnjər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (高校, 大学の)最上級生"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 高齢者の",
+            "③ (地位が)上位の, 年長の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(地位が)上位の, 年長の」(*② old の遠まわしの表現。)",
+        "頻出 ② have a senior moment「度忘れする」",
+        "注意 「(仕事の)先輩, 後輩」は英語圏では a workmate, a friend from work, 仲間と表現することが多い。",
+        "名 seniority「年長, 先輩であること」",
+        "seniority system「年功序列制度」",
+        "反 junior「下級の」",
+        "〈米〉freshman「大学1年生」 sophomore「大学2年生」 junior「大学3年生」 senior「大学4年生」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a college senior",
+          "ja": "① 大学4年生"
+        },
+        {
+          "en": "② senior citizens",
+          "ja": "② 高齢者"
+        },
+        {
+          "en": "③ a senior manager",
+          "ja": "③ 上級管理者"
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "word": "graduate",
+      "phonetic": "[grǽdʒuèɪt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(from ~) (~を)卒業する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ grade「学年」が上がって「卒業」",
+        "頻出 graduate from (無冠詞の学校)「〜を卒業する」",
+        "名 graduation「卒業」",
+        "名 undergraduate「大学生, 学部生」",
+        "名 a graduate [grǽdʒuət] school [student]「大学院[大学院生]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "graduate from high school",
+          "ja": "高校を卒業する"
+        }
+      ]
+    }
+  ]
+}

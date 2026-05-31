@@ -1,0 +1,249 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "134",
+      "word": "enable",
+      "phonetic": "[inèibl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A to do) (A)に[が](〜することを)可能にする",
+            "(力や手段によって)〜できるようにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 目的語を伴わない[×]enable to do の形は不可.",
+        "en-[動詞化]+-able[可能] ☆enrich「〜を豊かにする」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化]+-able[可能]",
+        "description": "☆enrich「〜を豊かにする」"
+      },
+      "examples": [
+        {
+          "en": "The internet has enabled us to receive information right away.",
+          "ja": "インターネットのおかげで情報をすぐに得られるようになった(私たちが情報をすぐに得ることを可能にした)."
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "word": "succeed",
+      "phonetic": "[səksíːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (in 〜) (〜に)成功する",
+            "② (to 〜) (家業などを)継ぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人, 計画, やり方などが)うまくいく」",
+        "注意 ① [×]succeed to do は不可.",
+        "suc-[=sub 下]+-ceed[進む]→「下(後ろ)から上に進む」",
+        "名 success「成功」 形 successful「成功した」 名 succession「継承, 連続」 句 in quick succession「矢継ぎ早に」 形 successive「連続した」"
+      ],
+      "word_origin": {
+        "formula": "suc-[=sub 下]+-ceed[進む]→「下(後ろ)から上に進む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① succeed in landing on the moon",
+          "ja": "① 月面着陸に成功する"
+        },
+        {
+          "en": "② succeed to the family business",
+          "ja": "② 家業を引き継ぐ"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "word": "miss",
+      "phonetic": "[mis]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を逃す",
+            "② 〜を休む",
+            "③ 〜を恋しく思う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① You can't miss it.「(道案内の最後に)必ず見つかりますよ.」",
+        "miss one's stop「(電車などで)乗り過ごす」",
+        "② 日常では「学校[仕事]を休む」は be absent from school [work]ではなく miss school[work]と表現するのがふつう.",
+        "注意 日本語の「ミスをする」は make a mistake と表現する.",
+        "形 missing「行方不明の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① miss the last train",
+          "ja": "① 終電を逃す"
+        },
+        {
+          "en": "② miss school for two days",
+          "ja": "② 2日間学校を休む"
+        },
+        {
+          "en": "③ I miss you.",
+          "ja": "③ あなたに会えなくて寂しい(あなたが恋しい)."
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "word": "fail",
+      "phonetic": "[féil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (in [at] 〜) (〜に)失敗する",
+            "② (to do) 〜できない"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (試験に)落ちる",
+            "④ (人に)役に立たない〈まれ〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② 日常では cannot do と表現するのがふつう. (⇔ succeed)",
+        "頻出 without fail「必ず」(*この fail は名詞扱い.)",
+        "名 failure「失敗, できないこと, 故障」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① fail in business",
+          "ja": "① 商売で失敗する"
+        },
+        {
+          "en": "② fail to see what happened",
+          "ja": "② 何が起きたかわからない"
+        },
+        {
+          "en": "③ fail the exam",
+          "ja": "③ 試験に落ちる"
+        },
+        {
+          "en": "④ My memory fails me these days.",
+          "ja": "④ 近頃, 記憶が(私に)役立たない."
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "word": "mistake",
+      "phonetic": "[mistéik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 間違い"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (A for B) (A)を(Bと)間違える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① make a mistake「ミスをする」 by mistake「間違えて」",
+        "形 mistaken「間違えている」 ⇔ You are mistaken.「あなたは間違えている.」 副 mistakenly「誤解している」 ⇔ mistakenly believe that S V「〜だと誤解している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① make grammatical mistakes",
+          "ja": "① 文法ミスをする"
+        },
+        {
+          "en": "② mistake him for his twin brother",
+          "ja": "② 彼を双子の弟と間違える"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "word": "check",
+      "phonetic": "[tʃék]",
+      "level_tag": "A2, A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を調べる",
+            "② 〜を阻止する",
+            "⑤ 検査, 点検",
+            "⑥ 抑制"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 小切手",
+            "④ 勧告書"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① check 〜 out「((伝聞情報を)確認する, 〈米〉〜を借りる」",
+        "⑥ hold[keep] 〜 in check「〜を食い止める」",
+        "チェスの用語「王手(check)」が語源で「(王の動きを)阻止する」→「(王手が正しかったか)を調べる」",
+        "句 checkout counter「(スーパーの)レジ」",
+        "名 paycheck「〈米〉給与(支払い小切手)」",
+        "名 checkup「健康診断」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "チェスの用語「王手(check)」が語源で「(王の動きを)阻止する」→「(王手が正しかったか)を調べる」"
+      },
+      "examples": [
+        {
+          "en": "① check the brakes",
+          "ja": "① そのブレーキを調べる"
+        },
+        {
+          "en": "② check the spread of the disease",
+          "ja": "② その病気の流行を阻止する"
+        },
+        {
+          "en": "③ sign a check",
+          "ja": "③ 小切手に署名する"
+        },
+        {
+          "en": "④ Can I have the check[〈英〉bill], please?",
+          "ja": "④ お勘定をお願いいたします."
+        },
+        {
+          "en": "⑤ have a medical check(up)",
+          "ja": "⑤ 健康診断を受ける"
+        },
+        {
+          "en": "⑥ hold their activities in check",
+          "ja": "⑥ 彼らの活動を食い止める(抑制して留める)"
+        }
+      ]
+    }
+  ]
+}

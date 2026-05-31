@@ -1,0 +1,293 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "102",
+      "word": "destroy",
+      "phonetic": "[distrói]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(完全に)破壊する",
+            "② 〜を殺す, 全滅させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(建物など)を(完全に)取り壊す」から「(動物など)を殺処分する」まで幅広く使う。「環境を破壊する」は「完全に破壊する」ではなく,「(部分的に)破壊する」なので damage[×destroy] the environment と表現する。",
+        "語源 de-[下→否定]+-stroy[=story→structure 構造]",
+        "名 destrúction「破壊」"
+      ],
+      "word_origin": {
+        "formula": "de-[下→否定]+-stroy[=story→structure 構造]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "destroy all weapons",
+          "ja": "すべての武器を破壊する"
+        },
+        {
+          "en": "This horse has to be destroyed.",
+          "ja": "この馬を殺処分するしかない。"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "word": "ruin",
+      "phonetic": "[rúːin]",
+      "level_tag": "A2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を台無しにする",
+            "② 〜を破滅させる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (-s)廃墟, 荒廃"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(元々はすばらしかった物)を破壊にする」",
+        "頻出 ① ruin[▲lose] one's health「健康を害する」(*lose はやや古い表現。)",
+        "類義 bankrupt「倒産した」 corrupt「堕落[腐敗]した」",
+        "★「倒れる」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "You ruined my plan.",
+          "ja": "君のせいで計画が台無しだよ (君は私の計画を台無しにした)。"
+        },
+        {
+          "en": "The flood ruined the town.",
+          "ja": "洪水が町を破壊してしまった。"
+        },
+        {
+          "en": "the ruins of Pompeii",
+          "ja": "ポンペイの遺跡"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "word": "danger",
+      "phonetic": "[déindʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "危険",
+            "(危害, 損害の)恐れ, 危険(性)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇risk「(自らの判断, 行動によってもたらされる)悪い結果の可能性」",
+        "頻出 be in danger of 〜「〜の危険がある」 in danger「危険な状態の」",
+        "形 dángerous「危険な」",
+        "副 dángerously「危険なほどに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Tigers are in danger of extinction.",
+          "ja": "トラが絶滅の危機にある。"
+        },
+        {
+          "en": "Tigers are dangerous.",
+          "ja": "◇トラは危険(な動物)だ。"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "word": "neighbor",
+      "phonetic": "[néibər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 近所の人",
+            "② (a next-door 〜)隣の人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 neigh-[=near]+-bor[人]→「近くに住む人」",
+        "形 néighboring「近所の」",
+        "名 néighborhood「(ある町や都市の人の住む)地域」(*日本語の「近所」より幅広い地域を指す。)"
+      ],
+      "word_origin": {
+        "formula": "neigh-[=near]+-bor[人]→「近くに住む人」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "chat with a neighbor",
+          "ja": "① 近所の人と話す"
+        },
+        {
+          "en": "My next-door neighbor's dog barks day and night.",
+          "ja": "② 隣(の人)のイヌが昼夜問わずほえる。"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "word": "audience",
+      "phonetic": "[ɔ́ːdiəns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "聴衆, 観客",
+            "(全体)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a large audience ([×]many audiences)「大観衆」",
+        "注意「1人の観客」は an audience member と表現する。",
+        "語源 audi-[聞く]",
+        "派生 áudible「聞こえる」",
+        "参 audítorium「〈米〉講堂」",
+        "参 áuditory「聴覚の」"
+      ],
+      "word_origin": {
+        "formula": "audi-[聞く]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "draw a large audience",
+          "ja": "大観衆を集める"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "word": "crowd",
+      "phonetic": "[kráud]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "群衆",
+            "(押し合いになるくらいの)人ごみ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 crówded (with 〜)「(〜で)混雑した」",
+        "参 congésted「(道が)混雑した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A crowd rushed into the hall.",
+          "ja": "群衆が会場になだれ込んだ。"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "word": "author",
+      "phonetic": "[ɔ́ːθər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 著者",
+            "② (主に文学作品の)作家"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 the author of 〜「〜の著者」",
+        "★「生み出す人」が元の意味。",
+        "語源 autumn「秋(←果実を生む季節)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the author of War and Peace",
+          "ja": "①『戦争と平和』の著者"
+        },
+        {
+          "en": "The author was signing copies of his new book.",
+          "ja": "②その作家は彼の新刊本にサインをしていた。"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "word": "staff",
+      "phonetic": "[stǽf]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(集合的に)職員, 従業員",
+            "「職員(全体)」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 be on the staff「職員だ」",
+        "注意 日本語の「スタッフ」は「1人の職員」を指すことがあるが, 本来 staff は「職員(全体)」を示す。(*「1人の職員」は a staff member と表現。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Most of the staff is[〈英〉are] from Australia.",
+          "ja": "職員の大半はオーストラリア出身です。"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "word": "clerk",
+      "phonetic": "[klə́ːrk]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 〈米〉店員",
+            "② 事務員, 社員"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷①〈英〉a shop assistant",
+        "形 clérical「事務の」",
+        "派生 clerical work「事務仕事」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the clerks at that department store",
+          "ja": "①あのデパートの店員"
+        },
+        {
+          "en": "a bank clerk",
+          "ja": "②銀行員"
+        }
+      ]
+    }
+  ]
+}

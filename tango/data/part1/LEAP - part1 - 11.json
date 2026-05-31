@@ -1,0 +1,315 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "071",
+      "word": "native",
+      "phonetic": "[néitiv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 母国の, その土地の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (ある土地の)生まれの人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② a digital native「デジタルネイティブ(←生まれつきデジタル機器を使用する環境にいる人)」",
+        "注意 「故郷」は one's native town ではなく one's hometown がふつう。",
+        "派 nat-[生まれる] *náture「自然」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "his native language",
+          "ja": "① 彼 の 母(国)語"
+        },
+        {
+          "en": "a native of Japan",
+          "ja": "② 日本生まれの人"
+        }
+      ]
+    },
+    {
+      "id": "072",
+      "word": "abroad",
+      "phonetic": "[əbrɔ́ːd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "海外へ, 海外で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 study abroad [×in abroad]「留学する(←海外で勉強する)」",
+        "注意 副なので前は不要。",
+        "▷ abroad と同様に注意すべき副詞は home「家へ, 家で」, there「そこへ, そこで」, here「ここへ, ここで」, overseas「海外へ, 海外で」, upstairs「2階へ, 2階で」, downtown「繁華街へ, 繁華街で」など。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "find a job abroad",
+          "ja": "海外で仕事を見つける"
+        }
+      ]
+    },
+    {
+      "id": "073",
+      "word": "local",
+      "phonetic": "[lóukəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① その土地の, 地元の",
+            "② 地方の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 地元の⼈"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a local earthquake「局地地震」",
+        "注意 日本語の「ローカル」とは異なり, 「地方の」という意味とは限らない。",
+        "派 loc-[場所] + -al[形容詞語尾] *locátion「場所, 位置」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a local bank",
+          "ja": "① 地元の銀行"
+        },
+        {
+          "en": "local government",
+          "ja": "② 地方自治体"
+        },
+        {
+          "en": "talk with the locals",
+          "ja": "③ 地元の人々と話す"
+        }
+      ]
+    },
+    {
+      "id": "074",
+      "word": "survey",
+      "phonetic": "[sə́ːrvei] [sərvéi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 調査〈可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を調査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (アンケートなどの統計を取った)調査",
+        "頻出 ① conduct [carry out] a survey「調査をする」",
+        "派 sur-[上] + -vey[見る] から「(全体を)上から見る」→「(統計的に)調べる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "according to a recent survey",
+          "ja": "① 最近の調査によると"
+        },
+        {
+          "en": "survey the opinions of teenagers",
+          "ja": "② 10代の若者たちの意見を調査する"
+        }
+      ]
+    },
+    {
+      "id": "075",
+      "word": "value",
+      "phonetic": "[vǽljuː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 価値",
+            "② (―s)価値観",
+            "③ お買い得品〈不可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ 〜を重んじる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(金銭的)価値」から「重要性」まで。",
+        "頻出 ① of great value「とても価値のある」",
+        "put [place] a high value on 〜「〜を重んじる」",
+        "派 váluable「価値のある」",
+        "形 váluéless「価値がない」",
+        "名 váluables「貴重品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the value of the painting",
+          "ja": "① その絵の価値"
+        },
+        {
+          "en": "Everyone has their own values.",
+          "ja": "② 誰もが自分独自の価値観を有する。"
+        },
+        {
+          "en": "This shirt is really good value.",
+          "ja": "③ このシャツは本当にお買い得だ。"
+        },
+        {
+          "en": "value their privacy",
+          "ja": "④ 彼らのプライバシーを重んじる"
+        }
+      ]
+    },
+    {
+      "id": "076",
+      "word": "treasure",
+      "phonetic": "[tréʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 財宝, 宝",
+            "② 大事な物[人]"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (思い出などを)を大事にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常で「(物)を大切にする」は take good care of 〜のほうが使われる。",
+        "派 「トレジャーハンター」は「宝探しをする人」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a national treasure",
+          "ja": "① 国宝"
+        },
+        {
+          "en": "My secretary is a real treasure.",
+          "ja": "② 私の秘書は本当に宝物(のような存在)だ。"
+        },
+        {
+          "en": "treasure this moment with her",
+          "ja": "③ 彼女とのこの瞬間を大切にする"
+        }
+      ]
+    },
+    {
+      "id": "077",
+      "word": "fashion",
+      "phonetic": "[fǽʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 流行",
+            "② 流儀, やり方"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (手などで)〜を作る〈まれ〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(時代や地域の)はやり」",
+        "▶ ③は fashion の元の意味「作られたもの」から。",
+        "頻出 ① be in [out of] fashion「流行している[いない]」",
+        "go out of fashion「はやらなくなる」",
+        "② in a 〜 fashion「〜のやり方で」",
+        "形 fáshionable「流行の」",
+        "形 óld-fáshioned「時代遅れの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "follow the latest fashion",
+          "ja": "① 最新の流行を追う"
+        },
+        {
+          "en": "in the traditional fashion",
+          "ja": "② 伝統的なやり方で"
+        },
+        {
+          "en": "fashion stone tools",
+          "ja": "③ 石器を作る"
+        }
+      ]
+    },
+    {
+      "id": "078",
+      "word": "public",
+      "phonetic": "[pʌ́blik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (the ―)大衆"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 公共の, 公の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「一般の人々(のための)」",
+        "頻出 ① in public「人前で」(⇔in private「内密に」)",
+        "② public opinion「世論」",
+        "派 「パブ(pub)」は public house の略で「(イギリスで発達した)大衆向けの酒場」のこと。",
+        "名 publícity「宣伝, 広告」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the general public",
+          "ja": "① 一般大衆"
+        },
+        {
+          "en": "public places",
+          "ja": "② 公共の場所"
+        }
+      ]
+    }
+  ]
+}

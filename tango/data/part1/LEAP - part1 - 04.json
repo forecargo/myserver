@@ -1,0 +1,242 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "022",
+      "word": "describe",
+      "phonetic": "[diskrάib]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を説明する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人, 物などの特徴)を(言葉で)説明する」",
+        "頻出 describe A as B 「AをBだと言う, 表現する」",
+        "名 description 「説明, 描写」",
+        "▶ beyond description 「描写できないほどの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Could you describe your lost bag?",
+          "ja": "なくしたバッグ(の特徴)を説明していただけませんか。"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "word": "communicate",
+      "phonetic": "[kəmjúːnəkèit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (with 〜) (〜と)意思の疎通をはかる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を伝える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(考えや意見, 情報を)相手に伝える」",
+        "注意 ①「お互いに意思の疎通をはかる」は communicate with each other と表現する。( [×]communicate each other)",
+        "名 communication 「意思疎通」",
+        "名 communications 「通信」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① communicate with each other in sign language",
+          "ja": "① 手話でお互いに意思の疎通をはかる"
+        },
+        {
+          "en": "② communicate my feelings in English",
+          "ja": "② 英語で自分の気持ちを伝える"
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "word": "express",
+      "phonetic": "[iksprés]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (意見, 気持ち)を表現する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 急行(列車, バス)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① express oneself 「自分を表現する」",
+        "express[×Say] one's feelings[thoughts] 「(一般論として)感情[考え]を表現する[言う]」",
+        "ex- [外に] + -press [押す] →「外に押し出す」",
+        "名 expression 「表現, 表情」",
+        "形 expressive 「表現力に富む」",
+        "a local train 「普通列車」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Express[×Say] your opinions clearly.",
+          "ja": "① はっきり意見を言い(を表現し)なさい。"
+        },
+        {
+          "en": "② on the 9:00 a.m. express (train)",
+          "ja": "② 午前9時の急行列車で"
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "word": "promise",
+      "phonetic": "[prάmis]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 約束"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を約束する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「約束」を表す最も一般的な語。",
+        "頻出 ① keep[break] one's promise(s) 「約束を守る[破る]」(一般論なら複数形。)",
+        "② 目的語には名, to do, that節をとる。",
+        "promise (人) to do 「(人)に〜する約束をする」",
+        "注意 「人」を主語にするので「富は幸せを約束する」などでは使わない。",
+        "⇨ Wealth makes you happy. などと表現する。",
+        "形 promising 「前途有望な(←将来を約束された)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① make a promise to lose weight",
+          "ja": "① 減量するという約束をする"
+        },
+        {
+          "en": "② promise her to be back by 5",
+          "ja": "② 5時までには戻ると彼女に約束する"
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "word": "information",
+      "phonetic": "[ìnfərméiʃən]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "情報<不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 information about[×of] 〜 「〜に関する情報」",
+        "send out information 「情報を発信する」",
+        "for further information 「詳しくは」",
+        "他 inform (人) of[about] 〜 / that SV 「(人)に〜を(公的に)知らせる, 通知する」",
+        "▶「(人)に〜を教える」は tell (人) about 〜や let (人) know 〜のほうが使われる。なお, 「(警察などへ)通報する」は report を使う。",
+        "形 informed 「情報に基づいた, 見識が広い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "various kinds of[×various] information",
+          "ja": "さまざまな情報"
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "word": "technology",
+      "phonetic": "[teknάlədʒi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(科学)技術"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(実用面での)科学技術」",
+        "◇ science「(理論面での)科学」",
+        "頻出 information technology (IT) 「情報技術」",
+        "形 technological 「技術の」",
+        "⇨ technological advance(s) 「科学技術の進歩」",
+        "⇨ technique 「技法<不可算>, (個々の)技術<可算>」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "science and technology",
+          "ja": "科学技術(科学と科学技術)"
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "word": "research",
+      "phonetic": "[ríːsəːrtʃ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (学術)研究"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を研究する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「綿密な研究」",
+        "頻出 ① conduct[carry out, do] research on 〜 「〜の研究をする」",
+        "research indicates[shows] that SV 「研究は〜を示している」",
+        "名 researcher 「研究者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① do research on space rockets",
+          "ja": "① 宇宙ロケットに関する研究を行う"
+        },
+        {
+          "en": "② research an environmental issue",
+          "ja": "② 環境問題を研究する"
+        }
+      ]
+    }
+  ]
+}

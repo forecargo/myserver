@@ -1,0 +1,272 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "333",
+      "word": "yard",
+      "phonetic": "[jάːrd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (主に〈米〉)庭",
+            "② ヤード(=約 0.9 m)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「家の周囲の土地」",
+        "頻出 ① a front [back] yard「前[裏]庭」",
+        "＊ garden「(草花が植えてある)庭」, 〈米〉(yard内の)草花が植えてある部分」, gardening「庭いじり」 a mile「1マイル(=約 1609 m)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "mow the lawn in our yard",
+          "ja": "私たちの庭の芝を刈る"
+        },
+        {
+          "en": "drive a golf ball over 300 yards",
+          "ja": "300ヤード以上ゴルフボールを飛ばす"
+        }
+      ]
+    },
+    {
+      "id": "334",
+      "word": "bottom",
+      "phonetic": "[bάtəm]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 底",
+            "② 一番下, 最下位",
+            "③ 尻"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「物の一番下の部分」→①「(びん, 海の)底」 ②「(名簿, 階段などの)一番下」",
+        "頻出 ① at the bottom of 〜「〜の底に」 Bottoms up!「乾杯!」(←「(コップの底を上に持ち上げて)飲み干して!」から.)",
+        "反 top「頂上, 上の部, 最上位」 bottom line「最重要事項」→The bottom line is that 〜.「肝心なのは〜.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the bottom of the sea",
+          "ja": "海底"
+        },
+        {
+          "en": "Look at the bottom of page 10.",
+          "ja": "10ページの下を見てください."
+        },
+        {
+          "en": "fall on my bottom [×hip]",
+          "ja": "尻もちをつく"
+        }
+      ]
+    },
+    {
+      "id": "335",
+      "word": "line",
+      "phonetic": "[láin]",
+      "level_tag": "A1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 列",
+            "② 行, 線",
+            "③ 電話回線",
+            "④ セリフ"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "⑤ (-up)並ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(前後に並ぶ)列」",
+        "頻出 ① in line「列になって, 並んで」 ② read between the lines「行間を読む, 空気を読む」 Drop me a line.「私に手紙をください.」(*a lineは「1行くらいの短い手紙」) ③ be on the line「(電話で)話し中だ」",
+        "＊ headline「(新聞などの)見出し」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stand in line (〈英〉in a queue[kjúː])",
+          "ja": "列に並ぶ"
+        },
+        {
+          "en": "sign on the dotted line",
+          "ja": "点線のところにサインする"
+        },
+        {
+          "en": "The line is busy.",
+          "ja": "(電話が)お話し中です."
+        },
+        {
+          "en": "practice my lines over and over",
+          "ja": "セリフを何度も練習する"
+        },
+        {
+          "en": "line up to buy tickets",
+          "ja": "チケットを求めて行列を作る"
+        }
+      ]
+    },
+    {
+      "id": "336",
+      "word": "row",
+      "phonetic": "[róu]",
+      "level_tag": "A1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 列"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (ボート)をこぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(横並びの)列」",
+        "頻出 ① in a row「1列に, 連続で」→win the national championship twice in a row「2大会連続で全国制覇する」 ② row a boat「ボートをこぐ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the people sitting in the back row",
+          "ja": "後列に座っている人"
+        },
+        {
+          "en": "row a boat on the lake",
+          "ja": "湖でボートをこぐ"
+        }
+      ]
+    },
+    {
+      "id": "337",
+      "word": "background",
+      "phonetic": "[bǽkgràund]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 背景",
+            "② 経歴, 生い立ち"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① one's family background「家庭環境」",
+        "② one's educational [academic] background「学歴」",
+        "＊ BGM(テレビ, ラジオ, 映画などで背景として流す音楽)は background music の略."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Classical music was playing in the background.",
+          "ja": "BGM(背景)にクラシック音楽が流れていた."
+        },
+        {
+          "en": "people from different backgrounds (=people from all walks of life)",
+          "ja": "さまざまな経歴の人々"
+        }
+      ]
+    },
+    {
+      "id": "338",
+      "word": "direction",
+      "phonetic": "[dirékʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 方向, 方角",
+            "② (-s)道順",
+            "③ 指示"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「導くもの」",
+        "頻出 ① in the direction of 〜「〜の方向に」 in the right [opposite, wrong] direction「正しい[反対の, 間違った]方向に」",
+        "③ under the direction of 〜「〜の管理下で」",
+        "＊「東西南北」は, north, south, east, and westと表現する. (*日本語との語順の違いに注意.) 参 directory「住所録, 名簿」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "go in [×to] the opposite direction",
+          "ja": "反対の方向へ行く"
+        },
+        {
+          "en": "ask for directions",
+          "ja": "道順を尋ねる"
+        },
+        {
+          "en": "under his direction",
+          "ja": "彼の指示の下"
+        }
+      ]
+    },
+    {
+      "id": "339",
+      "word": "culture",
+      "phonetic": "[kʌ́ltʃər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 文化",
+            "② 培養, 養殖",
+            "③ 教養"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ 〜を耕す, 栽培[養殖]する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「民族が cultivate (育む)してきた伝統, 様式」",
+        "② ③「(物を育むこと→)培養, 教養」",
+        "注意 ① Japanese culture「日本文化」は冠詞不要. また, 「A is a part [an aspect] of Japanese culture.」と表現するのがふつう.",
+        "＊「耕すこと」が元の意味. ☆ cultivate「〜を耕す」 形 cultural「文化の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "various foreign cultures",
+          "ja": "さまざまな外国文化"
+        },
+        {
+          "en": "a culture of bacteria",
+          "ja": "細菌の培養"
+        },
+        {
+          "en": "a woman of culture",
+          "ja": "教養ある女性"
+        },
+        {
+          "en": "cultured pearls",
+          "ja": "養殖(された)真珠"
+        }
+      ]
+    }
+  ]
+}

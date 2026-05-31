@@ -1,0 +1,246 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "036",
+      "word": "ability",
+      "phonetic": "[əbíləti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "能力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "主に「(後天的な)能力」を示す最も一般的な語。",
+        "頻出 improve [develop] one's ability to do 「〜する力を伸ばす」",
+        "show [demonstrate] one's real ability 「実力を発揮する」",
+        "注意 [×]ability of doing は不可。",
+        "派生 able 「〜することができる」の名詞形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "improve my ability to speak English",
+          "ja": "英語を話す力を伸ばす"
+        }
+      ]
+    },
+    {
+      "id": "037",
+      "word": "talent",
+      "phonetic": "[tǽlənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "才能"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(生まれ持った)優れた能力, 天性の才能」",
+        "頻出 have a talent for ~ 「〜の才能がある」",
+        "注意 「(漠然とした)才能」は〈不可算〉。また, 日本語の「テレビタレント」はTV personality [performer] などと表現する。([×]TV talent)",
+        "類義 gifted 「才能のある」",
+        "参 gift 「(美術, スポーツなどの)才能」",
+        "派生 talented 「才能のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "show my musical talent",
+          "ja": "音楽の才能を発揮する"
+        }
+      ]
+    },
+    {
+      "id": "038",
+      "word": "effort",
+      "phonetic": "[éfərt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "努力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「「努力」を示す最も一般的な語。」",
+        "頻出 in an effort to do 「〜するために」",
+        "注意 make an effort は「(ちょっと)頑張る」の意味なので, 人命救助などの場合, make a great effort 「大いに努力する」などと表現する。",
+        "音楽用語の forte (フォルテ) 「強く」と同系語。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make an effort to be on time",
+          "ja": "時間に間に合うように努力する"
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "word": "practice",
+      "phonetic": "[prǽktis]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 練習",
+            "② 実践",
+            "③ 習慣"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "④ 〜を練習する",
+            "⑤ 〜を実践する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②⑤「実際に(行うこと)→①④(技術, 能力を向上させるための)練習(をする)」",
+        "(*⑤ 目的語には「宗教の教え」などをとる。) ◇drill 「(反復)練習」",
+        "頻出 ② in practice 「(理論と違って)実践では, 実際には」",
+        "put ~ into practice 「〜を実行に移す」",
+        "④ practice doing 「〜を練習する」",
+        "反 ② theory 「理論」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① We have practice on Saturday.",
+          "ja": "① 土曜日に練習がある。"
+        },
+        {
+          "en": "② put a plan into practice",
+          "ja": "② 計画を実行に移す"
+        },
+        {
+          "en": "③ the practice of sleeping after dinner",
+          "ja": "③ 夕食後に寝る習慣"
+        },
+        {
+          "en": "④ practice playing the piano",
+          "ja": "④ ピアノの練習をする"
+        },
+        {
+          "en": "⑤ practice my religion",
+          "ja": "⑤ 宗教を実践する"
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "word": "achieve",
+      "phonetic": "[ətʃíːv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を達成する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「苦労して(時間をかけて)ある基準にまで到達する」",
+        "頻出 目的語には a goal [an aim] 「目標」, a good result 「よい結果」など。",
+        "chief 「主要な : (集団の)長」",
+        "名 achievement 「達成, 業績」",
+        "名 underachievement 「不振」"
+      ],
+      "word_origin": {
+        "formula": "a-[=ad 方向] + -chieve[頭] -> 「上(頭)のほうに向かう」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "achieve his goal of becoming a vet",
+          "ja": "獣医になるという目標を達成する"
+        }
+      ]
+    },
+    {
+      "id": "041",
+      "word": "manage",
+      "phonetic": "[mǽnɪdʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (to do) 何とかして〜する",
+            "② 〜を経営する, 管理する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 「(過去に1回限り)〜できた」は managed to do や was [were] able to do と表現する。([×]could do)",
+        "派生 名 management 「経営」",
+        "名 manager 「((会社などの)部長, 店長, (スポーツチームなどの)監督)」",
+        "参 run 「(店, 会社など)を経営する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I managed to [× could] catch the last train.",
+          "ja": "① 何とか終電に乗ることができた。"
+        },
+        {
+          "en": "② manage my time effectively",
+          "ja": "② 効果的に時間を管理する"
+        }
+      ]
+    },
+    {
+      "id": "042",
+      "word": "improve",
+      "phonetic": "[imprúːv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を改善する, 磨く"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② よくなる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(利益や価値)を上げる」",
+        "頻出 ① improve one's ~ skills 「〜の力を伸ばす, 技術を磨く」",
+        "② improve on ~ 「(追加, 変更などして)〜をさらに改善[改良]する」",
+        "注意 ② 日常では get better と表現することも多い。",
+        "名 improvement 「改善」"
+      ],
+      "word_origin": {
+        "formula": "im-[=in 中に] + -prove [=profit 利益] -> 「利益をもたらす」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① improve my cooking skills",
+          "ja": "① 私の料理の腕を上達させる"
+        },
+        {
+          "en": "② His English has improved recently.",
+          "ja": "② 彼の英語は近頃よくなった。"
+        }
+      ]
+    }
+  ]
+}

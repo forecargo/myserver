@@ -1,0 +1,304 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "236",
+      "word": "correct",
+      "phonetic": "[kərèkt]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 正確な, 正しい"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を訂正する, 矯正する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(正解が1つしかないような場合に)正解を選んでいる」",
+        "▶「訂正, 修正, 矯正」",
+        "副 correctly「正しく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Let's see if our answers are correct.",
+          "ja": "答えが正しいかどうか見てみよう。"
+        },
+        {
+          "en": "correct his pronunciation",
+          "ja": "彼の発音を矯正する"
+        }
+      ]
+    },
+    {
+      "id": "237",
+      "word": "ideal",
+      "phonetic": "[aidíːəl]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 理想的な, 申し分のない"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 理想, 理想的な姿"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「現実的に理想的な」(＊日本語の「理想的な」は, 「非現実」の場合もある)",
+        "注意「理想の(=あこがれの)女性」は the woman of my dreams, 「理想的な(=模範的な)人」は a role model と表現する。",
+        "形 idealistic「理想主義の」",
+        "副 ideally「理想的には」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an ideal place for camping",
+          "ja": "キャンプにはうってつけの場所"
+        },
+        {
+          "en": "the ideal of social equality",
+          "ja": "社会平等の理想像"
+        }
+      ]
+    },
+    {
+      "id": "238",
+      "word": "fair",
+      "phonetic": "[fɛər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 公正な, 公平な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 品評会, 見本市"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②は別語源.",
+        "語法 play [fight] fair「公正にプレーする[戦う]」では副詞的に働く.",
+        "副 fairly「公平に, いくぶん」",
+        "反 unfair「不公平な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It's not fair!",
+          "ja": "それは不公平だ。"
+        },
+        {
+          "en": "an international trade fair",
+          "ja": "国際(産業)見本市"
+        }
+      ]
+    },
+    {
+      "id": "239",
+      "word": "appropriate",
+      "phonetic": "[əpróupriət]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "適切な"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を横領する, 使用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある特定の目的, 状況に対して)適切な」",
+        "頻出 appropriate for [to] 〜「〜に適切な, ふさわしい」",
+        "反 inappropriate「不適切な」"
+      ],
+      "word_origin": {
+        "formula": "ap-(=ad 方向) + propri-(=proper 適切な)",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "clothes appropriate for a job interview",
+          "ja": "仕事の面接に適切な服"
+        }
+      ]
+    },
+    {
+      "id": "240",
+      "word": "famous",
+      "phonetic": "[féiməs]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (for one's 〜) (〜で)有名な",
+            "② (as 〜) (〜として)有名な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意「全国的に有名」でなければ, be well-known と表現するのがふつう。",
+        "語源 fa-[話す]から「人々が話す」→「有名な」",
+        "名 fame「名声」 ⇔ win [gain, achieve] fame「名声を得る」",
+        "反 infamous [ínfəməs]「悪名高い」"
+      ],
+      "word_origin": {
+        "formula": "fa-[話す]から「人々が話す」→「有名な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Kyoto is famous for its temples.",
+          "ja": "京都は寺で有名だ。"
+        },
+        {
+          "en": "Arima is famous as a hot-spring resort.",
+          "ja": "有馬は温泉地として有名だ。"
+        }
+      ]
+    },
+    {
+      "id": "241",
+      "word": "elementary",
+      "phonetic": "[èləmèntəri]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "初歩的な, 基本の, 初歩の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「基本の, 初歩の」",
+        "頻出 〈米〉an elementary school「小学校」〈英〉a primary school",
+        "an elementary mistake「単純(基本的)なミス」"
+      ],
+      "word_origin": {
+        "formula": "element-[基本的な要素] + -ary[に関わる]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "when I was in elementary school",
+          "ja": "小学生(小学校に在学中)のとき"
+        }
+      ]
+    },
+    {
+      "id": "242",
+      "word": "major",
+      "phonetic": "[méidʒər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 主要な"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (in 〜) (〜を)専攻する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 専攻"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ほかと比べて)非常に大きい, 非常に重要な」",
+        "頻出 ① a major problem「大問題」",
+        "名 majority「大多数」",
+        "反 minor「さほど重要ではない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a major cause of global warming",
+          "ja": "地球温暖化の主な原因"
+        },
+        {
+          "en": "major in botany",
+          "ja": "植物学を専攻する"
+        },
+        {
+          "en": "What is your major?",
+          "ja": "専攻は何ですか。"
+        }
+      ]
+    },
+    {
+      "id": "243",
+      "word": "matter",
+      "phonetic": "[mǽtər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 重要である"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (修飾語を伴い)物質",
+            "③ (-s)事態, 状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 as a matter of fact「実際には」",
+        "頻出 ③ to make matters worse「さらに悪いことには」",
+        "注意 ① 主に否定文, 疑問文で使用する。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「物質」が元の意味, 「物質」→「事態, 状況」→「重要だ」"
+      },
+      "examples": [
+        {
+          "en": "It does not matter whether he succeeds[×will succeed] or not.",
+          "ja": "彼が成功するかどうかは重要ではない。"
+        },
+        {
+          "en": "waste matter",
+          "ja": "廃棄物"
+        },
+        {
+          "en": "To make matters worse, it began to snow.",
+          "ja": "さらに悪いことには, 雪が降り始めた。"
+        }
+      ]
+    }
+  ]
+}

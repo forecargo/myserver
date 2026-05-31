@@ -1,0 +1,6 @@
+google-genai>=2.7,<3
+pydantic>=2.7,<3
+pillow>=10.4
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn>=0.30

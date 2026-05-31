@@ -1,0 +1,283 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "043",
+      "word": "produce",
+      "phonetic": "[prədʒúːs] [prάdʒuːs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を生産する, 産出する",
+            "② (見せるために)〜を取り出す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 農作物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「表に出す」",
+        "pro-[前方]+-duce[導く]から「(人々の)目の前に持ってくる」→「生産する」",
+        "名 production「生産(高)」",
+        "形 productive「生産的な」",
+        "名 productivity「生産性」",
+        "名 by-product「副産物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "produce rice and vegetables",
+          "ja": "米と野菜を生産する"
+        },
+        {
+          "en": "produce a ticket from my pocket",
+          "ja": "(提示するために)ポケットから切符を取り出す"
+        },
+        {
+          "en": "fresh farm produce",
+          "ja": "新鮮な農作物"
+        }
+      ]
+    },
+    {
+      "id": "044",
+      "word": "create",
+      "phonetic": "[kriéit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を創造する",
+            "② 〜を引き起こす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ゼロから何かを)作り出す」",
+        "注意「問題」などマイナスイメージのものを「作り出す」場合にも用いる。",
+        "名 creation「創造」",
+        "名 creativity「創造性」",
+        "名 créature [kríːtʃər]「(植物を除く)創造されたもの、生き物」",
+        "形 creative「創造的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "create a website",
+          "ja": "ホームページを創る"
+        },
+        {
+          "en": "create new problems",
+          "ja": "新たな問題を引き起こす"
+        }
+      ]
+    },
+    {
+      "id": "045",
+      "word": "establish",
+      "phonetic": "[istǽbliʃ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を確立する, 定着させる",
+            "② 〜を設立する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ found「〜を設立[創立]する」は「開始」に, establishは「存続」に意味の重点がある. set upはより口語的な表現.",
+        "頻出 ① establish one's fame [a system]「名声[システム]を確立する」",
+        "e-(=ex 外に)+stabl-[安定した]→「安定させる」",
+        "☆ stable「安定した」",
+        "名 establishment「確立, 設立, 施設」",
+        "形 established「確立した, 定評のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "establish a close friendship with him",
+          "ja": "彼と親密な友情を築く"
+        },
+        {
+          "en": "This publishing company was established in 1950.",
+          "ja": "この出版社は1950年に設立された."
+        }
+      ]
+    },
+    {
+      "id": "046",
+      "word": "form",
+      "phonetic": "[fɔ́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を形成する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 形態",
+            "③ 書式"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「きっちりとした形にする」→②③「それで出来た物」",
+        "頻出 ③ fill out a form「用紙に記入する」",
+        "名 formation「形成, 構成物」",
+        "名 format「書式, 形式」",
+        "形 formal「形式ばった」",
+        "形 informal「形式ばらない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "form a rock band",
+          "ja": "ロックバンドを形成する"
+        },
+        {
+          "en": "Happiness comes in various forms.",
+          "ja": "幸せは様々な形態でやって来る."
+        },
+        {
+          "en": "fill out[〈英〉in] an application form",
+          "ja": "申し込み書に記入する"
+        }
+      ]
+    },
+    {
+      "id": "047",
+      "word": "save",
+      "phonetic": "[séiv]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (時間, 手間)を省く",
+            "② 〜を貯金する",
+            "③ (命など)を救う"
+          ]
+        },
+        {
+          "part_of_speech": "前置詞",
+          "meanings": [
+            "④ 〜を除いて (= except)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ④はまれ.",
+        "頻出 ① save trouble「手間を省く」",
+        "② save money「貯金する」",
+        "③ save one's life「〜の命を救う」",
+        "save ~ from ...「〜を...から救う」",
+        "▶「危険などから守る」が元の意味. ④は「(危険を)除く」から."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This saves you a lot of trouble.",
+          "ja": "これによって多くの手間が省ける."
+        },
+        {
+          "en": "save some money every month",
+          "ja": "毎月貯金する"
+        },
+        {
+          "en": "You saved my life.",
+          "ja": "君は命の恩人だ(私の命を救った)."
+        },
+        {
+          "en": "answer all of the questions save one",
+          "ja": "1つを除いて全ての質問に答える"
+        }
+      ]
+    },
+    {
+      "id": "048",
+      "word": "medicine",
+      "phonetic": "[médəsin]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (for ~) (~の)薬",
+            "② 医学 (= medical science)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 ① 通例, 〈不可算〉だが「(薬の)種類」によっては〈可算〉にもなる.",
+        "medi-[医療]+-cine[薬]",
+        "名 telemedicine「遠隔医療」",
+        "参 pill「丸薬」",
+        "tablet「錠剤」",
+        "vaccine [vǽksíːn]「ワクチン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "take[×drink] the medicine twice a day",
+          "ja": "1日に2回その薬を飲む"
+        },
+        {
+          "en": "study medicine at Harvard",
+          "ja": "ハーバードで医学を学ぶ"
+        }
+      ]
+    },
+    {
+      "id": "049",
+      "word": "patient",
+      "phonetic": "[péiʃənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 患者"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 忍耐強い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「苦しみに耐える人」",
+        "注意 ②「(困難な状況で)途中で諦めず, 忍耐強く努力する」はpersevéreで表す.",
+        "pat-[苦しみに耐える]",
+        "☆ pássion「情熱」",
+        "名 pátience「我慢, 忍耐」",
+        "副 pátiently「忍耐強く」",
+        "反 impátient「我慢できない, いらいらしている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The patient is getting better.",
+          "ja": "その患者は快方に向かっている."
+        },
+        {
+          "en": "Teachers need to be patient.",
+          "ja": "教師は忍耐強くならなければならない."
+        }
+      ]
+    }
+  ]
+}

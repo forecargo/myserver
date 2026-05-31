@@ -1,0 +1,247 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "197",
+      "word": "focus",
+      "phonetic": "[fóukəs]",
+      "level_tag": "A1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (on ~) (~に)焦点を当てる, 力を注ぐ"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 焦点"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "fócal 「焦点の」",
+            "fócused (on ~) 「(~に)焦点を合わせた」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(レンズなどの)焦点」から「(興味, 関心などの)中心」まで。",
+        "頻出 ② be in [out of] focus 「焦点が合っている[合っていない]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This book focuses on French culture.",
+          "ja": "この本はフランス文化に焦点を当てている。"
+        },
+        {
+          "en": "become the focus of media attention",
+          "ja": "マスコミの注目の的になる"
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "word": "allow",
+      "phonetic": "[əláu]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人が)〜を許可する",
+            "② (物が)〜を可能にする"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "頻出 ① ② allow A to do 「Aが〜するのを許す[可能にする]」",
+            "allow for ~ 「〜を考慮する, 〜に勘案する」",
+            "allow oneself to go for ~ 「〜を勝手にさせる」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(非公式に個人で)許可を与える」(＊letの堅い語。)",
+        "al- [=ad 方向] + -low [下げる] から「ハードルを下げる」→「許可する」",
+        "名 allowance 「手当, 小遣い」 (〈英〉pocket money)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Please allow me to introduce myself.",
+          "ja": "自己紹介をさせて(自己紹介するのを許可して)ください。"
+        },
+        {
+          "en": "This machine allows you to measure your blood pressure.",
+          "ja": "この機械で血圧を測ることができます(血圧を測ることを可能にする)。"
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "word": "admit",
+      "phonetic": "[ædmít]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を認める",
+            "② 〜の入場[入学]を許可する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(自分に不利, 不快なこと)を(しぶしぶ)認める」",
+        "頻出 ① 目的語には that 節や動名詞をとることが多い。",
+        "② admit A to [into] B 「AがBに入場[入学]することを許可する」",
+        "ad- [方向] + -mit [送る] から「〜へ送る」→「〜に入るのを許す」",
+        "名 admission 「入場(許可), 入場(料), 入会(金)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Tom admitted that he had been mistaken.",
+          "ja": "トムは自分が間違っていたことを認めた。"
+        },
+        {
+          "en": "be admitted to the university",
+          "ja": "大学入学を許可される"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "word": "ground",
+      "phonetic": "[gráund]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 地面",
+            "② 根拠"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「最も下の部分」のイメージ。",
+        "派生 underground 詞「地下の」 副「地下に」 参 playground 「運動場」 形 groundbreaking 「革新的な」 grind 「〜を挽く」の過去形・過去分詞 ground ⇔ ground meat 「挽き肉」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "deep in the ground",
+          "ja": "地中深く"
+        },
+        {
+          "en": "on the grounds that he is young",
+          "ja": "彼は若いという理由(根拠)で"
+        }
+      ]
+    },
+    {
+      "id": "201",
+      "word": "pollution",
+      "phonetic": "[pəlúːʃən]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "汚染, 公害〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「汚染」を意味する一般的な語。",
+        "頻出 air pollution 「大気汚染」 noise pollution 「騒音公害」",
+        "他 pollute 「〜を汚染する」 名 pollutant 「汚染物質」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "prevent marine pollution",
+          "ja": "海洋汚染を食い止める"
+        }
+      ]
+    },
+    {
+      "id": "202",
+      "word": "sight",
+      "phonetic": "[sáit]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 光景",
+            "② 視力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「見ること, 見えるもの」",
+        "頻出 at first sight 「一目見て」 at the sight of ~ 「〜を見て」 catch [lose] sight of ~ 「〜を見かける[見失う]」 in [out of] sight 「見える[見えない]ところに」",
+        "注意 ② は一部の表現で用い, 日常で「視力」は eyesight を使うのがふつう。",
+        "派生 see の名詞形。 名 oversight 「見落とし」 名 sightseeing 「観光」 ⇨ go sightseeing 「観光に行く」 参 nearsighted 「近視の」 (〈英〉shortsighted)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Snow is a rare sight in this area.",
+          "ja": "雪はこの地域では珍しい光景です。"
+        },
+        {
+          "en": "recover my sight",
+          "ja": "視力を回復する"
+        }
+      ]
+    },
+    {
+      "id": "203",
+      "word": "view",
+      "phonetic": "[vjúː]",
+      "level_tag": "A2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 眺め, 景色〈可算〉",
+            "② 見解, 見方"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (A as B) (A)を(B)とみなす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(一般に)眺め, (窓や高い所から見る)景色」",
+        "頻出 ① have [get] a ~ view of A 「Aの〜な景色が見える」",
+        "② from a ~ point of view 「〜の視点から」 in one's view 「〜の考えでは」 with a view to doing 「〜するために」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "enjoy a night view of Kobe",
+          "ja": "神戸の夜景(夜の景色)を楽しむ"
+        },
+        {
+          "en": "look at things from a different point of view",
+          "ja": "視点を変えて(異なる視点から)物事を見る"
+        },
+        {
+          "en": "Skiing is viewed as the national sport of Norway.",
+          "ja": "スキーはノルウェーの国技だとみなされている。"
+        }
+      ]
+    }
+  ]
+}

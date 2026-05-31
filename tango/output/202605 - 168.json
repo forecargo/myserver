@@ -1,0 +1,255 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "001",
+      "word": "look",
+      "phonetic": "[lúk]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(at ~) (~を)見る",
+            "(for ~) (~を)探す"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(at ~) (~を)見る",
+            "(for ~) (~を)探す",
+            "look back on ~ 「~を振り返る」",
+            "look at oneself in a mirror 「鏡で自分の姿を見る」",
+            "look (形容詞) / look like (名詞) 「~に見える」",
+            "look (人) in the eye[face]「(人)をじっと見つめる」",
+            "look out (of) the window 「窓の外を見る」",
+            "look up a word in the dictionary 「辞書で単語を調べる」",
+            "look forward to (名詞) / doing 「~するのを楽しみにして待つ」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自分の意志で視線を向ける"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Look at[×Look] that bird.",
+          "ja": "あの鳥を見ろ。"
+        },
+        {
+          "en": "I looked at him.",
+          "ja": "彼を見た(=彼に視線を向けた)。"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "word": "see",
+      "phonetic": "[síː]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ~が見える, ~を見る",
+            "② ~に会う, (be-ing)~とつき合う",
+            "③ (医者, 弁護士などに)診てもらう, 相談する",
+            "④ ~がわかる",
+            "⑤ (can-) 目が見える"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① ~が見える, ~を見る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自然と視界に入ってくる",
+        "[語法] see a movie 「(映画館で)映画を見る」 see A do[doing, done] 「Aが~する[している, される]のを見る」 I saw her sing[singing]. 「彼女が歌う[歌っている]のを見た」 see A as ~ 「Aを~とみなす」 Long time, no see. 「(くだけて)久しぶり」 see if SV 「SVがわかる」 see if SV 「SVかどうかを確認する」 I see. 「わかりました。」 Let me see. 「ええと(何かを考えたり, 思い出したりしようとすることを指す)。」",
+        "[注意] Nice to see you (again). 「(また)お会いできてうれしいです。」や S.J. come to see (人) 「(人)に会いに来る」, see (人) off 「(人)を見送る」などの表現以外は, (人)を目的語とする場合, ①の意味であることが多い。",
+        "[活用] see-saw-seen",
+        "sight「見る[こと], 光景」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I saw him yesterday.",
+          "ja": "昨日彼と会った(=見かけた)。"
+        },
+        {
+          "en": "I met him yesterday.",
+          "ja": "昨日彼と(約束して/偶然)会った。"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "word": "watch",
+      "phonetic": "[wάtʃ]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ~をじっと見る",
+            "② ~を見張る",
+            "③ (out for ~) (~に)用心する",
+            "④ (out (for ~)) (~を)用心する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① ~をじっと見る",
+            "② ~を見張る",
+            "③ (A do[doing]) (Aが~する[している]の)を見る"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "⑤ 腕時計, 見張り"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "動いている[動く可能性がある]ものをの目で追いかける",
+        "[語法] watch a movie on TV[on a DVD]「テレビ[DVD]で映画を見る」 watch my bag. 「かばんを見ておいてね。」 Watch your language. 「言葉遣いに注意しなさい。」",
+        "[注意] Watch out! (for cars!) 「(車に)気をつけろ。」 (*Be careful! より強い意味。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Watch me!",
+          "ja": "今から何かをするから)私を見てて。"
+        },
+        {
+          "en": "Look at me!",
+          "ja": "(この状況の)私を見てて。"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "word": "listen",
+      "phonetic": "[lísn]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~) (~を)聴く, 聞く",
+            "② (to ~) (忠告などに)耳を貸す, 従う",
+            "③ (for ~) (聞こえないかと)~に耳を澄ます"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① listen to music 「音楽を聴く」",
+            "② listen to A do[doing] 「Aが~する[している]のに耳を傾ける」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "意識[集中]して耳を傾ける",
+        "[語法] listen to A 「Aに耳を傾ける」 listen to ~ with[through] earphones 「~をイヤフォンで聴く」 listen to what (人) have to say 「(人)の言うことに耳を傾ける」 listen to one's advice 「~の忠告に耳を傾ける」 listen in (on ~) 「(~を)立ち聞きする」 (*この in は副詞。)",
+        "[注意] listen to any sound 「何か音がしないか聞き耳を立てる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Please listen!",
+          "ja": "どうか聞いてください。"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "word": "hear",
+      "phonetic": "[híər]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ~が聞こえる",
+            "② (that SV) ~という話を聞いている",
+            "③ (from ~) (~から)連絡がある",
+            "④ (can-) 耳が聞こえる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① hear A do[doing, done] 「Aが~する[している, される]のを聞く」",
+            "② (of ~) 「~について聞く」",
+            "③ hear the sound 「その音を聞く」",
+            "④ hear the news 「その知らせを聞く」",
+            "⑤ hear about 「~について聞く」",
+            "⑥ hear from 「~から連絡がある」",
+            "⑦ hear that SV 「SVという話を聞いている」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自然と耳に入る",
+        "[注意] 通例, 目的語には「音, 声, 人」がくるので, 「話題」を目的語とする場合は hear about と表現することが多い。これは see, understand などの知覚動詞にも当てはまる。進行形にしない。進行形の意味(「~が聞こえている」)は can hear で表現する。",
+        "[活用] hear-heard-heard"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I heard her sing[singing].",
+          "ja": "彼女が歌う[歌っている]のを聞いた。"
+        },
+        {
+          "en": "I heard the news.",
+          "ja": "ニュースが聞こえた。"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "word": "stand",
+      "phonetic": "[stǽnd]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① まっすぐに立つ",
+            "② (建物などが) (~に)ある, 建っている",
+            "③ (cannot ~) (~に耐えられない)"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 立ち上がる (~sit down)",
+            "② (建物などが) (~に)ある, 建っている",
+            "③ (cannot ~) (~に耐えられない)",
+            "④ (複合語で)屋台, 乗り場"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "まっすぐ立つ",
+        "[語法] stand up 「立ち上がる」 stand on one's hands[head]「逆立ちする」 stand in line 「1列に並ぶ」 stand on a taxi stand 「タクシー乗り場」 stand for ~ 「(略号が)~を表す, (考えなど)を支持する」 UN stands for United Nations. 「UNは国際連合を表す。」 stand out 「目立つ」 stand by ~ 「~の味方をする」 stand in one's[the] way 「(~の)邪魔になっている」",
+        "[注意] ② 動かせない物の場合, 進行形は不可。 The school stands[×is standing] on a hill. 「その学校は丘の上に建っている」 ③ 「立っていられない」から発展した表現。",
+        "[比較] stand up 「(さっと)立ち上がる」 get to one's feet 「(ゆっくりと)立ち上がる」",
+        "[活用] stand-stood-stood"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a hotdog stand",
+          "ja": "ホットドッグの屋台"
+        }
+      ]
+    }
+  ]
+}

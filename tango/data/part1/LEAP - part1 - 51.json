@@ -1,0 +1,245 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "355",
+      "word": "display",
+      "phonetic": "[displéi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を展示する",
+            "② (実力など)を発揮する",
+            "③ 〜を誇示する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 展示, 表現, 誇示"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(普段見せていないもの)を見せる」",
+        "頻出 ④ be on display「展示されている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "display the latest fashions",
+          "ja": "最新のファッションを展示する"
+        },
+        {
+          "en": "display my real ability",
+          "ja": "実力を発揮する"
+        },
+        {
+          "en": "display my jewelry",
+          "ja": "宝石を見せびらかす"
+        },
+        {
+          "en": "a fireworks display",
+          "ja": "花火大会"
+        }
+      ]
+    },
+    {
+      "id": "356",
+      "word": "trust",
+      "phonetic": "[trʌ́st]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を信頼する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 信頼, 信用"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物事)を(直観的に正しいと信じて)信頼する」",
+        "頻出 ① trust (人) with 〜「(人)を信頼して〜を任せる」",
+        "trust (人) to do「(人)が〜すると信用している」",
+        "▶ true(本当だ)と思って「信頼する」と覚えよう。",
+        "形 trustworthy「信頼に値する, 信頼できる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "You can trust him; he keeps secrets.",
+          "ja": "彼のことを信頼してよい. 彼は秘密を守る."
+        },
+        {
+          "en": "put my trust in her",
+          "ja": "彼女を信頼する"
+        }
+      ]
+    },
+    {
+      "id": "357",
+      "word": "depend",
+      "phonetic": "[dipénd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (物, 事が主語) on 〜によって決まる",
+            "② (人が主語) (on 〜)に頼っている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜次第である」 ②「〜に(全面的に)頼っている」",
+        "頻出 depend on 〜",
+        "That depends.「それはケースバイケースだ.」",
+        "▶ pendant「ペンダント」と同様に「(人に)ぶら下がる」イメージ.",
+        "名 dependent「依存している」",
+        "名 dependence「依存」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Your success depends on how much effort you make.",
+          "ja": "成功は君の努力(君がどれくらい努力するか)次第だ."
+        },
+        {
+          "en": "I depend on my parents for university tuition.",
+          "ja": "私は両親に大学の学費を頼っている."
+        }
+      ]
+    },
+    {
+      "id": "358",
+      "word": "rely",
+      "phonetic": "[rilái]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(on 〜)に頼る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(過去の事実や経験などに基づいて確信をもって)頼りにする」",
+        "頻出 completely rely on 〜「〜に完全に頼る(←おんぶにだっこの状態)」",
+        "名 reliance「信頼」",
+        "形 reliable「信頼できる, 確実な」",
+        "副 reliably「確実に, 信頼を裏切らずに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "You can rely on him.",
+          "ja": "彼なら頼っても大丈夫."
+        }
+      ]
+    },
+    {
+      "id": "359",
+      "word": "pray",
+      "phonetic": "[préi]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "祈る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 pray for 〜「〜のために(〜を願って)祈る」",
+        "名 prayer [prέər]「祈り」(*prayer [préiər]「祈る人」とは発音が異なるので注意.)",
+        "▶ I'll keep my fingers crossed.「うまくいくといいね(←人差し指と中指を交差させて十字架を作るしぐさから).」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pray for her safety",
+          "ja": "彼女の無事を祈る"
+        }
+      ]
+    },
+    {
+      "id": "360",
+      "word": "beg",
+      "phonetic": "[bég]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を嘆願する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 求める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「へりくだって, 何かを求める」",
+        "頻出 ① (I) beg your pardon?「もう一度おっしゃってください.」",
+        "beg (人) to do「(人に)〜してくれと頼む」",
+        "② beg for 〜「〜を求める」",
+        "名 beggar「乞食」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "beg her to overlook my mistakes",
+          "ja": "ミスを見逃してもらうよう, 彼女にお願いする"
+        },
+        {
+          "en": "beg for something to eat",
+          "ja": "食べ物をおねだりする"
+        }
+      ]
+    },
+    {
+      "id": "361",
+      "word": "prefer",
+      "phonetic": "[prifə́ːr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A to B) (BよりAを)好む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 過去形・過去分詞はpreferredとする.",
+        "頻出 prefer A to B「BよりAを好む」(=like A better than B)",
+        "prefer to V₁ rather than (to) V₂「V₂するよりV₁するほうを好む」",
+        "▶「今, (BよりAのほうがしたい)」はwould prefer A (to B)と表現する.",
+        "▶ pre-[前に] + -fer[運ぶ] →「先に持って来る」",
+        "☆ ferry「フェリー」",
+        "名 preference「好み」",
+        "形 preferable「好ましい」",
+        "(= like beef better than chicken)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "prefer beef to chicken",
+          "ja": "鶏肉より牛肉を好む"
+        }
+      ]
+    }
+  ]
+}

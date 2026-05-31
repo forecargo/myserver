@@ -1,0 +1,255 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "008",
+      "word": "claim",
+      "phonetic": "[kléim]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (that SV / to do) 〜と主張する",
+            "② 〜を要求する, 主張する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 主張, 要求"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(当然のように)主張する, (自分の所有物だと)主張する」",
+        "▶「(当日の)主張, 反論に対して)〜と主張する」",
+        "▶「日本のクレーム(=苦情)は complaint「不平, 不満」のこと」",
+        "頻出 ① claim that SV",
+        "注意 日本語の「クレーム」は complaint「不平, 文句」",
+        "熟 baggage claim「(空港の)荷物受取所(←荷物の所有権を主張する場所)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "claim that a vegetarian diet is better than a meat diet",
+          "ja": "菜食は肉食より優れていると主張する"
+        },
+        {
+          "en": "Does anyone claim this umbrella?",
+          "ja": "この傘の持ち主はいませんか(誰か自分の物だと主張しませんか)."
+        },
+        {
+          "en": "make a claim against an insurance company",
+          "ja": "保険会社に(保険金を)請求する"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "word": "complain",
+      "phonetic": "[kəmpléin]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 文句を言う, 苦情を言う",
+            "② (of 〜) (病気などを)訴える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(不満や体の痛みなどを)声に出して言う」",
+        "頻出 ① complain to A about B「(Aに)Bについて文句を言う」",
+        "頻出 ① complain to A that SV「(Aに)〜のことで文句を言う」",
+        "注意 「(1人で)ぶつぶつ言う」は grumble [grʌ́mbl] を用いる.",
+        "熟 このフレーズと「文句を言う」 complaint「不満, 文句, クレーム」",
+        "名 complaint「不満, 文句, クレーム」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "complain about their loud music",
+          "ja": "彼らのうるさい音楽に文句を言う"
+        },
+        {
+          "en": "complain of a headache",
+          "ja": "頭痛がすると訴える"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "word": "offer",
+      "phonetic": "[ɔ́ːfər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を申し出る"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 申し出",
+            "③ 値引き"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「よかったらどうですか?」というイメージ。(「提供する」とは限らない。)",
+        "頻出 ① offer to do「〜するよう申し出る」",
+        "比較 prefer「〜を好む(←優先順位を前に持っていく)」"
+      ],
+      "word_origin": {
+        "formula": "of-[方向]+-fer[持っていく]から「〜のほうへ持っていく」→「〜を申し出る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "offer him some coffee",
+          "ja": "彼にコーヒーはどうですかと尋ねる(申し出る)"
+        },
+        {
+          "en": "refuse his offer",
+          "ja": "彼の申し出を断る"
+        },
+        {
+          "en": "T-shirts are on special offer today.",
+          "ja": "今日はTシャツが特価(特別な値引き)だ."
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "word": "suggest",
+      "phonetic": "[səgdʒést]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を示唆する",
+            "② 〜を提案する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(やや控えめに)提案する」",
+        "頻出 ② suggest (to A) that S (should) do「(Aに)〜することを提案する」",
+        "頻出 ② suggest doing「〜することを提案する」",
+        "注意 「物」が主語なら①か②の意味になる.",
+        "派生 digést「〜を消化する」(di-[分離]+-gest[運ぶ])",
+        "名 suggestion「提案, 暗示」"
+      ],
+      "word_origin": {
+        "formula": "sug-[=sub 下]+-gest[運ぶ]→「下から(そっと)運ぶ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "That letter suggests that she is quite happy in her job.",
+          "ja": "その手紙は, 彼女が仕事をかなり楽しんでいることを示唆している."
+        },
+        {
+          "en": "She suggested to us that we (should) take a break.",
+          "ja": "彼女は私たちに休憩するのはどうだろうかと提案した."
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "word": "recommend",
+      "phonetic": "[rèkəmend]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を推薦する, 勧める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(相手にとって有益なこと)を勧める」",
+        "頻出 recommend doing「(1人に)〜することを勧める」",
+        "頻出 recommend that S (should) do「(1人に)〜することを勧める」",
+        "注意 目的語には名詞, 動名詞, that S (should) doをとる.",
+        "注意 I recommend you(r) doing.「(あなたに)〜することを勧める」で, you(r)は通例, 省略する.",
+        "名 recommendation「推薦(状)」",
+        "熟 today's special「本日のお勧め料理」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び+強意]+-commend[勧める]→「((しつこく)勧める)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "What would you recommend?",
+          "ja": "(レストランなどで)何がお勧めですか(何を勧めますか)."
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "word": "grateful",
+      "phonetic": "[gréitfəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "感謝している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ thankfulより堅い語。(＊贈り物などに対してはまれ.)",
+        "頻出 be grateful (to A) for B「Bのことで(Aに)感謝している」",
+        "派生 gratitude「感謝」"
+      ],
+      "word_origin": {
+        "formula": "grat-[感謝]+-ful[に満ちた]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I am grateful for your help.",
+          "ja": "ご助力に感謝しています."
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "word": "apologize",
+      "phonetic": "[əpɑ́lədʒaiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (〜に)謝る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(過失をわびる)」(＊日常ではbe very sorryと表現することが多い.)",
+        "頻出 apologize to A for B「A(人)にB(罪)のことで謝る」",
+        "派生 monologue「一人芝居, 独白」",
+        "名 apology「謝罪」"
+      ],
+      "word_origin": {
+        "formula": "apo-[〜から]+-logi-[言葉]から「罪から逃れるために話す」→「謝る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "apologize to her for being late",
+          "ja": "遅刻したことを彼女に謝る"
+        }
+      ]
+    }
+  ]
+}

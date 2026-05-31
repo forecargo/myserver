@@ -1,0 +1,286 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "347",
+      "word": "passage",
+      "phonetic": "[pǽsɪdʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (文章などの)一節",
+            "② (時の)経過, 移動"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① a passage from[of] ~「〜の一節」",
+        "語源 pass-[過ぎる]+-age[行為, 状態]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a famous passage from the Bible",
+          "ja": "聖書の有名な一節"
+        },
+        {
+          "en": "with the passage of time",
+          "ja": "時の経過と共に"
+        }
+      ]
+    },
+    {
+      "id": "348",
+      "word": "vocabulary",
+      "phonetic": "[voukǽbjulèri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "語彙"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(個人が知っている)単語の総体」",
+        "◇wórd「((個々の具体的な)単語」",
+        "頻出 have a large[small] vocabulary「語彙が多い[少ない]」",
+        "語源 voc-[声]+-abula-(=able 可能)→「声に出せるもの」",
+        "☆vócal「発声の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "increase [build up] my vocabulary",
+          "ja": "語彙を増やす"
+        }
+      ]
+    },
+    {
+      "id": "349",
+      "word": "rumor",
+      "phonetic": "[rúːmər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "うわさ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「世間に広まっている(確実でない)話」",
+        "◇góssip「(主に悪い)うわさ話, 陰口」",
+        "頻出 hear[spread, deny] the rumor「そのうわさを聞く[広める, 否定する]」",
+        "Rumor[=Word] has it that SV.「うわさによると〜だ.」",
+        "☆ルーもおいしいと「うわさ」のカレー."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Rumors about him spread throughout the school.",
+          "ja": "彼のうわさは学校中に広まった."
+        }
+      ]
+    },
+    {
+      "id": "350",
+      "word": "spell",
+      "phonetic": "[spél]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をつづる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 呪文",
+            "③ (天気などのある一続きの)期間"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ③ a dry[wet] spell「日照り[雨]続き」",
+        "語法 ① a spelling mistake[error]「つづりの間違い」",
+        "名 spelling「つづり方」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "How do you spell your name?",
+          "ja": "名前はどのようにつづりますか."
+        },
+        {
+          "en": "cast a spell on the man",
+          "ja": "その男に呪文をかける"
+        },
+        {
+          "en": "I've had a spell of bad luck recently.",
+          "ja": "最近ずっとついてない."
+        }
+      ]
+    },
+    {
+      "id": "351",
+      "word": "pronounce",
+      "phonetic": "[prənáuns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (単語など)を発音する",
+            "② (判決など)を宣言する, 〜と断言する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「発音する, はっきり口に出して言う」",
+        "頻出 ① pronounce ~ right[wrong]「正しく[間違って]〜を発音する」",
+        "語源 pro-[前方]+-nounce[言う]→「前に向かって言う」",
+        "☆annóunce「〜を発表する」",
+        "名 pronunciátion「発音」",
+        "形 pronóunced「明白な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "How do you pronounce your name?",
+          "ja": "あなたの名前はどう発音するのですか."
+        },
+        {
+          "en": "pronounce a sentence",
+          "ja": "判決を宣言する"
+        }
+      ]
+    },
+    {
+      "id": "352",
+      "word": "sign",
+      "phonetic": "[sáin]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 兆候, 印",
+            "② 標識, 看板, 掲示"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を署名する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇áutograph「((有名人の)サイン」",
+        "名 sígnature「((書類の)署名」",
+        "頻出 sign up for ~「〜(授業, 寄付など)を申し込む」",
+        "名 sígnal「合図, 兆候」",
+        "名 sign language「手話」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "show signs of recovery",
+          "ja": "回復の兆しが見られる"
+        },
+        {
+          "en": "a sign saying “No more Hiroshima”",
+          "ja": "「ノーモアヒロシマ」の看板"
+        },
+        {
+          "en": "sign an autograph for a fan",
+          "ja": "ファンのためにサインをする"
+        }
+      ]
+    },
+    {
+      "id": "353",
+      "word": "mean",
+      "phonetic": "[míːn]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を意味する",
+            "② (to do)〜するつもりだ"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 意地悪な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③は別語源.",
+        "頻出 ① mean A by B「AはBの意味である」",
+        "I mean it.「本気だよ.」",
+        "名 méaning「意味」",
+        "形 méaningful「意味がある」",
+        "⇔méaningless「意味がない」",
+        "[活用] mean-meant-meant [mént]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What does that mean?",
+          "ja": "それはどういう意味ですか."
+        },
+        {
+          "en": "I didn't mean to bother you.",
+          "ja": "邪魔をするつもりじゃなかった."
+        },
+        {
+          "en": "Don't be so mean.",
+          "ja": "そんな意地悪言わないでよ."
+        }
+      ]
+    },
+    {
+      "id": "354",
+      "word": "publish",
+      "phonetic": "[pʌ́blɪʃ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を出版する",
+            "② (公式に結果などを)発表する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(本, 雑誌, 研究など)を出版する」から「(結果など)を公表する」まで.",
+        "頻出 “Publish or perish.”「出版せよ, さもなければ死を.」(＊大学の研究者は論文を発表しないのならば消え去るしかないという厳しさを表した表現.)",
+        "語源 publi-[公]+-ish[動詞化]→「(情報などを)公にする」",
+        "名 publicátion「出版, 出版物」",
+        "名 a publishing company「出版社」(=a públisher)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This magazine is published twice a year.",
+          "ja": "この雑誌は年に2回発行されている."
+        },
+        {
+          "en": "The latest results will be published tomorrow.",
+          "ja": "最新の結果は明日発表される."
+        }
+      ]
+    }
+  ]
+}

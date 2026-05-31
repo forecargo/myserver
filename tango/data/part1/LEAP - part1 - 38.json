@@ -1,0 +1,326 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "270",
+      "word": "divide",
+      "phonetic": "diváid",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を分割する",
+            "② (by 〜) (~によって) (数字)を割る"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "division"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「いくつかの部分やグループに分ける」",
+        "頻出 ① divide A into B 「AをBに分ける」 divide ~ in two「~を2つ[半分]に分ける」 (*この表現のみ into は使わない)",
+        "名 division 「分割, 割り算, 部門」",
+        "◎ multiply A by B 「AにBを掛ける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "divide the stew into small portions",
+          "ja": "① シチューを小分けにする"
+        },
+        {
+          "en": "Eight divided by four is two.",
+          "ja": "② 8÷4=2"
+        }
+      ]
+    },
+    {
+      "id": "271",
+      "word": "count",
+      "phonetic": "káunt",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を数える"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 数える",
+            "③ 重要である"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "countable"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "countless"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "④ (on 〜) (~を)全面的に当てにする",
+        "▶ ①②「(~を)数える」→③「(数に入れるほど)重要である」",
+        "頻出 ① count calories 「カロリー計算する」",
+        "形 countable 「数えられる」 (⇔uncountable 「数えられない」)",
+        "形 countless 「無数の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "count the money",
+          "ja": "① お金を数える"
+        },
+        {
+          "en": "count down from ten to one",
+          "ja": "② 10から1まで数える"
+        },
+        {
+          "en": "First impressions really count.",
+          "ja": "③ 第一印象は本当に重要だ."
+        },
+        {
+          "en": "I'm counting on you.",
+          "ja": "④ (君を)当てにしているよ."
+        }
+      ]
+    },
+    {
+      "id": "272",
+      "word": "weigh",
+      "phonetic": "wéi",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 〜の重さがある"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜の重さを量る",
+            "③ 〜を(比較)検討する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "weight"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "outweigh"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② weigh oneself 「自分の体重を計る」",
+        "③ weigh (up) A against B 「AをBと比較検討する」",
+        "名 weight 「体重, 重さ」 ⇔gain[lose] weight 「太る[やせる]」",
+        "他 outweigh 「(重要度などで)〜を上回る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weigh 40 kilograms",
+          "ja": "① 40キロの重さだ"
+        },
+        {
+          "en": "weigh myself on the scale",
+          "ja": "② 体重計で体重を計る"
+        },
+        {
+          "en": "weigh (up) the benefits of the plan against the costs",
+          "ja": "③ 費用に照らしてその計画の利点を検討する"
+        }
+      ]
+    },
+    {
+      "id": "273",
+      "word": "quarter",
+      "phonetic": "kwɔ́ːrtər",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 4分の1, 15セント",
+            "② (都市のある特定な)地域"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 「4分の3」なら three quarters (4分の1×3)と表現する. (*一般的な「分数」は〈a[基数詞]〉+〈序数詞〉で表現する. ⇒「3分の1」a third, 「5分の2」two fifths)",
+        "派生 quart-「4番目の」 ☆quartet「四重奏」 square「正方形, 平方」",
+        "◎ headquarters 「本部(←司令を出す)の場所」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a quarter to ten",
+          "ja": "① 10時15分前(9:45)"
+        },
+        {
+          "en": "a student[business] quarter",
+          "ja": "② 学生[ビジネス]街"
+        }
+      ]
+    },
+    {
+      "id": "274",
+      "word": "lot",
+      "phonetic": "lát",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (a - of ~) 多くの〜"
+          ]
+        },
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "② (副詞的に) (a -) とても"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (one's) (~の)状況, 運命"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ (何らかの目的を持つ)土地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「区画された場所, かたまり」→③「(与えられた場所→)状況」, ④「(与えられた区画→)土地」 (*①=lots of ~ (*くくだけた表現))",
+        "注意 a lot of ~は〈可算〉〈不可算〉のどちらにも使用可.",
+        "派生 lottery 「宝くじ」 ⇔win the lottery 「宝くじに当たる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a lot of dolphins",
+          "ja": "① 多くのイルカ"
+        },
+        {
+          "en": "He has changed a lot.",
+          "ja": "② 彼はとても変わった."
+        },
+        {
+          "en": "work hard to improve my lot",
+          "ja": "③ 私の置かれた状況を改善する努力をする"
+        },
+        {
+          "en": "a parking lot",
+          "ja": "④ 駐車場"
+        }
+      ]
+    },
+    {
+      "id": "275",
+      "word": "pile",
+      "phonetic": "páɪl",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 積み重ね, 山",
+            "② 多量"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を積み重ねる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「山のように積み重なった状態」 ◊stack「(整理されて)積み重なった状態」 heap「(雑然と)積み重なった状態」",
+        "派生 「柱」が元の意味. 派生 pillar 「支柱」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a pile of ironed shirts",
+          "ja": "① アイロンをかけたシャツの山"
+        },
+        {
+          "en": "piles of work",
+          "ja": "② 山のような(多量の)仕事"
+        },
+        {
+          "en": "pile spaghetti onto her plate",
+          "ja": "③ 彼女の皿にスパゲッティを盛る"
+        }
+      ]
+    },
+    {
+      "id": "276",
+      "word": "rate",
+      "phonetic": "réɪt",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 割合, 速さ",
+            "② (ホテルなどの一定の)料金"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を評価する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(変化・増減などの)進度, (ある特定の)速度, 速さ」",
+        "頻出 ① at a ~ rate 「〜な割合で」 ⇔at a great rate 「非常な速さで」",
+        "at the rate of ~ 「〜の割合で」",
+        "at any rate 「とにかく, いずれにせよ」",
+        "派生 「計算(された)」が元の意味. 派生 rating 「格付け, 率」",
+        "他 overrate 「〜を過大評価する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the declining birth rate",
+          "ja": "① 少子化(下がりつつある出生率)"
+        },
+        {
+          "en": "Our hotel offers special rates for children.",
+          "ja": "② 私どものホテルはお子様には特別料金が適用されます."
+        },
+        {
+          "en": "rate him as a good poet",
+          "ja": "③ 彼を良い詩人と評価する"
+        }
+      ]
+    }
+  ]
+}

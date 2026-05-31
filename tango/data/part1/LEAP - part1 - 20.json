@@ -1,0 +1,352 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "140",
+      "word": "hide",
+      "phonetic": "[háid]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を隠す"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 隠れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 受け身の場合, 必ずしも「(意図的に)隠された」とは限らない。",
+        "⇨ be hidden from view「視界から隠れている」",
+        "形 hidden「隠れた」 ⇨ a hidden camera「隠しカメラ」",
+        "play hide-and-seek「かくれんぼをする」",
+        "[活用]hide-hid-hidden"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "hide the comic under the pillow",
+          "ja": "枕の下に漫画を隠す"
+        },
+        {
+          "en": "my hiding place",
+          "ja": "私の隠れ場所"
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "word": "draw",
+      "phonetic": "[drɔ́ː]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (線で絵などを)描く",
+            "② (注意を)引く",
+            "③ 〜を引っ張る, 集める"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "drawer「引き出し」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③「引く」→②「(注意, 関心などを)引く」 ①「(線を引く→)描く」",
+        "頻出 ① draw ~ up「(文書など)を作成する」 a drawing room「応接間」",
+        "② draw (one's) attention to A「Aに(〜の)注目を集める」",
+        "③ The game drew 50,000 people.「その試合は5万人を集めた」",
+        "[活用]draw-drew-drawn"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "draw her portrait",
+          "ja": "彼女の似顔絵を描く"
+        },
+        {
+          "en": "draw his attention to that fact",
+          "ja": "その事実に彼の注目を向けさせる"
+        },
+        {
+          "en": "a cart drawn by two horses",
+          "ja": "2頭の馬に引かれた荷馬車"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "word": "join",
+      "phonetic": "[dʒɔ́in]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (クラブ, 団体などに)加わる",
+            "② 〜をつなぐ",
+            "③ (食事などを)ともにする"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "④ (議論, 活動などに)参加する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "joint「接合, 関節」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「〜を(仲間)に入れる」 (①→組織 ④→活動)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "join the Me Too movement",
+          "ja": "Me Too 運動に参加する"
+        },
+        {
+          "en": "join pipes together",
+          "ja": "配水管を一本につなぐ"
+        },
+        {
+          "en": "Join us for lunch.",
+          "ja": "お昼を一緒に食べようよ."
+        },
+        {
+          "en": "join in the discussion",
+          "ja": "その議論に(途中から)参加する"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "word": "throw",
+      "phonetic": "[θróu]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を投げる",
+            "② (away/out)〜を捨てる",
+            "③ (パーティなどを)催す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 投げ捨てること"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③ 口語では have や give も可. (*hold は堅い語.)",
+        "頻出 throw up (=vomit)「吐く」 throw ~ in「(店が)〜をおまけする」",
+        "注意 ② 代名詞が目的語の場合は throw it away [×throw away it] の語順.",
+        "他 overthrow「〜を転覆させる」",
+        "[活用]throw-threw-thrown"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Throw me a rope.",
+          "ja": "ロープを投げてくれ."
+        },
+        {
+          "en": "Don't throw away your empty cans here.",
+          "ja": "ここに空き缶を捨てるな."
+        },
+        {
+          "en": "throw a party for him",
+          "ja": "彼のためにパーティを開く"
+        },
+        {
+          "en": "a throw of 100 meters",
+          "ja": "100メートルの投てき"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "word": "operate",
+      "phonetic": "[άpərèit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (機械などを)操作する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 手術する",
+            "③ (機械などが)作動する, (組織が)運営される"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「仕事ををする[させる]」",
+        "頻出 ② operate on (人) for ~「(人)に〜の手術をする」",
+        "名 operation「手術, 活動, 操作」 ⇨ have an operation「手術を受ける」 rescue operations「救護活動」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "operate five machines at once",
+          "ja": "1度に5台の機械を操作する"
+        },
+        {
+          "en": "operate on a patient for cancer",
+          "ja": "患者にがんの手術をする"
+        },
+        {
+          "en": "operate efficiently",
+          "ja": "能率的に運営される"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "word": "repair",
+      "phonetic": "[ripέər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を修理する",
+            "② 〜を修復する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 修理, 修復"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「元通りにする」 (*米)日常では fix のほうが使われる.)",
+        "頻出 ③ under repair「修理中で」 beyond repair「修理不可能で」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -pair (=prepare 準備する) -> 「再び使えるように準備する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "repair a bicycle",
+          "ja": "自転車を修理する"
+        },
+        {
+          "en": "repair damage to his neck",
+          "ja": "彼の首の損傷を修復する"
+        },
+        {
+          "en": "a smartphone under repair",
+          "ja": "修理中のスマートフォン"
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "word": "sew",
+      "phonetic": "[sóu]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を縫う",
+            "② (on)(ボタンなどを)縫いつける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「ミシン」は a sewing machine の「マシン」からできた語.",
+        "名 sewing「裁縫」 ⇨ a sewing box「裁縫箱」",
+        "参 knit [nít]「〜を編む」 knitting「編み物」 dustcloth「雑巾」",
+        "[活用]sew-sewed-sewn"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She sews all her own dresses.",
+          "ja": "彼女は自分の服をすべて自分で縫っている."
+        },
+        {
+          "en": "sew a button on",
+          "ja": "ボタンを縫いつける"
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "word": "raise",
+      "phonetic": "[réiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を上げる",
+            "② (子ども, 作物)を育てる",
+            "③ (お金, 資金を)集める",
+            "④ (問題を)提起する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "⑤ 賃上げ, 昇給"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「上げる」のイメージ.",
+        "頻出 ③ raise awareness「意識を高める」",
+        "注意 自 rise「上がる」と区別.",
+        "名 fund-raiser「資金調達者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Raise your hand.",
+          "ja": "手を上げて."
+        },
+        {
+          "en": "raise children",
+          "ja": "子どもを育てる"
+        },
+        {
+          "en": "raise funds",
+          "ja": "資金を集める"
+        },
+        {
+          "en": "raise the issue of aging",
+          "ja": "高齢化の問題を提起する"
+        },
+        {
+          "en": "get a pay raise",
+          "ja": "給料が上がる(賃上げを得る)"
+        }
+      ]
+    }
+  ]
+}
