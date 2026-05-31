@@ -85,6 +85,14 @@ services:
     volumes:
       - ./gpt-image:/app
 
+  tango:
+    build: ./tango
+    restart: unless-stopped
+    ports:
+      - "8005:8005"
+    volumes:
+      - ./tango:/app
+
   ngrok:
     image: ngrok/ngrok:latest
     restart: unless-stopped
