@@ -19,6 +19,7 @@ IMAP_PORT = int(os.getenv("IMAP_PORT", "993"))
 IMAP_USERNAME = os.getenv("IMAP_USERNAME")
 IMAP_PASSWORD = os.getenv("IMAP_PASSWORD")
 SENDER_FILTER = os.getenv("SENDER_FILTER", "ncbonline@nttdata-ncb.co.jp")
+INCIDENT_MATCH_WINDOW_HOURS = int(os.getenv("INCIDENT_MATCH_WINDOW_HOURS", "72"))
 
 RECOVERY_KEYWORDS = (
     "解消", "復旧確認", "正常稼働確認", "正常稼働を確認",
@@ -87,7 +88,7 @@ def _find_existing_incident(session, system_name: str, occurred_at_str: str | No
     if occurred_at_str:
         target_dt = _parse_dt(occurred_at_str)
         if target_dt:
-            window = timedelta(hours=4)
+            window = timedelta(hours=INCIDENT_MATCH_WINDOW_HOURS)
             for c in candidates:
                 if c.occurred_at:
                     diff = abs(
