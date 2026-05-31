@@ -1,0 +1,342 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1310",
+      "word": "session",
+      "phonetic": "[séʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (活動の)期間",
+            "② (議会などの)会期",
+            "③ (ある活動の)集まり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「集団で何かをやることに[時間]」(*③は訳出しないこともある)",
+        "語源: sess-(=sit 座る) + -ion[こと]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a Q&A session",
+          "ja": "質疑応答の時間をとる"
+        },
+        {
+          "en": "during the Diet session",
+          "ja": "国会会期中に"
+        },
+        {
+          "en": "a recording session",
+          "ja": "レコーディング(のための集まり)"
+        }
+      ]
+    },
+    {
+      "id": "1311",
+      "word": "pause",
+      "phonetic": "[pɔ́ːz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 休止"
+          ]
+        },
+        {
+          "part_of_speech": "動",
+          "meanings": [
+            "② 休止する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほんの一瞬 stop すること」",
+        "日本語でも「ポーズを置く(間を置く)」などで使われる。",
+        "ただし、「(カメラなどに向かって)ポーズをとる」は pose なので注意。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "begin to speak after a long pause",
+          "ja": "長い休止の後に話し始める"
+        },
+        {
+          "en": "pause and look up",
+          "ja": "(手を)休めて, 顔を上げる"
+        }
+      ]
+    },
+    {
+      "id": "1312",
+      "word": "annual",
+      "phonetic": "[ǽnjuəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 年に1度の",
+            "② 1年間の(予算, 収入など)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: annu-[年]",
+        "派生: anniversary「記念日」",
+        "副: annually「毎年, 年1回の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the annual report",
+          "ja": "年次報告書"
+        },
+        {
+          "en": "an annual membership fee",
+          "ja": "年会費"
+        }
+      ]
+    },
+    {
+      "id": "1313",
+      "word": "eternal",
+      "phonetic": "[itə́ːrnl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(命や若さなど)永遠の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(平和, 愛, 若さなど抽象的なものが)時代を超越し, 永遠に存在する」",
+        "比較: permanent「永久的な」はより日常的な語。⇔ a permanent job「定職」",
+        "コロケーション: eternal life「永遠の命」, eternal youth「永遠の若さ」, eternal gratitude「永遠の感謝」",
+        "頻出: eternity「永遠, (死後に始まる)永遠の未来」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Do you believe in eternal life?",
+          "ja": "永遠の命を信じますか。"
+        }
+      ]
+    },
+    {
+      "id": "1314",
+      "word": "initial",
+      "phonetic": "[iníʃəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 最初の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 頭文字, イニシャル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: in-[中] + -it-[行く] + -ial[〜の] -> 「中に行く」→「始まる」",
+        "他: initiate「〜を始める」",
+        "他: initialize「〜を初期化する」",
+        "副: initially「最初は」"
+      ],
+      "word_origin": {
+        "formula": "in-[中] + -it-[行く] + -ial[〜の] -> 「中に行く」→「始まる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the initial stages of the disease",
+          "ja": "その病気の初期(最初の)段階"
+        },
+        {
+          "en": "Her initials are A.N.",
+          "ja": "彼女のイニシャルはA.N.です。"
+        }
+      ]
+    },
+    {
+      "id": "1315",
+      "word": "prior",
+      "phonetic": "[práiər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (to 〜)より前の",
+            "② (時間・順序が)前の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ previous「(時間, 順序で)前の, 以前の」より「優先性」を強調した語。",
+        "語源: pri-[前] + -or[比較級語尾]",
+        "名: priority「優先事項」",
+        "反: posterior「後の」"
+      ],
+      "word_origin": {
+        "formula": "pri-[前] + -or[比較級語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "prior to the meeting",
+          "ja": "会議の前に"
+        },
+        {
+          "en": "without prior knowledge",
+          "ja": "予備知識なしに"
+        }
+      ]
+    },
+    {
+      "id": "1316",
+      "word": "subsequent",
+      "phonetic": "[sʌ́bsikwənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(to 〜)(〜に)続いて起こる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある事柄の後である」ことを強調。",
+        "語源: sub-[下] + -sequent[続く] -> 「何かの下に続く」",
+        "派生: sequence「連続」",
+        "副: subsequently「続いて」",
+        "他: sequence「〜の配列を決定する」",
+        "例文: sequence the genomes「ゲノム解析をする」"
+      ],
+      "word_origin": {
+        "formula": "sub-[下] + -sequent[続く] -> 「何かの下に続く」",
+        "description": "sequence「連続」"
+      },
+      "examples": [
+        {
+          "en": "subsequent events",
+          "ja": "続いて起こった出来事"
+        }
+      ]
+    },
+    {
+      "id": "1317",
+      "word": "meanwhile",
+      "phonetic": "[míːnhwàil]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① その間",
+            "② (対比を示して)その一方で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜している間に, 一方」が副になったイメージ。",
+        "語源: mean-[中間] + -while[時間] -> 「その時間の間の」"
+      ],
+      "word_origin": {
+        "formula": "mean-[中間] + -while[時間] -> 「その時間の間の」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "My wife was shopping. Meanwhile, I was waiting in the car.",
+          "ja": "妻は買い物をしていた。その間, 私は車で待っていた。"
+        },
+        {
+          "en": "Imports increased by 20%. Meanwhile, exports decreased by 30%.",
+          "ja": "輸入は20%増加した。その一方で, 輸出は30%減少した。"
+        }
+      ]
+    },
+    {
+      "id": "1318",
+      "word": "routine",
+      "phonetic": "[ruːtíːn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 決まりきった仕事"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 日常の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(水まきやイヌの散歩のように)手順が決まっているいつもの仕事」",
+        "語源: route-[道] + -ine[小さい] -> 「ちょっとした道」",
+        "派生: route「道」",
+        "副: routinely「いつものように」"
+      ],
+      "word_origin": {
+        "formula": "route-[道] + -ine[小さい] -> 「ちょっとした道」",
+        "description": "route「道」"
+      },
+      "examples": [
+        {
+          "en": "Sweeping the street in front of my house is part of my daily routine.",
+          "ja": "家の前の道を掃くことは日課の一部です。"
+        },
+        {
+          "en": "be busy with my routine work",
+          "ja": "日常の業務で忙しい"
+        }
+      ]
+    },
+    {
+      "id": "1319",
+      "word": "souvenir",
+      "phonetic": "[sùːvənɪ́ər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "土産, 記念品"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に, 自分の思い出のための)土産, 記念品」",
+        "(*「(家族や友人などへの)土産」は gift や présent で表現することが多い。)",
+        "語源: sou-(=sub 下) + -ven-[来る] から「(心の)下に入って来るもの」"
+      ],
+      "word_origin": {
+        "formula": "sou-(=sub 下) + -ven-[来る] から「(心の)下に入って来るもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a souvenir of my trip to France",
+          "ja": "(私の)フランス旅行の記念品"
+        }
+      ]
+    }
+  ]
+}

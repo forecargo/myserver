@@ -1,0 +1,213 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "856",
+      "word": "contemporary",
+      "phonetic": "[kəntémpərèri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 現代の",
+            "② 同時代の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 同時代の人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① contemporary art[novels, music]「現代芸術[小説, 音楽]」",
+        "注意 文の時制によって①②は使い分けられる。",
+        "反 old-fashioned「時代遅れの」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -temp-[時間]から「同じ時間を共有する」",
+        "description": "→「同時代の」"
+      },
+      "examples": [
+        {
+          "en": "contemporary literature",
+          "ja": "① 現代文学"
+        },
+        {
+          "en": "Shakespeare was contemporary with Tokugawa Ieyasu.",
+          "ja": "② シェイクスピアは徳川家康と同時代の人だった。"
+        },
+        {
+          "en": "We were contemporaries at high school.",
+          "ja": "③ 私たちは高校の同期だった。"
+        }
+      ]
+    },
+    {
+      "id": "857",
+      "word": "lately",
+      "phonetic": "[léitli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "最近"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ここ数週間前から数日前まで」",
+        "◇récently「ここ数か月前から数日前まで」",
+        "語法 現在完了時制で使う。(*récentlyは現在完了、過去時制で使う。)",
+        "比較 late「遅い、遅く」↔遅くthe late Ms. Thatcher「故サッチャー氏」",
+        "比較 of late「最近」(*latelyより堅い表現。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Have you seen him lately?",
+          "ja": "最近彼と会った？"
+        }
+      ]
+    },
+    {
+      "id": "858",
+      "word": "immediately",
+      "phonetic": "[imíːdiətli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① すぐに",
+            "② 直接に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 日常ではright away(〈英〉straight away)のほうが使われる。",
+        "頻出 act immediately「すぐに行動する」",
+        "注意 soonは「今から短時間のうちに」だが、immediatelyは「今すぐに」の意味。",
+        "派生 immediate「当面の」our immediate concern「私たちの当面の関心」"
+      ],
+      "word_origin": {
+        "formula": "im-[否定]+-media-[媒介]から「中間にあるものがない」",
+        "description": "→「すぐに」"
+      },
+      "examples": [
+        {
+          "en": "immediately after breakfast",
+          "ja": "① 朝食後すぐに"
+        },
+        {
+          "en": "immediately behind the driver",
+          "ja": "② 運転手のすぐ後ろに"
+        }
+      ]
+    },
+    {
+      "id": "859",
+      "word": "deadline",
+      "phonetic": "[dédlain]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(for 〜) (〜の)締め切り〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かを完成しなければならない日付・時間」",
+        "頻出 meet[miss] a deadline「締め切りに間に合う[間に合わない]」",
+        "頻出 set[extend] a deadline「締め切りを設定する[延期する]」",
+        "派生 dead heat「(競争での)同着 (*close race「接戦」の意味ではないので注意)」",
+        "派生 deadlock「膠着状態(←完全に閉じ込められた状態)」"
+      ],
+      "word_origin": {
+        "formula": "dead-[死んだ] + -line[線] →「越えると死んでしまう線」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The deadline for entries is next Monday.",
+          "ja": "登録の締め切りは次の月曜日だ。"
+        }
+      ]
+    },
+    {
+      "id": "860",
+      "word": "decade",
+      "phonetic": "[dékeid]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "10年"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =a period of ten years",
+        "頻出 over the last decade「過去10年で」",
+        "比較 century「100年」, millennium「1,000年」"
+      ],
+      "word_origin": {
+        "formula": "de-[10]",
+        "description": "☆decimal「十進法の」, Décember「12月(初期のローマ暦では10月)」, dime「10セント硬貨」"
+      },
+      "examples": [
+        {
+          "en": "decades of research",
+          "ja": "数十年にわたる研究"
+        }
+      ]
+    },
+    {
+      "id": "861",
+      "word": "supply",
+      "phonetic": "[səplái]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を供給する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 供給"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(定期的あるいは長期にわたって必要な物を)与える(こと)」",
+        "頻出 ① supply (人) with 〜 / supply 〜 to (人)「(人)に〜を供給する」",
+        "注意 ②の複数形suppliesは「必需品、(複合語で)〜用品」の意味。",
+        "例 medical supplies「医療用品」, relief supplies「救援物資」",
+        "派生 accomplish「〜を成し遂げる(←ある方向に向けて共に満たす)」",
+        "(*日本語とは逆)"
+      ],
+      "word_origin": {
+        "formula": "sup-(=sub[下]) + -ply[満たす]から「下から満たす」",
+        "description": "→「〜を供給する」"
+      },
+      "examples": [
+        {
+          "en": "supply people with drinking water",
+          "ja": "① 人々に飲み水を供給する"
+        },
+        {
+          "en": "supply and demand",
+          "ja": "② 需要と供給"
+        }
+      ]
+    }
+  ]
+}

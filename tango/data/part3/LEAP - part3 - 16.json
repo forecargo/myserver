@@ -1,0 +1,304 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1151",
+      "word": "revise",
+      "phonetic": "[riváiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(制度, 予測, 論文などを)修正する, 改正する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷adjust「(数字などを)修正する」amend「(法律などを)修正する」",
+        "▷re-[再び] + -vise[見る] →「見直す」",
+        "名 revision「修正, 改訂」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -vise[見る] -> 「見直す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "revise the education system",
+          "ja": "教育制度を改正する"
+        }
+      ]
+    },
+    {
+      "id": "1152",
+      "word": "enhance",
+      "phonetic": "[inhǽns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を向上させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(質, 評判など)をより高める」",
+        "▷en-[動詞化] + -hance[=high] →「高くする」",
+        "*enrich「〜を豊かにする」",
+        "an AI-enhanced society「人工知能で強化された社会」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -hance[=high] -> 「高くする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "enhance my aesthetic sense",
+          "ja": "美意識を磨く(向上させる)"
+        }
+      ]
+    },
+    {
+      "id": "1153",
+      "word": "lower",
+      "phonetic": "[lóuər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を下げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ビジネスや専門技術に関する文章で使われる堅い語",
+        "▷make ~ lower「〜をより低くする」から。",
+        "参 better「〜を改善する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lower the voting age from 20 to 18",
+          "ja": "選挙権年齢を20歳から18歳に引き下げる"
+        }
+      ]
+    },
+    {
+      "id": "1154",
+      "word": "voyage",
+      "phonetic": "[vɔ́ɪɪdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "航海, 船旅"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(通例, 長い)船旅, 宇宙の旅」",
+        "▷voy-[道] + -age[名詞語尾] から「(旅の)道」→「航海」",
+        "▷via「〜経由で」",
+        "参 cruise「(船での)遊覧」"
+      ],
+      "word_origin": {
+        "formula": "voy-[道] + -age[名詞語尾] -> 「(旅の)道」→「航海」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make a voyage around the world",
+          "ja": "世界一周の船旅をする"
+        }
+      ]
+    },
+    {
+      "id": "1155",
+      "word": "confirm",
+      "phonetic": "[kənfə́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を確認する",
+            "② 〜を裏付ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(あやふやな事)をはっきりさせる」",
+        "▷con-[強意] + -firm[堅い] から「堅いものにする」→「〜を確認する」",
+        "*affirm「〜と断定する」(a-[=ad方向] + -firm[堅い])"
+      ],
+      "word_origin": {
+        "formula": "con-[強意] + -firm[堅い] -> 「堅いものにする」→「〜を確認する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① confirm the booking",
+          "ja": "① 予約を確認する"
+        },
+        {
+          "en": "② confirm his theory",
+          "ja": "② 彼の理論を裏付ける"
+        }
+      ]
+    },
+    {
+      "id": "1156",
+      "word": "ensure",
+      "phonetic": "[inʃúər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を確実にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物事)が確実に起こるようにする, 保証する」",
+        "▷en-[動詞化] + -sure[確かな] →「確かにする」(≒make sure)"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -sure[確かな] -> 「確かにする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Please ensure that you leave[×will leave] nothing behind.",
+          "ja": "忘れ物をしないように気をつけ(確実にして)ください。"
+        }
+      ]
+    },
+    {
+      "id": "1157",
+      "word": "address",
+      "phonetic": "①②③ [ədrés] ④*[ædres]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に取り組む",
+            "② 〜に呼びかける"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 演説",
+            "④ 住所"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(気持ち, 言葉, 手紙を)〜に向けて出す」",
+        "▷ad-[方向] + -dress[向ける] →「(問題へ向ける)→〜に取り組む」「(聴衆へ向ける)→〜に話しかける」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -dress[向ける] -> 「(問題へ向ける)→〜に取り組む」「(聴衆へ向ける)→〜に話しかける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① address an environmental problem",
+          "ja": "① 環境問題に取り組む"
+        },
+        {
+          "en": "② address the nation",
+          "ja": "② 国民に呼びかける"
+        },
+        {
+          "en": "③ an opening address",
+          "ja": "③ 開会の辞(演説)"
+        },
+        {
+          "en": "④ the sender's address",
+          "ja": "④ 差出人の住所"
+        }
+      ]
+    },
+    {
+      "id": "1158",
+      "word": "approach",
+      "phonetic": "[əpróutʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (to 〜) (〜への)取り組み方, 接近"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に取り組む, 接近する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(距離[時間])に近づく」→「(問題など)に取り組む」",
+        "▷(*② 自と他としても使うが, [×]approach to 〜は不可。)",
+        "▷ap-[方向] + -proach[近づく]"
+      ],
+      "word_origin": {
+        "formula": "ap-[方向] + -proach[近づく]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a new approach to teaching languages",
+          "ja": "① 言語教育への新たな取り組み方"
+        },
+        {
+          "en": "② approach the problem carefully",
+          "ja": "② その問題に慎重に取り組む"
+        }
+      ]
+    },
+    {
+      "id": "1159",
+      "word": "resolve",
+      "phonetic": "[rizálv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を解決する",
+            "② (to do) (〜する)決心をする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「① (問題など)を解決する」",
+        "▶「② (失敗の後に)〜しようと決心する」",
+        "▷re-[再び] + -solve[解決する] →「解決する」",
+        "*dissolve「溶ける」",
+        "名 resolution「解決, (国連などの)決議」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -solve[解決する] -> 「解決する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① resolve the problem on my own",
+          "ja": "① 自分でその問題を解決する"
+        },
+        {
+          "en": "② After his divorce, he resolved to remain single for the rest of his life.",
+          "ja": "② 彼は離婚後, 一生独身でいる決意をした。"
+        }
+      ]
+    }
+  ]
+}

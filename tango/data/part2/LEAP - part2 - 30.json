@@ -1,0 +1,311 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "619",
+      "word": "bend",
+      "phonetic": "[bénd]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 身をかがめる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を曲げる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (道の)カーブ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自分の体やまがった物などを)ぐいと曲げる」",
+        "頻出 ① bend down 「腰をかがめる」",
+        "[活用] bend-bent-bent"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bend down to pick up the pen",
+          "ja": "ペンを拾い上げるために腰をかがめる"
+        },
+        {
+          "en": "bend my knees",
+          "ja": "ひざを曲げる"
+        },
+        {
+          "en": "go around a bend",
+          "ja": "カーブを曲がる"
+        }
+      ]
+    },
+    {
+      "id": "620",
+      "word": "hug",
+      "phonetic": "[hʌ́g]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人を)(愛情こめて)抱きしめる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 抱擁"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ embrace「〜を抱擁する」のほうが堅い語。",
+        "頻出 ② give (人) a (big) hug 「((人を)(ぎゅっと)抱きしめる)」",
+        "＊ hold ~ in one's arms 「((赤ちゃんを)抱く(←〜を両手で抱える))」",
+        "cuddle 「((ぬいぐるみや子どもを)抱きしめる, 寄り添う)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The players hugged each other tightly.",
+          "ja": "選手たちは互いにしっかり抱き合った(互いをしっかり抱いた)。"
+        },
+        {
+          "en": "give her a hug",
+          "ja": "彼女を抱きしめる"
+        }
+      ]
+    },
+    {
+      "id": "621",
+      "word": "stare",
+      "phonetic": "[stέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (at ~) (~を)じっと見つめる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 凝視"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意識的に)じっと見つめる」",
+        "頻出 ① vacantly stare 「ぼんやり見つめる」",
+        "＊ sta- [じっとして] ☆ stay 「滞在する, とどまる」 stár 「星」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stare at a computer screen",
+          "ja": "コンピュータの画面をじっと見つめる"
+        },
+        {
+          "en": "give him a long, hard stare",
+          "ja": "彼を長い間睨みつける"
+        }
+      ]
+    },
+    {
+      "id": "622",
+      "word": "gaze",
+      "phonetic": "[géiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (at [on] ~) (~を)見つめる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 視線, 凝視"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(無意識のうちに)じっと見つめる, 見入る, 見とれる」",
+        "頻出 ① gaze into space 「(考え事・ショックなどで)宙を見つめる」",
+        "＊ 彼の芸(を)ずっと「見つめる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "gaze at the ceiling",
+          "ja": "天井を見つめる"
+        },
+        {
+          "en": "attract everybody's gaze",
+          "ja": "皆の視線を集める"
+        }
+      ]
+    },
+    {
+      "id": "623",
+      "word": "glance",
+      "phonetic": "[glǽns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ちらりと見る"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② ちらりと見ること"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 一瞬だけ look (自ら見る)する",
+        "頻出 ② at a glance 「一目見て」 at first glance 「一見したところでは」",
+        "give [throw] a glance at ~ 「〜をちらっと見る」",
+        "＊「きらりと光ること」が元の意味。☆ glitter 「ぴかぴか光る」 gold 「金」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "glance at the clock",
+          "ja": "時計をちらっと見る"
+        },
+        {
+          "en": "have a glance at her",
+          "ja": "彼女をちらっと見る"
+        }
+      ]
+    },
+    {
+      "id": "624",
+      "word": "glimpse",
+      "phonetic": "[glímps]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜がちらりと見える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② ちらりと見えること"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 一瞬だけ see (偶然見える)する",
+        "頻出 ② catch a glimpse of ~ 「〜を一日見る, 垣間見る」",
+        "＊「きらりと光ること」が元の意味。☆ glitter 「ぴかぴか光る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "glimpse her face",
+          "ja": "彼女の顔がちらりと見える"
+        },
+        {
+          "en": "catch a glimpse of the singer",
+          "ja": "その歌手を一目見る"
+        }
+      ]
+    },
+    {
+      "id": "625",
+      "word": "stretch",
+      "phonetic": "[strétʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (手足や体)を伸ばす, 広げる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 伸びる, 広がる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (ひときれの)広がり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(麺が)のびる」は become soft と表現する。",
+        "頻出 ② stretch up 「((何かを取ろうとしたりするために)背伸びする)」",
+        "日本語でも「ストレッチ(手足を伸ばす柔軟運動)」はよく使われる。",
+        "⇨ stretch (oneself) 「背伸びする」 ? stretcher 「担架」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stretch my arms",
+          "ja": "腕を伸ばす"
+        },
+        {
+          "en": "stretch to the horizon",
+          "ja": "地平線まで広がる"
+        },
+        {
+          "en": "a stretch of desert",
+          "ja": "一面の砂漠(砂漠の広がり)"
+        }
+      ]
+    },
+    {
+      "id": "626",
+      "word": "stumble",
+      "phonetic": "[stʌ́mbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① つまずく",
+            "② (across [into] ~) (~に)偶然出会う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(体が)つまずく」から「(試みなどで)失敗する」まで。",
+        "頻出 ① stumble over [on] ~ 「〜につまずく, 〜で失敗する」",
+        "＊ at- [じっとして] ☆ stop 「止まる」 stámmer 「どもる」",
+        "? fall down [over] 「転倒する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stumble over a rock",
+          "ja": "石につまずく"
+        },
+        {
+          "en": "stumble across an old friend",
+          "ja": "旧友と偶然出会う"
+        }
+      ]
+    }
+  ]
+}

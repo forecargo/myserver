@@ -1,0 +1,252 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "612",
+      "word": "fasten",
+      "phonetic": "[fǽsn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を固定する",
+            "② (ボタンなど)をかける、留める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「2つのものを1つにつなげる」",
+        "★ fastener「ファスナーなどの留め具」",
+        "★ zip ~ up「〜のチャック(ジッパー)を閉める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fasten my seat belt",
+          "ja": "シートベルトを締める"
+        },
+        {
+          "en": "fasten my coat",
+          "ja": "コートのボタンを留める"
+        }
+      ]
+    },
+    {
+      "id": "613",
+      "word": "fix",
+      "phonetic": "[fíks]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を固定する",
+            "② 〜を修理する",
+            "③ (主に〈米〉) (食事、飲み物)を作る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(ガタガタしたものを) (ネジやクギなどで)固定する」",
+        "→ ②「〜を修理する」",
+        "→ ③「(食事、飲み物)を作る」",
+        "★ fixed「固定した、一定した」 ⇔ a fixed exchange rate「固定為替相場」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fix the camera to the tripod",
+          "ja": "カメラを三脚に固定する"
+        },
+        {
+          "en": "fix the bike",
+          "ja": "自転車を修理する"
+        },
+        {
+          "en": "fix lunch",
+          "ja": "昼食を用意する"
+        }
+      ]
+    },
+    {
+      "id": "614",
+      "word": "install",
+      "phonetic": "[instɔ́ːl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (機械など)を設置する",
+            "② 〜をインストールする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 install a security camera「防犯カメラを設置する」",
+        "注意 installment「分割払い金」は別語源。",
+        "⇔ in ten monthly installments「10回の分割払いで」",
+        "★ in-[中] + -stall[立っ] →「中に立たせる」",
+        "名 installatión「設置」"
+      ],
+      "word_origin": {
+        "formula": "in-[中] + -stall[立っ] -> 「中に立たせる」",
+        "description": "名 installatión「設置」"
+      },
+      "examples": [
+        {
+          "en": "install a vending machine in the school cafeteria",
+          "ja": "学生食堂に自動販売機を設置する"
+        },
+        {
+          "en": "install the app on my smartphone",
+          "ja": "私のスマートフォンにそのアプリをインストールする"
+        }
+      ]
+    },
+    {
+      "id": "615",
+      "word": "resist",
+      "phonetic": "[rizíst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を我慢する",
+            "② 〜に抵抗する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(好きなこと)を我慢する」",
+        "▶「〜できない、〜が難しい」という文脈で使用する。",
+        "★ re-[逆らって] + -sist[立つ] →「我慢する、抵抗する」",
+        "☆ exist「存在する」",
+        "名 resistance「抵抗(力)」",
+        "形 resistant「抵抗する、抵抗力のある」",
+        "形 irresistible「抵抗できない、大変魅力的な」"
+      ],
+      "word_origin": {
+        "formula": "re-[逆らって] + -sist[立つ] -> 「我慢する、抵抗する」",
+        "description": "☆ exist「存在する」, 名 resistance「抵抗(力)」, 形 resistant「抵抗する、抵抗力のある」, 形 irresistible「抵抗できない、大変魅力的な」"
+      },
+      "examples": [
+        {
+          "en": "cannot resist buying new shoes",
+          "ja": "ついつい新しい靴を買ってしまう (買うのを我慢できない)"
+        },
+        {
+          "en": "Stainless steel resists rust.",
+          "ja": "ステンレスはさびない(さびに抵抗する)."
+        }
+      ]
+    },
+    {
+      "id": "616",
+      "word": "obey",
+      "phonetic": "[oubέi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜に従う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人、命令、規則など)に従う」",
+        "頻出 目的語には one's parent(s)「((両)親」、the traffic lights「信号機」、an order「命令」、the law「法律」などをとる。",
+        "注意「忠告に従う」は follow [take] advice と表現する。",
+        "★ ob-[=against に対して] + -ey[audi(聞く)の変形] →「〜の言うことを聞く」",
+        "形 obédient (to ~)「((〜に)従順な」",
+        "名 obédience「従順さ」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -ey[audi(聞く)の変形] -> 「〜の言うことを聞く」",
+        "description": "形 obédient (to ~)「((〜に)従順な」, 名 obédience「従順さ」"
+      },
+      "examples": [
+        {
+          "en": "obey my parents",
+          "ja": "親の言うことに従う"
+        }
+      ]
+    },
+    {
+      "id": "617",
+      "word": "engage",
+      "phonetic": "[ingéidʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (in ~) (活動に)従事する",
+            "② (with ~) (理解のために、人や考えに)関与する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (関心、注意など)を引く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(契約などで)縛りつける」",
+        "頻出 ③ engage one's interest「((人の)興味を引きつける」",
+        "★ engagement「関与、約束、婚約」",
+        "形 engaged「従事した、婚約した」 ⇔ be engaged in ~「〜に従事している」",
+        "⇔ be engaged to (人)「((人)と婚約している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "engage in relief operations",
+          "ja": "救援活動に従事する"
+        },
+        {
+          "en": "engage with the kids",
+          "ja": "その子どもたちと関わる"
+        },
+        {
+          "en": "The puzzle engaged his interest all day.",
+          "ja": "彼は1日中パズルをしていた (パズルが彼の関心を引いた)."
+        }
+      ]
+    },
+    {
+      "id": "618",
+      "word": "bump",
+      "phonetic": "[bʌ́mp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(into ~) ① (〜に)ぶつかる",
+            "② (〜に)偶然出会う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ドン!と)衝突する」",
+        "★「バン!(とぶつかる)」という擬音から覚えよう。",
+        "名 bómb [bάm]「爆弾」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bump into a pile of books",
+          "ja": "本の山にぶつかる"
+        },
+        {
+          "en": "bump into my ex-girlfriend in a supermarket",
+          "ja": "スーパーで前の彼女に偶然出会う"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "627",
+      "word": "press",
+      "phonetic": "[prés]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(強く)押す",
+            "② 〜を押しつける, 勧める"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (the 〜)報道機関, 出版"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①pushより「強く押し込む」",
+        "頻出 ③ a press conference「記者会見」",
+        "▶ ③は「印刷機」の意味から。",
+        "派生 pressing「差し迫った」",
+        "派生 pressure (on 〜)「(〜に対する)プレッシャー, 圧力」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "press the button",
+          "ja": "ボタンを押す"
+        },
+        {
+          "en": "press money on him",
+          "ja": "彼にお金を無理やり渡す"
+        },
+        {
+          "en": "freedom of the press",
+          "ja": "報道の自由"
+        }
+      ]
+    },
+    {
+      "id": "628",
+      "word": "drag",
+      "phonetic": "[dræg]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(ずるずると)引きずる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(重いもの)を引きずる」",
+        "▷ draw「(軽く)すーっと引く」",
+        "頻出 drag and drop「ドラッグアンドドロップ(←コンピュータの画面上で移動させたいファイルやアイコンを引きずって, 目的の場所に落とすこと)」",
+        "派生 drag one's feet「足をひきずる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "drag the table into the kitchen",
+          "ja": "台所までそのテーブルを引きずる"
+        }
+      ]
+    },
+    {
+      "id": "629",
+      "word": "lean",
+      "phonetic": "[líːn]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (against [on] 〜) (〜に)寄りかかる",
+            "② (forward)身を乗り出す"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ (健康的に)痩せている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(まっすぐな姿勢から)上体を曲げる」(*③は別語源)",
+        "頻出 lean back「身体を後ろに反らす」",
+        "注意 ③ thin「(病的に)痩せている」と区別。",
+        "派生 lean「傾く」→「寄りかかる」",
+        "☆ client「依頼人(←寄りかかる人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lean against the wall",
+          "ja": "壁にもたれる"
+        },
+        {
+          "en": "lean forward over the handrail",
+          "ja": "手すりから身を乗り出す"
+        },
+        {
+          "en": "a tall, lean man",
+          "ja": "背の高いほっそりした男"
+        }
+      ]
+    },
+    {
+      "id": "630",
+      "word": "scratch",
+      "phonetic": "[skrǽtʃ]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をひっかく, かく"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② ひっかき傷"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(体の一部, 床など)をひっかく」",
+        "頻出 ② from scratch「ゼロから(←ひっかく所から)」",
+        "⇨ I learned French from scratch.「私はゼロからフランス語を取得した。」",
+        "☆ スクラッチカード」はコインなどで「ひっかく」カードのこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "scratch my back",
+          "ja": "背中をかく"
+        },
+        {
+          "en": "a scratch on her arm",
+          "ja": "彼女の腕のひっかき傷"
+        }
+      ]
+    },
+    {
+      "id": "631",
+      "word": "bow",
+      "phonetic": "[báu]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① おじぎをする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② おじぎ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(役者[ホテルなどの従業員, 召使い]が顧客[客, 主人]に)おじぎをする」",
+        "▷ 握手(shake hands (with 〜))が一般的な挨拶。",
+        "頻出 ① bow down to 〜「〜に屈する」",
+        "頻出 ② give [take] a bow「(役者などが観客に)おじぎをして応える」",
+        "注意 bóu [bóu]「弓」は発音が異なる。(*rainbow「虹(=雨の弓)」)",
+        "☆「曲げる」が元の意味で「腰を曲げる」→「おじぎをする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bow to each other",
+          "ja": "お互いにおじぎをする"
+        },
+        {
+          "en": "The singer gave a bow to the audience.",
+          "ja": "その歌手は観客におじぎをした。"
+        }
+      ]
+    },
+    {
+      "id": "632",
+      "word": "nod",
+      "phonetic": "[nád]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① うなずく",
+            "② (off)うたた寝する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ うなずき, 会釈"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(同意を示すために)うなずく」",
+        "注意 ① 他の用法もある。",
+        "⇨ nod one's head「うなずく」",
+        "反 shake one's head「首を横に振る」(*否定, 拒否などを表す。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She nodded and smiled.",
+          "ja": "彼女はうなずき, 微笑んだ。"
+        },
+        {
+          "en": "nod off in class",
+          "ja": "授業中にうたた寝する"
+        },
+        {
+          "en": "give a slight nod",
+          "ja": "軽くうなずく"
+        }
+      ]
+    },
+    {
+      "id": "633",
+      "word": "sigh",
+      "phonetic": "[sái]",
+      "level_tag": "B2B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ため息をつく"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② ため息"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「退屈や疲れ, 失望や安堵などを表す。",
+        "頻出 ① sigh deeply「深くため息をつく」",
+        "頻出 sigh with relief「安堵のため息をつく」",
+        "頻出 ② give a sigh「ため息をつく」",
+        "☆ 日本語のため息「ハァ」は英語では“Sigh.”となる。(*擬音語)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He sighed saying, “You win.”",
+          "ja": "「降参」と言って彼はため息をついた。"
+        },
+        {
+          "en": "with a sigh of relief",
+          "ja": "ほっと安堵のため息をついて"
+        }
+      ]
+    },
+    {
+      "id": "634",
+      "word": "yawn",
+      "phonetic": "[jɔ́ːn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① あくびをする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② あくび"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 擬音語。",
+        "☆「大きな口を開ける」が元の意味。",
+        "派生 pick one's nose「鼻をほじる」",
+        "派生 have a runny nose「鼻水が出る」",
+        "派生 snore「いびきをかく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stretch and yawn loudly",
+          "ja": "伸びをして大きな声であくびをする"
+        },
+        {
+          "en": "hold back a yawn",
+          "ja": "あくびをこらえる"
+        }
+      ]
+    }
+  ]
+}

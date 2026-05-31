@@ -1,0 +1,307 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1809",
+      "word": "prompt",
+      "phonetic": "[prɔ́mpt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 迅速な"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜に促す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「適切な速やかな」",
+        "副 promptly 「迅速に, (時刻など)きっかりで」 ⇔ promptly at 3 o'clock 「3時きっかりに」 (=at 3 o'clock sharp)"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -mpt[=take 取る] から 「先に取る」→「迅速な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a prompt reply",
+          "ja": "① 即答(迅速な返答)"
+        },
+        {
+          "en": "What prompted you to buy that?",
+          "ja": "② どうしてそんなものを買う気になったの(何があなたに買うように促したのか)?"
+        }
+      ]
+    },
+    {
+      "id": "1810",
+      "word": "swift",
+      "phonetic": "[swift]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "素早い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動きや反応などが)速い」 (*quick や fast より堅い語。)",
+        "熟 素早いじゃんけんぽん. 副 swiftly 「速やかに」",
+        "早い回復"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a swift recovery",
+          "ja": "素早い回復"
+        }
+      ]
+    },
+    {
+      "id": "1811",
+      "word": "mighty",
+      "phonetic": "[máiti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "強力な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「圧倒的に強く, 印象的な」"
+      ],
+      "word_origin": {
+        "formula": "might-[力] + -y[形容詞尾]",
+        "description": "名 almighty 「全能の」"
+      },
+      "examples": [
+        {
+          "en": "The pen is mightier than the sword.",
+          "ja": "ペンは剣より強し."
+        }
+      ]
+    },
+    {
+      "id": "1812",
+      "word": "explicit",
+      "phonetic": "[iksplísit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(発言や文章などが)明確な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 場合によっては「露骨なほど明らかな」",
+        "明確な指示"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に] + -plicit[折る] →「外に開かれた」",
+        "description": "反 implicit 「暗黙の」"
+      },
+      "examples": [
+        {
+          "en": "explicit instructions",
+          "ja": "明確な指示"
+        }
+      ]
+    },
+    {
+      "id": "1813",
+      "word": "authentic",
+      "phonetic": "[ɔːθéntik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "本物の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(絵画などが)偽造ではない」から「本格的な(料理など)」まで.",
+        "参 automatic 「自動の」"
+      ],
+      "word_origin": {
+        "formula": "aut-[自己] + -hentic[行為者] から 「本人がやった」→「本物の」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an authentic painting by Van Gogh",
+          "ja": "ゴッホの本物の絵画"
+        }
+      ]
+    },
+    {
+      "id": "1814",
+      "word": "wit",
+      "phonetic": "[wit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "機知, 機知に富んだ人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「頭の回転, 機転」",
+        "参 wisdom 「知恵」",
+        "機知に富んだ男性"
+      ],
+      "word_origin": {
+        "formula": "wit[知っている]→「機知」",
+        "description": "類 wise 「賢い」 形 witty 「機知に富んだ」"
+      },
+      "examples": [
+        {
+          "en": "a man of great wit",
+          "ja": "機知に富んだ男性"
+        }
+      ]
+    },
+    {
+      "id": "1815",
+      "word": "thrive",
+      "phonetic": "[θráiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (会社などが)好調である, 繁栄する",
+            "② (動)[植]物などが健やかに育つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある時点において活発に成長, 発展している」",
+        "形 thriving 「好調である, 繁栄している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The IT industry is thriving.",
+          "ja": "① IT業界は好調だ."
+        },
+        {
+          "en": "Our children are thriving.",
+          "ja": "② うちの子どもたちはすくすく育っている."
+        }
+      ]
+    },
+    {
+      "id": "1816",
+      "word": "dim",
+      "phonetic": "[dím]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 薄暗い",
+            "② (記憶などが)ぼんやりした"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を暗くする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(光が十分に当たっていなくて)薄暗い」 類 dark 「暗い(真っ黒な)」",
+        "反 bright 「明るい」",
+        "参 dim-witted 「ばかな, うすのろ(←機知がぼんやりした)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a dim light",
+          "ja": "① 薄暗い明かり"
+        },
+        {
+          "en": "a dim memory",
+          "ja": "② ぼんやりした記憶"
+        },
+        {
+          "en": "dim the light",
+          "ja": "③ 照明を暗くする"
+        }
+      ]
+    },
+    {
+      "id": "1817",
+      "word": "gloomy",
+      "phonetic": "[glúːmi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 薄暗い",
+            "② 陰気な, 悲観的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(顔の表情が)暗い」から「(経済や社会の見通し[予測]が)暗い」まで.",
+        "類 loom 「(ぼんやりと)姿を現す」 名 gloom 「陰気さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a gloomy old room",
+          "ja": "① 薄暗く古びた部屋"
+        },
+        {
+          "en": "a gloomy forecast",
+          "ja": "② 悲観的な予想"
+        }
+      ]
+    },
+    {
+      "id": "1818",
+      "word": "barren",
+      "phonetic": "[bǽrən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "不毛な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不毛な(土地)」から「不毛な(議論)」まで.",
+        "語源 「野蛮人が住むような」が元の意味. 類 barbarian 「野蛮人」",
+        "参 baby 「赤ん坊(←バーバーと意味不明なことを言う者)」 反 fertile 「肥沃な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a barren, rocky mountain",
+          "ja": "草木も生えない(不毛な)岩山"
+        }
+      ]
+    }
+  ]
+}

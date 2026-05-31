@@ -1,0 +1,498 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2255",
+      "word": "skeptical",
+      "phonetic": "[sképtikəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "懐疑的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "skept-(=spect 見る) →「(本当かと)ジロリと見る」",
+        "description": "(*秋葉原の読み方) 「アキハバラ」→(今)「アキバ」に似た変化。"
+      },
+      "examples": []
+    },
+    {
+      "id": "2256",
+      "word": "accustomed",
+      "phonetic": "[əkʌ́stəmd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(to 〜) (〜に)慣れている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ be used to 〜のほうが使われる。"
+      ],
+      "word_origin": {
+        "formula": "ac-(=ad 方向) + -custom [習慣] →「〜を習慣化して」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2257",
+      "word": "obsessed",
+      "phonetic": "[əbsést]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(with [by] 〜) (〜に)取りつかれて, 頭が一杯で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 obsession 「取りつかれること」 形 obsessive 「執拗な」",
+        "▷ be obsessed with my weight 「体重のことばかり気にしている」"
+      ],
+      "word_origin": {
+        "formula": "ob-(=against に対して) + -sess-(=sit 座る) →「〜に対して動かない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "be obsessed with my weight",
+          "ja": "体重のことばかり気にしている"
+        }
+      ]
+    },
+    {
+      "id": "2258",
+      "word": "preoccupied",
+      "phonetic": "[priːɑ́kjupàid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(with 〜) (〜に)夢中になった, (〜で)頭がいっぱいで"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ほかのことに注意を払えないほど)特定のことが頭から離れない」",
+        "名 preoccupation 「夢中, 没頭, 執着」",
+        "▷ be preoccupied with my weight 「体重のことばかり気にしている」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -occupied [占有されて] →「何よりも心が奪われて」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "be preoccupied with my weight",
+          "ja": "体重のことばかり気にしている"
+        }
+      ]
+    },
+    {
+      "id": "2259",
+      "word": "prone",
+      "phonetic": "[próun]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(be 〜 to do) (好ましくないことを) 〜しがちである"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ to do ではなく, to の後に 名 が置かれる形も可。",
+        "名 propensity 「(好ましくない, 生まれつきの)傾向」",
+        "▷ be prone to (catch) colds 「かぜをひきがちである」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] →「ある方向に傾いている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "be prone to (catch) colds",
+          "ja": "かぜをひきがちである"
+        }
+      ]
+    },
+    {
+      "id": "2260",
+      "word": "apt",
+      "phonetic": "[æpt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(be 〜 to do) (本来的に) 〜する傾向がある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人[物]が性格[性質]的に, ある特定の時期に)〜する傾向がある」",
+        "名 aptitude 「素質, 適正」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This river is apt to dry up during summer.",
+          "ja": "この川は夏の間に干上がりやすい。"
+        }
+      ]
+    },
+    {
+      "id": "2261",
+      "word": "empirical",
+      "phonetic": "[impírikəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "経験[実験]による"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「実際の経験や科学的実証に基づいた」",
+        "名 experience 「経験」 副 empirically 「経験的に」",
+        "▷ empirical knowledge 「実際の経験で得た知識」"
+      ],
+      "word_origin": {
+        "formula": "em-(=ex 外に) + -piri-[危険] から「危険を冒して外に出て」→「経験によって得られる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "empirical knowledge",
+          "ja": "実際の経験で得た知識"
+        }
+      ]
+    },
+    {
+      "id": "2262",
+      "word": "susceptible",
+      "phonetic": "[səséptəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(to 〜) (〜の)影響を受けやすい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(病気に)かかりやすい」から「だまされやすい」まで。",
+        "☆ réception 「もてなし(←(人や物)を受け入れる)」",
+        "▷ Older people are susceptible to infections.",
+        "「高齢者は感染症にかかりやすい。」"
+      ],
+      "word_origin": {
+        "formula": "sus-(=sub 下) + -cepti-[取る] + -ble[可能] →「何かの影響下に置かれ(影響を受け取り)やすい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Older people are susceptible to infections.",
+          "ja": "高齢者は感染症にかかりやすい。"
+        }
+      ]
+    },
+    {
+      "id": "2263",
+      "word": "pivotal",
+      "phonetic": "[pívətl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "極めて重要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかの何よりも重要な」",
+        "名 pivot 「ピボット, 回転軸」",
+        "▷ play a pivotal role 「極めて重要な役割を果たす」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "play a pivotal role",
+          "ja": "極めて重要な役割を果たす"
+        }
+      ]
+    },
+    {
+      "id": "2264",
+      "word": "fabulous",
+      "phonetic": "[fǽbjuləs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① とても素敵な",
+            "② 莫大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 主に女性が使う語。"
+      ],
+      "word_origin": {
+        "formula": "fabu-(=fable 寓話) + -ous [形容詞語尾] →「(寓話のように)素敵な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a fabulous hotel in Hawaii",
+          "ja": "ハワイのとても素敵なホテル"
+        },
+        {
+          "en": "a fabulous fortune",
+          "ja": "莫大な財産"
+        }
+      ]
+    },
+    {
+      "id": "2265",
+      "word": "splendid",
+      "phonetic": "[spléndid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "素晴らしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(建物, 家具, 芸術品などが)美しくて, 印象深い」",
+        "名 splendor 「輝き」",
+        "▷ splendid jewels 「素晴らしい宝石」"
+      ],
+      "word_origin": {
+        "formula": "splen-[光る] + -id [形容詞語尾] →「光り輝いている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "splendid jewels",
+          "ja": "素晴らしい宝石"
+        }
+      ]
+    },
+    {
+      "id": "2266",
+      "word": "intriguing",
+      "phonetic": "[intríːgin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "興味深い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 堅い語で, 日常では very interesting のほうが使われる。",
+        "☆ intricate 「複雑な」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + trig-(=trick 仕掛け) →「(中がどうなっているのか)興味をそそる」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2267",
+      "word": "ingenious",
+      "phonetic": "[indʒíːniəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "独創的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「非常に効果的でなおかつ独創的な(装置, 方法, 計画)」",
+        "名 ingenuity 「独創性」",
+        "名 genius 「天才, 天才的才能」 (*つづりに -o- がないので注意。)",
+        "▷ an ingenious device to get rid of fleas 「ノミを駆除する独創的な装置」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -geni-[genius 天才] →「中に天才がいる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an ingenious device to get rid of fleas",
+          "ja": "ノミを駆除する独創的な装置"
+        }
+      ]
+    },
+    {
+      "id": "2268",
+      "word": "affluent",
+      "phonetic": "[ǽfluənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "裕福な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(国家, 国民, 地域などが)豊かな」"
+      ],
+      "word_origin": {
+        "formula": "af-(=ad 方向) + -flu-[流れる] から「(お金や物が)流れ込んできて」→「裕福な」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2269",
+      "word": "renowned",
+      "phonetic": "[rináund]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "有名な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある特質や活動で)名高い」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -nown[=name 名前] →「別名がつくほどに有名」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2270",
+      "word": "eminent",
+      "phonetic": "[émənənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "著名な, 地位が高い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大きな成功を収めた(科学者や医者など)」",
+        "名 eminence 「著名なこと」"
+      ],
+      "word_origin": {
+        "formula": "e-(=ex 外に) + -min-[突き出る] ☆ mouth 「口」 mountain 「山」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2271",
+      "word": "conspicuous",
+      "phonetic": "[kənspíkjuəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "目立つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ほかと比較して際立っているため)目立つ」",
+        "▷ The tall basketball player was very conspicuous.",
+        "「その身長の高いバスケットボールの選手はとても目立っていた。」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -spic-[=spect 見る] から「皆からよく見える」→「目立つ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The tall basketball player was very conspicuous.",
+          "ja": "その身長の高いバスケットボールの選手はとても目立っていた。"
+        }
+      ]
+    },
+    {
+      "id": "2272",
+      "word": "adept",
+      "phonetic": "[ædépt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(at 〜) (〜に)熟練した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(知識や技術などが必要なことを)上手にできる」",
+        "☆ inept 「不向きの」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -ept[=apt 適格] →「〜に向いている」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2273",
+      "word": "proficient",
+      "phonetic": "[prəfíʃənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "熟達した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(鍛錬によって, 能力や技術が)望ましい基準に達した」",
+        "名 proficiency 「熟達」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -fic-[作る] から「前に進んで成果を作り上げる」→「熟達した」",
+        "description": null
+      },
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1706",
+      "word": "assure",
+      "phonetic": "[əʃúər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に保証する, 確信させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「心配を取り除いて納得させる」",
+        "名 assurance「保証」",
+        "reassure「〜を安心させる」(re-[くり返し])"
+      ],
+      "word_origin": {
+        "formula": "as-(=ad 方向) + -sure [確かな] から「確かなものにする」→「保証する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The doctor assured me that her life was not in danger.",
+          "ja": "医者は彼女の命に危険はないと私に保証してくれた。"
+        }
+      ]
+    },
+    {
+      "id": "1707",
+      "word": "assess",
+      "phonetic": "[əsés]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を評価する, 査定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(価値や影響などを)を基準に達しているか評価する」",
+        "名 assessment「評価, 査定」(*「環境アセスメント」(=環境に与える影響の評価))"
+      ],
+      "word_origin": {
+        "formula": "as-(=ad 方向) + -sess [座る] から「(評価のために)座る」→「評価する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "assess the method's efficiency",
+          "ja": "その方法の効率を査定する"
+        }
+      ]
+    },
+    {
+      "id": "1708",
+      "word": "concede",
+      "phonetic": "[kənsíːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(譲歩して)〜を認める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自分はダメだと感じて)認める」",
+        "名 concession「譲歩, (敗北などの)容認」"
+      ],
+      "word_origin": {
+        "formula": "con-(=共に) + -cede [進む] →「相手と共に進む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Jim finally conceded that my proposal might be better.",
+          "ja": "私の提案のほうがよいかもしれないとジムはとうとう認めた。"
+        }
+      ]
+    },
+    {
+      "id": "1709",
+      "word": "compromise",
+      "phonetic": "[kάmprəmàiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 妥協する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (主義など)を曲げる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 妥協"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ (with (人))「((人と)妥協する」",
+        "(on 〜)「〜に関して妥協する」"
+      ],
+      "word_origin": {
+        "formula": "com-(=con 共に) + -promise [約束] から「皆で申し合わせる」→「妥協」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① compromise with him on this",
+          "ja": "① この点で彼と妥協する"
+        },
+        {
+          "en": "② compromise my beliefs",
+          "ja": "② 私の信念を曲げる"
+        },
+        {
+          "en": "③ make a compromise about the plan",
+          "ja": "③ その計画について妥協する"
+        }
+      ]
+    },
+    {
+      "id": "1710",
+      "word": "comprehend",
+      "phonetic": "[kὰmprihénd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(十分に)理解している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「包括的に理解している」",
+        "predator「捕食者」",
+        "名 comprehension「理解」",
+        "形 comprehensive「理解できる」(*-ble に重点。)"
+      ],
+      "word_origin": {
+        "formula": "com-(=con 共に) + -pre- [前に] + -hend [手] →「すべてをつかむ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I could not comprehend what had happened. (*通例, 否定文で使用する。)",
+          "ja": "私は何が起きたのかが理解できなかった。"
+        }
+      ]
+    },
+    {
+      "id": "1711",
+      "word": "reconcile",
+      "phonetic": "[rékənsàil]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A with B) (A)を(Bと)調和させる, 和解させる",
+            "② (oneself to 〜)〜を仕方なく受け入れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "離婚を「和解させる」",
+        "名 reconciliation「和解する[させる]こと」"
+      ],
+      "word_origin": {
+        "formula": "re-[元へ] + -concile [=council 調停] →「調停によって元の状態に戻す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① reconcile an ideal with reality",
+          "ja": "① 理想と現実との折り合いをつける"
+        },
+        {
+          "en": "② reconcile myself to reality",
+          "ja": "② 現実を(仕方なく)受け入れる"
+        }
+      ]
+    },
+    {
+      "id": "1712",
+      "word": "instill",
+      "phonetic": "[instíl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(思想など)を(徐々に)教える, 〜を植え付ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(理念やあるべき行動などを)長年かけて徐々に教え込む」",
+        "distill「〜を蒸留する」"
+      ],
+      "word_origin": {
+        "formula": "in- [中に] + -still [滴る] →「(中に一滴ずつ)滴り落とす」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "instill good manners in children",
+          "ja": "子どもたちにマナーを教える"
+        }
+      ]
+    },
+    {
+      "id": "1713",
+      "word": "alert",
+      "phonetic": "[ələ́ːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 油断のない, 用心深い"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (公的な)警告"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「神経を集中して警戒している」"
+      ],
+      "word_origin": {
+        "formula": "al-(=all 全意) + -ert [=erect 立てる] から「見張り台に立って」→「用心して」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① We are alert to any possible danger.",
+          "ja": "① 私たちはどんな危険にも対処できるように用心している。"
+        },
+        {
+          "en": "② A tsunami alert was issued.",
+          "ja": "② 津波警報が出された。"
+        }
+      ]
+    },
+    {
+      "id": "1714",
+      "word": "cognitive",
+      "phonetic": "[kάgnətiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "認知の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「脳内における情報処理過程の分析に関わる」",
+        "recognize「〜を認識する」",
+        "Cogito, ergo sum.「我思う, 故に我あり」(*哲学者デカルトの言葉)"
+      ],
+      "word_origin": {
+        "formula": "cogni-[認知] + -tive [性質] →「認知に関わる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "cognitive science",
+          "ja": "認知科学"
+        }
+      ]
+    },
+    {
+      "id": "1715",
+      "word": "intuition",
+      "phonetic": "[ìntjuːíʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "直観"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物事を感覚的に理解する力」",
+        "tutor「家庭教師(←見てくれる人)」",
+        "tuition (fee)「授業料(←授業を見る料金)」",
+        "by intuition「直観で」"
+      ],
+      "word_origin": {
+        "formula": "in- [中に] + -tui- [見る] →「(心の)中を見る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "rely on my intuition",
+          "ja": "自分の直観に頼る"
+        }
+      ]
+    },
+    {
+      "id": "1716",
+      "word": "vow",
+      "phonetic": "[váu]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 誓い"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を誓う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "結婚式の「誓い」は英語で marriage[wedding] vows と表現する。",
+        "▶「(永遠の愛や何かを実行することを)誓う」",
+        "vote「投票する(←〜を支持すると誓う)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① make a vow never to smoke again",
+          "ja": "① 二度とたばこは吸わないと誓う (誓いをする)"
+        },
+        {
+          "en": "② vow eternal love",
+          "ja": "② 永遠の愛を誓う"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1977",
+      "word": "nuisance",
+      "phonetic": "[njúːsns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "迷惑（になるもの）"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「面倒な人, 物, 状況」",
+        "★ nui-[害] + -ance[こと] 「innocent「無罪の(←悪がない)」 noise「騒音」とセットで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a real nuisance",
+          "ja": "本当に迷惑なもの"
+        }
+      ]
+    },
+    {
+      "id": "1978",
+      "word": "surge",
+      "phonetic": "[sə́ːrdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (感情などの)高まり",
+            "② (数字など)急増"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きな感情が)突然, 沸き起こってきたり, (数値が)急上昇すること」",
+        "☆surface「表面(←上に運ばれたもの)」 派 surgence「(通例, 好ましくないもの)復活」"
+      ],
+      "word_origin": {
+        "formula": "sur-[上] + -ge[運ぶ] -> 「上に運ぶ」→「高まり」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① feel a surge of anger",
+          "ja": "① 怒りがこみあげてくる (怒りの高まりを感じる)"
+        },
+        {
+          "en": "② a surge in blood sugar",
+          "ja": "② 血糖値の急増"
+        }
+      ]
+    },
+    {
+      "id": "1979",
+      "word": "incentive",
+      "phonetic": "[inséntiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "励み"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(賞金や手当などの)外部から与えられる動機」",
+        "★ プロ野球の「インセンティブ契約」とは「選手の成績などに応じて, 基本給とは別にボーナスが支払われる契約」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an incentive to work hard",
+          "ja": "一生懸命働く励み"
+        }
+      ]
+    },
+    {
+      "id": "1980",
+      "word": "outcome",
+      "phonetic": "[áutkʌ̀m]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "結果"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「会議や議論, 戦争などの(予想が難しい)結果」"
+      ],
+      "word_origin": {
+        "formula": "out-[外に] + -come[来る] -> 「外に出てきたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "predict the outcome of this election",
+          "ja": "この選挙の結果を予想する"
+        }
+      ]
+    },
+    {
+      "id": "1981",
+      "word": "factor",
+      "phonetic": "[fáktər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "要因"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何らかの結果を生み出す)要素」",
+        "派 a decisive factor「決定的な要因」 social factors「社会的な要因」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a key factor in[×of] his success",
+          "ja": "彼の成功のかぎとなる要因"
+        }
+      ]
+    },
+    {
+      "id": "1982",
+      "word": "liable",
+      "phonetic": "[láiəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (to do) 〜しがちだ",
+            "② (to 〜) (病気などに)かかりやすい",
+            "③ (for 〜) (〜に対して) (法的に)責任がある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①主に「好ましくない事」に使われる",
+        "★ li-[縛る] religion「宗教(←神と人間を強く結ぶ)」 派 liability「(法的)責任」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Meg is liable to make mistakes.",
+          "ja": "① メグはミスをしやすい。"
+        },
+        {
+          "en": "② be liable to injury",
+          "ja": "② けがをしやすい"
+        },
+        {
+          "en": "③ be liable for the accident",
+          "ja": "③ その事故の責任を負う"
+        }
+      ]
+    },
+    {
+      "id": "1983",
+      "word": "thorough",
+      "phonetic": "[θóːrou]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "完全な, 徹底的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(細部に至るまで)徹底的な」",
+        "★ 元は through「〜を通して」の強調形だった。(「全部通して」→「徹底的な」) 副 thoroughly「徹底的に」 派 thoroughbred「純血種の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "do a thorough cleaning of our house",
+          "ja": "我が家の大(徹底的な)掃除をする"
+        }
+      ]
+    },
+    {
+      "id": "1984",
+      "word": "adequate",
+      "phonetic": "[ǽdikwət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "十分な, 適切な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある目的に対して十分な数量がある」",
+        "反 inadequate「不十分な, 不適切な」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -equat-[=equal 等しい] -> 「〜に対して同じ(十分な)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "His salary is adequate to support his family.",
+          "ja": "彼の給料は家族を養うには十分だ。"
+        }
+      ]
+    },
+    {
+      "id": "1985",
+      "word": "overall",
+      "phonetic": "[óuvərɔ̀ːl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 全体的な, 全面的な"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "② 全体的に, 全面的に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「あらゆるものを含めた(て)」"
+      ],
+      "word_origin": {
+        "formula": "over-[覆う] + -all[すべて] -> 「すべてを覆った」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① an overall estimate",
+          "ja": "① 全体的な見積もり"
+        },
+        {
+          "en": "② Overall, prices are still high.",
+          "ja": "② 全体的に見て, 物価はまだ高い。"
+        }
+      ]
+    }
+  ]
+}

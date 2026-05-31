@@ -1,0 +1,317 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1228",
+      "word": "stream",
+      "phonetic": "[striːm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 小川",
+            "② (a ~ of ~) (~の)流れ"
+          ]
+        },
+        {
+          "part_of_speech": "動詞",
+          "meanings": [
+            "① (水などが)流れる",
+            "② (インターネットに接続しながら動画や音声を再生する方法) ストリーミング",
+            "③ (手順など)を合理化, 簡略化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶《大きさ》river(川) > stream > brook(小川)",
+        "他 streamline「(手順など)を合理化, 簡略化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a mountain stream",
+          "ja": "谷川"
+        },
+        {
+          "en": "an endless stream of visitors",
+          "ja": "途切れることのない訪問客の流れ"
+        }
+      ]
+    },
+    {
+      "id": "1229",
+      "word": "tide",
+      "phonetic": "[táid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 潮(の干満), 潮流",
+            "② 時流"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「潮の干満の際の流れ」",
+        "time「時間」と同語源。(昔は「潮の干満」で「時間」を計っていた。)",
+        "Time and tide wait for no man.「歳月人を待たず。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The tide is in[out].",
+          "ja": "満[干]潮である。"
+        },
+        {
+          "en": "go with the tide of the times",
+          "ja": "時流に乗る"
+        }
+      ]
+    },
+    {
+      "id": "1230",
+      "word": "reef",
+      "phonetic": "[riːf]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(岩や砂の)礁"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「水面に見え隠れする岩」",
+        "語源「(海底の)あばら骨」が語源",
+        "☆rib「あばら骨」",
+        "The Great Barrier Reef「グレートバリアリーフ(オーストラリアのQueensland州北東岸に広がる世界最大のサンゴ礁)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "coral reef",
+          "ja": "サンゴ礁"
+        }
+      ]
+    },
+    {
+      "id": "1231",
+      "word": "habitat",
+      "phonetic": "[hǽbətæ̀t]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "生息地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある動[植]物の生活に適した場所」",
+        "habit-「持つ」→「住居を持っている」",
+        "☆have「~を持っている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the natural habitat of sea lions",
+          "ja": "アシカの自然生息地"
+        }
+      ]
+    },
+    {
+      "id": "1232",
+      "word": "volcano",
+      "phonetic": "[vɑlkə́inou]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "火山"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「地下のマグマが噴出して生じた山」",
+        "ローマ神話の「火の(Vulcan)」から。",
+        "形 volcanic「火山の」",
+        "参 volcanic ash「火山灰」",
+        "参 lava「溶岩」",
+        "参 crater「火口」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That volcano erupted last year.",
+          "ja": "その火山は昨年噴火した。"
+        }
+      ]
+    },
+    {
+      "id": "1233",
+      "word": "mine",
+      "phonetic": "[máin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 鉱山",
+            "② 地雷(=landmine)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「地下にある物」",
+        "名 mineral「鉱物, 鉱石」",
+        "名 miner「鉱夫」",
+        "名 minefield「地雷原」",
+        "参 urban mine「都市鉱山(←都市部で大量に廃棄された工業製品をレアメタルなどの鉱山に見立てた表現)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "work in a coal mine",
+          "ja": "炭鉱で働く"
+        },
+        {
+          "en": "lay mines",
+          "ja": "地雷を仕掛ける"
+        }
+      ]
+    },
+    {
+      "id": "1234",
+      "word": "swallow",
+      "phonetic": "[swɑ́lou]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① ツバメ"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② ~を飲み込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(食べ物)を丸のみする」から「(考えなど)をうのみにする」まで。",
+        "「飲みこむ」ために, 座(すわ)ろう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "One swallow does not make a summer.",
+          "ja": "《ことわざ》早合点は禁物(ツバメ一羽で夏になるわけではない)。"
+        },
+        {
+          "en": "swallow[×drink] a capsule",
+          "ja": "カプセルを飲み込む"
+        }
+      ]
+    },
+    {
+      "id": "1235",
+      "word": "web",
+      "phonetic": "[wéb]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① クモの巣",
+            "② インターネット(www=the World Wide Web)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇nést「(鳥, 動物, 昆虫などの)巣」",
+        "参 website「ウェブサイト(≒日本語の「ホームページ」)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weave a web",
+          "ja": "(クモが)巣を張る"
+        },
+        {
+          "en": "via the Web",
+          "ja": "インターネット経由で"
+        }
+      ]
+    },
+    {
+      "id": "1236",
+      "word": "mosquito",
+      "phonetic": "[məskíːtou]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "蚊"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶mósque「(イスラム教の)モスク」とは別語源。",
+        "参 bée「ハチ」",
+        "参 beetle「カブトムシ」",
+        "参 cockroach「ゴキブリ」",
+        "参 cricket「コオロギ」",
+        "参 dragonfly「トンボ」",
+        "参 firefly「ホタル」",
+        "参 fly「ハエ」",
+        "参 grasshopper「バッタ, キリギリス」",
+        "参 moth「ガ」",
+        "参 spider「クモ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was bitten by a mosquito.",
+          "ja": "蚊に刺された。"
+        }
+      ]
+    },
+    {
+      "id": "1237",
+      "word": "cattle",
+      "phonetic": "[kǽtl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "ウシ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶(集合的に)家畜のウシ",
+        "(*通例, [×]cattles)",
+        "うちの実家では「ウシ」を飼っとる。",
+        "参 ców「(1頭の)ウシ, 雌牛」",
+        "参 búll「(1頭の去勢前の)雄牛」",
+        "参 óx「(1頭の去勢後の)雄牛」",
+        "(*sheep は〈単複同形〉。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cattle, sheep, and other domestic animals",
+          "ja": "ウシ, ヒツジとそれ以外の家畜"
+        }
+      ]
+    }
+  ]
+}

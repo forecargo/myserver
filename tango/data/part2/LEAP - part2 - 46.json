@@ -1,0 +1,219 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "734",
+      "word": "generous",
+      "phonetic": "[dʒénərəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "気前のよい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「寛大な(心が広い)」→「気前のよい」",
+        "注意「気前のよい」はbroad-mindedと表現するのがふつう。",
+        "gen-[生む] (*gen-の形の語はプラスイメージのものが多い。) genius「天才」",
+        "名 generosity「気前のよさ」",
+        "反 stingy「ケチな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "give a generous tip",
+          "ja": "気前よく(気前のよい額の)チップを置く"
+        }
+      ]
+    },
+    {
+      "id": "735",
+      "word": "intellectual",
+      "phonetic": "[ìntəlékʧuəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "知的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「知力を練磨した, アカデミックな」",
+        "(*通例, 限定用法で用いる。)",
+        "頻出 intellectual curiosity「知的好奇心」",
+        "注意 intellect「知性(↔感情)」は「成熟した人間」だけが有するため, an intellectual childは不自然な表現で, ふつう使われない。",
+        "名 intellect「知性」「知識人, インテリ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "intellectual property",
+          "ja": "知的財産"
+        }
+      ]
+    },
+    {
+      "id": "736",
+      "word": "curious",
+      "phonetic": "[kjúəriəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (人が主語)好奇心が強い",
+            "② (物が主語)奇妙な, 好奇心をそそる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① be curious to do「〜を知り[見, 聞き]たがる」",
+        "cur-[=cure世話]から「気にかける」→「知りたがる」",
+        "名 curiosity「好奇心」",
+        "句 out of curiosity「好奇心から」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Babies are curious about everything.",
+          "ja": "① 赤ん坊はすべての物に好奇心が強い。"
+        },
+        {
+          "en": "② It is curious that we have not heard from her for days.",
+          "ja": "② 彼女から何日も連絡がないのは奇妙だ。"
+        }
+      ]
+    },
+    {
+      "id": "737",
+      "word": "imaginative",
+      "phonetic": "[imǽdʒənətiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "想像力豊かな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意-tiveの形の形は「((人の)性質)」を示すことが多い。",
+        "↔ sensitive「繊細な」 creative「創造的な」など。",
+        "形 imaginary「架空の」(*虚数(i)はan imaginary numberの略。)",
+        "形 imaginable「想像できる, 考えうる限りの」",
+        "↔ the best way imaginable「考えうる最高のやり方」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Children are very imaginative.",
+          "ja": "子どもは非常に想像力豊かだ。"
+        }
+      ]
+    },
+    {
+      "id": "738",
+      "word": "afford",
+      "phonetic": "[əfɔ́ːrd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (can ~)〜する余裕がある",
+            "② (SVO₁O₂, O₁に)O₂を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①主に「(経済的に)余裕がある」(*「(時間的に)余裕が」ある場合はhave enough time to doと表現するほうがふつう。)",
+        "▶ ②「(喜び, 機会などを)与える」〈まれ〉",
+        "頻出 ① cannot afford (名詞) / to do「〜の / 〜する余裕がない」",
+        "af-[=ad方向]-ford[=forth前へ]から「前進する」→「① (前進できる)余裕がある」",
+        "② (前に出て)与える",
+        "形 affordable「手ごろな価格の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I cannot afford to buy a new car.",
+          "ja": "① 新車を買う余裕がない。"
+        },
+        {
+          "en": "◇ I cannot buy a new car.",
+          "ja": "◇ (何らかの事情で)新車が買えない。"
+        },
+        {
+          "en": "② Music affords me great pleasure.",
+          "ja": "② 音楽は私に大きな喜びを与えてくれる。"
+        }
+      ]
+    },
+    {
+      "id": "739",
+      "word": "eager",
+      "phonetic": "[íːgər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "熱心な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「これからすることに我慢できない」",
+        "頻出 be eager to do「〜したがる」",
+        "↔ be less eager to do「〜したくなくなる」",
+        "be eager for 〜「〜が欲しい, 熱望している」",
+        "↔ be eager for fame「名声を欲しがる」",
+        "eagle [íːgl]「ワシ」に発音が似ている。",
+        "副 eagerly「熱心に」",
+        "名 eagerness「熱心, 熱望」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Beth is eager to buy a fur coat.",
+          "ja": "ベスは毛皮のコートを買いたがっている。"
+        }
+      ]
+    },
+    {
+      "id": "740",
+      "word": "selfish",
+      "phonetic": "[sélfiʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "利己的な, 自分勝手な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ self-centered「自己中心的な」",
+        "↔ 「自分のことにしか注意が向かない」",
+        "頻出 selfish behavior「利己的なふるまい」",
+        "self-[自己]+-ish[形容詞語尾] (*-ishの形の形容詞はマイナスイメージのものが多い。)",
+        "↔ childish「子どもじみた」",
+        "副 selfishly「利己的に」",
+        "↔ behave selfishly「自分勝手に行動する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't be selfish!",
+          "ja": "自分勝手なことをしてはだめだよ。"
+        }
+      ]
+    }
+  ]
+}

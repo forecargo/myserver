@@ -1,0 +1,267 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "868",
+      "word": "enclose",
+      "phonetic": "[inklóuz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を同封する",
+            "② 〜を囲む, 閉じ込める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 「(壁などで)囲む, 閉じ込める」→①「(封筒に)入れる」",
+        "[語源] en-[動詞化] + -close[閉じる] →「封筒に同封され(閉じられ)た」",
+        "形 enclosed「同封の, 閉ざされた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "enclose several photos",
+          "ja": "① 何枚かの写真を同封する"
+        },
+        {
+          "en": "be enclosed by high walls",
+          "ja": "② 高い塀に囲まれている"
+        }
+      ]
+    },
+    {
+      "id": "869",
+      "word": "envelope",
+      "phonetic": "[énvəloup]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "封筒"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「封筒や, 封筒のように包む袋状の物」",
+        "[頻出] a return envelope「返信用封筒」",
+        "他 envelop「(毛布や霧などで)〜を包む」",
+        "参 postcard「はがき」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "put a stamp on the envelope",
+          "ja": "封筒に切手を貼る"
+        }
+      ]
+    },
+    {
+      "id": "870",
+      "word": "trick",
+      "phonetic": "[trik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (悪意のない)いたずら",
+            "② (巧妙な)手口, 策略",
+            "③ 芸, 手品"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "④ (of ~) 秘けつ",
+            "⑤ 〜をだます"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "[頻出] ① play a trick on 〜「〜にいたずらをする」",
+        "trick (人) into doing「(人)をだまして〜させる」",
+        "trick (人) out of 〜「(人)をだまして〜を奪う」",
+        "★ Halloween の \"Trick or Treat\" は \"Treat me or I'll trick you.\" 「私をもてなしなさい。さもなければいたずらしちゃうぞ。」の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "play tricks on Kevin",
+          "ja": "① ケビンにいたずらをする"
+        },
+        {
+          "en": "use cheap tricks to get promoted",
+          "ja": "② 出世のために小細工をする"
+        },
+        {
+          "en": "teach a dog some tricks",
+          "ja": "③ イヌに芸を教える"
+        },
+        {
+          "en": "learn the tricks of the trade",
+          "ja": "④ 商売のコツをつかむ"
+        },
+        {
+          "en": "trick him out of his money",
+          "ja": "⑤ 彼をだましてお金を巻き上げる"
+        }
+      ]
+    },
+    {
+      "id": "871",
+      "word": "load",
+      "phonetic": "[lóud]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 荷(物)〈可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (A with B) (A)に(B)を積む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(全体としての大量の)荷物」",
+        "[頻出] ① a load of 〜「大量の〜」",
+        "★ コンピュータのダウンロード (download) は「荷物を降ろす」, アップロード (upload) は「荷物を積む」が元の意味。",
+        "参 pack「〜を荷作りする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "carry a heavy load on my back",
+          "ja": "① 重い荷物を背負う"
+        },
+        {
+          "en": "be loaded with timber",
+          "ja": "② 材木が積まれている"
+        }
+      ]
+    },
+    {
+      "id": "872",
+      "word": "content",
+      "phonetic": "名[kántent] 形[kəntént]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 中身, 内容"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② (with 〜) (〜に)満足して"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「中身[心]が満たされている」→②「これ以上何もいらない」",
+        "[頻出] ① a table of contents「目次」",
+        "[注意] ① 通例, 「(カバン, 容器の)中身, (書物の)目次」などは複数形にするが, 「(エッセイ, スピーチなどの)内容, (インターネットの)コンテンツ, (食品中の塩分などの)含有量」などは単数形にする。",
+        "参 contain「〜を含む」と同語源。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the contents of her bag",
+          "ja": "① 彼女のかばんの中身"
+        },
+        {
+          "en": "I'm content with my current job.",
+          "ja": "② 今の仕事に満足している."
+        }
+      ]
+    },
+    {
+      "id": "873",
+      "word": "household",
+      "phonetic": "[háushòuld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (集合的に)所帯, 家庭〈可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 家庭の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "[頻出] ② household goods[items]「家庭用品」",
+        "household appliances「家電製品」",
+        "★ house-[家] + -hold[抱える] →「家が抱える(もの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a survey of 2,000 households",
+          "ja": "① 2,000世帯の調査"
+        },
+        {
+          "en": "do household chores[tʃɔ́ːrz]",
+          "ja": "② 家事(家庭の雑事)をする"
+        }
+      ]
+    },
+    {
+      "id": "874",
+      "word": "good",
+      "phonetic": "[gúd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (－s) 商品",
+            "② 利益"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ (a ~ many ~) かなりの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 「商品」(複数形で)〜用品「(*「(1つ1つの)品物」は item)",
+        "[頻出] ② the public[common] good「公共の利益」",
+        "[注意] ① 店側の発言の中で使われる。個人が「品物を買う」などの場合は an item を使う。",
+        "③ for good「永久に」(←for a good many years から)",
+        "★ Goodbye. 「さようなら。」は God be with you. が短縮された表現。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "antibacterial goods",
+          "ja": "① 抗菌グッズ"
+        },
+        {
+          "en": "Walking will do you good.",
+          "ja": "② 歩くのはいいよ(あなたに利益をもたらす)."
+        },
+        {
+          "en": "a good many hours",
+          "ja": "③ かなりの時間"
+        }
+      ]
+    }
+  ]
+}

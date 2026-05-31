@@ -1,0 +1,325 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1269",
+      "word": "rotten",
+      "phonetic": "[rάtn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "腐った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(肉, 魚, 野菜, 果物などが)腐った」",
+        "◇corrupt「(政治が)腐敗した」",
+        "＊rust [rʌ́st]「錆び」や rude [rúːd]「下品な」などの単語と発音が似ているので、意味のつながりを意識しよう。",
+        "反rot「腐敗」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "rotten eggs",
+          "ja": "腐った卵"
+        }
+      ]
+    },
+    {
+      "id": "1270",
+      "word": "notorious",
+      "phonetic": "[noutɔ́ːriəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(for 〜) (〜で)悪名高い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(悪い意味で)有名な」",
+        "◇infamous「(主に道徳的に悪くて)悪名高い」"
+      ],
+      "word_origin": {
+        "formula": "not-[気づいている]+-orious[多い]",
+        "description": "→「注目が多い」"
+      },
+      "examples": [
+        {
+          "en": "That clothing shop is notorious for its poor quality.",
+          "ja": "その服屋は低品質で悪名高い。"
+        }
+      ]
+    },
+    {
+      "id": "1271",
+      "word": "evil",
+      "phonetic": "[íːvəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (道徳的に)悪い",
+            "② (意図的に人を傷つけるような)邪悪な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 悪",
+            "② 邪悪さ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "比較dévil「悪魔」とセットで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an evil spirit",
+          "ja": "① 悪霊"
+        },
+        {
+          "en": "Racism is a social evil.",
+          "ja": "② 人種差別は社会悪だ。"
+        }
+      ]
+    },
+    {
+      "id": "1272",
+      "word": "mess",
+      "phonetic": "[més]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 乱雑",
+            "② 困難"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (with 〜) (〜を)からかう, ちょっかいを出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(部屋などが)ぐちゃぐちゃの状態」から「(計画などの)失敗」まで。",
+        "＊メスイメスがぐちゃぐちゃに散らかった部屋を「ぐちゃぐちゃにした」",
+        "派生méssy「部屋などが散らかった, 汚い」",
+        "熟語keep 〜 in order「〜を整理整頓する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make a mess of the room",
+          "ja": "① 部屋をめちゃくちゃにする"
+        },
+        {
+          "en": "Don't mess with me!",
+          "ja": "② ふざけるな(私をからかうな)！"
+        }
+      ]
+    },
+    {
+      "id": "1273",
+      "word": "vast",
+      "phonetic": "[vǽst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (地域, 土地が)広大な",
+            "② (数量が)莫大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "比較vacation「休暇(←家を空っぽ(留守)にすること)」",
+        "熟語the vast majority of 〜「圧倒的多数の〜」"
+      ],
+      "word_origin": {
+        "formula": "va-[空っぽの]+-st[最上級語尾]",
+        "description": "から「空っぽの中の空っぽ」→「広々とした」"
+      },
+      "examples": [
+        {
+          "en": "a vast palace",
+          "ja": "① 広大な宮殿"
+        },
+        {
+          "en": "a vast amount of money",
+          "ja": "② 巨額のお金"
+        }
+      ]
+    },
+    {
+      "id": "1274",
+      "word": "huge",
+      "phonetic": "[hjúːdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "巨大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「巨大な(ゾウ)」から「巨額の(赤字)」まで。(＊high「高い」と同語源だが、「大きい」という意味に変化した。)",
+        "類義gigantic [dʒaigǽntik]「(並外れて)巨大な(←巨人のような)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a huge elephant",
+          "ja": "巨大なゾウ"
+        }
+      ]
+    },
+    {
+      "id": "1275",
+      "word": "tiny",
+      "phonetic": "[táini]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "とても小さな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ほかと比べて)とても小さい」",
+        "反húge「巨大な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a tiny hole in the wall",
+          "ja": "壁に開いたとても小さな穴"
+        }
+      ]
+    },
+    {
+      "id": "1276",
+      "word": "sphere",
+      "phonetic": "[sfíər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 球体",
+            "② 領域, 範囲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「① (bállより大きい)球体」",
+        "▶「② (活動, 知識などの)領域」",
+        "派生sphere [sfíər] ★hémisphere「半球」",
+        "参考Ángloshere「英語文化圏」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a perfect sphere",
+          "ja": "① 完全な球体"
+        },
+        {
+          "en": "his achievements in the diplomatic sphere",
+          "ja": "② 外交面での彼の業績"
+        }
+      ]
+    },
+    {
+      "id": "1277",
+      "word": "strip",
+      "phonetic": "[stríp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 細長い一片"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (剥がして)〜から奪う"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 裸になる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「覆っているものを剥がす」",
+        "語源①と②③は別の語源。(①はstrip「革ひも」, ②③は「奪う」が元の意味。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a strip of paper",
+          "ja": "① 細長い紙片"
+        },
+        {
+          "en": "strip him of his rank",
+          "ja": "② 彼から地位を奪う"
+        },
+        {
+          "en": "strip (down) to the waist",
+          "ja": "③ 上半身裸になる"
+        }
+      ]
+    },
+    {
+      "id": "1278",
+      "word": "vessel",
+      "phonetic": "[vésəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (血液を通す)管",
+            "② (大型の)船"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「② ship, bóatより堅い語で, 船舶に関する文脈で使われることが多い。"
+      ],
+      "word_origin": {
+        "formula": "ves-(=váse 花瓶)+-el[小さいことを示す接尾辞]",
+        "description": "★váse「花瓶」"
+      },
+      "examples": [
+        {
+          "en": "a blood vessel in the brain",
+          "ja": "① 脳内の血管"
+        },
+        {
+          "en": "a cargo [fishing, passenger] vessel",
+          "ja": "② 貨物[漁, 客]船"
+        }
+      ]
+    }
+  ]
+}

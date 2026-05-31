@@ -1,0 +1,341 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1021",
+      "word": "solid",
+      "phonetic": "[sálid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 固体の",
+            "② がっしりした, ぎっしり詰まった"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 固体"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「中身がしっかり詰まっている」",
+        "他 consolidate「〜を固める, 統合する」 ⇨ consolidate A into B「AをBに統合する」 ㊥ liquid「液体の; 液体」 ㊥ hollow「中空の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "solid fuel",
+          "ja": "① 固形燃料"
+        },
+        {
+          "en": "solid gold",
+          "ja": "② 純金(ぎっしり詰まった金)"
+        },
+        {
+          "en": "change from solids to liquids",
+          "ja": "③ 固体から液体に変化する"
+        }
+      ]
+    },
+    {
+      "id": "1022",
+      "word": "satellite",
+      "phonetic": "[sǽtəlàit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (月などの)衛星",
+            "② 人工衛星"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①moonともいう。",
+        "▶ ②現在ではartificial satelliteと呼ぶのはまれ。",
+        "㊥「従者」が元の意味。",
+        "㊥ satellite imagery「(集合的に)衛星画像」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jupiter's sixth satellite",
+          "ja": "① 木星の6番目の衛星"
+        },
+        {
+          "en": "a communications satellite",
+          "ja": "② 通信衛星"
+        }
+      ]
+    },
+    {
+      "id": "1023",
+      "word": "orbit",
+      "phonetic": "[ɔ́ːrbit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 軌道"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (惑星などが)〜を周回する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 比喩的な意味での「軌道に乗る(=うまく行く)」はrun smoothlyなど。",
+        "㊥ orb-[丸い]+-it[行く] ㊥ exit「出口(←外へ行く)」 ㊥ trajectory「軌道」 ㊥ axis「軸」 ㊥ exorbitant「(要求・値段などが)法外な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the moon's orbit around the earth",
+          "ja": "① 地球を回る月の軌道"
+        },
+        {
+          "en": "The earth takes one year to orbit the sun.",
+          "ja": "② 地球は太陽の周りを1年で1周する。"
+        }
+      ]
+    },
+    {
+      "id": "1024",
+      "word": "launch",
+      "phonetic": "[lɔ́ːntʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (ロケットなどを)を打ち上げる",
+            "② (運動, 事業などを)を始める"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 打ち上げ, 開始, 発売"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ blast ~ off「(ロケットなどを)を打ち上げる」",
+        "㊥ lance「やり」を突き刺す(→着手する)」が元の意味。",
+        "㊥ freelance「(作家, 俳優などが)フリーの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "launch a Sun probe",
+          "ja": "① 太陽探査機を打ち上げる"
+        },
+        {
+          "en": "launch a campaign against smoking",
+          "ja": "② 禁煙運動を始める"
+        },
+        {
+          "en": "the launch of a new product",
+          "ja": "③ 新製品の発売"
+        }
+      ]
+    },
+    {
+      "id": "1025",
+      "word": "attempt",
+      "phonetic": "[ətémpt]",
+      "level_tag": "A2 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 試み"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (to do) (~しようと)試みる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(しばしば未遂に終わる)困難への挑戦」",
+        "㊥ 吹き矢を当てんプーと「試みる」",
+        "㊥ attempted「未遂の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make an attempt to break his record",
+          "ja": "① 彼の記録を破ろうと試みる"
+        },
+        {
+          "en": "attempt to escape",
+          "ja": "② 逃げようと試みる"
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "word": "capacity",
+      "phonetic": "[kəpǽsəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 能力",
+            "② 容量, 収容力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物をを受け入れられる)器」",
+        "㊥ catchと同語源で「つかむ(受け入れる)ことができる」が元の意味。",
+        "㊥ the capacity of this tank「このタンクの容量」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a remarkable capacity to learn language",
+          "ja": "① 目立った言語学習能力を有している"
+        },
+        {
+          "en": "be packed to capacity",
+          "ja": "② 超満員(収容力いっぱい)で"
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "word": "capable",
+      "phonetic": "[kéipəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (of ~) (~する)力がある",
+            "② 有能な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かをするのに必要な)能力がある」(＊「〜をやりかねない」という意味で, マイナスイメージのことにも使用。)",
+        "㊥ incapable「能力がない」",
+        "㊥ capability「能力」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This factory is capable of producing 100 cars per hour.",
+          "ja": "① この工場では1時間に100台もの車を生産できる。"
+        },
+        {
+          "en": "a capable attorney",
+          "ja": "② 有能な弁護士"
+        }
+      ]
+    },
+    {
+      "id": "1028",
+      "word": "attain",
+      "phonetic": "[ətéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (人主語)〜を達成する",
+            "② (物, 人が主語)〜に到達する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「努力して(困難な)目的を達成する」",
+        "㊥ at-(=ad方向)+-tain[=touch触れる] ㊥ attainment「達成, 到達」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have attained my ideal weight.",
+          "ja": "① 私は理想とする体重に達した。"
+        },
+        {
+          "en": "attain the age of 18",
+          "ja": "② 18歳になる"
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "word": "desperate",
+      "phonetic": "[déspərət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 必死の",
+            "② (状況が)絶望的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(希望がない)破れかぶれの」→「(何とかしようと)必死の」"
+      ],
+      "word_origin": {
+        "formula": "de-[否定]+-sper-[希望]",
+        "description": "prosper「繁栄する(←前に希望がある)」"
+      },
+      "examples": [
+        {
+          "en": "make a desperate effort to succeed",
+          "ja": "① 成功するために必死の努力をする"
+        },
+        {
+          "en": "a desperate shortage of water",
+          "ja": "② 絶望的な水不足"
+        }
+      ]
+    },
+    {
+      "id": "1030",
+      "word": "dedicate",
+      "phonetic": "[dédikèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A to B) (A)を(Bに)捧げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人生などを)すべて捧げる」",
+        "㊥ dedicated「専念した, 専門の」",
+        "㊥ dedication「献身, 献呈」"
+      ],
+      "word_origin": {
+        "formula": "de-[強調]+-dic-[言う]から「(やるとはっきり言う)→「捧げる」」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "She dedicated herself to her work.",
+          "ja": "彼女は仕事に没頭した(仕事に自分自身を捧げた)。"
+        }
+      ]
+    }
+  ]
+}

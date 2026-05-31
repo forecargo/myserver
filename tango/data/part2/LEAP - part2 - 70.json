@@ -1,0 +1,293 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "903",
+      "word": "ingredient",
+      "phonetic": "[ingríːdiənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (料理などの)材料",
+            "② (何かを達成するための)要因",
+            "③ 成分"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「材料」→③「構成要素, 成分」→②「(成功などの)要因」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に]＋-gred-[段階を追って行く]→「中に入り込む」",
+        "description": "grade「等級, 学年」"
+      },
+      "examples": [
+        {
+          "en": "use fresh ingredients",
+          "ja": "「新鮮な食材を使う」"
+        },
+        {
+          "en": "seasonal ingredients",
+          "ja": "「季節の食材」"
+        },
+        {
+          "en": "the ingredients of lasagne",
+          "ja": "ラザニアの材料"
+        },
+        {
+          "en": "the essential ingredient of a great team",
+          "ja": "すばらしいチームに不可欠な要素"
+        },
+        {
+          "en": "active ingredients in these cosmetics",
+          "ja": "これらの化粧品の有効成分"
+        }
+      ]
+    },
+    {
+      "id": "904",
+      "word": "bitter",
+      "phonetic": "[bítər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 苦い, つらい",
+            "② 憤慨して"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(舌をかむくらいの)苦痛や不快感」",
+        "「かみ切る (bite) ような」が元の意味。",
+        "反 sweet「甘い」",
+        "副 bitterly「激しく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A tastes bitter.",
+          "ja": "「Aは苦い味がする。」"
+        },
+        {
+          "en": "a bitter experience",
+          "ja": "つらい経験"
+        },
+        {
+          "en": "feel bitter about the way I have been treated",
+          "ja": "今までの扱われ方に憤慨する"
+        }
+      ]
+    },
+    {
+      "id": "905",
+      "word": "aisle",
+      "phonetic": "[áil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "通路"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(飛行機, 列車, 劇場, 教会などの)通路」",
+        "注意 ai-は通例 [ei] と発音するが, この語は例外。",
+        "あ, いる「通路」に。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an aisle seat",
+          "ja": "「(飛行機などの)通路側の席」"
+        },
+        {
+          "en": "go[walk] down the aisle",
+          "ja": "「結婚する」(*くだけた表現)"
+        },
+        {
+          "en": "prefer an aisle seat to a window seat",
+          "ja": "窓側の席より通路側の席のほうが好きだ"
+        }
+      ]
+    },
+    {
+      "id": "906",
+      "word": "track",
+      "phonetic": "[træk]",
+      "level_tag": "A2B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 足跡, 小道",
+            "② (鉄道の)線路, プラットホーム"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を追跡する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (動物や人, 物が通った)跡, 通路」",
+        "「先人の道(一踏みならされた道)をたどる[から外れる]」"
+      ],
+      "word_origin": {
+        "formula": "trac-[引っ張る]→「引っ張った線(跡)」",
+        "description": "☆attract「〜を引きつける」"
+      },
+      "examples": [
+        {
+          "en": "keep [lose] track of ~",
+          "ja": "「〜の経過を把握する[見失う]」"
+        },
+        {
+          "en": "lose track of my time",
+          "ja": "「時間の感覚がなくなる」"
+        },
+        {
+          "en": "keep to [stray from] the beaten track",
+          "ja": "「先人の道(一踏みならされた道)をたどる[から外れる]」"
+        },
+        {
+          "en": "keep track of my schedule",
+          "ja": "スケジュール管理をする (スケジュールの経過を追う)"
+        },
+        {
+          "en": "This train leaves from track 5.",
+          "ja": "この電車は5番線から発車します。"
+        },
+        {
+          "en": "track the plane with radar",
+          "ja": "レーダーで飛行機を追跡する"
+        }
+      ]
+    },
+    {
+      "id": "907",
+      "word": "district",
+      "phonetic": "[dístrɪkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "地区"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(特定の目的で明確に区分された)地域」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ]＋-strict[引っ張る]→「(区分された)場所」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a business [residential, school] district",
+          "ja": "「ビジネス街[住宅街, 学区]」"
+        },
+        {
+          "en": "Washington D.C. (District of Columbia)",
+          "ja": "「ワシントン・コロンビア特別区」"
+        },
+        {
+          "en": "an election district",
+          "ja": "選挙区"
+        }
+      ]
+    },
+    {
+      "id": "908",
+      "word": "facility",
+      "phonetic": "[fəsíləti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 施設, 設備",
+            "② 能力, 器用さ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 元の意味は「容易さ」→②「能力」→①「(買い物, スポーツなどの)施設」",
+        "注意 (複合的な)施設」は通例, 複数形となる。",
+        "他 facilitate「〜を簡単にする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "care [amusement, childcare] facilities",
+          "ja": "「介護[娯楽, 育児]施設」"
+        },
+        {
+          "en": "indoor sports facilities",
+          "ja": "室内スポーツ施設"
+        },
+        {
+          "en": "have a great facility for language",
+          "ja": "語学のすぐれた才能がある"
+        }
+      ]
+    },
+    {
+      "id": "909",
+      "word": "height",
+      "phonetic": "[háit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 高さ",
+            "② 高い所",
+            "③ 最盛期"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「地面からの高さ」",
+        "他 heighten「〜を高める」",
+        "high の名詞形。ただし, つづり (height) の違いに注意。",
+        "depth「深さ」(←deep) width「(幅の)広さ」(←wide) breadth「幅」(←*やや堅い表現)(←broad) length「長さ」(←long)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "~ in height",
+          "ja": "「身長〜」"
+        },
+        {
+          "en": "at a height of ~",
+          "ja": "「高度〜」"
+        },
+        {
+          "en": "line up in order of height",
+          "ja": "身長順に並ぶ"
+        },
+        {
+          "en": "be scared of heights",
+          "ja": "「高所恐怖症だ」"
+        },
+        {
+          "en": "I am scared of heights.",
+          "ja": "私は高所恐怖症です。"
+        },
+        {
+          "en": "at the height of the tourist season",
+          "ja": "観光シーズンの最盛期に"
+        }
+      ]
+    }
+  ]
+}

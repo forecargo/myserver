@@ -1,0 +1,278 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "703",
+      "word": "eliminate",
+      "phonetic": "[ilímənèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (不要な人, 物, 事)を排除する",
+            "② (be -d)敗退する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では get rid of などのほうが使われる。",
+        "名 elimination「排除, 予選」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 外] + -limi-[limit 境界] -> 「境界から外へ出す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "eliminate gender discrimination",
+          "ja": "① 性差別をなくす"
+        },
+        {
+          "en": "be eliminated in the second round",
+          "ja": "② 2回戦で敗退する"
+        }
+      ]
+    },
+    {
+      "id": "704",
+      "word": "rid",
+      "phonetic": "[rid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (get ~ of ~) (不要品)を処分する",
+            "② 〜を取り除く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ get rid of は rid of 〜「((人)から〜を取り除く)」の受け身からできた表現。",
+        "類 recycle「〜を再利用する(←別のものに作り変える)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "get rid of my old toys",
+          "ja": "① 古いおもちゃを処分する"
+        },
+        {
+          "en": "get rid of cockroaches",
+          "ja": "② ゴキブリを駆除する"
+        }
+      ]
+    },
+    {
+      "id": "705",
+      "word": "remove",
+      "phonetic": "[rimúːv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を取り除く, 取り去る",
+            "② (衣服)を脱ぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では ①get rid of ②take 〜 off のほうが使われる。",
+        "語法 ① 目的語は stains「シミ(を抜く)」、one's makeup「化粧(を落とす)」、dishes「皿(を片付ける)」、a hat「帽子(を脱ぐ)」などさまざま。be (far) removed from 〜「〜から(遠く)隔たっている」",
+        "名 removal「除去, 移動」",
+        "▷ a nail-polish remover「マニキュア落とし」"
+      ],
+      "word_origin": {
+        "formula": "re-[元へ] + -move[動かす] -> 「元に戻す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Illegally parked bicycles will be removed.",
+          "ja": "① 放置自転車(不法駐輪された自転車)は撤去される。"
+        },
+        {
+          "en": "remove my hat",
+          "ja": "② 帽子を脱ぐ"
+        }
+      ]
+    },
+    {
+      "id": "706",
+      "word": "resource",
+      "phonetic": "[ríːsɔːrs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (-s) (石油などの)資源, (人, 国の)財産",
+            "② (-s) (困難に立ち向かう)力",
+            "③ (万一の時の頼みの)手段"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「次々にわき上がってくるもの」",
+        "頻出 ① natural resources「天然資源」",
+        "human resources「人材」",
+        "参 coal「石炭」",
+        "petroleum「石油」",
+        "形 resourceful「困難に立ち向かえる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "develop natural resources",
+          "ja": "① 天然資源を開発する"
+        },
+        {
+          "en": "sufficient resources to survive",
+          "ja": "② 生き残るだけの十分な力量"
+        },
+        {
+          "en": "as a last resource",
+          "ja": "③ 最後の手段として"
+        }
+      ]
+    },
+    {
+      "id": "707",
+      "word": "conservation",
+      "phonetic": "[kὰnsərvéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 保護",
+            "② 保存"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(将来のために)資源などを大切に使うこと」",
+        "頻出 environmental conservation「環境保護」",
+        "他 consérve「〜を保護する, 保全する」",
+        "⇨ conserve natural resources「天然資源を保護する(=消費量を減らす)」",
+        "名 conservátionist「環境保護論者」"
+      ],
+      "word_origin": {
+        "formula": "con-[すっかり] + -serve-[奉仕する] -> 「守る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "conservation groups",
+          "ja": "① 環境保護団体"
+        },
+        {
+          "en": "the law of conservation of energy",
+          "ja": "② エネルギー保存の法則"
+        }
+      ]
+    },
+    {
+      "id": "708",
+      "word": "preserve",
+      "phonetic": "[prizə́ːrv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (自然など)を保護する",
+            "② (景観, 平和, 食品など)を保つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「今の状態を壊さないように大事にする」",
+        "名 preservátion「保護, 保存, 維持」",
+        "参 sanctuary「禁猟区」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -serve-[奉仕する] -> 「あらかじめ保護する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "preserve endangered species",
+          "ja": "① 絶滅危惧種を保護する"
+        },
+        {
+          "en": "a well-preserved fossil",
+          "ja": "② 保存状態のよい(よく保存されている)化石"
+        }
+      ]
+    },
+    {
+      "id": "709",
+      "word": "disaster",
+      "phonetic": "[dizǽstər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 災害",
+            "② 大失敗"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(突然の)惨事, 悲惨な事件」",
+        "astrology「占星術」",
+        "形 disástrous「大災害を引き起こす, 悲惨な」"
+      ],
+      "word_origin": {
+        "formula": "dis-[否定] + -aster[星] -> 「民衆の上に来る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "natural disasters in Japan",
+          "ja": "① 日本の自然災害"
+        },
+        {
+          "en": "My math test was a disaster!",
+          "ja": "② 数学の試験は大失敗だったよ!"
+        }
+      ]
+    },
+    {
+      "id": "710",
+      "word": "planet",
+      "phonetic": "[plǽnit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 惑星〈可算〉",
+            "② (the-)地球"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「恒星の周りを回る星」",
+        "頻出 ① My (Mercury「水星」) very (Venus「金星」) educated (Earth「地球」) mother (Mars「火星」) just (Jupiter「木星」) served (Saturn「土星」) us (Uranus「天王星」) noodles (Neptune「海王星」) (「とても教育のある私の母は私たちにちょうどヌードルを出した。」)と覚えよう。",
+        "参 a (fixed) star「恒星」",
+        "a moon「衛星」",
+        "形 plánetary「惑星の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "creatures from another planet",
+          "ja": "① 別の惑星から来た生き物"
+        },
+        {
+          "en": "on the planet",
+          "ja": "② 地球上で"
+        }
+      ]
+    }
+  ]
+}

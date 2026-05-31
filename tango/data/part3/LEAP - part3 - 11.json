@@ -1,0 +1,301 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1103",
+      "word": "secretary",
+      "phonetic": "[sékrətèri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 秘書",
+            "② (米国各州の)長官, 事務局長"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "secret-[秘密] + -ary[人] → 「秘密を扱う人」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a secretary to the president",
+          "ja": "社長秘書"
+        },
+        {
+          "en": "the Secretary General",
+          "ja": "(国連などの)事務総長"
+        }
+      ]
+    },
+    {
+      "id": "1104",
+      "word": "editor",
+      "phonetic": "[édətər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(新聞, 雑誌などの)編集長, (書籍の)編集者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "他 edit「〜を編集する」",
+        "名 edition「(出版物の)版」",
+        "名 editorial「社説」",
+        "名 compiler「(辞書などの)編集者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the editor of The Japan News",
+          "ja": "『ジャパンニュース』の編集長"
+        }
+      ]
+    },
+    {
+      "id": "1105",
+      "word": "client",
+      "phonetic": "[kláiənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 依頼人",
+            "② (サービス業の)取引先"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(弁護士などの専門家に助言を求める)依頼人」",
+        "cliff「崖」",
+        "climb「登る」",
+        "名 clientèle「(集合的に)依頼人」"
+      ],
+      "word_origin": {
+        "formula": "cli-[傾く] + -ent[人] → 「寄りかかってくる人」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The lawyer met a client yesterday.",
+          "ja": "その弁護士は依頼人と昨日会った."
+        },
+        {
+          "en": "one of our oldest clients",
+          "ja": "最も古くからの取引先の1つ"
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "word": "recruit",
+      "phonetic": "[rikrúːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (団体・組織が)〜を新規採用する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 新兵, 新人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(新規の従業員や学生, バンドのメンバーなどを)見つける」",
+        "▶「リクルートスーツ」は和製英語なので, あえて英語で表現するとa dark-colored suit that job seekers wear for job interviewsなどとなる.",
+        "名 recruiter「(新会員・新兵などを)募集する人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "recruit a new band member",
+          "ja": "新規のバンドのメンバーを入れる"
+        },
+        {
+          "en": "a training camp for recruits",
+          "ja": "新兵訓練所"
+        }
+      ]
+    },
+    {
+      "id": "1107",
+      "word": "basis",
+      "phonetic": "[béisis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 基礎, 根拠",
+            "② (on a ~ basis) (~を)基準(として)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(理論や知識, 行動規範の)よりどころとなるもの」",
+        "▶ ② 通例, on a regular basis(=regularly)「規則正しく」などのbasisは不可算."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "on the basis of a new theory",
+          "ja": "新しい理論を根拠にして"
+        },
+        {
+          "en": "The wages are paid on a weekly basis.",
+          "ja": "賃金は毎週(週を基準にして)支払われる."
+        }
+      ]
+    },
+    {
+      "id": "1108",
+      "word": "element",
+      "phonetic": "[éləmənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (最も重要な)要素, (化学の)元素",
+            "② (the ~s) 自然の力, 悪天候",
+            "③ (an ~ of ~) 少しの〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ある物を構成する)基本となる要素」",
+        "(*②は「自然界の四大元素(地, 水, 火, 風)と考えられていたものの力」から.)",
+        "形 elementary「初歩的な, 基本の」",
+        "elementary school「小学校」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a key element of his success",
+          "ja": "彼の成功のかぎとなる要素"
+        },
+        {
+          "en": "be exposed to the elements",
+          "ja": "悪天候にさらされる"
+        },
+        {
+          "en": "an element of truth",
+          "ja": "いくらかの真理"
+        }
+      ]
+    },
+    {
+      "id": "1109",
+      "word": "constitute",
+      "phonetic": "[kánstətjùːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (主語が複数)〜を構成する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (主語が単数)〜である"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 constitution「構成, 憲法(←国の骨格を構成するもの), 体質」",
+        "副 constitutionally「構造上, 憲法上, 体質的に」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -stitute[=stand 立つ] → 「(要素を)集めて作り上げる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Fifty states constitute the USA.",
+          "ja": "50の州が米国を構成している."
+        },
+        {
+          "en": "The rise in internet crime constitutes a threat to society.",
+          "ja": "インターネット犯罪の増加は社会に対する脅威である."
+        }
+      ]
+    },
+    {
+      "id": "1110",
+      "word": "unify",
+      "phonetic": "[júːnəfài]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を統一する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(複数の国や考えなどを)を1つにまとめる」",
+        "形 unified「統一された」"
+      ],
+      "word_origin": {
+        "formula": "uni-[1つ] + -fy[動詞語尾] → 「統一する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "unify the country",
+          "ja": "国を統一する"
+        }
+      ]
+    },
+    {
+      "id": "1111",
+      "word": "combine",
+      "phonetic": "[kəmbáin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A with B) (A)を(Bと)結びつける, 同時に行う"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 結びつく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「2つ以上のものを一緒にする」",
+        "名 combination「結合, 組み合わせ」",
+        "(*「結果」の不定詞)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "combine a diet with exercise",
+          "ja": "ダイエットを運動と結びつける"
+        },
+        {
+          "en": "Hydrogen and oxygen combine to form water.",
+          "ja": "水素と酸素が結びついて水を作る."
+        }
+      ]
+    }
+  ]
+}

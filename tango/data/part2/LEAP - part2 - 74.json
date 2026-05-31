@@ -1,0 +1,202 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "931",
+      "word": "literally",
+      "phonetic": "[lítərəli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "文字どおりに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 take ~ literally 「〜を文字どおりに解釈する」",
+        "▷ a letter 「文字」の副詞形.",
+        "形 literal 「文字どおりの」 ▷ a literal translation 「直訳(←文字どおりの訳)」",
+        "形 literate 「読み書きができる, (ある特定の分野に)秀でている」 (⇔ illiterate 「読み書きができない, (ある特定の分野に)知識がない」)",
+        "名 literacy 「読み書きができること, (ある特定の分野に)秀でていること」 ⇨ computer literacy 「コンピュータを駆使できること」 (* literacy は文脈によって訳し方を決定する.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The word bōnen-kai literally means \"a forget-the-year party.\"",
+          "ja": "「忘年会」は文字どおりには「年を忘れる会」を意味する。"
+        }
+      ]
+    },
+    {
+      "id": "932",
+      "word": "indicate",
+      "phonetic": "[índikèit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (データなどが)〜を示す",
+            "② 〜を指し示す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 research 「研究」, evidence 「証拠」, a survey 「((アンケート)調査」などを主語にして, 目的語には that 節をとることが多い.",
+        "語源 in-[中] + -dict-[言う] から 「中に言う」→「〜を示す」",
+        "☆dictate 「命令する」",
+        "名 indication 「指示」",
+        "形 indicative 「指示する, 暗示する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Research indicates that the medicine can be harmful to children.",
+          "ja": "① 研究はその薬が子どもに害があるかもしれないことを示している。"
+        },
+        {
+          "en": "② indicate a place on a map",
+          "ja": "② 地図上の場所を指す"
+        }
+      ]
+    },
+    {
+      "id": "933",
+      "word": "reveal",
+      "phonetic": "[rivíːl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を明らかにする, 暴露する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「隠れているものや秘密」を明らかにする",
+        "頻出 reveal a secret to (人) 「(人)に秘密を漏らす」",
+        "reveal that SV 「〜ということを明らかにする, 暴露する」",
+        "語源 re-[再び] + -veal[ベール]から「覆われたベールを取り去る」→「〜を明らかにする」",
+        "名 revelation 「新発見, 暴露」 (*つづりに注意.)",
+        "反 conceal 「〜を隠す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "reveal a secret to her",
+          "ja": "彼女に秘密を漏らす"
+        }
+      ]
+    },
+    {
+      "id": "934",
+      "word": "announce",
+      "phonetic": "[ənáuns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を発表する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(計画, 決定など)を公に知らせる」",
+        "頻出 announce a plan[a decision, a result, that SV] 「計画[決定, 結果, 〜ということ]を発表する」",
+        "注 「(駅, 空港などで)〜をアナウンスする」の意味でも使う.",
+        "派生 pronounce 「〜を発音する」",
+        "名 announcement 「発表」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "announce the results of the election",
+          "ja": "選挙の結果を発表する"
+        }
+      ]
+    },
+    {
+      "id": "935",
+      "word": "broadcast",
+      "phonetic": "[brɔ́ːdkæst]",
+      "level_tag": "B2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を放送する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (1回の)放送"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(テレビやラジオなどで番組)を放送する」",
+        "頻出 ① broadcast ~ live [láiv] 「〜を生放送する」",
+        "注 BBC 「英国放送協会」は British Broadcasting Corporation の略.",
+        "語源 broad-[幅広い] + -cast[投げる]から「広範囲に投げる」→「放送する」",
+        "頻出 ② a live [láiv] broadcast 「生放送」",
+        "watch [listen to] a broadcast 「放送を見る[聞く]」",
+        "派生 a TV [radio] station 「テレビ[ラジオ]局」",
+        "活用 broadcast-broadcast-broadcast"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The interview with him was broadcast live.",
+          "ja": "① 彼のインタビューは生放送された。"
+        },
+        {
+          "en": "② watch a live broadcast of a baseball game",
+          "ja": "② 野球の試合の生放送を見る"
+        }
+      ]
+    },
+    {
+      "id": "936",
+      "word": "prove",
+      "phonetic": "[prúːv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を証明する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (to be 〜)〜だと判明する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜であると証明する」",
+        "頻出 ① prove A (to be) B / prove (that) A is[are] B 「AがBであると証明する」",
+        "prove ~ right[wrong] 「〜が正しい[間違っている]と証明する」",
+        "▶ ②「〜であるとわかる」",
+        "派生 名 proof 「証明」",
+        "派生 waterproof 「防水の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① prove (that) it is false (=prove it (to be) false)",
+          "ja": "① それが偽物だと証明する"
+        },
+        {
+          "en": "② The rumor proved (to be) true.",
+          "ja": "② そのうわさは本当だとわかった。"
+        }
+      ]
+    }
+  ]
+}

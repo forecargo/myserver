@@ -1,0 +1,322 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1749",
+      "word": "fossil",
+      "phonetic": "[fɑ́sl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 化石化した"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 化石"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何千年も前の動物や植物の姿が)岩などの中で保存されたもの」",
+        "「溝を掘って手に入れたもの」が元の意味。*Fossa Magna「フォッサマグナ(←大きな溝)」(*ドイツ人地質学者ナウマン博士が発見し命名。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fossil fuel",
+          "ja": "① 化石燃料"
+        },
+        {
+          "en": "a dinosaur fossil",
+          "ja": "② 恐竜の化石"
+        }
+      ]
+    },
+    {
+      "id": "1750",
+      "word": "exploit",
+      "phonetic": "[íkspĺɔɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (自然の力など)を利用する",
+            "② 〜を搾取する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「中にあるものを取り出す」→①「〜を利用する」②「〜を搾取する」",
+        "*reply「返事をする(←折り返す)」",
+        "名 exploitation「利用, 搾取」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外] + -ploit [=ply 折る] -> 「折りたたんだものを外に広げる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "exploit natural resources",
+          "ja": "① 天然資源を利用する"
+        },
+        {
+          "en": "exploit foreign workers",
+          "ja": "② 外国人労働者を搾取する"
+        }
+      ]
+    },
+    {
+      "id": "1751",
+      "word": "contaminate",
+      "phonetic": "[kəntǽmənèɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を汚染する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(有毒化学物質や放射能などで)汚す」",
+        "名 contamination「汚染」",
+        "反 decontaminate「(汚染物質を)除去する」"
+      ],
+      "word_origin": {
+        "formula": "con-[強意] + -ta- [=touch 触れる] -> 「(悪い物が)触れて汚染する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "fish contaminated with chemicals",
+          "ja": "化学物質で汚染された魚"
+        }
+      ]
+    },
+    {
+      "id": "1752",
+      "word": "erupt",
+      "phonetic": "[ɪrʌ́pt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(火山などが)噴火する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(溶岩, 感情, 発疹などが)吹き出す」",
+        "*bankrupt「倒産する」",
+        "名 eruption「噴火」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 外に] + -rupt [壊す] -> 「破壊して(外に)出てくる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "erupt at regular intervals",
+          "ja": "周期的に噴火する"
+        }
+      ]
+    },
+    {
+      "id": "1753",
+      "word": "roar",
+      "phonetic": "[rɔ́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ほえる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② うなり声, 怒号, 轟音"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ライオンなどのほえる声の擬音語。",
+        "名 uproar「大騒ぎ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The lion roared.",
+          "ja": "① ライオンがほえた。"
+        },
+        {
+          "en": "the roar of the traffic",
+          "ja": "② (走る)車の轟音"
+        }
+      ]
+    },
+    {
+      "id": "1754",
+      "word": "inhabit",
+      "phonetic": "[ɪnhǽbɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に生息している, ある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶主語は主に「動物や人々の集団」",
+        "名 inhabitant「住人」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -habit [持つ] -> 「中に(住居を)持つ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "birds that inhabit New Zealand",
+          "ja": "ニュージーランドに生息する鳥"
+        }
+      ]
+    },
+    {
+      "id": "1755",
+      "word": "nurture",
+      "phonetic": "[nə́ːrtʃər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を育てる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 養育, 教育"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(生き物を)育てる」から「(考えや産業を)育む」まで。( *堅い語)",
+        "*nurse「看護師(←元は乳母の意味。)」"
+      ],
+      "word_origin": {
+        "formula": "nur-[乳をやる]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "nurture new industries",
+          "ja": "① 新たな産業を育む"
+        },
+        {
+          "en": "Nurture is above nature.",
+          "ja": "② 氏より育ち(生まれより教育)。"
+        }
+      ]
+    },
+    {
+      "id": "1756",
+      "word": "owl",
+      "phonetic": "[áʊl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "フクロウ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶=a bird with large eyes that hunts at night",
+        "類 sparrow「スズメ」 eagle「ワシ」 hawk「タカ」 crow「カラス」 goose「ガチョウ」 ostrich「ダチョウ」 turkey「七面鳥」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Owls sleep by day and hunt by night.",
+          "ja": "フクロウは昼に眠って, 夜に狩りをする。"
+        }
+      ]
+    },
+    {
+      "id": "1757",
+      "word": "instinct",
+      "phonetic": "[ínstɪŋkt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "本能"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 instinctive「本能的な」",
+        "副 instinctively「本能的に」",
+        "反 reason「理性」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -stinct [=stick 棒] -> 「心の中を棒で突く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Birds learn to fly by instinct.",
+          "ja": "鳥は本能的に飛び方を習得する。"
+        }
+      ]
+    },
+    {
+      "id": "1758",
+      "word": "prey",
+      "phonetic": "[préɪ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 餌食"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (on〜)餌食にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「つかまえられたもの」が元の意味。",
+        "*prison「刑務所(←つかまえた所)」",
+        "*predator「捕食動物(←つかまえる動物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Zebras sometimes fall prey to lions.",
+          "ja": "① シマウマはライオンの餌食になることがある。"
+        },
+        {
+          "en": "Cats prey on mice.",
+          "ja": "② ネコはネズミを餌食にする。"
+        }
+      ]
+    }
+  ]
+}

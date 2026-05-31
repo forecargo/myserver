@@ -1,0 +1,246 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "664",
+      "word": "require",
+      "phonetic": "[rikwáiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を必要とする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ needより堅い語で主語は「物」が多い。",
+        "頻出 be required to do「〜するように要求される」",
+        "注意 A require B は「AにはBが必要だ。」と訳すことが多い。",
+        "語源 re-[再び] + -quire[求める] → *request「リクエスト(←再び求める)」",
+        "派生 requirement「必要となるもの, 必要条件」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This job requires many years' experience.",
+          "ja": "この仕事には長年の経験が必要だ。"
+        }
+      ]
+    },
+    {
+      "id": "665",
+      "word": "counterpart",
+      "phonetic": "[káuntərpàːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(to 〜)に対応する[(〜と)同等の]人[物, 事]"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 単語の反復を避けるための単語。",
+        "語源 counter-[対応する] + -part[部分]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The Japanese officials discussed the issue with their French counterparts.",
+          "ja": "日本政府高官はフランス政府の高官(対応する人々)とその問題について話し合った。"
+        }
+      ]
+    },
+    {
+      "id": "666",
+      "word": "advent",
+      "phonetic": "[ǽdvent]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 到来",
+            "② (the A-)キリストの降臨"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「あるものが初めて広く使われること」",
+        "頻出 ① with the advent of A「Aの到来, 出現と共に」",
+        "語源 ad-[方向] + -ven-[来る] → *invent「〜を発明する(←アイデアが頭の中に入ってくる)」, vent「通気孔(←風が来る)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the advent of new technology",
+          "ja": "① 新技術の到来"
+        },
+        {
+          "en": "② the Advent season",
+          "ja": "② 降臨節"
+        }
+      ]
+    },
+    {
+      "id": "667",
+      "word": "maintain",
+      "phonetic": "[meintéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を維持する",
+            "② (that SV)(〜)を(強く)主張する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「ある基準から下がらないようにする」",
+        "語源 main-[=manual手] + -tain[保つ]から「手の中に保つ」→「〜を維持する」",
+        "類義 retain「〜を保持する」",
+        "派生 maintenance「維持」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① maintain a proper work-life balance",
+          "ja": "① 適切なワークライフバランスを維持する"
+        },
+        {
+          "en": "② maintain that it is true",
+          "ja": "② それは真実だと主張する"
+        }
+      ]
+    },
+    {
+      "id": "668",
+      "word": "last",
+      "phonetic": "[læst]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (時間的に)続く",
+            "② (服などが)長持ちする"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ この前の〜, 最後の〜",
+            "④ もっとも〜でない"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "⑤ (at 〜)ついに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(時間, 空間が)続く」",
+        "類義 continue「(時間, 空間が)続く」",
+        "頻出 ① 通例, 時を示す副詞を伴う。",
+        "頻出 ③ for the last week「この一週間」, for the past week",
+        "頻出 ⑤ at last「ついに」(＊プラスイメージ)",
+        "派生 lasting「永続的な, 長持ちする」",
+        "派生 long-lasting「長続きする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The meeting lasted (for) three hours.",
+          "ja": "① 会議は3時間続いた。"
+        },
+        {
+          "en": "② A quality jacket will last (you) a long time.",
+          "ja": "② よい上着は長持ちするものだ。"
+        },
+        {
+          "en": "③ for the[×this] last twenty days",
+          "ja": "③ この20日間に"
+        },
+        {
+          "en": "④ the last person to be late",
+          "ja": "④ もっとも遅刻しそうにない人"
+        },
+        {
+          "en": "⑤ At last, she passed the exam.",
+          "ja": "⑤ ついに, 彼女は試験に合格した。"
+        }
+      ]
+    },
+    {
+      "id": "669",
+      "word": "persist",
+      "phonetic": "[pərsíst]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 持続する, 残る",
+            "② (in[with] 〜) (〜を)貫く, (〜に)固執する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (痛みや雨など好ましくないことが)続く」",
+        "頻出 ② persist in doing「しつこく〜する」",
+        "語源 per-[through通して, ずっと] + -sist[=stand立つ] →「立ち続ける」",
+        "派生 persistent「持続する, 粘り強い」",
+        "派生 persistence「持続, 粘り強さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① If your fever persists, you should see a doctor.",
+          "ja": "① 熱が続くようなら, 医者に行ったほうがいい。"
+        },
+        {
+          "en": "② persist in causing trouble",
+          "ja": "② 厄介なことばかり引き起こす(引き起こし続ける)"
+        }
+      ]
+    },
+    {
+      "id": "670",
+      "word": "examine",
+      "phonetic": "[igzǽmɪn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を調査する",
+            "② 〜を検査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(事実や本質などを)厳密に調べる」→「診察する」「検閲する」など。",
+        "類義 investigate「(主に, 新事実の発見のために)調査する」",
+        "派生 examination「検査, 試験」",
+        "派生 exam「試験」(＊examinationの短縮形で, 日常で「試験」と表現する場合, examのほうがふつう。)",
+        "Part 1 「所有・収集」(p.68)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① examine the old records",
+          "ja": "① 古い記録を調べる"
+        },
+        {
+          "en": "② have my stomach examined",
+          "ja": "② 胃の検査を受ける(胃を検査してもらう)"
+        }
+      ]
+    }
+  ]
+}

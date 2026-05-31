@@ -1,0 +1,316 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1052",
+      "word": "code",
+      "phonetic": "[kóud]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (服装などの)規定",
+            "② 暗号"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を暗号化する",
+            "(整理のため)〜に符号をつける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「書かれたもの」",
+        "他 decode「〜を解読する」",
+        "a zip code「郵便番号」",
+        "a genetic code「遺伝情報」",
+        "a building code「建築基準」",
+        "break[crack] a code「暗号を解読する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Does the restaurant have a dress code?",
+          "ja": "そのレストランには服装規定はありますか."
+        },
+        {
+          "en": "write in code",
+          "ja": "暗号で書く"
+        }
+      ]
+    },
+    {
+      "id": "1053",
+      "word": "agenda",
+      "phonetic": "[ædʒéndə]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "議題, 協議事項"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(会議などの)議題一覧」",
+        "age-[行う]から→「議題」",
+        "agency「(政府の)機関」",
+        "go on to the next item on the agenda「次の議題に移る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the agenda for today's meeting",
+          "ja": "本日の会議の議題"
+        }
+      ]
+    },
+    {
+      "id": "1054",
+      "word": "liberty",
+      "phonetic": "[líbərti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "自由"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "自由主義の, 進歩的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(社会的な, 政治的な)抑圧からの解放」",
+        "freedom「(主に個人の言動や思想の)自由」",
+        "the Liberal Party「自由党」",
+        "liberal arts「(大学の)教養科目」",
+        "他 liberate「〜を解放する」",
+        "名 liberation「解放」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fight for liberty and equality",
+          "ja": "自由と平等 のために戦う"
+        }
+      ]
+    },
+    {
+      "id": "1055",
+      "word": "committee",
+      "phonetic": "[kəmíti]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "委員会"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(1人の)委員」は a committee member と表現する.",
+        "commit-[委ねる] + -ee-[された人]→「委ねられた人」",
+        "employee「雇われた人」",
+        "examinee「試験される人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the International Olympic Committee",
+          "ja": "国際オリンピック委員会"
+        }
+      ]
+    },
+    {
+      "id": "1056",
+      "word": "humanity",
+      "phonetic": "[hjuːmǽnəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (集合的に)人類",
+            "② (the -ies)人文科学",
+            "③ 人間性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「人類の権利」などを論じる堅い文で使われる. (*主に①で使われ, ③はまれ.)",
+        "humankind「人類, 人類全体」",
+        "humanist「人文主義者, 人文科学者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a crime against humanity",
+          "ja": "人類に対する犯罪"
+        },
+        {
+          "en": "a student of the humanities",
+          "ja": "文系の学生"
+        },
+        {
+          "en": "a teacher of deep humanity",
+          "ja": "人間性あふれる教師"
+        }
+      ]
+    },
+    {
+      "id": "1057",
+      "word": "mankind",
+      "phonetic": "[mǽnkàind]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(集合的に)人類"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶この語は男女差別を示唆するため, humankind, humans, human beings, people などの方が好まれる."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "in the history of mankind",
+          "ja": "人類の歴史において"
+        }
+      ]
+    },
+    {
+      "id": "1058",
+      "word": "authority",
+      "phonetic": "[əθɔ́ːrəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 権威",
+            "② 権力",
+            "③ (-ies)当局"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③「権威の集合体」",
+        "author-[生み出す] + -ity[であること]",
+        "他 authorize「〜に権限を与える」",
+        "名 authorization「公認, 認可」",
+        "形 unauthorized「権限のない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an authority on orthodontics",
+          "ja": "歯科矯正学の権威"
+        },
+        {
+          "en": "someone in authority",
+          "ja": "権力のある人"
+        },
+        {
+          "en": "the school authorities",
+          "ja": "学校当局"
+        }
+      ]
+    },
+    {
+      "id": "1059",
+      "word": "justice",
+      "phonetic": "[dʒʌ́stis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "正義"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「公平で道徳的, 法的に正しいこと」",
+        "just-[正しい] + -ice[状態]",
+        "他 justify「〜を正当化する」",
+        "The end justifies the means.「目的は手段を正当化する.」",
+        "名 justification「正当化」",
+        "形 injustice「不正, 不公平」",
+        "social injustice「社会的な不正」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a strong sense of justice",
+          "ja": "正義感が強い"
+        }
+      ]
+    },
+    {
+      "id": "1060",
+      "word": "insurance",
+      "phonetic": "[insúərəns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "保険〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「保険会社との支払いに関する合意」",
+        "in-[=en 動詞化] + -sur-[=sure 確かな]から「確実にするもの」→「保険」",
+        "他 insure「〜に保険をかける」",
+        "an insurance premium「保険料」",
+        "an insurance policy「保険契約, 保険証券」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have[buy] health insurance",
+          "ja": "健康保険に入っている[入る]"
+        }
+      ]
+    },
+    {
+      "id": "1061",
+      "word": "hardship",
+      "phonetic": "[hɑ́ːrdʃìp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に経済的)苦難"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では a difficulty などの方が使われる.",
+        "hard-[難しい] + -ship[状態]",
+        "friendship「友情(←友だちの状態)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "suffer financial hardship",
+          "ja": "お金で苦労する(経済的苦難に苦しむ)"
+        }
+      ]
+    }
+  ]
+}

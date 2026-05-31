@@ -1,0 +1,256 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "562",
+      "word": "enemy",
+      "phonetic": "[énəmi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 敵 (可算)",
+            "② (形容詞的に) 敵の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「敵意、憎しみを抱く相手」◇opponent「(試合などの)対戦相手」",
+        "類出 ① a natural enemy「天敵」② enemy territory「敵地」",
+        "類 friend「友人」類 foe「敵」(＊書き言葉) hostility「敵意」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fight with the enemy",
+          "ja": "その敵と戦う"
+        },
+        {
+          "en": "enemy soldiers",
+          "ja": "敵の兵士"
+        }
+      ]
+    },
+    {
+      "id": "563",
+      "word": "conflict",
+      "phonetic": "[kánflikt] [kənflíkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 対立, 紛争",
+            "② 葛藤"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (with 〜) (〜と)矛盾する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意見や利害の)対立、紛争」から「(心の)葛藤」まで。",
+        "類出 ① be in conflict with 〜「〜と対立している」",
+        "resolve a conflict「対立を解決する」",
+        "注意「(人₁)と(人₂)の(意見が)対立する」は〈(人₁) disagree with (人₂)〉で表現する。",
+        "語 con-[共に] + -flict[打つ] →「ぶつかり合う」☆inflict「(損害などを)与える」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -flict[打つ] -> 「ぶつかり合う」",
+        "description": "inflict「(損害などを)与える」"
+      },
+      "examples": [
+        {
+          "en": "a conflict between two parties",
+          "ja": "2つの政党の間の対立"
+        },
+        {
+          "en": "a psychological conflict",
+          "ja": "心の葛藤"
+        },
+        {
+          "en": "This conflicts with his theory.",
+          "ja": "これは彼の理論と矛盾する。"
+        }
+      ]
+    },
+    {
+      "id": "564",
+      "word": "compete",
+      "phonetic": "[kəmpíːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 競争する",
+            "② (in 〜) (競技などに)参加する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(他者と同じものを求め)競い合う」",
+        "類出 ① compete with [against] 〜「〜と競争する」",
+        "compete for 〜「〜を求めて競争する」",
+        "語 com-[=con 共に] + -pete[求める] から「同じ物を共に求める」→「競争する」",
+        "派 appetite「食欲」名 competition「競争, 競技会, コンペ」",
+        "形 competitive「競争力のある, 競争心の強い」",
+        "名 competitor「競争相手」名 petition「嘆願, 申し立て」"
+      ],
+      "word_origin": {
+        "formula": "com-[=con 共に] + -pete[求める] -> 「同じ物を共に求める」→「競争する」",
+        "description": "appetite「食欲」, competition「競争, 競技会, コンペ」, competitive「競争力のある, 競争心の強い」, competitor「競争相手」, petition「嘆願, 申し立て」"
+      },
+      "examples": [
+        {
+          "en": "compete with each other for good grades",
+          "ja": "よい成績を目指してお互いに競い合う"
+        },
+        {
+          "en": "compete in a half marathon",
+          "ja": "ハーフマラソンに参加する"
+        }
+      ]
+    },
+    {
+      "id": "565",
+      "word": "defeat",
+      "phonetic": "[difíːt]",
+      "level_tag": "B1 B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (相手を)打ち負かす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 敗北"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「相手を(一時的に)負かす」◇beat「(相手を)負かす」のほうが口語的。",
+        "注意 ①「〜に勝つ」は〈win (試合, 戦争)〉または〈defeat (人, チーム)〉。",
+        "語 de-[否定] + -feat[する] →「〜を打ち負かす」"
+      ],
+      "word_origin": {
+        "formula": "de-[否定] + -feat[する] -> 「〜を打ち負かす」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Our team was completely defeated.",
+          "ja": "私たちのチームは完敗した(完全に打ち負かされた)。"
+        },
+        {
+          "en": "Japan's defeat in World War II",
+          "ja": "第二次世界大戦における日本の敗北"
+        }
+      ]
+    },
+    {
+      "id": "566",
+      "word": "victim",
+      "phonetic": "[víktim]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "犠牲者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(犯罪の)犠牲者」から「(自然災害の)犠牲者」まで。",
+        "類出 a victim of 〜「〜の犠牲者」fall victim to 〜「〜の犠牲となる」",
+        "語 vict-[たたかった人] victory「勝利(←たたいて勝った)」"
+      ],
+      "word_origin": {
+        "formula": "vict-[たたかった人]",
+        "description": "victory「勝利(←たたいて勝った)」"
+      },
+      "examples": [
+        {
+          "en": "Over 30 people fell victim to the terrorist attack.",
+          "ja": "30名以上の人がそのテロの犠牲になった。"
+        }
+      ]
+    },
+    {
+      "id": "567",
+      "word": "obstacle",
+      "phonetic": "[ábstəkl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(to 〜) (〜に対する)障害 (可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(前に立って)邪魔をするもの」",
+        "類出 an obstacle to 〜「〜への障害」an obstacle race「障害物競走」",
+        "語 ob-[=against に対して] + -stacle[=stand] →「〜に対して立っているもの」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -stacle[=stand] -> 「〜に対して立っているもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "remove an obstacle to an agreement",
+          "ja": "合意への障害を取り除く"
+        }
+      ]
+    },
+    {
+      "id": "568",
+      "word": "harm",
+      "phonetic": "[hάːrm]",
+      "level_tag": "B2 A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 害 (不可算)"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に害を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① good「(利)益」② 日常では be bad for 〜のほうが使われる。",
+        "類出 ① do (人) harm「(人)に害を与える」(≒ do harm to (人))",
+        "(＊後者は(人)に焦点がある。)",
+        "語 arms「武器(人を攻撃するもの)」とつづりが似ている。形 harmful (to 〜)「(〜に)有害な」⇔ harmless「無害の」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "arms「武器(人を攻撃するもの)」とつづりが似ている。"
+      },
+      "examples": [
+        {
+          "en": "Smoking does you harm.",
+          "ja": "喫煙は害を及ぼす。"
+        },
+        {
+          "en": "harm his reputation",
+          "ja": "彼の評判を悪くする"
+        }
+      ]
+    }
+  ]
+}

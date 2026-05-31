@@ -1,0 +1,516 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2019",
+      "word": "flush",
+      "phonetic": "[flʌʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (ほおなどが)紅潮する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を水で流す"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "flu-[流れる]+-sh[動詞化]",
+        "description": "*fluid「流体」"
+      },
+      "examples": [
+        {
+          "en": "flush with anger",
+          "ja": "怒りで顔が赤くなる"
+        },
+        {
+          "en": "flush a toilet",
+          "ja": "トイレの水を流す"
+        }
+      ]
+    },
+    {
+      "id": "2020",
+      "word": "ascribe",
+      "phonetic": "[əskráib]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A to B) (A)の原因は(B)にあると主張する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "attribute A to B「AをBのせいにする, Aの原因はBだと思う」"
+      ],
+      "word_origin": {
+        "formula": "a-(=ad 方向)+-scribe[書く]→「原因は〜(の方向)にあると書く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "ascribe his poverty to bad luck",
+          "ja": "「彼の貧しさの原因は不運にあると言う」"
+        }
+      ]
+    },
+    {
+      "id": "2021",
+      "word": "endorse",
+      "phonetic": "[indɔ́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(計画, 候補者など)を支持する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「何[誰]かに対して公に支持[承認]する」",
+        "遠藤推す考えを「支持する」元は「(書類などに)裏書きする」の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "endorse the proposal",
+          "ja": "「その提案を支持する」"
+        }
+      ]
+    },
+    {
+      "id": "2022",
+      "word": "disclose",
+      "phonetic": "[disklóuz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を公表する, 暴く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(秘密の情報, 素性など)を公表する」",
+        "名 disclosure「公開, 暴露」",
+        "a tell-all book「暴露本」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ]+-close[閉じる]→「閉じたものを開く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "disclose his identity",
+          "ja": "「彼の正体を暴く」"
+        }
+      ]
+    },
+    {
+      "id": "2023",
+      "word": "improvise",
+      "phonetic": "[ímprəvàiz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を即興で作る[歌う, 演奏する]"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「事前に準備や計画をせず, 即座に何かをやる」",
+        "名 improvisation「即興で作ること[作ったもの]」",
+        "impromptu「即興で」"
+      ],
+      "word_origin": {
+        "formula": "im-[否定]+-pro-[前方]+-vise[見る]→「事前に見ないで」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "improvise dinner from the leftovers",
+          "ja": "「残り物で夕食をさっと作る」"
+        }
+      ]
+    },
+    {
+      "id": "2024",
+      "word": "transplant",
+      "phonetic": "[trænsplǽnt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (花や木, 器官など)を移植する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 移植"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "xenotransplant「異種間移植」 (xeno-[外来の])",
+        "名 organ transplant「臓器移植」"
+      ],
+      "word_origin": {
+        "formula": "trans-[越えて]+-plant[植える]→「(何かを越えて)別の場所に植える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "transplant a heart into the boy",
+          "ja": "「その少年に心臓を移植する」"
+        },
+        {
+          "en": "an organ transplant",
+          "ja": "「臓器移植」"
+        }
+      ]
+    },
+    {
+      "id": "2025",
+      "word": "encompass",
+      "phonetic": "[inkʌ́mpəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を含む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(非常に幅広い考えやテーマなど)を含む」"
+      ],
+      "word_origin": {
+        "formula": "en-(=in 中に)+-compass[範囲]→「範囲の中に入っている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "encompass a wide range of academic disciplines",
+          "ja": "「幅広い学問分野を含む」"
+        }
+      ]
+    },
+    {
+      "id": "2026",
+      "word": "forge",
+      "phonetic": "[fɔ́ːrdʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (関係など)を築く",
+            "② 〜を偽造する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(新しく, 強力な関係)を築く」",
+        "「(サインなどを)偽造する」",
+        "fac-(=fic, fec 作る, 行う)と同語源。",
+        "*form「〜を形作る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "forge a close bond",
+          "ja": "「親密な関係を築く」"
+        },
+        {
+          "en": "use a forged passport",
+          "ja": "「偽造パスポートを利用する」"
+        }
+      ]
+    },
+    {
+      "id": "2027",
+      "word": "entangle",
+      "phonetic": "[intǽŋgl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(be [get] -ed in [with] 〜)〜に絡まる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(ロープや網などに)絡まる」から「(議論や戦争などに)関わる」まで。",
+        "*tangent「タンジェント, 正接」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化]+-tangle[接触]→「巻き込む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "My foot got entangled in a fishing net.",
+          "ja": "「足が漁網に絡まった。」"
+        }
+      ]
+    },
+    {
+      "id": "2028",
+      "word": "entail",
+      "phonetic": "[intèil]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(必然的に)〜を伴う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(仕事の一環などで, 必然的に)〜を伴う」",
+        "語源は異なるが, 「táil(尻尾)をつかむ」→「伴う」と覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This job entails a lot of traveling.",
+          "ja": "「この仕事は多くの移動を伴う。」"
+        }
+      ]
+    },
+    {
+      "id": "2029",
+      "word": "herald",
+      "phonetic": "[hérəld]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜の先触れをする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(季節や重要なことが到来する)兆候を示す」",
+        "元は古代ギリシア語の「(軍隊の)伝令」の意味。",
+        "名 herald「先[前]触れ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "herald a new era in transport",
+          "ja": "「交通における新たな時代の先触れとなる」"
+        }
+      ]
+    },
+    {
+      "id": "2030",
+      "word": "surpass",
+      "phonetic": "[sərpás]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を上回る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(能力や数値などにおいて)ほかを上回る」"
+      ],
+      "word_origin": {
+        "formula": "sur-[上]+-pass[過ぎる]→「〜の上を通り過ぎていく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "surpass all our expectations",
+          "ja": "「私たちのすべての予想を上回る」"
+        }
+      ]
+    },
+    {
+      "id": "2031",
+      "word": "transcend",
+      "phonetic": "[trænsénd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(経験・理解などの限界)を超える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "*ascend「上昇する(as- [方向]+-scend[行く])」"
+      ],
+      "word_origin": {
+        "formula": "trans-[越えて]+-scend[行く]→「越えて行く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "transcend human comprehension",
+          "ja": "「人間の理解を超える」"
+        }
+      ]
+    },
+    {
+      "id": "2032",
+      "word": "flatter",
+      "phonetic": "[flǽtər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜にお世辞を言う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(相手の機嫌をとるために)褒める」",
+        "*flat「平らな」",
+        "名 flattery「お世辞」",
+        "compliment「(よい意味での)褒め言葉」"
+      ],
+      "word_origin": {
+        "formula": "flat-[手のひらで)なでつける]+-ter[反復]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "flatter her about her cooking",
+          "ja": "「彼女の料理を褒める」"
+        }
+      ]
+    },
+    {
+      "id": "2033",
+      "word": "enact",
+      "phonetic": "[inǽkt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(法律など)を制定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(法律を制定する), (法案を通す)」"
+      ],
+      "word_origin": {
+        "formula": "en-(=in 中に)+-act[法令]→「法令の中に入れる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "enact a new law",
+          "ja": "「新しい法律を制定する」"
+        }
+      ]
+    },
+    {
+      "id": "2034",
+      "word": "amend",
+      "phonetic": "[əmend]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(憲法・法律など)を修正する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "revise「〜を修正する」より堅い語。",
+        "ratify「〜を批准する」"
+      ],
+      "word_origin": {
+        "formula": "a-[離す]+-mend[誤り]→「誤りを取り除く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "amend the Constitution",
+          "ja": "「憲法を修正する」"
+        }
+      ]
+    },
+    {
+      "id": "2035",
+      "word": "kidnap",
+      "phonetic": "[kídnǽp]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を誘拐する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(身代金目的で)〜を誘拐する」",
+        "名 kidnapper「誘拐犯」",
+        "kid「冗談を言う, からかう」",
+        "trace a call「通話を逆探知する」"
+      ],
+      "word_origin": {
+        "formula": "kid-[子ども]+-nap[つかみ取る]",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2036",
+      "word": "smuggle",
+      "phonetic": "[smʌ́gl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を密輸する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(不法に物を国から国へと動かす)」",
+        "名 smuggling「密輸」",
+        "smuggled goods「密輸品」",
+        "poach「〜を密猟する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "smuggle stimulant drugs",
+          "ja": "「覚醒剤を密輸する」"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1474",
+      "word": "convention",
+      "phonetic": "[kənvénʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 会議, 大会",
+            "② 慣習",
+            "③ 条約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「学会」から「(ファンなどの)集い」まで。②③「会議で決まったこと」",
+        "con-[共に]+-ven-[来る]+-tion[こと]から「みんなが来るもの」",
+        "advent「到来(←〜の方向に来る)」",
+        "形 conventional「従来の, 型にはまった」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a convention for anime fans",
+          "ja": "アニメファンの大会"
+        },
+        {
+          "en": "② social conventions",
+          "ja": "社会の慣習"
+        },
+        {
+          "en": "③ the Geneva Convention",
+          "ja": "ジュネーブ条約"
+        }
+      ]
+    },
+    {
+      "id": "1475",
+      "word": "conference",
+      "phonetic": "[kánfərəns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(on 〜)(〜に関する)会議"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(通常, 数日間にわたる大規模な)会議」",
+        "con-[共に]+-fer-[運ぶ]から「議題を一緒に運ぶ」→「会議」",
+        "ferry「フェリー(←運ぶもの)」",
+        "参 a press conference「記者会見」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a five-day conference on global warming",
+          "ja": "地球温暖化に関する5日間の会議"
+        }
+      ]
+    },
+    {
+      "id": "1476",
+      "word": "consent",
+      "phonetic": "[kənsént]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 合意"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (to 〜)(〜に)合意する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(公式的な)合意」",
+        "con-[共に]+-sent[感情]→「同じ気持ちになる」",
+        "resent「憤慨する(re-[反対の]+-sent[感情])」",
+        "consensus「(大多数の)合意」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① get married without our parents' consent",
+          "ja": "親の同意なしで結婚する"
+        },
+        {
+          "en": "② consent to the proposal",
+          "ja": "その提案に同意する"
+        }
+      ]
+    },
+    {
+      "id": "1477",
+      "word": "initiative",
+      "phonetic": "[iníʃətiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 新構想, 新計画",
+            "② 主導権"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人に先駆けて物事を進める力」",
+        "in-[中に]+-it-[行く]+-iative[こと]から「(最初に)中に行く」",
+        "initial「最初の」",
+        "他 initiate「(積極的に, 責任をもって)〜を始める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a diplomatic initiative for the Middle East",
+          "ja": "中東外交に対する新構想"
+        },
+        {
+          "en": "② take the initiative in the game",
+          "ja": "その試合での主導権を握る"
+        }
+      ]
+    },
+    {
+      "id": "1478",
+      "word": "province",
+      "phonetic": "[právin(s)]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (カナダなどの)州, (中国の)省",
+            "② (the -s)地方"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 provincial「地方の」",
+        "参 prefecture「府, 県」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the Province of Quebec",
+          "ja": "(カナダの)ケベック州"
+        },
+        {
+          "en": "② She is touring the provinces.",
+          "ja": "彼女は地方でコンサートツアーをしている."
+        }
+      ]
+    },
+    {
+      "id": "1479",
+      "word": "colony",
+      "phonetic": "[káləni]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 植民地",
+            "② (アリなどの)群落"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「耕す」が元の意味。",
+        "culture「文化(←耕されたもの)」",
+        "他 colonize「〜を植民地化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a former British colony",
+          "ja": "旧英国植民地(の1つ)"
+        },
+        {
+          "en": "② a colony of ants",
+          "ja": "アリの群れ"
+        }
+      ]
+    },
+    {
+      "id": "1480",
+      "word": "frontier",
+      "phonetic": "[frʌntíər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 辺境, (主に〈英〉)国境",
+            "② (the -s)最前線"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "front-[前]+-ier[名詞語尾]",
+        "pioneer「開拓者, 先駆者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a tribe living on the frontier",
+          "ja": "辺境に暮らす部族"
+        },
+        {
+          "en": "② the frontiers of biology",
+          "ja": "生物学の最先端"
+        }
+      ]
+    },
+    {
+      "id": "1481",
+      "word": "treaty",
+      "phonetic": "[tríːti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "条約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「国同士, 政府同士の文書による正式な取り決め」",
+        "treat-[扱う]+-y[結果]→「扱った結果として出来たもの」",
+        "参 ratify a treaty「条約を批准する」",
+        "参 a peace treaty「平和[講和]条約」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "conclude a security treaty",
+          "ja": "安全保障条約を締結する"
+        }
+      ]
+    },
+    {
+      "id": "1482",
+      "word": "tribe",
+      "phonetic": "[tráib]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "部族, 種族"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「同じ文化, 慣習などを共有して生活する集団」",
+        "race「(肌の色などで区別される)人種, 民族」",
+        "tri-[3]+-b(古代ローマ人は「3つの部族」で構成されていたことに由来)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a tribe native to Hokkaido",
+          "ja": "北海道の先住民(その土地の部族)"
+        }
+      ]
+    },
+    {
+      "id": "1483",
+      "word": "pension",
+      "phonetic": "[pénʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "年金〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 pensioner「年金受給者」",
+        "参 benefits「手当」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "live on a pension",
+          "ja": "年金で生活する"
+        }
+      ]
+    },
+    {
+      "id": "1484",
+      "word": "stake",
+      "phonetic": "[stéik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (have a - in 〜)(〜に)利害関係(を持つ)",
+            "② (at -)危険",
+            "③ (-s)賭け金, 配当金"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①③「(危険を冒しながらも)何かを得ようとすること」",
+        "「火刑用の柱」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a big stake in the success of the project",
+          "ja": "その計画の成功に大きな利害関係を持っている"
+        },
+        {
+          "en": "② Five lives are at stake.",
+          "ja": "5人の命が危険にさらされている."
+        },
+        {
+          "en": "③ play cards for high stakes",
+          "ja": "大金を賭けてトランプをする"
+        }
+      ]
+    }
+  ]
+}

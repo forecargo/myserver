@@ -1,0 +1,327 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1331",
+      "word": "fetch",
+      "phonetic": "[fétʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(主に〈英〉)〜を取って来る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「行って、取って、戻る」",
+        "つづりの似ている feet「足」と関連づけて覚えよう。",
+        "far-fetched「非現実的な(←遠くに連れてこられた)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fetch the children from the kindergarten",
+          "ja": "幼稚園に子どものお迎えに行く"
+        }
+      ]
+    },
+    {
+      "id": "1332",
+      "word": "distribute",
+      "phonetic": "[distríbjuːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を分配する, 配る",
+            "② (be -d) 分布している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では hand 〜 out のほうが使われる。",
+        "dis-[バラバラ]+-tribute[与える]",
+        "名 distribution「分配, 分布」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ]+-tribute[与える]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① distribute handouts[×prints]",
+          "ja": "① プリントを配る"
+        },
+        {
+          "en": "② a widely distributed plant",
+          "ja": "② 広く分布している植物"
+        }
+      ]
+    },
+    {
+      "id": "1333",
+      "word": "purchase",
+      "phonetic": "[pə́ːrtʃəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を購入する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 購入(品)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「高額な物を購入する」",
+        "pur-[求める]+-chase[追跡する]から「追跡する」→「購入する」"
+      ],
+      "word_origin": {
+        "formula": "pur-[求める]+-chase[追跡する]から「追跡する」→「購入する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① purchase an apartment in N.Y.",
+          "ja": "① ニューヨークでマンションを購入する"
+        },
+        {
+          "en": "② the purchase of a luxury car",
+          "ja": "② 高級車の購入"
+        }
+      ]
+    },
+    {
+      "id": "1334",
+      "word": "statue",
+      "phonetic": "[stǽtʃuː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "像"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(忠犬ハチ公などの)人や動物の形をした彫刻」",
+        "sta-[じっとして]→「((じっと)存在する物」",
+        "the Statue of Liberty「自由の女神像」",
+        "a life-sized statue「実物大の像」"
+      ],
+      "word_origin": {
+        "formula": "sta-[じっとして]→「((じっと)存在する物」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Let's meet at the Hachiko statue at ten.",
+          "ja": "10時にハチ公(像)の所で会いましょう。"
+        }
+      ]
+    },
+    {
+      "id": "1335",
+      "word": "sculpture",
+      "phonetic": "[skʌ́lptʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "彫刻"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(粘土やブロンズなどで作られた)立体的な芸術作品」",
+        "sculp-[彫る]+-ture[結果]→「彫刻(作品)」",
+        "scratch「〜をひっかく」",
+        "painting「絵画」",
+        "woodblock print「木版画」"
+      ],
+      "word_origin": {
+        "formula": "sculp-[彫る]+-ture[結果]→「彫刻(作品)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The Thinker is a sculpture by Rodin.",
+          "ja": "「考える人」はロダンの彫刻だ。"
+        }
+      ]
+    },
+    {
+      "id": "1336",
+      "word": "myth",
+      "phonetic": "[míθ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (俗説という意味での)神話",
+            "② (古代の)神話"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「根拠はないが一般に信じられている通説, 架空の話」",
+        "＊日本語の「神話」「伝説」は本当のこともあるが, ①は常に偽物。",
+        "legend「伝説」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a myth about the safety of nuclear power plants",
+          "ja": "① 原子力発電所の安全神話"
+        },
+        {
+          "en": "② ancient Greek myths",
+          "ja": "② 古代ギリシャ神話"
+        }
+      ]
+    },
+    {
+      "id": "1337",
+      "word": "craft",
+      "phonetic": "[krǽft]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 工芸(品)",
+            "② (職人の)技術",
+            "③ 船, 乗り物〈単複同形〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "handicraft「手芸(品)」",
+        "craftspeople「(集合的に)職人」",
+        "craftsmanship「職人の技能」",
+        "an arts and crafts room「美術室」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① traditional crafts of this region",
+          "ja": "① この地域の伝統的な民芸品"
+        },
+        {
+          "en": "② the carpenter's craft",
+          "ja": "② その大工の技"
+        },
+        {
+          "en": "③ enemy craft",
+          "ja": "③ 敵の船隊"
+        }
+      ]
+    },
+    {
+      "id": "1338",
+      "word": "journal",
+      "phonetic": "[dʒə́ːrnl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 雑誌, 専門誌",
+            "② (公的な)日誌, 日記"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(専門的な内容を扱う)雑誌」",
+        "magazine「(一般的な)雑誌」",
+        "journalism「報道, ジャーナリズム(← journal を出す行為)」",
+        "journalist「報道記者, ジャーナリスト」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① an academic journal",
+          "ja": "① 学会誌"
+        },
+        {
+          "en": "② keep a journal",
+          "ja": "② 日誌をつける"
+        }
+      ]
+    },
+    {
+      "id": "1339",
+      "word": "encyclopedia",
+      "phonetic": "[insàiklápíːdiə]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "百科事典"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「さまざまな事柄や話題を詳しく説明した本」",
+        "encyclo-[全般的]+-pedia[教育]",
+        "pedagogy「教育学」",
+        "Wikipedia「ウィキペディア(インターネット百科事典)」",
+        "entry「(事典の)項目」"
+      ],
+      "word_origin": {
+        "formula": "encyclo-[全般的]+-pedia[教育]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a thirty-volume encyclopedia",
+          "ja": "30巻からなる百科事典"
+        }
+      ]
+    },
+    {
+      "id": "1340",
+      "word": "heaven",
+      "phonetic": "[hévən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 天国",
+            "② (the -s) 空"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②the skies の文学的表現",
+        "heavenly「天国の, 天の」",
+        "a heavenly body「天体」",
+        "hell「地獄」",
+        "Heaven[Lord] knows!「誰にもわからない(←神のみぞ知る)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① go to heaven",
+          "ja": "① 天国に行く"
+        },
+        {
+          "en": "② use a telescope to observe the heavens",
+          "ja": "② 望遠鏡を使って空を観察する"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "604",
+      "word": "discourage",
+      "phonetic": "[diskə́ːridʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜のやる気をなくさせる, 落胆させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ discourage (人) from doing[× to do]「(人)が〜するのをやめさせる」",
+        "Don't be discouraged.「落胆してはだめ。」",
+        "dis-[バラバラ]+-courage[勇気]→「やる気をなくさせる」",
+        "名 discouragement「落胆」",
+        "反 encourage「〜を促す, 奨励する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "discourage her from buying expensive clothes",
+          "ja": "彼女に高い服を買うのを思いとどまらせる"
+        }
+      ]
+    },
+    {
+      "id": "605",
+      "word": "promote",
+      "phonetic": "[prəmóut]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を促進する",
+            "② (be[get] ~ed to ~) (〜に)出世[昇進]する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(成長, 健康, 販売など)を促進する」から「(人)を昇進[進級]させる」まで。",
+        "pro-[前方]+-mote[=move 動かす]から「前に動かす」→「促進する」",
+        "名 promotion「促進, 出世」",
+        "⇨ a promotion(al) video「販売促進用ビデオ(PV)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① promote healthy eating habits",
+          "ja": "① 健全な食生活を促進する"
+        },
+        {
+          "en": "② get promoted to vice-president",
+          "ja": "② 副社長に昇進する"
+        }
+      ]
+    },
+    {
+      "id": "606",
+      "word": "boost",
+      "phonetic": "[búːst]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を促進させる, 増大させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「下から押し上げる」",
+        "頻出 boost the Japanese economy「日本経済を活性化する」",
+        "▶エンジンの「ブースター」は加速(=速度を高める)装置のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "boost the team's morale",
+          "ja": "チームの士気を高める"
+        }
+      ]
+    },
+    {
+      "id": "607",
+      "word": "expand",
+      "phonetic": "[ikspǽnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 拡大する, 膨張する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を拡大する, 膨張させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物, 事が一方向だけでなく全方向に)膨らむ, 拡大する」",
+        "ex-[外に]+-pand[広げる]→「膨らんでいく」",
+        "名 expansion「拡大, 膨張, 進出」",
+        "⇨ expansion into the Chinese market「中国市場への進出」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Water expands when it freezes.",
+          "ja": "① 水は凍ると膨張する。"
+        },
+        {
+          "en": "② expand my business",
+          "ja": "② ビジネスを拡張する"
+        }
+      ]
+    },
+    {
+      "id": "608",
+      "word": "extend",
+      "phonetic": "[iksténd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を延長する, 広げる"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 伸びる, 広がる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長さ)を伸ばす」から「(時間)を延ばす」まで。",
+        "頻出 extend one's stay by ~ days「滞在を〜日延長する」",
+        "ex-[外に]+-tend[伸びる]",
+        "名 extension「延長, 増大, 内線」",
+        "形 extensive「広範囲の」",
+        "⇨ extensive reading「多読」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① extend the deadline by one week",
+          "ja": "① 締め切りを1週間延ばす"
+        },
+        {
+          "en": "② The meeting extended over five hours.",
+          "ja": "② その会議は5時間にも及んだ。"
+        }
+      ]
+    },
+    {
+      "id": "609",
+      "word": "broaden",
+      "phonetic": "[brɔ́ːdn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を広げる"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 広がる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(道路など)を広げる」から「(視野など)を広げる」まで。",
+        "頻出 ① broaden one's mind[world, knowledge]「視野[世界, 知識]を広げる」",
+        "broad-[幅広い]+-en[動詞語尾]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Travel broadens your horizons.",
+          "ja": "① 旅は視野を広げてくれる。"
+        },
+        {
+          "en": "② After studying in New Zealand, my outlook on life has broadened.",
+          "ja": "② ニュージーランドに留学して自分の世界(人生観)が広がった。"
+        }
+      ]
+    },
+    {
+      "id": "610",
+      "word": "spread",
+      "phonetic": "[spréd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (新聞, 地図, 両腕など)を広げる"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (うわさ, 細菌, 思想などが)広がる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 広がり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 ②「(物が)普及する」は be widely used などと表現するのがふつう。",
+        "形 widespread「広範囲にわたる」",
+        "⇨ with the widespread use of ~「〜の普及と共に」",
+        "[活用] spread-spread-spread"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① spread a handkerchief over my lap",
+          "ja": "① ひざの上にハンカチを広げる"
+        },
+        {
+          "en": "② The news spread rapidly.",
+          "ja": "② そのニュースは急速に広まった。"
+        },
+        {
+          "en": "③ the rapid spread of cholera",
+          "ja": "③ コレラの急速なまん延"
+        }
+      ]
+    },
+    {
+      "id": "611",
+      "word": "tie",
+      "phonetic": "[tái]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (荷物など)を縛る",
+            "② (ひも, ネクタイなど)を結ぶ"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ ネクタイ (=necktie)",
+            "④ (家族などの)きずな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② tie one's hair back「髪を後ろでくくる」",
+        "反 untie「〜をほどく」",
+        "熟 bow (tie)「蝶ネクタイ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① tie up old books with some string",
+          "ja": "① ひもで古本を縛る"
+        },
+        {
+          "en": "② tie my shoelaces",
+          "ja": "② 靴ひもを結ぶ"
+        },
+        {
+          "en": "③ fix my tie",
+          "ja": "③ ネクタイを直す"
+        },
+        {
+          "en": "④ parent-child ties",
+          "ja": "④ 親子のきずな"
+        }
+      ]
+    }
+  ]
+}

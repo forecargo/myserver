@@ -1,0 +1,255 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "678",
+      "word": "determine",
+      "phonetic": "[ditə́ːrmin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を決定する, 〜に大きく影響する",
+            "② (be ~d to do) 〜すると決意している",
+            "③ (原因などを)特定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 正式な表現で「(ある事柄がほかの事柄)を決定する」という意味で使われることが多い。(＊「(人が)〜を決める」は decide がふつう。)",
+        "名 determination「決定, 決意」",
+        "with determination「断固として」"
+      ],
+      "word_origin": {
+        "formula": "de-[下] + -term-[枠] から「枠にはめる」→「〜を決める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "People's lifestyles are often determined by their incomes.",
+          "ja": "人の生活スタイルは収入で決まることが多い。"
+        },
+        {
+          "en": "I am determined to win the game.",
+          "ja": "私は試合に勝つ決意をしている。"
+        },
+        {
+          "en": "determine the cause of the accident",
+          "ja": "その事故の原因を特定する"
+        }
+      ]
+    },
+    {
+      "id": "679",
+      "word": "conclude",
+      "phonetic": "[kənklúːd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(that SV)〜と結論を下す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "con-[共に] + -clud-[=close 閉じる] から「すっかり閉じる」→「結論を下す」",
+        "名 conclusion「結論」",
+        "come to [reach] the conclusion (that) SV「〜という結論に至る」",
+        "in conclusion「結論として」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -clud-[=close 閉じる] から「すっかり閉じる」→「結論を下す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "conclude that the factory should be closed",
+          "ja": "その工場は閉鎖すべきだと結論を下す"
+        }
+      ]
+    },
+    {
+      "id": "680",
+      "word": "distinguish",
+      "phonetic": "[distíŋgwiʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を区別する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "区別する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「違いを認識して, 理解する」",
+        "distinguish A from B「AをBと区別する」",
+        "distinguish between A and B「AとBを区別する」",
+        "dis-[バラバラ] + -(s)ting-[=stick 棒] から「離れた所に棒を突き刺す」→「〜を区別する」",
+        "名 distinction「区別」",
+        "形 distinct「はっきりした」",
+        "形 distinguished「著名な(←ほかと明確に区別される)」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -(s)ting-[=stick 棒] から「離れた所に棒を突き刺す」→「〜を区別する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "distinguish sheep from goats",
+          "ja": "ヒツジをヤギと区別する"
+        }
+      ]
+    },
+    {
+      "id": "681",
+      "word": "classify",
+      "phonetic": "[klǽsəfài]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を分類する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「class(種類)でグループ分けする」",
+        "classify A by [according to] B「BにしたがってAを分類する」",
+        "classify A into B「AをBに分類する」",
+        "class-[種類, 等級] + -fy[動詞語尾] から「分類された状態にする」",
+        "名 classification「分類」",
+        "形 classified「分類された, 機密の」"
+      ],
+      "word_origin": {
+        "formula": "class-[種類, 等級] + -fy[動詞語尾] から「分類された状態にする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "classify the books according to subject [their subject(s)]",
+          "ja": "テーマで図書を分類する"
+        }
+      ]
+    },
+    {
+      "id": "682",
+      "word": "estimate",
+      "phonetic": "動[éstəmèit] 名[éstəmət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を推定する, 見積もる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (for 〜) (〜の)見積もり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きさや数量)をおおよそ見積もる」",
+        "It is estimated that SV.「〜と推定される。」",
+        "estimate A at (数字)「Aが(数字)だと推定する」",
+        "形 estimated「推定の」",
+        "the estimated oil reserve「石油の埋蔵量」",
+        "他 underestimate「〜を過小評価する」",
+        "他 overestimate「〜を過大評価する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It is estimated that this shrine is over 500 years old.",
+          "ja": "この神社の歴史は500年以上だと見積もられている。"
+        },
+        {
+          "en": "give an estimate for fixing the roof",
+          "ja": "屋根の修理の見積もりを出す"
+        }
+      ]
+    },
+    {
+      "id": "683",
+      "word": "organize",
+      "phonetic": "[ɔ́ːrgənàiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (考えなど)をまとめる",
+            "② 〜を組織化する, 取りまとめる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(個々の人や物)を1つにまとめる, 系統立てて並べる」",
+        "organ-[道具] + -ize[動詞語尾] →「使えるようにする」",
+        "名 organization「組織, まとめること」",
+        "形 organized「組織化された, うまくまとまった」"
+      ],
+      "word_origin": {
+        "formula": "organ-[道具] + -ize[動詞語尾] →「使えるようにする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "organize my thoughts before speaking",
+          "ja": "話す前に私の考えをまとめる"
+        },
+        {
+          "en": "organize an event",
+          "ja": "イベントを取りまとめる"
+        }
+      ]
+    },
+    {
+      "id": "684",
+      "word": "recognize",
+      "phonetic": "[rékəgnàiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (知り合いなどが)誰だかわかる",
+            "② (that SV)〜を認識する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(すでに知っている人[物])について, 以前の記憶や経験などから)それが誰[物]であると認識する」",
+        "▶ ②「(真実だと)認める」",
+        "re-[再び] + -cogn-[認知] から「再び見たときにわかる」→「認識する」",
+        "形 cognitive「認知の」",
+        "名 recognition「認識」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -cogn-[認知] から「再び見たときにわかる」→「認識する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Do you recognize me?",
+          "ja": "私が誰だかわかりますか。"
+        },
+        {
+          "en": "recognize that I was wrong",
+          "ja": "私が間違っていたと認める"
+        }
+      ]
+    }
+  ]
+}

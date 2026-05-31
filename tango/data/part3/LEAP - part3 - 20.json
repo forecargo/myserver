@@ -1,0 +1,314 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1188",
+      "word": "secure",
+      "phonetic": "[sikjúər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (場所、地位、契約など)を確保する",
+            "② (睡眠時間などを)確保する"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 安全な",
+            "② 守られて"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「睡眠時間を確保する」は get enough sleep という表現が適切。",
+        "se- [離れて] + -cure [心配] から「心配がない」→「安全で」",
+        "security「(国家などの)安全, 防犯, 防衛」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "secure a window seat",
+          "ja": "窓側の席を確保する"
+        },
+        {
+          "en": "feel secure about the future",
+          "ja": "将来に対して安心感をもつ"
+        }
+      ]
+    },
+    {
+      "id": "1189",
+      "word": "capture",
+      "phonetic": "[kǽptʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を捕らえる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 捕獲, (敵地の)攻略"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「逃がさないようにしっかり捕まえる」(*catch より堅い語。)",
+        "captive「捕らわれた, 捕獲された; 捕虜, 人質」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The monkey that escaped from the zoo was captured.",
+          "ja": "動物園から逃げたサルが捕獲された。"
+        },
+        {
+          "en": "avoid capture",
+          "ja": "逮捕を逃れる"
+        }
+      ]
+    },
+    {
+      "id": "1190",
+      "word": "monitor",
+      "phonetic": "[mɑ́nətər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を監視する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (コンピュータの)画面"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「一定期間にわたり, きちんと働いているかをチェックする」",
+        "monit- [警告する] + -or [人] ☆mónster「怪物(←警告する人)」",
+        "▶「商品などをチェックする人(モニター)」は a tester [test user] と表現する。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "monitor my blood pressure",
+          "ja": "(一定期間)血圧をチェックする"
+        },
+        {
+          "en": "a high-resolution monitor",
+          "ja": "高解像度のモニター"
+        }
+      ]
+    },
+    {
+      "id": "1191",
+      "word": "investigate",
+      "phonetic": "[invéstəgèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (研究班などが)〜を調査する",
+            "② (警察が)〜を捜査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "investigation「捜査, 調査」⇔the Federal Bureau of Investigation (FBI)「(米国の)連邦捜査局」",
+        "investigator「(主に犯罪の)捜査員」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "investigate the ecology of eels",
+          "ja": "ウナギの生態を調査する"
+        },
+        {
+          "en": "investigate the murder case",
+          "ja": "その殺人事件を捜査する"
+        }
+      ]
+    },
+    {
+      "id": "1192",
+      "word": "detect",
+      "phonetic": "[ditékt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を探知する, (病気など)を発見する, (うそなど)を見抜く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "de- [否定] + -tect [覆い] →「覆われている物を取り除く」☆protéct「〜を保護する(←前を覆う)」",
+        "detective「探偵」⇔a detective story「推理小説」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "detect a small amount of drug",
+          "ja": "微量の麻薬を検出する"
+        }
+      ]
+    },
+    {
+      "id": "1193",
+      "word": "inquiry",
+      "phonetic": "[ínkwáiəri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (into 〜)の調査",
+            "② 質問, 問い合わせ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "inquire [inkwáiər]「(〜を)尋ねる」は ask より堅い語。",
+        "in- [中に] + -quiry [=quest 探求] →「中を探すこと」",
+        "for further inquiries「さらにご質問がございましたら」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an inquiry into his background",
+          "ja": "彼の身元調査"
+        },
+        {
+          "en": "receive inquiries from several companies",
+          "ja": "いくつかの会社から問い合わせがある"
+        }
+      ]
+    },
+    {
+      "id": "1194",
+      "word": "specializ",
+      "phonetic": "[spéʃəlàiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 〈英〉(〜を)専攻する",
+            "② (〜を)専門にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "special「特別の; (レストランの)お勧め」の動詞形。What is today's special?「今日のお勧めは何ですか。」",
+        "specialization「専門化」",
+        "(*米)では major in と表現する。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "specialize in business administration",
+          "ja": "経営学を専攻する"
+        },
+        {
+          "en": "specialize in imported groceries",
+          "ja": "輸入食料雑貨品を専門に扱う"
+        }
+      ]
+    },
+    {
+      "id": "1195",
+      "word": "semester",
+      "phonetic": "[siméstər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(米, 日本などの2学期制の)学期"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶3学期制の場合は term「学期」",
+        "se- [=six 6] + -mester [=month 月] →「6か月」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the first semester",
+          "ja": "前期"
+        },
+        {
+          "en": "(↔ the second semester)",
+          "ja": "(↔ 後期)"
+        }
+      ]
+    },
+    {
+      "id": "1196",
+      "word": "biology",
+      "phonetic": "[baiɑ́lədʒi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "生物学"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「生物や生命現象を研究する学問」",
+        "bio- [生命] + -logy [=logic 論理]",
+        "☆biorhythm「バイオリズム(←周期的な生命の現象)」",
+        "antibiotics「抗生物質」",
+        "microbiology「微生物学」",
+        "biomimicry「生態模倣」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Biology is the scientific study of living things.",
+          "ja": "生物学は生物の科学的な研究です。"
+        }
+      ]
+    },
+    {
+      "id": "1197",
+      "word": "ecology",
+      "phonetic": "[ikɑ́lədʒi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "生態(学)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "ecological「生態の」⇔the ecological system「生態系」(=the ecosystem)",
+        "ecologist「生態学者」",
+        "an eco-friendly bag「エコバッグ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the ecology of jellyfish",
+          "ja": "クラゲの生態"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1841",
+      "word": "mock",
+      "phonetic": "[mák]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 模擬の",
+            "見せかけの"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (からかって)〜をまねる",
+            "③ 〜をばかにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③ 日常では laugh at 〜や make fun of 〜のほうが使われる。",
+        "▶ hámmock「(ハンモック)」は「見せかけのベッド」と覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a mock exam",
+          "ja": "① 模擬試験"
+        },
+        {
+          "en": "mock the way the teacher talks",
+          "ja": "② その先生の口まねをする (話し方をまねる)"
+        },
+        {
+          "en": "Don't mock me any more.",
+          "ja": "③ これ以上私をばかにするな."
+        }
+      ]
+    },
+    {
+      "id": "1842",
+      "word": "collective",
+      "phonetic": "[kəléktiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 集団の",
+            "共同の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ある集団や社会に関わる」",
+        "派 colléctively「集団で, 一斉に」",
+        "反 individual「個人の」",
+        "collective bargaining「団体交渉」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "collective leadership",
+          "ja": "(共産主義の)集団指導体制"
+        }
+      ]
+    },
+    {
+      "id": "1843",
+      "word": "vertical",
+      "phonetic": "[və́ːrtikəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "垂直の",
+            "縦の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ vert-[回る] +-ical[形容詞語尾] →「90度回る」",
+        "反 horizontal「水平の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "draw a vertical line",
+          "ja": "縦(垂直の)線を引く"
+        }
+      ]
+    },
+    {
+      "id": "1844",
+      "word": "ongoing",
+      "phonetic": "[ɔ́ŋgòuin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "進行中の",
+            "継続中の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(議論, 研究, 計画などが)現在進行中である」",
+        "▶ go on「継続する」から派生した語。",
+        "参 upcóming「まもなくやって来る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an ongoing project",
+          "ja": "進行中の計画"
+        }
+      ]
+    },
+    {
+      "id": "1845",
+      "word": "tender",
+      "phonetic": "[téndər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (肉などが)柔らかい",
+            "② (愛情があり)優しい",
+            "③ (皮膚などが)弱い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ tend-[伸びる]から「相手に気持ちが行く」→「優しい」",
+        "☆ tenderloin「テンダーロイン(←牛, 豚のヒレ肉(腰の柔らかい部分))」",
+        "反 tough「硬い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a tender[×soft] sirloin steak",
+          "ja": "① 柔らかいサーロインステーキ"
+        },
+        {
+          "en": "his tender smile",
+          "ja": "② 彼の優しい微笑み"
+        },
+        {
+          "en": "tender skin",
+          "ja": "③ 弱い皮膚"
+        }
+      ]
+    },
+    {
+      "id": "1846",
+      "word": "upright",
+      "phonetic": "[ʌ́pràit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 直立して"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 直立した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「まっすぐに立って」",
+        "▶ up-[上] +-right[まっすぐ] →「直立して」",
+        "☆ straight「まっすぐに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "walk upright",
+          "ja": "① 直立歩行する (直立して歩く)"
+        },
+        {
+          "en": "walk on all fours",
+          "ja": "◇ 四つんばいで歩く"
+        },
+        {
+          "en": "in an upright position",
+          "ja": "② 直立した状態で"
+        }
+      ]
+    },
+    {
+      "id": "1847",
+      "word": "ease",
+      "phonetic": "[íːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 簡単さ"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (痛み, 心配など)を和らげる",
+            "楽にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「便利である」→①「容易, 平易である」→②「気持ちを楽にする」",
+        "参 with ease「簡単に」(≒easily)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pass the exam with ease",
+          "ja": "① その試験に容易に受かる"
+        },
+        {
+          "en": "ease the symptoms of a cold",
+          "ja": "② かぜの症状を和らげる"
+        }
+      ]
+    },
+    {
+      "id": "1848",
+      "word": "rust",
+      "phonetic": "[rʌ́st]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① さび<不可算>"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② さびる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「歌のサビ(=印象的な旋律)」は hook.",
+        "▶ 「赤くなった」が元の意味。",
+        "☆ réd「赤い」",
+        "rúːde「下品な」",
+        "rótten「腐った」",
+        "形 rústｙ「さびた」(*「(能力の)低下」を表現する際にも使用可。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The bicycle was covered in rust.",
+          "ja": "① その自転車はさびついていた (さびで覆われていた)."
+        },
+        {
+          "en": "The pipe rusted.",
+          "ja": "② そのパイプはさびていた."
+        }
+      ]
+    },
+    {
+      "id": "1849",
+      "word": "stain",
+      "phonetic": "[stéin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① シミ",
+            "汚れ"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜にシミをつける",
+            "〜を汚す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ステンレス(stainless)」は「さびにくい(シミがつきづらい)合金鋼」のこと。",
+        "▶ 「ステンドグラス(stained glass)」は「シミのように色がついたガラス」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "remove stubborn oil stains",
+          "ja": "① 頑固な油汚れをとる"
+        },
+        {
+          "en": "stain my shirt",
+          "ja": "② (私の)シャツを汚す"
+        }
+      ]
+    },
+    {
+      "id": "1850",
+      "word": "rag",
+      "phonetic": "[rǽg]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "ぼろ切れ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「使い古した布」",
+        "派 ragged「ぼろ服を着た」",
+        "参 rúg[rʌ́g]「敷物, ラグ」と区別。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wipe the floor with a rag",
+          "ja": "床をぞうきんがけする (ぼろ切れで床を拭く)"
+        }
+      ]
+    },
+    {
+      "id": "1851",
+      "word": "texture",
+      "phonetic": "[tékstʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "感触",
+            "手触り"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(布地, 皮膚, 木材などの)感触, (食べ物の)食感など」"
+      ],
+      "word_origin": {
+        "formula": "text-[織られた] +-ure[状態] →「織られ方」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "This beef has a chewy texture.",
+          "ja": "この肉は歯ごたえのある食感だ。"
+        }
+      ]
+    }
+  ]
+}

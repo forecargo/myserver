@@ -1,0 +1,528 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2133",
+      "word": "hostage",
+      "phonetic": "[hɔ́stɪdʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "人質"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不当な要求をするために不当に捕まえられた人」",
+        "host-[もてなす]+-age[行為, 状態]→「(人質は殺してはいけないので)もてなしている状態」",
+        "hostel「ホステル, 簡易宿泊所(←もてなす所)」",
+        "ransom「身代金」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2134",
+      "word": "conspiracy",
+      "phonetic": "[kənspírəsi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "陰謀"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「複数の人間で違法行為などをするための計画」",
+        "con-[共に]+-spir[息]から「共に息を合わせて企むこと」→「陰謀」",
+        "inspire「〜を鼓舞する」",
+        "conspire「共謀する」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2135",
+      "word": "peril",
+      "phonetic": "[pérəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大きな危険"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "危険な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(dangerよりも差し迫った)大きな危険」",
+        "peri-[危険]",
+        "experiment「実験(ex-[外に]+-peri-[危険])」",
+        "perilous「危険な」",
+        "impéril「〜を危険にさらす」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2136",
+      "word": "pitfall",
+      "phonetic": "[pítfɔ̀ːl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "落とし穴, 隠れた危険"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動物などを捕らえるための)落とし穴」",
+        "pit-[穴]+-fall[落下]→「(動物などを捕らえるための)落とし穴」",
+        "pitfalls of e-commerce「電子商取引の落とし穴」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pitfalls of e-commerce",
+          "ja": "電子商取引の落とし穴"
+        }
+      ]
+    },
+    {
+      "id": "2137",
+      "word": "itinerary",
+      "phonetic": "[aitínərèri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "旅程 (表)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「訪れる場所や日程の一覧」",
+        "it-[行く]",
+        "exit「出口(←外に行く)」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2138",
+      "word": "upheaval",
+      "phonetic": "[ʌphíːvəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大変動"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「問題を起こすことになる大きな変化」",
+        "up-[上]+-heaval[持ち上げること]から「隆起」→「大変動」",
+        "uproot「(住み慣れた土地から)〜を引き離す」",
+        "weather the economic upheaval「経済の大変動を乗り切る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weather the economic upheaval",
+          "ja": "経済の大変動を乗り切る"
+        }
+      ]
+    },
+    {
+      "id": "2139",
+      "word": "commencement",
+      "phonetic": "[kəménsəmənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 開始",
+            "② 〈米〉(高校・大学の)卒業式, 学位授与式"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ beginningの堅い表現。",
+        "com-[強意]+-ence-[開始]",
+        "commence「始まる」",
+        "「〜を始める」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2140",
+      "word": "threshold",
+      "phonetic": "[θréʃhould]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(新しいものの)始まり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(新時代, 新局面などの)始まり」",
+        "元は「敷居」で, 「(ある反応が発生する境界点)」の意味もある。",
+        "We are at the threshold of a new era.「私たちは新たな時代の入り口にいる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We are at the threshold of a new era.",
+          "ja": "私たちは新たな時代の入り口にいる"
+        }
+      ]
+    },
+    {
+      "id": "2141",
+      "word": "onset",
+      "phonetic": "[ɔ́nset]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(通例良くないことの)始まり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(梅雨や寒い冬や病気などの)始まり」",
+        "set on「始まる」の語順が逆転してできた語。",
+        "the onset of the rainy season「梅雨(雨季)の始まり」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the onset of the rainy season",
+          "ja": "梅雨(雨季)の始まり"
+        }
+      ]
+    },
+    {
+      "id": "2142",
+      "word": "momentum",
+      "phonetic": "[mouménṭəm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "勢い, はずみ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(活動や改革などを)推進する力」",
+        "moveと同様に「動くこと」が元の意味。",
+        "Our economy is gaining momentum.「我が国の経済は勢いを増している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our economy is gaining momentum.",
+          "ja": "我が国の経済は勢いを増している"
+        }
+      ]
+    },
+    {
+      "id": "2143",
+      "word": "deterrent",
+      "phonetic": "[dɪtə́ːrənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "抑止するもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かをすることを思いとどまらせるもの」",
+        "de-[分離]+-terr-[恐怖]→「怖がらせて引き離す」",
+        "deter「(恐怖・不安が)〜を思いとどまらせる」",
+        "act as a deterrent to crime「犯罪の抑止力として機能する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "act as a deterrent to crime",
+          "ja": "犯罪の抑止力として機能する"
+        }
+      ]
+    },
+    {
+      "id": "2144",
+      "word": "geometry",
+      "phonetic": "[dʒiάmətri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "幾何学"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "algebra「代数学」",
+        "arithmetic「算術」",
+        "(*古代ギリシャでは, 幾何学は土地の分割や建設に重要な技術だった。)"
+      ],
+      "word_origin": {
+        "formula": "geo-[土]+-metry[meter測る]→「土地などを測定する技術や学問」",
+        "description": "(*古代ギリシャでは, 幾何学は土地の分割や建設に重要な技術だった。)"
+      },
+      "examples": []
+    },
+    {
+      "id": "2145",
+      "word": "anthropologist",
+      "phonetic": "[æ̀nθrəpάlədʒɪst]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(文化)人類学者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人間の生活様式や社会のあり方などを研究する人」",
+        "anthropo-[人類]",
+        "pithecanthropus「ピテカントロプス(←サル+人類)」",
+        "Anthropocene「人新世(人類が地球の地質や生態系に大きな影響を及ぼすようになった産業革命以降の時代)」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2146",
+      "word": "internship",
+      "phonetic": "[ɪntə́ːrnʃɪp]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "実務研修, 医学研修"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主に学生が経験を積むための短期間の仕事」",
+        "intern「実務研修中の学生, 医学研修生」",
+        "do a six-month internship「半年間の実務研修をする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "do a six-month internship",
+          "ja": "半年間の実務研修をする"
+        }
+      ]
+    },
+    {
+      "id": "2147",
+      "word": "paradigm",
+      "phonetic": "[pærədàɪm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "理論的枠組, パラダイム"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(その時代の)支配的な物の見方, 思考の枠組み」",
+        "a paradigm shift「パラダイムシフト(理論的枠組の転換)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a paradigm shift",
+          "ja": "パラダイムシフト(理論的枠組の転換)"
+        }
+      ]
+    },
+    {
+      "id": "2148",
+      "word": "altruism",
+      "phonetic": "[ǽltruːɪzm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "利他主義"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「他者の利益になるよう行動する者」",
+        "altr-[ほかのもの]+-ism[主義]→「ほかのものを大切にする主義」",
+        "alibi「アリバイ(←ほかの場所にいた)」",
+        "alter「〜を変える(←ほかのものにする)」",
+        "altruistic「利他主義の」",
+        "altruist「利他主義者」",
+        "egoism「利己主義」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2149",
+      "word": "claustrophobia",
+      "phonetic": "[klɔ̀ːstrəfóubiə]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "閉所恐怖症"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ extreme or irrational fear of confined areas",
+        "claustro-[=closed閉じた(場所)]+-phobia[恐怖]",
+        "acrophobia「高所恐怖症」",
+        "xenophobia「外国人恐怖症」",
+        "-phobia「〜恐怖症」",
+        "-phile「〜を愛する人」",
+        "audiophile「オーディオ愛好家」",
+        "I have claustrophobia, so I cannot take elevators.「私は閉所恐怖症なのでエレベーターに乗れない。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have claustrophobia, so I cannot take elevators.",
+          "ja": "私は閉所恐怖症なのでエレベーターに乗れない。"
+        }
+      ]
+    },
+    {
+      "id": "2150",
+      "word": "Antarctic",
+      "phonetic": "[æntάːrktɪk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(the-)南極 (地方)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "the South Pole「南極」",
+        "(*南極は北極よりも後に発見された。)"
+      ],
+      "word_origin": {
+        "formula": "ant-[against対して]+-arctic[北極]→「北極の反対」",
+        "description": "(*南極は北極よりも後に発見された。)"
+      },
+      "examples": []
+    },
+    {
+      "id": "2151",
+      "word": "latitude",
+      "phonetic": "[lǽtətjùːd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "緯度 (省略形 lat.)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "longitude「経度」",
+        "altitude「高度」",
+        "long[長い(lóng)]と覚えよう。",
+        "the equator「赤道(←両極からの距離が等しい線)」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2152",
+      "word": "odor",
+      "phonetic": "[óudər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(不快な)臭い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "scent「(心地よい)匂い」",
+        "fragrance「芳香」",
+        "odo-[臭い]",
+        "deodorant「脱臭剤, デオドラント」",
+        "the odor of cigarette smoke「タバコの煙の臭い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the odor of cigarette smoke",
+          "ja": "タバコの煙の臭い"
+        }
+      ]
+    },
+    {
+      "id": "2153",
+      "word": "meadow",
+      "phonetic": "[médou]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "草地, 牧草地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に干し草を作るための)草地」",
+        "mow[móu]「(草を)刈り取る」",
+        "pasture「(放牧のための)牧草地(←「エサを与える」が元の意味)」",
+        "hay「干し草」",
+        "hay fever「花粉症(←干し草熱)」"
+      ],
+      "word_origin": null,
+      "examples": []
+    }
+  ]
+}

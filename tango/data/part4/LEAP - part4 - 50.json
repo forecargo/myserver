@@ -1,0 +1,314 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1913",
+      "word": "premise",
+      "phonetic": "[prémis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 前提",
+            "② (-s) (建物を含めた)敷地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "② 昔、遺書の前半に不動産の記述があったことから「前提」→「敷地」となった。"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に]+-mise[=mit 送る] -> 「あらかじめ送られたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① the premise that everyone is equal",
+          "ja": "① 皆平等であるという前提"
+        },
+        {
+          "en": "② Smoking is not allowed on the premises.",
+          "ja": "② 敷地内は禁煙です。"
+        }
+      ]
+    },
+    {
+      "id": "1914",
+      "word": "tomb",
+      "phonetic": "[túːm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "墓、古墳"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「grave『墓(穴)』」の上にある墓石のついた墓」",
+        "★土を盛ったところ",
+        "▷bómb [bám]「爆弾」 cómb [kóum]「くし」 wómb [wúːm]「子宮」 (※いずれも -b を発音しない単語。)",
+        "túmor「腫瘍(←膨らんだもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "offer flowers before my grandfather's tomb",
+          "ja": "祖父の墓の前に花を供える"
+        }
+      ]
+    },
+    {
+      "id": "1915",
+      "word": "legend",
+      "phonetic": "[lédʒənd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 伝説、言い伝え",
+            "② 伝説的人物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 legendary「伝説の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① according to legend",
+          "ja": "① 伝説によると"
+        },
+        {
+          "en": "② a living legend of boxing",
+          "ja": "② ボクシングの生きた伝説(的人物)"
+        }
+      ]
+    },
+    {
+      "id": "1916",
+      "word": "masterpiece",
+      "phonetic": "[mǽstərpìːs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "傑作"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では a great work のほうが使われる。"
+      ],
+      "word_origin": {
+        "formula": "master-[名人]+-piece[作品]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a masterpiece by [×of] Leonardo da Vinci",
+          "ja": "レオナルド・ダ・ヴィンチの傑作"
+        }
+      ]
+    },
+    {
+      "id": "1917",
+      "word": "ritual",
+      "phonetic": "[rítʃuəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (宗教的)儀式"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 儀式の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "routine「日課、決まりきった仕事」 róute「(いつも通る)道筋」",
+        "rite「(ritual より厳格な)儀式」 báptism「洗礼」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① perform a ritual",
+          "ja": "① 儀式を行う"
+        },
+        {
+          "en": "② ritual dances",
+          "ja": "② 儀式の舞踊"
+        }
+      ]
+    },
+    {
+      "id": "1918",
+      "word": "worship",
+      "phonetic": "[wə́ːrʃip]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 崇拝、礼拝"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を崇拝する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (神社などに)お参りする"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "wor-[=worth 価値]+-ship[状態] -> 「(価値を見いだし)崇拝すること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① an object of worship",
+          "ja": "① 崇拝の対象"
+        },
+        {
+          "en": "② worship an idol",
+          "ja": "② 偶像を崇拝する"
+        },
+        {
+          "en": "③ worship at a shrine",
+          "ja": "③ 神社でお参りする"
+        }
+      ]
+    },
+    {
+      "id": "1919",
+      "word": "doctrine",
+      "phonetic": "[dáktrin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(宗教上などの)教義"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(信念などの容認が前提となる)教義」(★<米>では the Monroe Doctrine「モンロー主義」などのように「(外交政策上の)主義」としても使われる)",
+        "dóctor「医者(←教える人)」",
+        "dógma「(論争の余地がない真理としての)教義」"
+      ],
+      "word_origin": {
+        "formula": "doctr-[教える]+-ine[名詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "follow Jewish doctrine",
+          "ja": "ユダヤ教の教義に従う"
+        }
+      ]
+    },
+    {
+      "id": "1920",
+      "word": "legacy",
+      "phonetic": "[légəsi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "遺産<可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(親の)遺産」から「(比喩的な意味での)遺産(ある時代の遺物)」まで。",
+        "inhéritance「相続財産」 héritage「遺産」",
+        "legacy「(コンピュータ・ソフト・データなどが)古くなった、旧式の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "leave a legacy of plastic waste on our planet",
+          "ja": "地球にプラスチック廃棄物という遺産を残す"
+        }
+      ]
+    },
+    {
+      "id": "1921",
+      "word": "sin",
+      "phonetic": "[sín]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(宗教上、道徳上の)罪"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「教義に反して、神に背くと思われる行為」",
+        "críme「犯罪」",
+        "「信じられない罪」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "confess my sins",
+          "ja": "罪を認める"
+        }
+      ]
+    },
+    {
+      "id": "1922",
+      "word": "swear",
+      "phonetic": "[swéər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 誓う",
+            "② 罵る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(神などに)誓いを立てる」(★②日本語の「貴様」と同様に意味が逆転した。)",
+        "plédge「(〜することを)堅く約束する」(★堅い語)",
+        "「(神に向かって)誓う」が元の意味。"
+      ],
+      "word_origin": {
+        "formula": "ánswer (an-[に対して]+-swer[誓う])",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① swear on the Bible",
+          "ja": "① 聖書に(手をのせて)誓う"
+        },
+        {
+          "en": "② swear at her husband",
+          "ja": "② 彼女の夫を罵る"
+        }
+      ]
+    }
+  ]
+}

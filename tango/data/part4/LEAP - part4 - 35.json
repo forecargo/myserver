@@ -1,0 +1,301 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1759",
+      "word": "anatomy",
+      "phonetic": "[ənǽtəmi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 解剖(学)",
+            "② (解剖学的に見た動植物の)構造"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "dissection (解剖(体), 解体 (dis-[バラバラ] + -section[刻み]))",
+        "ana-[上] + -tom-[切る] + -y[名詞語尾] -> 「切り上げること」",
+        "atom「原子」(←a-[否定] + -tom[切る] -> 「これ以上切れない」)",
+        "形 anatomical「解剖学的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "study anatomy",
+          "ja": "① 解剖学を勉強する"
+        },
+        {
+          "en": "study human anatomy",
+          "ja": "② 人体の構造を研究する"
+        }
+      ]
+    },
+    {
+      "id": "1760",
+      "word": "mammal",
+      "phonetic": "[mǽməl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 哺乳動物",
+            "② (個々の)哺乳動物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "mamma-[乳房]",
+        "máma「ママ」は ma「おっぱい(が欲しい)」の繰り返しから。",
+        "reptile「爬虫類」",
+        "amphibian「両生類」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Whales are classified as mammals.",
+          "ja": "クジラは哺乳類に分類されている。"
+        }
+      ]
+    },
+    {
+      "id": "1761",
+      "word": "predator",
+      "phonetic": "[prédətər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "捕食者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "=an animal that kills and eats other animals",
+        "predat-[つかむ] + -or[する人]",
+        "comprehénd「〜を理解している」",
+        "形 predatory「捕食動物の」",
+        "apex predator「頂点捕食動物[者]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "marine predators",
+          "ja": "海洋捕食動物"
+        }
+      ]
+    },
+    {
+      "id": "1762",
+      "word": "hybrid",
+      "phonetic": "[háibrid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "交配種, 雑種, ハイブリッド"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "異質なものを組み合わせたもの",
+        "a mixed breed dog「雑種犬」",
+        "「ハイブリッド車」とは一般的に「ガソリンで動くエンジンと電気で動くモーターの2つの動力源を備えた(組み合わせた)自動車」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A mule is a hybrid of a horse and a donkey.",
+          "ja": "ラバは馬とロバの交配種である。"
+        }
+      ]
+    },
+    {
+      "id": "1763",
+      "word": "skull",
+      "phonetic": "[skʌl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "頭蓋骨(可算)",
+            "(人や動物の)頭の骨"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「頭を覆うもの」が元の意味。",
+        "skin「皮膚(←身体を覆うもの)」",
+        "sky「空(←地面を覆うもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "suffer a fractured skull",
+          "ja": "頭蓋骨を骨折する"
+        }
+      ]
+    },
+    {
+      "id": "1764",
+      "word": "timber",
+      "phonetic": "[tímbər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に英)材木",
+            "製材した木"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "(米)lúmber",
+        "(用材としての)木は wood",
+        "log「丸太」",
+        "a log cabin「丸太小屋」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a timber dealer",
+          "ja": "材木商"
+        }
+      ]
+    },
+    {
+      "id": "1765",
+      "word": "textile",
+      "phonetic": "[tékstail]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 織物",
+            "② 織物の"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "織物の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「商売の対象となる)織物」",
+        "text-[織られたもの] + -ile[名詞語尾] -> 「織られたもの」",
+        "téxtbook「教科書(←さまざまな内容が織り込まれた本)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weave textiles",
+          "ja": "① 織物を織る"
+        },
+        {
+          "en": "the textile industry",
+          "ja": "② 織物業界"
+        }
+      ]
+    },
+    {
+      "id": "1766",
+      "word": "fabric",
+      "phonetic": "[fǽbrik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 布地, 織物",
+            "② 組織, 構造"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(服などを作る元となる)布」",
+        "「(組織, 建物の)基本構造」",
+        "prefabrication「プレハブ(←あらかじめ作られた物)」",
+        "fiber「(1本の)繊維」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sweat-absorbing fabric",
+          "ja": "① 汗を吸収しやすい布地"
+        },
+        {
+          "en": "the fabric of our society",
+          "ja": "② 私たちの社会の構造"
+        }
+      ]
+    },
+    {
+      "id": "1767",
+      "word": "mill",
+      "phonetic": "[mil]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "製造工場"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「原材料を加工する工場」",
+        "石臼(=móla)から派生した「製粉所」が元の意味。",
+        "windmill「風車, 風力タービン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a cotton[paper, steel] mill",
+          "ja": "紡績[製紙, 製鋼]工場"
+        }
+      ]
+    },
+    {
+      "id": "1768",
+      "word": "weave",
+      "phonetic": "[wíːv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を織る",
+            "② 〜を編む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(布, かご, 物語など)を作る」",
+        "発音とつづりが似ている wáve「波」とイメージを重ねて覚えよう。(→「波打つように編む」)",
+        "[活用]weave-wove [wóuv]-woven [wóuvən]",
+        "wéb「クモの巣(←織られた物)」",
+        "interwéave「〜を織り合わせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weave fabric from wool [wúl]",
+          "ja": "① 羊毛から布地を織る"
+        },
+        {
+          "en": "weave bamboo into a basket",
+          "ja": "② 竹を編んでかごを作る"
+        }
+      ]
+    }
+  ]
+}

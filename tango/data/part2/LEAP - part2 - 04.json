@@ -1,0 +1,263 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "422",
+      "word": "respond",
+      "phonetic": "[rispάnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (手紙や問いなどに)返答する",
+            "② (to 〜) (〜に)対応する, 反応する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (質問に)答える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(用件に対して)詳しく答える」(* answer より堅い語。)",
+        "▶「(to 〜) (〜に)対応する」は「(問いに)答える」の意で用いる。",
+        "名 response「返答, 反応」",
+        "名 respondent「回答者, 返答者」"
+      ],
+      "word_origin": {
+        "formula": "re-[戻る]+-spond[約束する] -> 「戻って相手に言う」",
+        "description": "*spónsor「スポンサー(←支援を約束した人)」"
+      },
+      "examples": [
+        {
+          "en": "① respond to a question",
+          "ja": "① 質問に回答する"
+        },
+        {
+          "en": "② respond quickly to customer complaints",
+          "ja": "② 客のクレームに素早く対応する"
+        }
+      ]
+    },
+    {
+      "id": "423",
+      "word": "whisper",
+      "phonetic": "[hwíspər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ささやく"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② ささやき(声)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「息を使って話す」",
+        "頻出 ① whisper in one's ear「〜の耳元でささやく」",
+        "語源 whistle「口笛を吹く」と同語源",
+        "類 murmur「(ぼそぼそと)つぶやく」, rattle「(風などで)ガタガタ音がする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① whisper in her ear",
+          "ja": "① 彼女の耳元でささやく"
+        },
+        {
+          "en": "② talk in a whisper",
+          "ja": "② 小声(ささやき声)で話す"
+        }
+      ]
+    },
+    {
+      "id": "424",
+      "word": "remark",
+      "phonetic": "[rimάːrk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 発言"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜と発言する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(その場で気づいたこと)を発言する」",
+        "頻出 ① make a ~ remark about[on] A「Aについて〜な発言をする」",
+        "形 remarkable「注目すべき」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び]+-mark[印] -> 「何度も注意する」",
+        "description": "が元の意味だが, 現在では「(ふと気づいたことを)発言」の意味となった。"
+      },
+      "examples": [
+        {
+          "en": "① his casual remark",
+          "ja": "① 彼の何気なく言った発言"
+        },
+        {
+          "en": "② He remarked that the pot was very old.",
+          "ja": "② そのつぼはとても古いものだと彼は言った。"
+        }
+      ]
+    },
+    {
+      "id": "425",
+      "word": "observe",
+      "phonetic": "[əbzə́ːrv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を観察する",
+            "② (that SV) (気づいたことを)〜と述べる",
+            "③ (規則などを)遵守する",
+            "④ (記念日などを)祝う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜をじっと見守る, 観察する」→②「(観察の結果)を述べる」→③「(規則など)を遵守する」(* ①②の使用が多い。)",
+        "名 observación「観察, (観察による)意見」",
+        "名 observance「遵守」",
+        "名 observer「観測者, 立会人」"
+      ],
+      "word_origin": {
+        "formula": "ob-(=against に対して)+-serve[奉仕する] から「〜に対して懸命に尽くす」",
+        "description": "→「〜を(じっと)観察する, 遵守する」"
+      },
+      "examples": [
+        {
+          "en": "① observe the behavior of birds",
+          "ja": "① 鳥の行動を観察する"
+        },
+        {
+          "en": "② observe that humans fall into three social classes",
+          "ja": "② 人間は3つの社会集団に分かれると述べる"
+        },
+        {
+          "en": "③ observe the school regulations",
+          "ja": "③ 校則を守る"
+        },
+        {
+          "en": "④ observe Christmas",
+          "ja": "④ クリスマスを祝う"
+        }
+      ]
+    },
+    {
+      "id": "426",
+      "word": "theory",
+      "phonetic": "[θíəri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 理論",
+            "② (学)説"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① in theory「理論上は」(↔ in practice「実際には」)",
+        "the theory of relativity「相対性理論」",
+        "形 theoretical「理論的な, 理論上の」",
+        "副 theoretically「理論上は」",
+        "他 theorize「〜を理論立てる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Your plan is excellent in theory.",
+          "ja": "① あなたの計画は理論上はすばらしい。"
+        },
+        {
+          "en": "② publish a new theory",
+          "ja": "② 新しい学説を発表する"
+        }
+      ]
+    },
+    {
+      "id": "427",
+      "word": "analysis",
+      "phonetic": "[ənǽləsis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "分析"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「対象を分解して詳細に吟味すること」",
+        "頻出 in the last[final, ultimate] analysis「結局のところ」",
+        "do[carry out, conduct] (a) DNA analysis「DNA鑑定をする」",
+        "他 analyze「〜を分析する」",
+        "名 analyst「分析家」",
+        "反 synthesis「合成, 統合」(syn-[一緒に]+-thesis[置く])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "handwriting analysis",
+          "ja": "筆跡鑑定(分析)"
+        }
+      ]
+    },
+    {
+      "id": "428",
+      "word": "phenomenon",
+      "phonetic": "[finάmənὰn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 現象",
+            "② 特異なもの, 天才"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 日本語ではしばしば「〜という現象」と表現するが phenomenon は節をとらない。((×)a phenomenon that SV)",
+        "▶「現れたもの」",
+        "複数形 ① phénomena ② phénomenons",
+        "形 phenomenal「異常な, 驚くべき」"
+      ],
+      "word_origin": {
+        "formula": "phen-[出現] + -menon[現れるもの]",
+        "description": "*photograph「写真(←光が現れるもの)」"
+      },
+      "examples": [
+        {
+          "en": "① natural phenomena",
+          "ja": "① 自然現象"
+        },
+        {
+          "en": "② a child phenomenon",
+          "ja": "② 神童(並外れて優秀な子どもの天才)"
+        }
+      ]
+    }
+  ]
+}

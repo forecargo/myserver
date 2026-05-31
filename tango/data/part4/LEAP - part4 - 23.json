@@ -1,0 +1,327 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1632",
+      "word": "supplement",
+      "phonetic": "[sʌ́pləmənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (栄養, 収入など)を補う"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 補充, 栄養補助食品",
+            "③ 付録"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "日本語でも「サプリメント(栄養補助食品)」はよく使われる。"
+      ],
+      "word_origin": {
+        "formula": "sup-[下]+-ple-[満たす] -> 「下から満たす」→「〜を補う」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "supplement my salary by working part-time",
+          "ja": "アルバイトをして給料を補う"
+        },
+        {
+          "en": "take a vitamin supplement",
+          "ja": "ビタミンの栄養補助食品をとる"
+        },
+        {
+          "en": "a magazine supplement",
+          "ja": "雑誌の付録"
+        }
+      ]
+    },
+    {
+      "id": "1633",
+      "word": "pose",
+      "phonetic": "[póuz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜をもたらす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(脅威, 危険, 問題など)を引き起こす」",
+        "「(ある場所に)置く」が元の意味。",
+        "☆position「位置(←置かれる場所)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Pollution poses a threat to fish.",
+          "ja": "汚染が魚に脅威をもたらす。"
+        }
+      ]
+    },
+    {
+      "id": "1634",
+      "word": "induce",
+      "phonetic": "[indjúːs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を引き起こす",
+            "② ((人) to do) (人)に〜するよう説得する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(ある物理現象・身体的現象)を引き起こす」",
+        "▶②「(主に愚かに思える人)を諭して〜させる」",
+        "派induction「誘発, 説得, 帰納法」"
+      ],
+      "word_origin": {
+        "formula": "in-[中]+-duce[導く] -> 「〜の中へと導く」",
+        "description": "☆educate「〜を教育する(←外へ導く)」"
+      },
+      "examples": [
+        {
+          "en": "induce childbirth",
+          "ja": "① 分娩を誘発する"
+        },
+        {
+          "en": "induce him to give up smoking",
+          "ja": "② 彼を説得して喫煙を止めさせる"
+        }
+      ]
+    },
+    {
+      "id": "1635",
+      "word": "betray",
+      "phonetic": "[bitréi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を裏切る",
+            "② 〜を漏らす, (うっかり)さらけ出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆tradition「伝統(←引き渡されたもの)」",
+        "名betrayal「裏切り, 暴露」"
+      ],
+      "word_origin": {
+        "formula": "be-[強意]+-tra-[引き渡す] -> 「敵に引き渡す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "betray her close friend",
+          "ja": "① 彼女の親友を裏切る"
+        },
+        {
+          "en": "Her voice betrayed her nervousness.",
+          "ja": "② 彼女は声で緊張していることがばれた(声が緊張をさらけ出した)。"
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "word": "bully",
+      "phonetic": "[búli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "動",
+          "meanings": [
+            "① 〜をいじめる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② いじめっ子"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「脅したり, 弱い者いじめをする」",
+        "名bullying「いじめ」⇔Bullying at school is a serious social problem.「学校でのいじめは深刻な社会問題だ。」",
+        "名cyberbullying「ネットいじめ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't bully small children.",
+          "ja": "① 幼い子どもたちをいじめるな。"
+        },
+        {
+          "en": "He was a bully in high school.",
+          "ja": "② 彼は高校時代, いじめっ子だった。"
+        }
+      ]
+    },
+    {
+      "id": "1637",
+      "word": "disregard",
+      "phonetic": "[dìsrigáːrd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を無視する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(誰かの発言や規則など)に注意を払わない」(※日常ではignoreと表現するのがふつう。)"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ]+-regard[見る] -> 「見ない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "disregard his advice",
+          "ja": "彼の忠告を無視する"
+        }
+      ]
+    },
+    {
+      "id": "1638",
+      "word": "squeeze",
+      "phonetic": "[skwiːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (果汁など)を搾る",
+            "② (手, 指で)〜を強く押す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「スクイズ」はバントで3塁ランナーを還す(←一点を絞り出す)作戦。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "squeeze juice from an orange",
+          "ja": "① オレンジからジュースを搾る"
+        },
+        {
+          "en": "squeeze people into a train",
+          "ja": "② 列車内に人々を押し込む"
+        }
+      ]
+    },
+    {
+      "id": "1639",
+      "word": "rub",
+      "phonetic": "[rʌ́b]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜をこする"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (against 〜) (〜に)こすりつける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(眼など)をこする」から「(サビなど)をこすり落とす」まで。",
+        "▶②は①からoneselfが脱落した形。",
+        "名rubber「ゴム」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The dog rubbed his head against my leg.",
+          "ja": "① イヌが私の脚に頭をこすりつけた。"
+        },
+        {
+          "en": "The cat rubbed against my leg.",
+          "ja": "② ネコが私の脚に体をこすりつけてきた。"
+        }
+      ]
+    },
+    {
+      "id": "1640",
+      "word": "smash",
+      "phonetic": "[smǽʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を粉砕する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(落としたり, 投げたりして)粉々に砕く」",
+        "テニスのスマッシュは, ボールを「粉砕する」勢いで打つ。",
+        "名smash「粉砕」⇔hit a power smash「強烈なスマッシュを打つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "smash the showcases",
+          "ja": "ショーケースを粉砕する"
+        }
+      ]
+    },
+    {
+      "id": "1641",
+      "word": "insert",
+      "phonetic": "[insə́ːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を差し込む",
+            "② (語句など)を書き込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆désert「〜を捨てる(←結合を切る)」",
+        "派insertion「挿入」",
+        "名insert「折り込み広告」"
+      ],
+      "word_origin": {
+        "formula": "in-[中]+-sert[結合する] -> 「中に入れて結合させる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "insert a ticket into an automatic ticket gate",
+          "ja": "① 自動改札機に切符を入れる"
+        },
+        {
+          "en": "insert my comments in the space",
+          "ja": "② 空欄にコメントを書き込む"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2055",
+      "word": "unleash",
+      "phonetic": "[ʌnlíːʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(怒りなど)を爆発させる",
+            "〜の束縛を解く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「抑えていた感情や暴力などを解放する」",
+        "un-[逆動作]+-leash[革ひも]から「束縛から解き放たれる」",
+        "uncover「〜を明らかにする」 unveil「〜を明らかにする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "unleash my anger on her",
+          "ja": "「彼女に怒りをぶつける」"
+        }
+      ]
+    },
+    {
+      "id": "2056",
+      "word": "prolong",
+      "phonetic": "[prəlɔ́ːŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(時間・期間・感情など)を長引かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「少しでも長く継続するようにする」",
+        "pro-[前方]+-long[長い]から「前へ長くする」→「長引かせる」",
+        "shórten「〜を短くする」 life-prolonging device「延命装置」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "prolong my stay until tomorrow",
+          "ja": "「明日まで滞在を延長する」"
+        }
+      ]
+    },
+    {
+      "id": "2057",
+      "word": "mitigate",
+      "phonetic": "[mítəgèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(苦痛・影響・罰など)〜を緩和する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不快感を和らげる」から「悪影響を緩和する」まで。",
+        "道(に)ゲー(し)て気分が「緩和する」",
+        "mitigate the heat island effect「ヒートアイランド現象を緩和する」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2058",
+      "word": "grind",
+      "phonetic": "[gráind]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(穀物, 肉など)を挽く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「機械や臼などを使って, 粉砕し細かい粉にする」",
+        "(*「(肉)を挽く」場合は mínce が使われることが多い。)",
+        "[活用] grind-ground-ground"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "grind corn into flour",
+          "ja": "「トウモロコシを挽いて粉にする」"
+        }
+      ]
+    },
+    {
+      "id": "2059",
+      "word": "withstand",
+      "phonetic": "[wìðstǽnd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に耐える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(地震や高温, 攻撃など)に持ちこたえる」",
+        "stand with 〜「〜を持って立つ」の語順が逆転してできた語。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a building that can withstand major earthquakes",
+          "ja": "「大地震に耐えられる建物」"
+        }
+      ]
+    },
+    {
+      "id": "2060",
+      "word": "exert",
+      "phonetic": "[igzə́ːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(力, 影響力など)を働かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶堅い語。",
+        "ex-[外に]+-ert[出す]から「(力)を外に出す」→「(力)を働かせる」 inért[不活性の(←出さない)]",
+        "exértion「(肉体的, 精神的に激しい)努力, 行使」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "exert strong leadership",
+          "ja": "「強いリーダーシップを発揮する」"
+        }
+      ]
+    },
+    {
+      "id": "2061",
+      "word": "summon",
+      "phonetic": "[sʌ́mən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を呼ぶ, 召喚する, 喚問する",
+            "② (勇気など)を奮い立たせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "sum-[sub下]+-mon[思い出させる]→「(そっと思い出させて)呼ぶ」",
+        "(*「側近が領主に耳打ちして, それを聞いた領主が誰かを召喚する」から。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The ambassador was immediately summoned home.",
+          "ja": "「その大使は即座に本国に召喚された。」"
+        },
+        {
+          "en": "② summon (up) all my strength",
+          "ja": "「全力を出す」"
+        }
+      ]
+    },
+    {
+      "id": "2062",
+      "word": "thrust",
+      "phonetic": "[θrʌ́st]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を強く押しつける",
+            "② (刃物で)〜を突き刺す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ぐいっと)押しつける」",
+        "スラッ, すっと「押しつける」 thréat「脅迫(←押しつぶす)」",
+        "thrúster「スラスター(宇宙船などに取り付けられる制御用推進エンジン)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① thrust piles of banknotes into the bag",
+          "ja": "「かばんに札束を詰め込む」"
+        },
+        {
+          "en": "② thrust a fork into the piece of beef",
+          "ja": "「牛肉にフォークを突き刺す」"
+        }
+      ]
+    },
+    {
+      "id": "2063",
+      "word": "pierce",
+      "phonetic": "[píərs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を突き刺す",
+            "〜を突き通す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「先の尖ったもので小さな穴を開ける」",
+        "日本語の「ピアス」は英語では pierced earring(s)と表現する。",
+        "stáb「(ナイフなどで)〜を刺す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have my ears pierced",
+          "ja": "「耳に穴を開けてもらう」"
+        }
+      ]
+    },
+    {
+      "id": "2064",
+      "word": "harness",
+      "phonetic": "[hɑ́ːrnis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(自然の力など)を利用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「荒れる自然を手懐けて利用する」",
+        "「馬を操るための馬具」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "harness the forces of nature",
+          "ja": "「自然の諸力を利用する」"
+        }
+      ]
+    },
+    {
+      "id": "2065",
+      "word": "excavate",
+      "phonetic": "[ékskəvèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を発掘する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "ex-[外に]+-cav[=cáveほら穴]→「ほら穴の中のものを外に出す」",
+        "excavátion「発掘」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "excavate an ancient town",
+          "ja": "「古代の町を発掘する」"
+        }
+      ]
+    },
+    {
+      "id": "2066",
+      "word": "evade",
+      "phonetic": "[ivéid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を逃れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意図的にずらして)嫌なことから逃れる」",
+        "e-[ex外に]+-vade[行く] inváde「〜に侵入する(←中に行く)」",
+        "evásion「逃れること, 回避」 tax evasion「脱税」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "evade taxes",
+          "ja": "「税金を逃れる」"
+        }
+      ]
+    },
+    {
+      "id": "2067",
+      "word": "embody",
+      "phonetic": "[imbɔ́di]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を具体化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「思想や性質の見事な例を実際に示す」",
+        "em-[=en-動詞化]+-body[身体] embódiment「具現化(したもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "embody American ideals",
+          "ja": "「アメリカの理想を具現化する」"
+        }
+      ]
+    },
+    {
+      "id": "2068",
+      "word": "assimilate",
+      "phonetic": "[əsímlèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (食物, 考えなど)を吸収する",
+            "② (言語, 民族など)を同化する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "同化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自分のものに組み入れて)使えるようになる」",
+        "as-[=ad方向]+-simil[=similarよく似た]+-ate[動詞語尾]から「〜と同じにする」→「吸収する」",
+        "assimilátion「同化」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① assimilate new ideas",
+          "ja": "「新しい考えを吸収する」"
+        },
+        {
+          "en": "② be fully assimilated into society",
+          "ja": "「社会にすっかり溶け込む」"
+        }
+      ]
+    },
+    {
+      "id": "2069",
+      "word": "discern",
+      "phonetic": "[disə́ːrn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を見分ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(慎重に観察, 思考して)気づく」",
+        "dis-[バラバラ]+-cern[分ける] sécret「秘密(←分け離されたもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "discern the slight difference",
+          "ja": "「そのささいな違いを見分ける」"
+        }
+      ]
+    },
+    {
+      "id": "2070",
+      "word": "scrutinize",
+      "phonetic": "[skrúːtənàiz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を詳細に調べる, 精査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶調査の厳密さや精密さを強調した語。(=examine 〜 very carefully)",
+        "scráp「ゴミ」まで「詳細に調べる」と覚えよう。",
+        "scrútiny「精査, 吟味」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "scrutinize the document",
+          "ja": "「その書類を精査する」"
+        }
+      ]
+    },
+    {
+      "id": "2071",
+      "word": "streamline",
+      "phonetic": "[stríːmlàin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(作業・組織など)〜を合理化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「作業や組織などをより簡素で能率的にする」",
+        "流線型(←stréam「流れ」+-líne「線」)が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "streamline the production process",
+          "ja": "「製造過程を合理化する」"
+        }
+      ]
+    }
+  ]
+}

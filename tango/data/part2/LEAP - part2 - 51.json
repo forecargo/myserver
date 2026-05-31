@@ -1,0 +1,222 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "769",
+      "word": "delicate",
+      "phonetic": "[délikət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 繊細な、微妙な",
+            "② (人が)虚弱な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語でも「デリケート」は①の意味で使われるが、発音が異なるので注意。",
+        "名 delicacy「(キャビアなどの)珍味、思いやり、繊細さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the delicate question of salary",
+          "ja": "給与という繊細な問題"
+        },
+        {
+          "en": "a delicate child",
+          "ja": "虚弱な子ども"
+        }
+      ]
+    },
+    {
+      "id": "770",
+      "word": "plain",
+      "phonetic": "[pléin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 明白な、わかりやすい",
+            "② 質素な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 平野、原野"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「平らな、何もない」",
+        "注意 plane「飛行機、(水)平面」と同じ発音。",
+        "副 plainly「はっきりと、明らかに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "write in plain English",
+          "ja": "平易な英語で書く"
+        },
+        {
+          "en": "a plain building",
+          "ja": "飾り気のない建物"
+        },
+        {
+          "en": "the Kanto Plain",
+          "ja": "関東平野"
+        }
+      ]
+    },
+    {
+      "id": "771",
+      "word": "obvious",
+      "phonetic": "[ábvias]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "明白な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(見てすぐわかるほど)明らかな」(＊話し手の確信度が高い「明白さ」を意味し、時に「不快感」を示す。)",
+        "頻出 It is obvious that S V.「〜は明白だ。」",
+        "▶ fall into an obvious trap「見えすいたわなにはまる」",
+        "副 obviously「明らかに」 ⇔ Obviously S₁V₁, but S₂V₂.「明らかに〜だが、…だ。」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -vi-[=via 道] + -ous[多い] から「道にいることが多い」→「目立つ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "It was obvious that she was unwell.",
+          "ja": "彼女の体調がすぐれないのは明白だった。"
+        }
+      ]
+    },
+    {
+      "id": "772",
+      "word": "remarkable",
+      "phonetic": "[rimáːrkəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "注目すべき、すばらしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「発言に値するほどの」",
+        "副 remarkably「著しく」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -mark-[印] + -able[可能] から「何度も印をつけたくなる」→「注目すべき」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make remarkable progress",
+          "ja": "注目すべき進歩を遂げる"
+        }
+      ]
+    },
+    {
+      "id": "773",
+      "word": "outstanding",
+      "phonetic": "[àutstǽndiŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "傑出した、目立った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(通例、よい意味で)突出している」",
+        "頻出 one's outstanding ability「〜の卓越した能力」",
+        "outstanding accomplishments「優れた業績」",
+        "＊ stand out「目立つ」の語順が逆転してできた語。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an outstanding shogi player",
+          "ja": "傑出した棋士"
+        }
+      ]
+    },
+    {
+      "id": "774",
+      "word": "various",
+      "phonetic": "[véəriəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "さまざまな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =several different",
+        "注意 後ろには複数形の名が置かれるので、〈不可算〉の場合には、various kinds[pieces] of 〜などと表現する。",
+        "▶ various は比較級をもたないので「よりさまざまな〜」は a greater variety of 〜と表現する。",
+        "名 variety「種類、多様性」 ⇔ a variety of 〜「さまざまな〜」(＊〜は〈可算〉〈不可算〉ともに可で、主に書き言葉。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "various ideas",
+          "ja": "さまざまな考え"
+        },
+        {
+          "en": "various kinds of information",
+          "ja": "さまざまな情報"
+        }
+      ]
+    },
+    {
+      "id": "775",
+      "word": "diversity",
+      "phonetic": "[divə́ːrsəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "多様性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「さまざまな人や物を含んでいること」",
+        "頻出 the diversity of A「Aの多様性」",
+        "注意「多様性を容認する社会」は an inclusive society と表現する。",
+        "形 diverse「多様な」",
+        "他 diversify「〜を多様化する」"
+      ],
+      "word_origin": {
+        "formula": "di-[=dis バラバラ] + -verse-[回る] + -ity[こと] から「バラバラに回っていること」→「多様性」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the diversity of life on earth",
+          "ja": "地上の生物の多様性"
+        }
+      ]
+    }
+  ]
+}

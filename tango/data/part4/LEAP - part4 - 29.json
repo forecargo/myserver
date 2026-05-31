@@ -1,0 +1,323 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1695",
+      "word": "astronomy",
+      "phonetic": "[əstrάnəmi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "天文学"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 天体や天文現象などを研究する学問",
+        "語源: astro-[星] + -nomy[=norm 法]",
+        "派生: autonomy「自治」",
+        "派生: astronomer「天文学者」",
+        "派生: astronaut「宇宙飛行士」",
+        "派生: astrology「占星術」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "mysteries in astronomy",
+          "ja": "天文学における謎"
+        }
+      ]
+    },
+    {
+      "id": "1696",
+      "word": "archaeologist",
+      "phonetic": "[ὰɚkiάlədʒist]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "考古学者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 考古学(←「遺跡」などから歴史を研究する学問)を研究する人",
+        "語源: archae-[古代] + -log-[学問] + -ist[人]",
+        "派生: archive「アーカイブ, 古記録」",
+        "派生: archaeology「考古学」",
+        "派生: archaic「古風な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The archaeologist dug up an ancient pot.",
+          "ja": "その考古学者が古代のつぼを掘り出した。"
+        }
+      ]
+    },
+    {
+      "id": "1697",
+      "word": "thesis",
+      "phonetic": "[θíːsis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 論文 (複数形 théses)",
+            "② (正式な議論などの)テーマ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ essay「(学生などに課される)レポート, 感想文」",
+        "コロケーション: master's [doctoral] thesis「修士[博士]論文」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① work on my graduation thesis",
+          "ja": "① 卒業論文に取り組む"
+        },
+        {
+          "en": "② today's main thesis",
+          "ja": "② 今日の主なテーマ"
+        }
+      ]
+    },
+    {
+      "id": "1698",
+      "word": "dormitory",
+      "phonetic": "[dɔ́ːrmətɔ̀ːri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "寮"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「眠る場所」から. (*dórmと略すこともある.)",
+        "コロケーション: boarding school「全寮制の学校」",
+        "語源: curfew「門限 (cur-[=cover(灯を覆う)])」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "live in a dormitory",
+          "ja": "寮生活をする"
+        }
+      ]
+    },
+    {
+      "id": "1699",
+      "word": "grasp",
+      "phonetic": "[grǽsp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を理解する",
+            "② 〜をつかむ"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 理解, つかむこと"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(難しいこと)をきちんと理解する」",
+        "▶ ②「(主に人の体の一部)をつかむ」",
+        "語源: gra-[つかむ]",
+        "類義: grip「握ること, 握力」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① grasp the meaning of life",
+          "ja": "① 人生の意味を理解する"
+        },
+        {
+          "en": "② grasp his arm firmly",
+          "ja": "② しっかりと彼の腕をつかむ"
+        },
+        {
+          "en": "③ beyond my grasp",
+          "ja": "③ 私の理解を超える"
+        }
+      ]
+    },
+    {
+      "id": "1700",
+      "word": "anticipate",
+      "phonetic": "[æntísəpèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を予想する",
+            "② 〜を期待する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜を予測して準備する」",
+        "語源: anti-[=against 対して] + -cip-[取る]から「何かに備えて武器を取る」→「〜を予想する」",
+        "類義: participate「参加する」",
+        "派生: anticipation「予想, 期待」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① anticipate customers' needs",
+          "ja": "① 顧客の要求を予想する"
+        },
+        {
+          "en": "② eagerly anticipate his arrival",
+          "ja": "② 彼の到着を楽しみにして待つ"
+        }
+      ]
+    },
+    {
+      "id": "1701",
+      "word": "foresee",
+      "phonetic": "[fɔːrsíː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を予知する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "類義: predict「客観的事実などに基づき予測する」",
+        "語源: fore-[前もって] + -see[見る]",
+        "派生: foreseeable「予知可能な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "No one can foresee the future.",
+          "ja": "誰にも未来を予知することはできない。"
+        }
+      ]
+    },
+    {
+      "id": "1702",
+      "word": "infer",
+      "phonetic": "[infə́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A from B) (BからAを)推測する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ guessより堅い語.",
+        "語源: in-[中に] + -fer[運ぶ]から「頭の中に持ってくる」→「〜を推測する」",
+        "類義: ferry「フェリー」",
+        "派生: inference「推測」",
+        "参考: reason「推論する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "infer the meaning from the context",
+          "ja": "文脈から意味を推測する"
+        }
+      ]
+    },
+    {
+      "id": "1703",
+      "word": "deduce",
+      "phonetic": "[didjúːs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A from B) (BからAを)推定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 知識[情報]などから判断して結論を導き出す",
+        "語源: de-[=down] + -duc-[導く]から「上から下へ(判断を)導く」→「〜を推定する」",
+        "派生: deduction「推定, 演繹」",
+        "派生: deductive「推論的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What do you deduce from these figures?",
+          "ja": "これらの数字から何を推測しますか."
+        }
+      ]
+    },
+    {
+      "id": "1704",
+      "word": "deem",
+      "phonetic": "[díːm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(O (to be) C) OをCだと思う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ consider「(OをCと見なす)」よりかなり堅い語.",
+        "語源: 「判断する」が元の意味で, doom「運命」も同系語."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This area is deemed unsafe.",
+          "ja": "この地域は治安が悪いと思われている."
+        }
+      ]
+    },
+    {
+      "id": "1705",
+      "word": "ponder",
+      "phonetic": "[pάndər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を熟考する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(長時間, 困難な問題を)じっくり考える」",
+        "語源: pond-[吊るす](*昔は, 商品取引のときに必ず「吊るし計り」を使っていたと考えた.)",
+        "派生: pendant「ペンダント(←ぶらさがっているもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "ponder ways to bring more tourists to the town",
+          "ja": "より多くの観光客を町に招致する方法を熟考する"
+        }
+      ]
+    }
+  ]
+}

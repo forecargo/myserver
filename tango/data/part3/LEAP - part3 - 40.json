@@ -1,0 +1,290 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1391",
+      "word": "barely",
+      "phonetic": "[bέərli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① かろうじて",
+            "② ほとんど〜ない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ある基準から＋2〜3%→「かろうじて」 ② 100%のうち2〜3%→「ほとんど〜ない」 (*①enough, adequateなどを伴う.)",
+        "派生 bare「むき出しの」から「それしかない」→「かろうじて」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "barely enough food to go around",
+          "ja": "① かろうじて行き渡るだけの食物"
+        },
+        {
+          "en": "Nancy was quite old and barely able to walk.",
+          "ja": "② ナンシーはとても高齢で, ほとんど歩けなかった."
+        }
+      ]
+    },
+    {
+      "id": "1392",
+      "word": "approximately",
+      "phonetic": "[əpráksəmətli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "(数量が)おおよそ, 約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではaboutのほうが使われる.",
+        "形 approximate「おおよその」 名 approximation「近似(値), ほぼ近いもの」 副 almost「ほとんど(←少し足りない)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "approximately one million yen",
+          "ja": "およそ100万円"
+        }
+      ]
+    },
+    {
+      "id": "1393",
+      "word": "frequently",
+      "phonetic": "[fríːkwəntli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "頻繁に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ oftenより堅い語.",
+        "*oftenは通常notの位置に置かれるが, frequentlyの位置は比較的自由.",
+        "形 frequent「頻繁な」 他 frequent「〜へ頻繁に行く」 名 frequency「頻度」(*物理用語「振動数」)のfはfrequent"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Buses run frequently to the airport.",
+          "ja": "空港へのバスの便は頻繁にあります."
+        }
+      ]
+    },
+    {
+      "id": "1394",
+      "word": "apparently",
+      "phonetic": "[əpǽrəntli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 見たところでは",
+            "② (口語)どうやら〜らしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(実際はともかく)一見すると」",
+        "▶ ② ≒I hear (*apparentlyが「明らかに」の意味で用いられるのはまれ.)",
+        "派生 transparent「透明な(←透けて現れる)」 形 apparent「一見〜らしい, (通例, 補語の位置で)明らかな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "two apparently unrelated incidents",
+          "ja": "① 一見無関係に見える2つの出来事"
+        },
+        {
+          "en": "Apparently, Jim's a good cook.",
+          "ja": "② ジムはどうやら料理が上手いようだ."
+        }
+      ]
+    },
+    {
+      "id": "1395",
+      "word": "merely",
+      "phonetic": "[míərli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① (主に名詞の前で)〜にすぎない",
+            "② (動詞などの前で)単に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ onlyより堅い語.",
+        "派生 形 mere「単なる」(*onlyは副と形が同形.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jill is merely a child.",
+          "ja": "① ジルは子どもにすぎない."
+        },
+        {
+          "en": "Edgar merely smiled.",
+          "ja": "② エドガーはほほえむだけだった (単にほほえんだ)."
+        }
+      ]
+    },
+    {
+      "id": "1396",
+      "word": "nevertheless",
+      "phonetic": "[nèvərðəlés]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "それにもかかわらず"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "派生 none the less「その分だけ減るということはなく」から neverthelessとなった. 副 nonetheless「それにもかかわらず」(堅い語.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It was snowing; nevertheless we continued to work in the fields.",
+          "ja": "雪が降っていた. それにもかかわらず, 私たちは畑仕事をし続けた."
+        }
+      ]
+    },
+    {
+      "id": "1397",
+      "word": "somehow",
+      "phonetic": "[sámhàu]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 何らかの方法で",
+            "② 何らかの理由で, どういうわけか"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「なんとかして(=努力して)」の意味ではないので注意.",
+        "派生 some-[(よくわからない)何かの]+-how[方法, 点]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "escape from the box somehow",
+          "ja": "① 何らかの方法でその箱から脱出する"
+        },
+        {
+          "en": "She looked different somehow.",
+          "ja": "② どういうわけか彼女は違って見えた."
+        }
+      ]
+    },
+    {
+      "id": "1398",
+      "word": "thus",
+      "phonetic": "[ðʌ́s]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① それゆえ(に)",
+            "② このように"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 堅い語.",
+        "派生 hence「それゆえ(に)」 thus far「これまでは」(=so far)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This problem is very simple and thus easy to solve.",
+          "ja": "① この問題はとても単純なので, それゆえ, 解くのは簡単だ."
+        },
+        {
+          "en": "She began thus.",
+          "ja": "② 彼女はこのように切り出した."
+        }
+      ]
+    },
+    {
+      "id": "1399",
+      "word": "afterward(s)",
+      "phonetic": "[ǽftərwərd(z)]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① (文頭で)その後",
+            "② (〜 afterward)〜の後"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(言及した出来事などの)後で」",
+        "派生 after-[後]+-ward(s)[〜の方へ] 副 backward「後方へ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Afterwards, he apologized.",
+          "ja": "① その後, 彼は謝罪した."
+        },
+        {
+          "en": "three days afterward",
+          "ja": "② 3日後"
+        }
+      ]
+    },
+    {
+      "id": "1400",
+      "word": "on behalf of ~",
+      "phonetic": "[ən bihǽf əv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "熟",
+          "meanings": [
+            "① 〜を代表して",
+            "② 〜のために"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 〈米〉ではin behalf of 〜と表現する.",
+        "派生 「誰かの片腕[half]として」→「〜を代表して, 〜のために」と覚えよう."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "speak on behalf of the company",
+          "ja": "① 会社を代表して話す"
+        },
+        {
+          "en": "raise money on behalf of the poor",
+          "ja": "② 貧しい人のために募金活動をする"
+        }
+      ]
+    }
+  ]
+}

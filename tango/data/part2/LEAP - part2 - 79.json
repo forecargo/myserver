@@ -1,0 +1,259 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "967",
+      "word": "despair",
+      "phonetic": "[dispéər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "絶望"
+          ]
+        },
+        {
+          "part_of_speech": "動",
+          "meanings": [
+            "絶望して"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ まったく希望がない状態",
+        "(*動もがあるがまれ.)",
+        "頻出 in despair 「絶望して」",
+        "drive ~ to despair 「〜を絶望のふちに追いやる」",
+        "派生 próper 「繁栄する」"
+      ],
+      "word_origin": {
+        "formula": "de-[否定] + -spair[希望] -> 「希望がない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a deep sense of despair",
+          "ja": "深い絶望感"
+        }
+      ]
+    },
+    {
+      "id": "968",
+      "word": "emotion",
+      "phonetic": "[imóuʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(特に強い) 感情 <可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (外に現れる喜怒哀楽の)感情",
+        "(*feelingよりも強い「感情」を表す語)",
+        "頻出 express [hide, control] one's emotions 「感情を表現する[隠す, 抑える]」",
+        "頻出 be full of emotions 「感情が高ぶる」",
+        "派生 emotional 「感情的な, 感動的な」",
+        "派生 emoticon 「((コンピュータ)絵文字)」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 外に] + -motion[動き] -> 「心の動きが外に出たもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "show my emotions",
+          "ja": "感情を表に出す"
+        }
+      ]
+    },
+    {
+      "id": "969",
+      "word": "sympathy",
+      "phonetic": "[símpəθi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 同情"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 共感"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 思いやり (←同情+助けたい気持ち)",
+        "▶ ② 誰かと同じ気持ちをもつ",
+        "頻出 have great [deep] sympathy for ~ 「〜に対して深く同情する」",
+        "派生 自 sympathize (with (人)) 「((人)に)同情する, 共感する」",
+        "派生 形 sympathetic (to ~) 「((〜に)同情[共感]している」",
+        "反義 antipathy 「反感」 (anti-[逆])",
+        "類義 apathy 「無関心」 (a-[否定])"
+      ],
+      "word_origin": {
+        "formula": "sym-[同じ] + -pathy[感情]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have deep sympathy for the victims",
+          "ja": "犠牲者たちに本当に同情する"
+        },
+        {
+          "en": "be in sympathy with his opinion",
+          "ja": "彼の考えに共感する"
+        }
+      ]
+    },
+    {
+      "id": "970",
+      "word": "shame",
+      "phonetic": "[ʃéim]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 残念なこと"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 恥"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② (自分の失敗や過ちに対して)恥ずかしい気持ち",
+        "頻出 ① (口語) It's a shame (that) SV. 「〜は残念だ.」",
+        "頻出 What a shame that SV! 「〜は何も残念だ.」",
+        "注意 ① 書き言葉では It is a pity [unfortunate] that SV. となる",
+        "派生 形 shameful 「恥ずかしい」 ⇔ a shameful act 「恥ずかしい行為」",
+        "派生 形 ashamed 「恥じる」 ⇔ be ashamed of ~ / that SV 「((自分の恥ずべき)行為)を恥じる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It's a shame that you didn't see that movie.",
+          "ja": "あなたがその映画を見ていないのは残念です。"
+        },
+        {
+          "en": "To my shame, I lied to him.",
+          "ja": "恥ずかしながら, 私は彼にうそをついた."
+        }
+      ]
+    },
+    {
+      "id": "971",
+      "word": "confidence",
+      "phonetic": "[kánfədəns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 自信"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (in ~) (~に対する)信頼"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① have [gain, lose] confidence 「自信を持つ[得る, 失う]」",
+        "頻出 ② have [place, put] confidence in ~ 「〜を信頼する」",
+        "派生 fiancé 「((仏)婚約者(←結婚を約束(信頼)している男性))」",
+        "派生 形 confident 「自信がある」",
+        "派生 形 confidential 「機密の(←信頼できる)」",
+        "派生 名 self-confidence 「自信」 (*「信頼」ではなく「自信」の意味であることを明確にする語.)"
+      ],
+      "word_origin": {
+        "formula": "con-[すっかり] + -fi-[信頼]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "boost my confidence",
+          "ja": "(私の)自信を高める"
+        },
+        {
+          "en": "I have great confidence in my staff.",
+          "ja": "私は職員を全面的に信頼している."
+        }
+      ]
+    },
+    {
+      "id": "972",
+      "word": "courage",
+      "phonetic": "[kə́ːridʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "勇気"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (不安, 恐怖などに打ち勝つ)精神的強さ",
+        "頻出 have the courage to do 「〜するだけの勇気がある」",
+        "派生 encourage 「〜を励ます」",
+        "派生 形 courageous 「精神的強さを示して)勇敢な」"
+      ],
+      "word_origin": {
+        "formula": "cour-[心] + -age[状態]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have the courage to say no",
+          "ja": "断る勇気を持つ"
+        }
+      ]
+    },
+    {
+      "id": "973",
+      "word": "passion",
+      "phonetic": "[pǽʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "情熱"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (強く抑え難い(熱中, 激情, 情欲などの))感情",
+        "頻出 have a passion for ~ 「〜に対して情熱を持っている」",
+        "頻出 with great passion 「激しい情熱を込めて」",
+        "派生 patient 「忍耐強い」",
+        "派生 形 passionate 「情熱的な」",
+        "派生 compassion 「(助けようとする)同情」 (com-[=con 共に] + -passion[情熱])"
+      ],
+      "word_origin": {
+        "formula": "pass-[苦しみに耐える]から「((キリストの)受難)→(耐えるための)情熱」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have a passion for music",
+          "ja": "音楽への情熱を持っている"
+        }
+      ]
+    }
+  ]
+}

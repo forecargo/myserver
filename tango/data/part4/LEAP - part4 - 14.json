@@ -1,0 +1,320 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1538",
+      "word": "toil",
+      "phonetic": "[tɔil]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (長時間)骨折って働く"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 骨の折れる仕事"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長く辛い仕事」",
+        "トイレ(toilet)掃除は「骨の折れる仕事」だ。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "toil in the fields",
+          "ja": "① 畑で骨折って働く"
+        },
+        {
+          "en": "a life of toil",
+          "ja": "② 働きづくめの人生"
+        }
+      ]
+    },
+    {
+      "id": "1539",
+      "word": "undertake",
+      "phonetic": "[ʌ̀ndərtéik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(仕事など)を引き受ける, 始める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「引き受けて始める」",
+        "take oneself under 〜「自らを〜の下へ連れて行く」から。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "undertake a big project",
+          "ja": "大きな事業を引き受ける"
+        }
+      ]
+    },
+    {
+      "id": "1540",
+      "word": "merge",
+      "phonetic": "[mə́ːrdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 合併する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を合併させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「2つのものが1つになる」",
+        "★「水の中心」が元の意味で「(水の中で)混ざる」→「合併する」",
+        "派 merger「合併」",
+        "参 acquisition「買収」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The two departments have merged.",
+          "ja": "① その2つの部署が合併した。"
+        },
+        {
+          "en": "merge one company with another",
+          "ja": "② ある会社をほかの会社と合併させる"
+        }
+      ]
+    },
+    {
+      "id": "1541",
+      "word": "comprise",
+      "phonetic": "[kəmpráiz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜から成る",
+            "② (割合を)占める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「全体をつかむ」",
+        "(*①②の区別は文脈から判断する。) ",
+        "語源 com-[すべて] + -prise[つかむ]",
+        "派 prize「賞(←つかんだもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The USA comprises 50 states.",
+          "ja": "① アメリカは50の州から成っている。"
+        },
+        {
+          "en": "Men still comprise the majority smokers.",
+          "ja": "② 男性はいまだに喫煙者の大半を占めている。"
+        }
+      ]
+    },
+    {
+      "id": "1542",
+      "word": "component",
+      "phonetic": "[kəmpóunənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "構成要素, 成分, (車などの)部品"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(機械, 企画などの)重要な一部」",
+        "派 compose「〜を構成する, 作曲する」の名詞形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "aircraft engine components",
+          "ja": "飛行機のエンジン部品"
+        }
+      ]
+    },
+    {
+      "id": "1543",
+      "word": "framework",
+      "phonetic": "[fréimwə̀ːrk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 枠組",
+            "② 骨組み"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「CEFR」のFはframeworkのこと。",
+        "語源 frame-[枠] + -work[作業]→「大枠の形成」",
+        "派 frame「枠, フレーム」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the basic framework of his theory",
+          "ja": "① 彼の理論の基本的枠組"
+        },
+        {
+          "en": "the framework of a building",
+          "ja": "② 建物の骨組み"
+        }
+      ]
+    },
+    {
+      "id": "1544",
+      "word": "prototype",
+      "phonetic": "[próutətàip]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (of/for 〜) (〜の)原型",
+            "② 試作品",
+            "③ 典型"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ prot-[最初の] + -type[型]→「原型」",
+        "派 protocol「外交儀礼, 条約議定書」",
+        "語源 prot-[最初の] + -col[のり]から「文書の最初のページにのりで貼り付けた紙」→「外交文書」→「外交儀礼」)",
+        "▷ the Kyoto Protocol「京都議定書」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a prototype of the device",
+          "ja": "① その装置の原型"
+        },
+        {
+          "en": "build a prototype of the product",
+          "ja": "② その製品の試作品を作る"
+        },
+        {
+          "en": "He is the very prototype of a politician.",
+          "ja": "③ 彼はまさに典型的な政治家(政治家の典型)だ。"
+        }
+      ]
+    },
+    {
+      "id": "1545",
+      "word": "dimension",
+      "phonetic": "[diménʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (問題などの)側面, 要因, 次元",
+            "② (-s)寸法, 大きさ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物の縦, 横, 深さ」→「①問題, 形状の1つの側面」",
+        "派 -dimensional「〜次元の」",
+        "▷ a three-dimensional movie「3D映画」",
+        "▷ of great dimensions「とても重要な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the political dimensions of the meeting",
+          "ja": "① その会議の政治的な側面"
+        },
+        {
+          "en": "the dimensions of the table",
+          "ja": "② テーブルの寸法"
+        }
+      ]
+    },
+    {
+      "id": "1546",
+      "word": "margin",
+      "phonetic": "[mɑ́ːrdʒin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 余白, 欄外",
+            "② (票などの)差",
+            "③ 端"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「境界, 端」→「①余白, 欄外」→「②差(余り)」",
+        "派 marginal「端の, 重要ではない」",
+        "▷ a marginal difference「僅かな違い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "write in the margins",
+          "ja": "① 余白に書き込む"
+        },
+        {
+          "en": "win by a narrow margin",
+          "ja": "② 僅差で勝つ"
+        },
+        {
+          "en": "live on the margin of society",
+          "ja": "③ 社会の片隅(端)で生きる"
+        }
+      ]
+    },
+    {
+      "id": "1547",
+      "word": "excel",
+      "phonetic": "[iksél]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(in [at] 〜) (〜において)優れている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ in+[性質, 分野]など, at+[技能, 運動]など。",
+        "派 excellent「すばらしい」",
+        "派 excellence「すばらしさ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jim excels at tennis.",
+          "ja": "ジムはテニスが優れている。"
+        }
+      ]
+    }
+  ]
+}

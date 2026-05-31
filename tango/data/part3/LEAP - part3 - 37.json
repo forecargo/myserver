@@ -1,0 +1,355 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1361",
+      "word": "affection",
+      "phonetic": "[əfékʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "愛情"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(穏やかな)愛情」 ◇ love「(激しい)愛情」 (*一般に結婚前が love, 結婚後が affection)",
+        "形 affectionate「愛情ある」",
+        "形 affective「感情の, 情緒の」"
+      ],
+      "word_origin": {
+        "formula": "affect- [影響を与える] + -ion [名詞語尾]",
+        "description": "から「(人の心に)与える影響」"
+      },
+      "examples": [
+        {
+          "en": "feel great affection for my grandfather",
+          "ja": "祖父に強い愛情を感じる"
+        }
+      ]
+    },
+    {
+      "id": "1362",
+      "word": "enthusiasm",
+      "phonetic": "[inθúːziæzm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "情熱",
+            "熱意"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かにとりつかれたかのような)情熱, 熱意」",
+        "☆ theology「神学」",
+        "形 enthusiastic (about ~)「(~に熱心な)情熱的な」"
+      ],
+      "word_origin": {
+        "formula": "en- [中に] + -thus- [神] + -asm [=ism 状態]",
+        "description": "から「(心の)中に神が宿った状態」"
+      },
+      "examples": [
+        {
+          "en": "with great enthusiasm",
+          "ja": "やる気満々で"
+        }
+      ]
+    },
+    {
+      "id": "1363",
+      "word": "rage",
+      "phonetic": "[réidʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 激怒",
+            "② (戦争, 病気が)激しく続く, 猛威をふるう"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 激怒する",
+            "② (戦争, 病気が)激しく続く, 猛威をふるう"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ red with rage「怒りで(顔が)赤い」のフレーズで覚えよう。",
+        "形 outraged「激怒した」 (*outrageous「常軌を逸した」と区別する。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Allan was red with rage.",
+          "ja": "① アランは怒りで真っ赤になっていた。"
+        },
+        {
+          "en": "② The war is raging.",
+          "ja": "② 戦争が続いている。"
+        }
+      ]
+    },
+    {
+      "id": "1364",
+      "word": "incredible",
+      "phonetic": "[inkrédəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "信じられない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ unbelievable の意味を強くした語。",
+        "☆ crédit「信用」",
+        "副 incredibly「信じられないほど」",
+        "⇔ incredibly beautiful「信じられないほどに美しい」"
+      ],
+      "word_origin": {
+        "formula": "in- [否定] + -credi- [信用]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "incredible news",
+          "ja": "信じられない知らせ"
+        }
+      ]
+    },
+    {
+      "id": "1365",
+      "word": "chuckle",
+      "phonetic": "[tʃʌ́kl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① くすくす笑う"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② くすくす笑うこと"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「声を抑えて, 静かに笑う」 (*元は「メンドリの鳴く音」)",
+        "chuck- [擬音語] + -le [反復]"
+      ],
+      "word_origin": {
+        "formula": "chuck- [擬音語] + -le [反復]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① chuckle at the memory",
+          "ja": "① 思い出し笑いをする"
+        },
+        {
+          "en": "② give a chuckle at his joke",
+          "ja": "② 彼の冗談にくすくすと笑う"
+        }
+      ]
+    },
+    {
+      "id": "1366",
+      "word": "dare",
+      "phonetic": "[déər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (to do) 思い切って〜する"
+          ]
+        },
+        {
+          "part_of_speech": "助",
+          "meanings": [
+            "② (do) 思い切って〜する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆ daring「大胆な」",
+        "参 How dare SV?「S はよくも V ができるな」",
+        "参 I dare say.「おそらく.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① No one dared to argue.",
+          "ja": "①② 言い争う勇気がある人はいなかった (誰も思い切って言い争わなかった)."
+        },
+        {
+          "en": "② No one dared argue.",
+          "ja": "①② 言い争う勇気がある人はいなかった (誰も思い切って言い争わなかった)."
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "word": "scream",
+      "phonetic": "[skríːm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 悲鳴を上げる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 悲鳴"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「怒り, 恐怖, 興奮で叫ぶ」",
+        "▶ 悲鳴を上げるときの擬音語. なお, sc- の形の語は「削る, ひっかく」のイメージを持つ単語が多い。",
+        "⇔ a scale「魚のうろこ」",
+        "a scoop「(しゃく)う」",
+        "scrape「こする」",
+        "参 skyscraper「超高層ビル(←空をひっかく)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① scream in horror",
+          "ja": "① 恐怖で悲鳴を上げる"
+        },
+        {
+          "en": "② give a scream for help",
+          "ja": "② 助けを求めて叫ぶ(悲鳴を上げる)"
+        }
+      ]
+    },
+    {
+      "id": "1368",
+      "word": "soothe",
+      "phonetic": "[súːð]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (人)をなだめる",
+            "② (痛みなど)をやわらげる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では ① comfort や calm, ② relieve や ease のほうが使われる。",
+        "形 soothing「心を落ち着かせる」 (*「涼しい」と響きが似ている。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① soothe a crying baby",
+          "ja": "① 泣いている赤ん坊をなだめる"
+        },
+        {
+          "en": "② This medicine will soothe your headache.",
+          "ja": "② この薬は頭痛をやわらげます。"
+        }
+      ]
+    },
+    {
+      "id": "1369",
+      "word": "tempt",
+      "phonetic": "[témpt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を誘惑する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人, 物が)〜する気にさせる」",
+        "形 tempting「魅力的な, (気持ちをそそる)」",
+        "名 temptation「誘惑」",
+        "⇔ give in to temptation「魔が差す(←誘惑に屈する)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The sunny weather tempted me to go out.",
+          "ja": "晴れていたので, 外出したくなった (晴天が私を外出するように誘惑した)."
+        }
+      ]
+    },
+    {
+      "id": "1370",
+      "word": "scold",
+      "phonetic": "[skóuld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を叱る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(子ども)を叱る」 (*やや古めかしい英語.)",
+        "◇「(人)を叱った」は日常では「〜 yelled at +(人).」や「〜 told +(人) + off.」と表現するのがふつう。",
+        "名 scolding「叱責, 小言」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "scold my son for making a mess of his room",
+          "ja": "部屋を散らかしたことに対して息子を叱る"
+        }
+      ]
+    },
+    {
+      "id": "1371",
+      "word": "oppress",
+      "phonetic": "[əprés]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を圧迫する, 虐げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(残酷に, 不当に)〜を圧迫する」",
+        "名 oppression「圧迫」",
+        "形 oppressive「圧政的な, (天候が)むしむしする」"
+      ],
+      "word_origin": {
+        "formula": "op- [=ob に対して] + -press [押す]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The dictator oppressed his people for many years.",
+          "ja": "その独裁者は長年にわたり人民を虐げた。"
+        }
+      ]
+    }
+  ]
+}

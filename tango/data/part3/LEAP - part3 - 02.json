@@ -1,0 +1,366 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1010",
+      "word": "recite",
+      "phonetic": "[risáit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を暗唱する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (覚えたもの)を聴衆などに向けて発表する",
+        "re-[再び]+cite[呼び起こす]から「(記憶から)再び呼び起こす」→「暗唱する」",
+        "派生 excite「〜を興奮させる」",
+        "派生 recital「リサイタル, 暗唱」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び]+cite[呼び起こす]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "recite a poem",
+          "ja": "詩を暗唱する"
+        }
+      ]
+    },
+    {
+      "id": "1011",
+      "word": "ray",
+      "phonetic": "[réi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 光線",
+            "② 放射線",
+            "③ (a ~ of) 一縷の, わずかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(太陽, 月からの)光線」",
+        "▶ ②「ガンマ線, 宇宙線など」",
+        "比較 X-ray「エックス線, レントゲン」で覚えよう。",
+        "類義 ultraviolet rays「紫外線」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the sun's rays",
+          "ja": "① 太陽光線"
+        },
+        {
+          "en": "② take an X-ray (examination)",
+          "ja": "② レントゲン(エックス線)検査を受ける"
+        },
+        {
+          "en": "③ a ray of hope",
+          "ja": "③ 一縷の望み"
+        }
+      ]
+    },
+    {
+      "id": "1012",
+      "word": "radiation",
+      "phonetic": "[rèidiéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "放射線"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 放射性元素の崩壊に伴って放出される粒子線または電磁波",
+        "語源 radi-[=root 根] + (根が)放射状に広がることから",
+        "派生 radioactive「放射性のある」"
+      ],
+      "word_origin": {
+        "formula": "radi-[=root 根] + (根が)放射状に広がる",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The workers were exposed to radiation.",
+          "ja": "その労働者たちは被ばくした(放射線にさらされた)。"
+        }
+      ]
+    },
+    {
+      "id": "1013",
+      "word": "laboratory",
+      "phonetic": "[lǽbərətɔ̀ːri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "研究室",
+            "研究所"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「科学者が何かをする所」(* 短縮形は lab.)",
+        "語源 labor-[労働]+-atory[所]",
+        "比較 factory「工場(←作る所)」",
+        "参考 LL教室は Language Laboratory「言語実習室」の略。"
+      ],
+      "word_origin": {
+        "formula": "labor-[労働]+-atory[所]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "laboratory experiments",
+          "ja": "研究室での実験"
+        }
+      ]
+    },
+    {
+      "id": "1014",
+      "word": "oxygen",
+      "phonetic": "[áksidʒən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "酸素"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 oxy-[酸]+-gen[=generate 生む](* 酸形成には酸素が必要)から生まれた語。",
+        "比較 hydrogen「水素」",
+        "比較 nitrogen「窒素」"
+      ],
+      "word_origin": {
+        "formula": "oxy-[酸]+-gen[=generate 生む]",
+        "description": "(* 酸形成には酸素が必要)から生まれた語。"
+      },
+      "examples": [
+        {
+          "en": "Water is made up of oxygen and hydrogen.",
+          "ja": "水は酸素と水素からできていいる。"
+        }
+      ]
+    },
+    {
+      "id": "1015",
+      "word": "molecule",
+      "phonetic": "[máləkjùːl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "分子"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (物理, 化学の)分子",
+        "語源 mole-[=mass かたまり]+-cule[小さな]",
+        "比較 article「記事」",
+        "派生 molecular「分子の, (哲学, 倫理)分子的な」",
+        "類義 atom「原子」",
+        "類義 electron「電子」"
+      ],
+      "word_origin": {
+        "formula": "mole-[=mass かたまり]+-cule[小さな]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a water molecule",
+          "ja": "水分子"
+        }
+      ]
+    },
+    {
+      "id": "1016",
+      "word": "compound",
+      "phonetic": "[kámpaund]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 化合物"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 複合的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 2つ以上の物から成り立っている物",
+        "語源 com-[共に]+-pound[置く]→「混ぜ合わせたもの」"
+      ],
+      "word_origin": {
+        "formula": "com-[共に]+-pound[置く]",
+        "description": "→「混ぜ合わせたもの」"
+      },
+      "examples": [
+        {
+          "en": "① a chemical compound",
+          "ja": "① 化合物"
+        },
+        {
+          "en": "② \"Duty-free\" is a compound word.",
+          "ja": "② 「免税の」は複合語だ。"
+        }
+      ]
+    },
+    {
+      "id": "1017",
+      "word": "tissue",
+      "phonetic": "[tíʃuː]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 組織",
+            "② ティッシュペーパー"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「同類の細胞の集合体」",
+        "語法 tissue paper「(包装用の)薄紙」",
+        "注意 日本語の「ティッシュペーパー」は和製英語。英語では facial tissueあるいはKléenex(←商標をそのまま使用)と表現するのがふつう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① nerve tissue",
+          "ja": "① 神経組織"
+        },
+        {
+          "en": "② take a tissue[×tissue paper]",
+          "ja": "② ティッシュペーパーを取る"
+        }
+      ]
+    },
+    {
+      "id": "1018",
+      "word": "cell",
+      "phonetic": "[sél]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 細胞",
+            "② 電池",
+            "③ 独房"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②③いずれも〈可算〉",
+        "語源 「電池」が集まって実用化されたものがbattery「電池, バッテリー」",
+        "参考 「隠す場所」→小部屋が元の意味。",
+        "比較 conceal「〜を隠す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① remove the cancerous cells",
+          "ja": "① がん細胞を除去する"
+        },
+        {
+          "en": "② a fuel cell",
+          "ja": "② 燃料電池"
+        },
+        {
+          "en": "③ spend a week in a cell",
+          "ja": "③ 独房で1週間過ごす"
+        }
+      ]
+    },
+    {
+      "id": "1019",
+      "word": "gene",
+      "phonetic": "[dʒíːn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 〈可算〉",
+        "▶ 「細胞の中の遺伝に関わる部分」",
+        "語源 gen-[生む]",
+        "派生 genetic「遺伝子の」",
+        "派生 genetic engineering「遺伝子工学」",
+        "派生 gene therapy「遺伝子治療」",
+        "派生 genesis「起源, 発生」"
+      ],
+      "word_origin": {
+        "formula": "gen-[生む]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the gene for black hair",
+          "ja": "黒い髪の遺伝子"
+        }
+      ]
+    },
+    {
+      "id": "1020",
+      "word": "substance",
+      "phonetic": "[sʌ́bstəns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 物質",
+            "② 本質, 根拠"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 〈不可算〉",
+        "▶ ① materialより堅い語。",
+        "語源 sub-[下]+-stance[=stand 立つ]から「物の下に存在する」もの",
+        "比較 submarine「潜水艦(←海の下)」"
+      ],
+      "word_origin": {
+        "formula": "sub-[下]+-stance[=stand 立つ]",
+        "description": "から「物の下に存在する」もの"
+      },
+      "examples": [
+        {
+          "en": "① a cancer-causing substance",
+          "ja": "① 発がん性物質"
+        },
+        {
+          "en": "② a rumor with no substance",
+          "ja": "② 根拠のないうわさ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1685",
+      "word": "revive",
+      "phonetic": "[riváiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 生き返る",
+            "よみがえる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を生き返らせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 revival「蘇生, よみがえること」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -vive[生命]",
+        "description": "*vitamin「ビタミン(←生命+アミノ酸)」"
+      },
+      "examples": [
+        {
+          "en": "The economy is beginning to revive after the slump.",
+          "ja": "① 経済は不況以降もち直し始めている."
+        },
+        {
+          "en": "revive the film industry",
+          "ja": "② 映画産業をよみがえらせる"
+        }
+      ]
+    },
+    {
+      "id": "1686",
+      "word": "resume",
+      "phonetic": "[rizúːm] [rézumèi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を再開する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 再開する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 〈米〉履歴書"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 概要",
+            "レジュメ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ④は〈米〉ではまれ.",
+        "名 resumé「〜を消費する(←共に取る)」(*③④は別語源.)"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -sume[=take 取る]",
+        "description": "から「再び取り組む」→「再開する」"
+      },
+      "examples": [
+        {
+          "en": "resume work",
+          "ja": "① 仕事を再開する"
+        },
+        {
+          "en": "The meeting has resumed.",
+          "ja": "② 会議が再開した."
+        },
+        {
+          "en": "Could you show me how to write a resume?",
+          "ja": "③ 履歴書の書き方を教えていただけませんか."
+        },
+        {
+          "en": "a resume of the day's events",
+          "ja": "④ その日の出来事の概要"
+        }
+      ]
+    },
+    {
+      "id": "1687",
+      "word": "outbreak",
+      "phonetic": "[áutbrèik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "発生",
+            "勃発"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある地域での病気や戦争が)始まること」",
+        "break out「発生する, 勃発する」の語順が転換してできた単語."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an outbreak of smallpox",
+          "ja": "天然痘の発生"
+        }
+      ]
+    },
+    {
+      "id": "1688",
+      "word": "inspect",
+      "phonetic": "[inspékt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を検査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「欠陥がないかどうか(じっくり)調べる」",
+        "名 inspection「検査」 ⇔ baggage inspection「手荷物検査」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -spect[見る]",
+        "description": "から「中を見る」→「検査する」 *spectator「観客」"
+      },
+      "examples": [
+        {
+          "en": "inspect the elevators regularly",
+          "ja": "定期的にエレベーターを検査する"
+        }
+      ]
+    },
+    {
+      "id": "1689",
+      "word": "expedition",
+      "phonetic": "[èkspədíʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (研究・探求・戦争目的の)探検",
+            "遠征"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 探検隊"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "pedestrian「歩行者」 impediment「妨害, 障害(←足を中に捕まえるもの)」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に] + -ped-[足]",
+        "description": "→「足を外に向けること」 *pédal「ペダル」"
+      },
+      "examples": [
+        {
+          "en": "an expedition to the North Pole",
+          "ja": "① 北極点への遠征"
+        },
+        {
+          "en": "the Antarctic expedition",
+          "ja": "② 南極観測(探検)隊"
+        }
+      ]
+    },
+    {
+      "id": "1690",
+      "word": "enroll",
+      "phonetic": "[inróul]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (in 〜) (〜に)入学する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (be -ed) 在籍している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 enrollment「入学, 入会, 登録者数, 在籍者数」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -roll[名簿]",
+        "description": "→「名簿に入れる, (正式に)登録する」"
+      },
+      "examples": [
+        {
+          "en": "enroll in yoga classes",
+          "ja": "① ヨガのクラスに入る"
+        },
+        {
+          "en": "2,000 students are enrolled at this college.",
+          "ja": "② この大学には2,000人の学生が在籍している."
+        }
+      ]
+    },
+    {
+      "id": "1691",
+      "word": "discipline",
+      "phonetic": "[dísəplin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (体罰などで)〜を躾ける"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 躾",
+            "規律"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (学問)分野"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「規律(を教える)」→③「(厳密に分けられた)分野」",
+        "名 self-discipline「自制心」",
+        "形 interdisciplinary「学際的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "discipline children",
+          "ja": "① 子どもを躾ける"
+        },
+        {
+          "en": "keep[break] discipline",
+          "ja": "② 規律を守る[破る]"
+        },
+        {
+          "en": "an academic discipline",
+          "ja": "③ 学問分野"
+        }
+      ]
+    },
+    {
+      "id": "1692",
+      "word": "tuition",
+      "phonetic": "[tjuíʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 〈米〉授業料"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (少人数での)授業"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①〈英〉a tuition fee",
+        "参 lecture (on 〜)「(〜の)講義」"
+      ],
+      "word_origin": {
+        "formula": "tui-[見る]",
+        "description": "から「(授業を見てもらった見返り)→「授業料」 *intuition「直観(←心の中でじっと見る)」"
+      },
+      "examples": [
+        {
+          "en": "pay my tuition by bank transfer",
+          "ja": "① 授業料を銀行振込で払う"
+        },
+        {
+          "en": "give tuition in Russian",
+          "ja": "② ロシア語の授業をする"
+        }
+      ]
+    },
+    {
+      "id": "1693",
+      "word": "ethic",
+      "phonetic": "[éθik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (〜s) (社会や職業上の)倫理(観)"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (伝統的に守られた)倫理"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「道徳上の規則や原理全般」 ②「個別の考え」",
+        "形 ethical「倫理的な」",
+        "名 ethics「倫理学」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "medical ethics",
+          "ja": "① 医療倫理"
+        },
+        {
+          "en": "the old ethic of hard work",
+          "ja": "② 勤勉という古い倫理観"
+        }
+      ]
+    },
+    {
+      "id": "1694",
+      "word": "psychology",
+      "phonetic": "[saikálədʒi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 心理学"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 心理"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 psychologist「心理学者」",
+        "形 psychological「心理的な, 心理学の」"
+      ],
+      "word_origin": {
+        "formula": "psycho-[精神] + -logy[学]",
+        "description": "サイコロ(を)ジーッと見る賭博者の「心理」"
+      },
+      "examples": [
+        {
+          "en": "a book on psychology",
+          "ja": "① 心理学の本"
+        },
+        {
+          "en": "the psychology of five-year-olds",
+          "ja": "② 5歳児の心理"
+        }
+      ]
+    }
+  ]
+}

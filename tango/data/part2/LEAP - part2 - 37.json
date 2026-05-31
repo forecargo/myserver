@@ -1,0 +1,245 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "671",
+      "word": "gain",
+      "phonetic": "[géin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を増す",
+            "② 〜を得る"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 利益, 増加"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(利益など)を勝ち取る」(*② 日常ではgétがふつう。)",
+        "頻出 ① gain weight「体重が増える」(↔lose weight「体重が減る」)",
+        "gain 10 minutes「(時計が)10分進む」",
+        "② gain knowledge [information, fame, popularity]「知識[情報, 名声, 人気]を得る」",
+        "派生 regain「〜を取り戻す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have gained five kilos.",
+          "ja": "① 5キロ太った."
+        },
+        {
+          "en": "gain valuable experience",
+          "ja": "② 価値ある経験を得る"
+        },
+        {
+          "en": "for practical gain",
+          "ja": "③ 実益のために"
+        }
+      ]
+    },
+    {
+      "id": "672",
+      "word": "obtain",
+      "phonetic": "[əbtéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(資格, 許可, 情報など)を得る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(努力や労力の結果)〜を得る」(*gétより堅い語。)",
+        "派生 obtainable「入手可能な」"
+      ],
+      "word_origin": {
+        "formula": "ob-(=againstに対して)+-tain[保つ]→「苦労して得る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "obtain a work visa",
+          "ja": "就労ビザを得る"
+        }
+      ]
+    },
+    {
+      "id": "673",
+      "word": "acquire",
+      "phonetic": "[əkwáiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を習得する",
+            "② 〜を獲得する",
+            "③ 〜を買収する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(知識や技術, 能力など)を習得する」(*gétより堅い語。)",
+        "頻出 ① acquire knowledge [skills]「知識[技術]を習得する」",
+        "派生 acquisition「習得, 獲得, 買収」",
+        "派生 acquired「習得した, 後天的な」(↔innáte「生まれつきの」)"
+      ],
+      "word_origin": {
+        "formula": "ac-(=ad方向)+-quire[探る]",
+        "description": "☆quéstion「質問」, quést「探求」"
+      },
+      "examples": [
+        {
+          "en": "acquire a foreign language",
+          "ja": "① 外国語を習得する"
+        },
+        {
+          "en": "acquire U.S. citizenship",
+          "ja": "② アメリカ市民権を取得する"
+        },
+        {
+          "en": "acquire a software company",
+          "ja": "③ ソフトウェアの会社を買収する"
+        }
+      ]
+    },
+    {
+      "id": "674",
+      "word": "search",
+      "phonetic": "[sə́ːrtʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A for B) (B(物)を求めてA(場所))を捜す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 捜索, 調査"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常ではlook (in A) for Bのほうがよく使われる。",
+        "頻出 ② in search of 〜「〜を求めて」",
+        "注意 search himは「彼を捜す」ではなく「彼のボディチェックをする」の意味。また, 自 search for 〜「〜を(求めて)捜す」の表現もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "search the house for my earrings",
+          "ja": "① イヤリングがないか家を捜す"
+        },
+        {
+          "en": "in search of the missing key",
+          "ja": "② なくした鍵を捜して"
+        }
+      ]
+    },
+    {
+      "id": "675",
+      "word": "logical",
+      "phonetic": "[lάdʒikəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "論理的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「理屈に合っている, 良識のある」",
+        "頻出 a logical mind [decision]「論理的な頭脳[決定]」",
+        "as a logical consequence「論理的な帰結として」",
+        "派生 名 logic「論理(学)」",
+        "派生 副 logically「論理的に」",
+        "派生 形 illogical「非論理的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "logical thinking",
+          "ja": "論理的な思考"
+        }
+      ]
+    },
+    {
+      "id": "676",
+      "word": "scholarship",
+      "phonetic": "[skάlərʃìp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 奨学金〈可算〉",
+            "② 学問, (人文科学の)学識〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① a scholarship student「奨学生」",
+        "win[get, gain] a scholarship to 〜「奨学金をもらって〜に通う」"
+      ],
+      "word_origin": {
+        "formula": "scholar-[学生]+-ship[身分]",
+        "description": "(*schólar「学者」は本来「学生」も意味していた。) ☆school「(学問, 芸術などの)学派」"
+      },
+      "examples": [
+        {
+          "en": "study abroad on a scholarship",
+          "ja": "① 奨学金で留学する"
+        },
+        {
+          "en": "He is proud of his scholarship.",
+          "ja": "② 彼は学識を自慢している."
+        }
+      ]
+    },
+    {
+      "id": "677",
+      "word": "instruction",
+      "phonetic": "[instrʌ́kʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(通例-s)指示"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(どのようにするかの公式な)指示, 説明書」",
+        "頻出 an instruction manual「取扱説明書」",
+        "派生 construction「建設」",
+        "派生 他 instruct「〜を指示する, 指導する」",
+        "派生 名 instructor「インストラクター」",
+        "派生 形 instructive「ためになる, 有益な」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に]+-stru-[構築する]",
+        "description": "→「(人の)中に技能などを構築する」"
+      },
+      "examples": [
+        {
+          "en": "follow the on-screen instructions",
+          "ja": "画面上の指示に従う"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1779",
+      "word": "resilient",
+      "phonetic": "[rizíljənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "回復の早い, 回復力のある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「困難な状況に柔軟に対応したり, すぐに立ち直れたりする」",
+        "☆salmon「鮭(←跳んで帰る魚)」",
+        "名 resilience「回復力」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び]+-sil-[跳ぶ]+-ient[形容詞語尾] -> 「(困難な状況から)跳ね返る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a remarkably resilient man",
+          "ja": "驚くほど立ち直りが早い男"
+        }
+      ]
+    },
+    {
+      "id": "1780",
+      "word": "inclined",
+      "phonetic": "[inkláind]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (be ~ to do) 〜する傾向がある",
+            "② 〜したい気持ちだ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆climb「登る」",
+        "名 inclination「傾向, 好み」⇔ an inclination to do「〜したいという気持ち」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に]+-cline-[傾く] -> 「心の中が傾く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "People are inclined to judge someone by their appearance.",
+          "ja": "① 人は人を見外で判断する傾向にある."
+        },
+        {
+          "en": "feel inclined to believe him",
+          "ja": "② 彼を信じてみようと思う"
+        }
+      ]
+    },
+    {
+      "id": "1781",
+      "word": "haunt",
+      "phonetic": "[hɔ́ːnt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (亡霊, 考えなどが)〜につきまとう, 出没する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 好んで行く場所, たまり場"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「習慣的に行く」",
+        "形 haunted「幽霊のよく出る, 不安そうな」⇔ a haunted house「お化け屋敷」",
+        "☆a roller coaster「ジェットコースター」, a Ferris wheel「観覧車」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am still haunted by regret.",
+          "ja": "① まだ後悔している(後悔につきまとわれている)."
+        },
+        {
+          "en": "The café is my favorite haunt.",
+          "ja": "② そのカフェは私が好んで行く場所だ."
+        }
+      ]
+    },
+    {
+      "id": "1782",
+      "word": "intent",
+      "phonetic": "[intént]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (on 〜) 〜に没頭した, 決心した"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 意図"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "in-[中に]+-ten-[伸びる] -> 「〜の中に(心が)伸びていく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I was intent on my work.",
+          "ja": "① 仕事に没頭していた."
+        },
+        {
+          "en": "It was not my intent to hurt you.",
+          "ja": "② あなたを傷つけるつもりはなかった."
+        }
+      ]
+    },
+    {
+      "id": "1783",
+      "word": "indulge",
+      "phonetic": "[indʌ́ldʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (in 〜) 〜にふける"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を思いのままにさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(趣味, 欲望, 悪事に)没頭する」",
+        "☆インド人(じいさん)がカレーに「ふける」",
+        "名 indulgence「道楽, 気まま」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "indulge in drinking",
+          "ja": "① 飲酒にふける"
+        },
+        {
+          "en": "someone who indulges me",
+          "ja": "② 私のわがままを聞いてくれる人 (私を思いのままにさせる人)"
+        }
+      ]
+    },
+    {
+      "id": "1784",
+      "word": "flaw",
+      "phonetic": "[flɔ́ː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "傷, 欠点"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(設計, 宝石, 性格などの)すべてを台無しにする傷, 不備」",
+        "☆「薄くて壊れやすい物」が元の意味. ☆flát「平らな」, flág「旗」, fláke「薄片」",
+        "形 flawed「欠陥のある」, 形 flawless「悪い所がない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a flaw in the jewel",
+          "ja": "その宝石の傷"
+        }
+      ]
+    },
+    {
+      "id": "1785",
+      "word": "defect",
+      "phonetic": "[díːfekt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "欠陥"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(製品や法律, 制度, 人間などの)放置された不具合」",
+        "形 defective「欠陥のある」"
+      ],
+      "word_origin": {
+        "formula": "de-[下→マイナス]+-fec-[作る] -> 「下に作る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a defect in that product",
+          "ja": "その製品の欠陥"
+        }
+      ]
+    },
+    {
+      "id": "1786",
+      "word": "trait",
+      "phonetic": "[tréit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "特性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人に備わった)特性, 特徴, 特質」"
+      ],
+      "word_origin": {
+        "formula": "tra-[引っ張る]から「(筆を)引っ張る」->「描かれたもの」->「特性」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Skin color is a genetic trait.",
+          "ja": "皮膚の色は遺伝特性だ."
+        }
+      ]
+    },
+    {
+      "id": "1787",
+      "word": "analogy",
+      "phonetic": "[ənǽlədʒi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "類比, 類推, 例え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物の特徴の共通点」→「例え」",
+        "☆日本語にもなっている「アナログ(ánəlog)」は「類似物」の意味. (アナログ時計) = 「太陽の運行をまねた(類似した)時計」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "draw an analogy between the brain and a computer",
+          "ja": "脳をコンピュータに例える (脳とコンピュータの類似点を示す)"
+        }
+      ]
+    },
+    {
+      "id": "1788",
+      "word": "parallel",
+      "phonetic": "[pǽrəlel]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 類似(物)"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (to 〜) (〜と)平行の, 類似した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆paradox「逆説(←相異なる意見が並ぶ)」",
+        "☆paralympics「パラリンピック」は parallel+Olympics「もう1つの平行のオリンピック」の意味."
+      ],
+      "word_origin": {
+        "formula": "para-[並んで]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have no parallel in the 20th century",
+          "ja": "① 20世紀には類似するものがない"
+        },
+        {
+          "en": "Two parallel lines never meet.",
+          "ja": "② 平行する2直線は交わらない."
+        }
+      ]
+    }
+  ]
+}

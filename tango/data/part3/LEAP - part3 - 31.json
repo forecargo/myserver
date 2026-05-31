@@ -1,0 +1,304 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1299",
+      "word": "numerous",
+      "phonetic": "[njúːmərəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "多くの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では a lot of 〜のほうが使われる。",
+        "numer- [=number 数] + -ous [多い]",
+        "innumerable 「無数の」"
+      ],
+      "word_origin": {
+        "formula": "numer- [=number 数] + -ous [多い]",
+        "description": "innumerable 「無数の」"
+      },
+      "examples": [
+        {
+          "en": "on numerous occasions",
+          "ja": "多くの場面で"
+        }
+      ]
+    },
+    {
+      "id": "1300",
+      "word": "substantial",
+      "phonetic": "[səbstǽnʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① かなりの, たくさんの",
+            "② 内容のある, 重要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(物質[内容])の詰まった」→①「数量が多い」",
+        "substance 「物質」の形容詞形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a substantial breakfast",
+          "ja": "① ボリュームのある(たくさんの)朝食"
+        },
+        {
+          "en": "② a substantial workshop",
+          "ja": "② 内容のある勉強会"
+        }
+      ]
+    },
+    {
+      "id": "1301",
+      "word": "unit",
+      "phonetic": "[júːnit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "単位"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(全体を構成する)単位」から「(グラムなど測定)単位」まで。",
+        "元は unity 「単一」と digit 「数字, 桁」の造語で「単一の桁」。",
+        "a modular bathroom 「ユニットバス」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The family is the smallest unit of society.",
+          "ja": "家族は社会の最小の単位だ."
+        }
+      ]
+    },
+    {
+      "id": "1302",
+      "word": "diameter",
+      "phonetic": "[daiǽmətər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "直径"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ 《(数字) in diameter》「直径〜」の形が多い。",
+        "radius [réidiəs] 「半径」",
+        "circumference 「円周」"
+      ],
+      "word_origin": {
+        "formula": "dia-[横切って] + -meter[測る]",
+        "description": "radius [réidiəs] 「半径」, circumference 「円周」"
+      },
+      "examples": [
+        {
+          "en": "two meters in diameter",
+          "ja": "直径 2メートル"
+        }
+      ]
+    },
+    {
+      "id": "1303",
+      "word": "arithmetic",
+      "phonetic": "[əríθmətɪk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "算術"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 小学校の科目にある「算数」は math と表現する。",
+        "アリスと一緒に「算術」",
+        "mental arithmetic 「暗算」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "reading, writing, and arithmetic (*3語の頭韻から the three Rs と表現する)",
+          "ja": "読み, 書き, 算盤(←算術)"
+        }
+      ]
+    },
+    {
+      "id": "1304",
+      "word": "quantity",
+      "phonetic": "[kwάntəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "量"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「分量, 数量」(*可算)と(不可算)の両方に使用可。",
+        "反 quality 「質」",
+        "形 quantitative 「量的な」",
+        "a large[small] quantity of 〈可算〉/〈不可算〉「多くの[少ない]〜」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Quality is more important than quantity.",
+          "ja": "量より質が重要だ."
+        }
+      ]
+    },
+    {
+      "id": "1305",
+      "word": "deficiency",
+      "phonetic": "[difíʃənsi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "欠乏, 不足"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ビタミンや遺伝子など)重要なものが欠けていること」",
+        "反 sufficiency 「十分」",
+        "名 déficit 「赤字」 (↔︎ surplus 「黒字」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a vitamin deficiency",
+          "ja": "ビタミンの欠乏"
+        }
+      ]
+    },
+    {
+      "id": "1306",
+      "word": "maximum",
+      "phonetic": "[mǽksəməm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "最大限"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(数量などが)最大」(*略号は max.)",
+        "形 副も同形。",
+        "他 maximize 「〜を最大限にする」",
+        "反 minimum 「最小値」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This will cost a maximum of 1,000 dollars.",
+          "ja": "これは最大で 1,000ドルかかります."
+        }
+      ]
+    },
+    {
+      "id": "1307",
+      "word": "bunch",
+      "phonetic": "[bʌ́ntʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(花や鍵などの)束, (ブドウなどの)房"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(似たようなものが)束や塊になったもの」",
+        "「縛られたもの」が語源。",
+        "他 bind 「〜を縛る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a bunch of flowers",
+          "ja": "花束"
+        }
+      ]
+    },
+    {
+      "id": "1308",
+      "word": "lessen",
+      "phonetic": "[lésn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を減らす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(危険, 可能性, 価値など)を少し減らす」(*lésson 「授業, 教訓」と同じ発音。)",
+        "less-[より少ない] + -en[動詞語尾]→「(より少ない数, 量)にする」"
+      ],
+      "word_origin": {
+        "formula": "less-[より少ない] + -en[動詞語尾]",
+        "description": "「(より少ない数, 量)にする」"
+      },
+      "examples": [
+        {
+          "en": "lessen the risk of human error",
+          "ja": "人為的ミスのリスクを軽減する"
+        }
+      ]
+    },
+    {
+      "id": "1309",
+      "word": "era",
+      "phonetic": "*[íərə]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "時代"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ほかの時代と明確に区別できる重要な出来事が起きた)時代」",
+        "epoch 「(新しく画期的な)時代」",
+        "the era name 「元号」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the dawn of a new era",
+          "ja": "新たな時代の幕開け"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1728",
+      "word": "compulsory",
+      "phonetic": "[kəmpʌ́lsəri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 義務的な",
+            "② 規定の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(法律や規則, 制度などによって)強制的な」",
+        "派 compél (A to do)「(A)に(〜することを)強制する」の形容詞形。",
+        "名 compulsion「強制, 衝動」",
+        "参 mándatory「(法によって)義務的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We have nine years of compulsory education in Japan.",
+          "ja": "日本では義務教育は9年間だ。"
+        },
+        {
+          "en": "a compulsory subject",
+          "ja": "必修科目 (⇔選択科目)"
+        }
+      ]
+    },
+    {
+      "id": "1729",
+      "word": "relieve",
+      "phonetic": "[rilíːv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を取り除く",
+            "② 〜を安心させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(苦痛, 心配など)を取り除く」",
+        "名 relief「除去, 安堵, 救済(物資)」(*「リリーフ(救援投手)」はreliever)",
+        "with a sigh of relief「ほっと安堵のため息をついて」",
+        "to one's relief「〜がほっとしたことには」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "relieve my stress",
+          "ja": "ストレスを発散させる"
+        },
+        {
+          "en": "He looked relieved when he heard the news.",
+          "ja": "彼はその知らせを聞いてほっとしているようだった。"
+        }
+      ]
+    },
+    {
+      "id": "1730",
+      "word": "trim",
+      "phonetic": "[trim]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を刈り込む, 切り取る"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② こぎれいな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(不要な木の枝や, 肉の脂身など)を切り落とす」",
+        "▶「画像の不要な部分を取り除いて加工することを「トリミング」という。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "trim the fat off the meat",
+          "ja": "肉から脂身を切り落とす"
+        },
+        {
+          "en": "a trim garden",
+          "ja": "こぎれいな庭"
+        }
+      ]
+    },
+    {
+      "id": "1731",
+      "word": "disposal",
+      "phonetic": "[dispóuzəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 処分, 廃棄",
+            "② (at one's 〜)〜を自由にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜が自由に処分できるところに」から。",
+        "語 dis-[バラバラ]+-pos-[置く]→「バラバラにする」",
+        "他 dispóse (of 〜)「(〜を)処分する」",
+        "形 dispósable「使い捨ての」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "waste disposal",
+          "ja": "廃棄物処理"
+        },
+        {
+          "en": "have a lot of money at my disposal",
+          "ja": "大金が自由に使える"
+        }
+      ]
+    },
+    {
+      "id": "1732",
+      "word": "scent",
+      "phonetic": "[sént]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (花, 果物の良い)香り",
+            "② (動物が残したそれ自身の)臭い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇sméll「(一般的に)臭い」",
+        "語 scen-[=sense 感じ取る]",
+        "参 frágrance「(繊細な)香り」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the sweet scent of perfume",
+          "ja": "香水の甘い香り"
+        },
+        {
+          "en": "The dogs followed the deer's scent.",
+          "ja": "イヌたちはシカの臭いを追った。"
+        }
+      ]
+    },
+    {
+      "id": "1733",
+      "word": "grain",
+      "phonetic": "[gréin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 穀物",
+            "② 粒, 少量"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「すり潰して食べるもの」",
+        "派 grínd「(穀物などを)すり潰す」",
+        "名 gránary「穀物貯蔵所」",
+        "take 〜 with a grain of salt「〜を話半分に聞く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Japan's consumption of grain",
+          "ja": "日本の穀物消費量"
+        },
+        {
+          "en": "a grain of sand[×a sand]",
+          "ja": "一粒の砂"
+        }
+      ]
+    },
+    {
+      "id": "1734",
+      "word": "wheat",
+      "phonetic": "[hwíːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "小麦<不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「白い」と同語源。(*flóur「小麦粉」は「白い」)",
+        "名 búckwheat「そば粉」",
+        "参 báley「大麦」",
+        "rye「ライ麦」",
+        "oat「オート麦」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Wheat is the chief crop in this area.",
+          "ja": "小麦はこの地域の主な作物です。"
+        }
+      ]
+    },
+    {
+      "id": "1735",
+      "word": "deforestation",
+      "phonetic": "[dìːfɔ́ːristéiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "森林伐採"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある地域の)木々を伐採, あるいは, 焼き尽くすこと」",
+        "参 desertificátion「砂漠化」"
+      ],
+      "word_origin": {
+        "formula": "de-[down マイナス]+-forest-[森]+-ation[名詞語尾]→「森を打ち消すこと」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "campaign against deforestation in the Amazon",
+          "ja": "アマゾンの森林伐採に反対する運動を行う"
+        }
+      ]
+    },
+    {
+      "id": "1736",
+      "word": "drought",
+      "phonetic": "[dráut]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "干ばつ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「水が乾ききってしまうほど日照りが続く状態」",
+        "語「乾いた」",
+        "⇔ dry weather「日照り」",
+        "参 fáminé「飢饉」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The village was hit by a severe drought.",
+          "ja": "その村は厳しい干ばつに見舞われた。"
+        }
+      ]
+    },
+    {
+      "id": "1737",
+      "word": "irrigation",
+      "phonetic": "[ìrəgéiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "灌漑"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「土地や作物に水を供給すること」",
+        "他 írrigate「〜を灌漑する」",
+        "⇨ irrigate the farmland「農地を灌漑する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "water for irrigation",
+          "ja": "灌漑用水"
+        }
+      ]
+    }
+  ]
+}

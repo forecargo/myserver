@@ -1,0 +1,552 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2154",
+      "word": "calamity",
+      "phonetic": "[kəlæməti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(大きな)災害"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大きな被害をもたらす災害」",
+        "◇disaster「災害」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "survive the calamity of war",
+          "ja": "「戦禍(戦争による災害)を生き延びる」"
+        }
+      ]
+    },
+    {
+      "id": "2155",
+      "word": "precipitation",
+      "phonetic": "[prɪsɪpətèɪʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "降水(量)",
+            "〈化学〉沈殿"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶rainfall「降雨」の堅い表現。"
+      ],
+      "word_origin": {
+        "formula": "pre-[前] + -cip-[cap 頭] -> 「真っ逆さま(頭から先)に落ちる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a linear precipitation zone[belt]",
+          "ja": "「線状降水帯」"
+        }
+      ]
+    },
+    {
+      "id": "2156",
+      "word": "meteor",
+      "phonetic": "[míːtiər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "流星",
+            "隕石"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常では a shooting star のほうが使われる。なお、隕石が地上に落ちてきた場合, meteorite「隕石」となる。",
+        "見(み)てーてやあ の「流星」",
+        "meteorology「気象学」",
+        "the Milky Way「天の川」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A meteor shot across the night sky.",
+          "ja": "「流星が夜空を横切った。」"
+        }
+      ]
+    },
+    {
+      "id": "2157",
+      "word": "asteroid",
+      "phonetic": "[æstərɔɪd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "小惑星"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「太陽系内に存在する, 惑星よりも小さな天体」",
+        "asteroid belt「小惑星帯」"
+      ],
+      "word_origin": {
+        "formula": "aster-[星] + -oid[のようなもの] -> 「星のようなもの」",
+        "description": "android「アンドロイド(←人間そっくりのロボット)」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2158",
+      "word": "eclipse",
+      "phonetic": "[ɪklíps]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "日食, 月食などの)食"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を食する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「食」は「蝕」の代用表記。",
+        "eclipse「(ほかの天体)を食する, 〜より断然まさる」"
+      ],
+      "word_origin": {
+        "formula": "ec-[ex 外に] + -lip-[=leave 去る] -> 「(光を)外に押し出す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "solar[lunar] eclipse",
+          "ja": "「日[月]食」"
+        }
+      ]
+    },
+    {
+      "id": "2159",
+      "word": "glacier",
+      "phonetic": "[gléɪʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "氷河"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "氷河の, 遅々とした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(低地に向かってゆっくりと流れ出る)氷のかたまり」",
+        "iceberg「氷山(←海に浮かぶ氷のかたまり)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the glacial epoch",
+          "ja": "「氷河期」"
+        }
+      ]
+    },
+    {
+      "id": "2160",
+      "word": "peninsula",
+      "phonetic": "[pənɪnsjʊlə]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "半島"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶英語の定義では「大陸とつながった, ほぼ水に囲まれている陸地」",
+        "insularism「島国根性」",
+        "insulate「〜を隔離する」"
+      ],
+      "word_origin": {
+        "formula": "pen-[ほとんど] + -insula[島] -> 「ほとんど島」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2161",
+      "word": "hemisphere",
+      "phonetic": "[hémisfiər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "半球"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(地球の)北半球」から「(脳の)半球」まで。",
+        "atmosphere「大気」"
+      ],
+      "word_origin": {
+        "formula": "hemi-[half 半分] + -sphere[球] -> 「半球」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the right[left] hemisphere of the brain",
+          "ja": "「右[左]脳(脳の半球)」"
+        }
+      ]
+    },
+    {
+      "id": "2162",
+      "word": "lump",
+      "phonetic": "[lʌmp]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 塊, しこり"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (together)〜をひとかたまりにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「固い塊」",
+        "bump「(ぶつけてできる)コブ」",
+        "hump「(ラクダなどの)コブ」",
+        "ランプの下にラムの「塊」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a lump of coal",
+          "ja": "「石炭の塊」"
+        }
+      ]
+    },
+    {
+      "id": "2163",
+      "word": "cluster",
+      "phonetic": "[klʌstər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(同種の)集団, (植物の)房"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「同種の人[動物, 植物]など)のかたまり」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a cluster bomb",
+          "ja": "「クラスター爆弾(←複数の子弾を搭載した爆弾)」"
+        }
+      ]
+    },
+    {
+      "id": "2164",
+      "word": "offspring",
+      "phonetic": "[ɔ́ːfsprɪŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(集合的に)(人間・動物の)子, 子孫"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇a child「(人間の)子」"
+      ],
+      "word_origin": {
+        "formula": "off-[離れて] + -spring[跳ぶ] -> 「親から飛び出てきた(離れた)物」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a tiger and its offspring",
+          "ja": "「トラとその子ども」"
+        }
+      ]
+    },
+    {
+      "id": "2165",
+      "word": "livestock",
+      "phonetic": "[láɪvstɑk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "家畜〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ニワトリやアヒルは含まれない。"
+      ],
+      "word_origin": {
+        "formula": "live-[生きている] + -stock[在庫] -> 「生きている在庫」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the livestock industry",
+          "ja": "「畜産業」"
+        }
+      ]
+    },
+    {
+      "id": "2166",
+      "word": "carnivore",
+      "phonetic": "[kɑ́ːrnəvɔ̀ːr]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "肉食動物〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶=an animal that eats flesh"
+      ],
+      "word_origin": {
+        "formula": "carni-[肉] + -vore[むさぼり食う] -> 「肉をむさぼり食う」",
+        "description": "carnival「謝肉祭, 祭り」, devour「〜をむさぼり食う」, 反herbivore「草食動物」, omnivore「雑食動物」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2167",
+      "word": "vertebrate",
+      "phonetic": "[və́ːrtəbrət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 脊椎動物"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 脊椎動物の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「backbone(脊椎・背骨)を持つ生物のこと」"
+      ],
+      "word_origin": {
+        "formula": "vert-[回る] -> 「脊椎(回るもの)」",
+        "description": "vertical「垂直の(←90度回転したもの)」, invertebrate「無脊椎動物」, vertebra「脊椎骨」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2168",
+      "word": "primate",
+      "phonetic": "[práɪmeɪt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "霊長類"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ヒトとサルを含む)霊長目の動物」",
+        "the Primate of All England「カンタベリー大主教」"
+      ],
+      "word_origin": {
+        "formula": "primat-[第1位] -> 「(動物の最高位)」",
+        "description": "大主教, 大司教」の意味もある。"
+      },
+      "examples": [
+        {
+          "en": "Many primates live in trees.",
+          "ja": "「霊長類の多くは木の上で生活している。」"
+        }
+      ]
+    },
+    {
+      "id": "2169",
+      "word": "parasite",
+      "phonetic": "[pærəsàɪt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "寄生虫[動物, 植物]"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかの生物に寄生し, そこから養分を吸収する動植物」から「(比喩的に)他者に依存して生活する者」まで。",
+        "反host「(寄生生物の)宿主」"
+      ],
+      "word_origin": {
+        "formula": "para-[横で] + -site[=food] -> 「宿主の横で食べる」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2170",
+      "word": "cortex",
+      "phonetic": "[kɔ́ːrteks]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "皮質"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(藻, 菌などの)表皮層」から「((臓器の)表層の部分)」まで。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「木の皮」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "the cerebral cortex",
+          "ja": "「大脳皮質」"
+        },
+        {
+          "en": "the adrenal cortex",
+          "ja": "「副腎皮質」"
+        }
+      ]
+    },
+    {
+      "id": "2171",
+      "word": "sibling",
+      "phonetic": "[síblɪŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "兄弟姉妹"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶=a brother or sister"
+      ],
+      "word_origin": {
+        "formula": "sib-[血縁者] + -ling[人] -> 「(同じ親から生まれた)血縁者」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I have four[×five] siblings.",
+          "ja": "「私は5人きょうだいです。」"
+        }
+      ]
+    },
+    {
+      "id": "2172",
+      "word": "extrovert",
+      "phonetic": "[ékstrəvə̀ːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "外交的な人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「活発で自信があり, 他者との交流を楽しむ人」",
+        "反introvert「内向的な人」"
+      ],
+      "word_origin": {
+        "formula": "extro-[外に] + -vert[回る] -> 「(気持ちが)外に向いている人」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2173",
+      "word": "stigma",
+      "phonetic": "[stígmə]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "汚名"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜に汚名を着せる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(社会が認識している)恥ずべき不名誉な評判」",
+        "stick「突く」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「(罪人の印として)入れ墨」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "stigmatize O as C",
+          "ja": "「OにCという汚名を着せる」"
+        }
+      ]
+    }
+  ]
+}

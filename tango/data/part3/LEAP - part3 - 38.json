@@ -1,0 +1,331 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1372",
+      "word": "threaten",
+      "phonetic": "[θrétn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を脅かす",
+            "② (to do)〜すると脅す",
+            "③ 〜の恐れがある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「圧迫する」が元の意味。",
+        "★thrust「〜を強く押しつける」",
+        "派生 threat (to ~)「(〜への)脅迫, 兆し」",
+        "a threatening letter「脅迫状」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "threaten the survival of wildlife",
+          "ja": "① 野生動物の生存を脅かす"
+        },
+        {
+          "en": "threaten to report it to the police",
+          "ja": "② それを警察に通報すると脅す"
+        },
+        {
+          "en": "It is threatening to rain.",
+          "ja": "③ 雨が降りそうだ."
+        }
+      ]
+    },
+    {
+      "id": "1373",
+      "word": "mourn",
+      "phonetic": "[mɔ́ːrn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を嘆く, 悼む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(誰かの死, 何かの消失)を悲しむ」",
+        "「嘆き悲しむ」モーニング。",
+        "★memory「記憶」",
+        "派生 mourning「哀悼, 喪」(*mórning「朝」と同じ発音。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "mourn the death of the Pope",
+          "ja": "ローマ教皇の死を悼む"
+        }
+      ]
+    },
+    {
+      "id": "1374",
+      "word": "sacrifice",
+      "phonetic": "[sǽkrəfàis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を犠牲にする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 犠牲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 sacri-[神聖な]+-fice[作る, する]から「〜を神聖なものにする」→「〜を犠牲にする」",
+        "★sacred「神聖な」",
+        "a sacrifice fly「(野球の)犠牲フライ」",
+        "語法 sacrifice A at the altar of B「BのためにAを犠牲にする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sacrifice my family for my career",
+          "ja": "① 仕事のために家族を犠牲にする"
+        },
+        {
+          "en": "make sacrifices for my company",
+          "ja": "② 会社のために犠牲を払う"
+        }
+      ]
+    },
+    {
+      "id": "1375",
+      "word": "curse",
+      "phonetic": "[kə́ːrs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 災いの元",
+            "② 呪い"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を呪う, ののしる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶この力(ー)ス!と「呪う」",
+        "派生 cursed「呪われた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Gambling is a curse on his life.",
+          "ja": "① ギャンブルは彼にとって災いの元だ."
+        },
+        {
+          "en": "put a curse on her",
+          "ja": "② 彼女に呪いをかける"
+        },
+        {
+          "en": "be cursed with bad luck",
+          "ja": "③ 不運にたたられる"
+        }
+      ]
+    },
+    {
+      "id": "1376",
+      "word": "stem",
+      "phonetic": "[stém]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (from ~)(〜が)原因である"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 茎, 幹, ワイングラスの脚"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶① come from と同意だが, 主語には「問題」などがくることが多い。",
+        "語源 st-[立っている]→「植物の茎」→「さかのぼる(原因である)」",
+        "参考 STEM教育は Science, Technology, Engineering and Mathematics の略。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Diabetes often stems from an unhealthy lifestyle.",
+          "ja": "① 糖尿病は不健康な生活習慣が原因であることが多い."
+        },
+        {
+          "en": "the stem of a plant",
+          "ja": "② 植物の茎"
+        }
+      ]
+    },
+    {
+      "id": "1377",
+      "word": "trigger",
+      "phonetic": "[trígər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜のきっかけになる, 〜を誘発する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (銃の)引き金",
+            "③ (比喩的に)きっかけ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「突然のきっかけ」",
+        "語源 trig-[引く]+-er[名詞語尾]から「引くもの」→「引き金」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "trigger an allergic reaction",
+          "ja": "① アレルギー反応を引き起こす"
+        },
+        {
+          "en": "pull the trigger",
+          "ja": "② 引き金を引く"
+        },
+        {
+          "en": "the trigger for the riot",
+          "ja": "③ 暴動のきっかけ"
+        }
+      ]
+    },
+    {
+      "id": "1378",
+      "word": "consequence",
+      "phonetic": "[kɑ́nsəkwèns]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 結果",
+            "② (of ~)重要性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶① 主に「(よくない)結果」",
+        "語源 con-[共に]+-sequence[連続]→「(〜に続いて)連続して起こること」",
+        "派生 consequently「その結果」",
+        "派生 séquence「連続(するもの)」",
+        "派生 consecutive「連続した」",
+        "win one's 50th consecutive victory「50連勝する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have serious consequences",
+          "ja": "① 深刻な結果を招く"
+        },
+        {
+          "en": "It is of little consequence to me.",
+          "ja": "② それは私にとってどうでもよい(ほとんど重要ではない)."
+        }
+      ]
+    },
+    {
+      "id": "1379",
+      "word": "process",
+      "phonetic": "[prɑ́ses]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 過程"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を加工する, 処理する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶② 主に「(食品の)加工, (コンピュータによる)処理をする」",
+        "processed cheese「プロセスチーズ」とは「加工されたチーズ」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The production process is fully automated.",
+          "ja": "① 生産過程は完全オートメーション化されている."
+        },
+        {
+          "en": "process the data",
+          "ja": "② そのデータを処理する"
+        }
+      ]
+    },
+    {
+      "id": "1380",
+      "word": "resort",
+      "phonetic": "[rizɔ́ːrt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~)(〜に)訴える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 行楽地",
+            "③ 手段"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(暴力や武力など, よくない手段を)用いる」",
+        "「(しばしば)行く」が元の意味。",
+        "語法 resort to ~「〜という手段に訴える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "resort to violence",
+          "ja": "① 暴力に訴える"
+        },
+        {
+          "en": "a hot spring resort",
+          "ja": "② 温泉地"
+        },
+        {
+          "en": "as a last resort",
+          "ja": "③ 最後の手段として"
+        }
+      ]
+    }
+  ]
+}

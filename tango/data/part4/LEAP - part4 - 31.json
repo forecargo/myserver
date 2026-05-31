@@ -1,0 +1,335 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1717",
+      "word": "nightmare",
+      "phonetic": "[náitmèər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 悪夢",
+            "② 悪夢のようなこと"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ a frightening dream",
+        "語源 night-[夜] + -mare[傷つける]",
+        "類義 daydream「空想, 白日夢」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have[×see] a terrible nightmare",
+          "ja": "① ひどい悪夢を見る"
+        },
+        {
+          "en": "② Working in the rain was a nightmare.",
+          "ja": "② 雨の中での作業は悪夢だった."
+        }
+      ]
+    },
+    {
+      "id": "1718",
+      "word": "stereotype",
+      "phonetic": "[stériətàip]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "固定観念"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "stereotyped「型にはまった」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「間違っていたり, 偏見を含むような見方」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "racial stereotypes",
+          "ja": "人種的固定観念"
+        }
+      ]
+    },
+    {
+      "id": "1719",
+      "word": "illusion",
+      "phonetic": "[ilúːʒən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "幻想"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (特に自分に関わる)間違った考えや意見",
+        "コロケーション ネコがいるーじょんという「幻想」を抱く.",
+        "類義 delusion「妄想」",
+        "コロケーション mistakenly believe that SV「〜という幻想を抱く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jessi is under the illusion that he loves her.",
+          "ja": "ジェシーは彼が自分のことを愛しているという幻想を抱いている."
+        }
+      ]
+    },
+    {
+      "id": "1720",
+      "word": "criterion",
+      "phonetic": "[kraitíəriən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "基準"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (判断, 評価の)基準」(*複数形は通例 criteria とする.)",
+        "派生 criticize「〜を批判する」",
+        "コロケーション the criteria by which to judge 〜「〜を判断するための基準」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the criteria for judging wine",
+          "ja": "ワインを判断する基準"
+        }
+      ]
+    },
+    {
+      "id": "1721",
+      "word": "ideology",
+      "phonetic": "[àidíəlɑdʒi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "イデオロギー, (政治・経済的)思想"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある政治・経済システムが基盤としている)一連の思想体系」",
+        "語源 ideo-[観念] + -logy[=logic 論理]",
+        "派生 ideological「イデオロギーの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "capitalist ideology",
+          "ja": "資本主義のイデオロギー"
+        }
+      ]
+    },
+    {
+      "id": "1722",
+      "word": "tolerate",
+      "phonetic": "[tɑ́lərèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を大目に見る, 我慢する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「たたかれても笑っている」イメージ.",
+        "語源 toler-[耐える]",
+        "派生 tolerance「寛容, 我慢」",
+        "派生 tolerant「寛大な」",
+        "派生 tolerable「耐えられる」 (⇔intolerable「耐えられない」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tolerate unfair treatment",
+          "ja": "不当な扱いに耐える"
+        }
+      ]
+    },
+    {
+      "id": "1723",
+      "word": "overlook",
+      "phonetic": "[òuvərlúk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(うっかり)見落とす",
+            "② (人の欠点やミスなど)を見逃す",
+            "③ (場所が)〜を見渡す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 over-[越えて] + -look[見る]",
+        "類義 oversleep「寝過ごす」",
+        "類義 overhear「(無意識に)〜を立ち聞きする」",
+        "類義 overnight「ひと晩中, 一夜にして」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① overlook some important evidence",
+          "ja": "① ある大切な証拠を見落とす"
+        },
+        {
+          "en": "② I'll overlook your mistake this time.",
+          "ja": "② 今回は君のミスを見逃そう."
+        },
+        {
+          "en": "③ My room overlooks the Seine.",
+          "ja": "③ 私の部屋からセーヌ川が見渡せる."
+        }
+      ]
+    },
+    {
+      "id": "1724",
+      "word": "conceive",
+      "phonetic": "[kənsíːv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を思い浮かべる",
+            "② 〜を妊娠する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (of 〜) 〜を想像する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(考え)を受け取る」",
+        "▶ ②「(子ども)を受け取る」 (*② 自もある)",
+        "語源 con-[強意] + -ceive[受け取る]",
+        "派生 receive「〜を受け取る」",
+        "派生 conception「思い浮かべること, 概念」",
+        "派生 contraception「避妊」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① conceive a good idea",
+          "ja": "① よいアイデアを思いつく"
+        },
+        {
+          "en": "② Betty conceived a child.",
+          "ja": "② ベティは(子どもを)妊娠した."
+        },
+        {
+          "en": "③ conceive of a world without war",
+          "ja": "③ 戦争のない世界を想像する"
+        }
+      ]
+    },
+    {
+      "id": "1725",
+      "word": "misunderstand",
+      "phonetic": "[mìsʌndərstǽnd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(人, 人の言うこと)を誤解している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 mis-[間違って] + -understand[理解している]",
+        "派生 misjudge「〜を誤って判断する」",
+        "派生 misunderstanding「誤解」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am afraid you misunderstand me.",
+          "ja": "君は私のことを誤解しているようだね."
+        }
+      ]
+    },
+    {
+      "id": "1726",
+      "word": "keen",
+      "phonetic": "[kíːn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (頭脳, 感性などが)鋭い",
+            "② (be- on 〜) (〜に)熱中して, 好きで"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 日常では sharp のほうが使われる.",
+        "▶ ② 主に〈英〉の口語。(この on は「意識の集中」を表す.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a keen eye for talent",
+          "ja": "① 才能を見る(鋭い)目がある"
+        },
+        {
+          "en": "② I am not keen on cabbage.",
+          "ja": "② 私はキャベツが好きじゃない."
+        }
+      ]
+    },
+    {
+      "id": "1727",
+      "word": "subjective",
+      "phonetic": "[sʌbdʒéktiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "主観的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(私という)個人の意見, 感情などに基づいた」",
+        "派生 subject「科目, 話題, 被験者, 主語」",
+        "反義 objective「客観的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "highly subjective views",
+          "ja": "非常に主観的な見解"
+        }
+      ]
+    }
+  ]
+}

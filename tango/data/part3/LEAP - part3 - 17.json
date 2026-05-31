@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1160",
+      "word": "settle",
+      "phonetic": "[sétl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (紛争など)を解決する",
+            "② 〜を置く, 据える"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 定住する",
+            "④ (on 〜) (〜を)決める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ set-(=seat 座らせる)→「固定する, 解決する, 定住する」",
+        "名 settlement「解決, 定住, 入植」",
+        "熟 settle for 〜「〜で我慢する, (不本意だが)〜で手打つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "settle the dispute",
+          "ja": "その紛争を解決する"
+        },
+        {
+          "en": "settle a bag on my shoulder",
+          "ja": "バッグを肩にかける(置く)"
+        },
+        {
+          "en": "settle (down) in Brazil",
+          "ja": "ブラジルに定住する"
+        },
+        {
+          "en": "settle on a name for our new dog",
+          "ja": "私たちの新しいイヌの名前を決める"
+        }
+      ]
+    },
+    {
+      "id": "1161",
+      "word": "enrich",
+      "phonetic": "[inrítʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を豊かにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かを加えて)質を上げる」",
+        "▶ en-[動詞化の接頭辞]+-rich[豊かな]",
+        "形 enriched「濃縮された」→enriched uranium「濃縮ウラン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "enrich the soil",
+          "ja": "その土壌を豊かにする"
+        }
+      ]
+    },
+    {
+      "id": "1162",
+      "word": "warn",
+      "phonetic": "[wɔ́ːrn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に警告する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (of [against] 〜) (〜に対して)警告する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険や, やってはいけないことに対して)前もって注意を促す」",
+        "▶ 発音の似ている war「戦争」とセットで覚えよう。",
+        "名 warning「警告, 警報」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "warn him to follow the rules",
+          "ja": "規則に従うよう彼に警告する"
+        },
+        {
+          "en": "warn of global warming",
+          "ja": "地球温暖化を警告する"
+        }
+      ]
+    },
+    {
+      "id": "1163",
+      "word": "force",
+      "phonetic": "[fɔ́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に強いる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 力, 武力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(無理矢理〜させる)力」",
+        "▶ 音楽用語の forte「フォルテ(強音で演奏するところ)」と同語源。",
+        "熟 Japan Self-Defense Forces (=JSDF)「自衛隊」",
+        "熟 workforce「労働力, 労働人口」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The older kids forced him to shoplift.",
+          "ja": "年上の子たちが彼に万引きするように強いた。"
+        },
+        {
+          "en": "the forces of nature",
+          "ja": "自然の(種々の)力"
+        }
+      ]
+    },
+    {
+      "id": "1164",
+      "word": "appeal",
+      "phonetic": "[əpíːl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to 〜) (〜に)訴える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 魅力, 人気",
+            "③ (for 〜) (〜に)対する訴え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人, 感情などに)訴えかける」",
+        "(*③「人助けのための訴え」)",
+        "形 appealing「魅力的な」",
+        "熟 sell oneself「自己アピールする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "appeal to our emotions",
+          "ja": "私たちの感情に訴えかける"
+        },
+        {
+          "en": "have a wide appeal among young people",
+          "ja": "若者に幅広い人気がある"
+        },
+        {
+          "en": "a UN appeal for a ceasefire",
+          "ja": "国連による停戦の訴え"
+        }
+      ]
+    },
+    {
+      "id": "1165",
+      "word": "applause",
+      "phonetic": "[əplɔ́ːz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "拍手"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "〈不可算〉",
+        "▶ 日常では clap (one's hands)「手をたたく(≒拍手する)」と表現することが多い。",
+        "▶ あ, プロだと「拍手」する。applaud 自「拍手する」他「〜に拍手を送る」",
+        "他 boo「〜にブーイングする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive hearty applause",
+          "ja": "心からの拍手をもらう"
+        }
+      ]
+    },
+    {
+      "id": "1166",
+      "word": "leap",
+      "phonetic": "[líːp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 跳ぶ"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 躍進, 急増"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「跳ぶ」から「急上昇する」まで。",
+        "熟 leap year「うるう年」",
+        "熟 reap「〜を刈り取る」",
+        "(*つづりは似ているが意味が異なるので注意。)",
+        "[活用]〈英〉leap-leapt-leapt [lépt]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A fish leapt out of a pond.",
+          "ja": "魚が池の中から飛び出た。"
+        },
+        {
+          "en": "by [in] leaps and bounds",
+          "ja": "飛躍的に"
+        }
+      ]
+    },
+    {
+      "id": "1167",
+      "word": "grab",
+      "phonetic": "[grǽb]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (ぐいっと)〜をつかむ",
+            "② (急いで食事, 睡眠)をとる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(突然ぐいっと)つかむ」→「急いで食事をとる」",
+        "熟 gra-[つかむ]",
+        "熟 grip「(しっかりと)つかむ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "grab him by the neck",
+          "ja": "彼の首根っこをつかむ"
+        },
+        {
+          "en": "grab a hamburger for lunch",
+          "ja": "昼食にハンバーガーをさっと食べる"
+        }
+      ]
+    },
+    {
+      "id": "1168",
+      "word": "seize",
+      "phonetic": "[síːz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をつかむ",
+            "② (麻薬など)を押収する, (犯人)を捕らえる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では grab を使う。",
+        "(*「(力や機会など)をつかむ」の意味もある。)",
+        "熟 シーズー犬を「つかむ」",
+        "名 seizure「つかむこと, 押収, (病気の)発作」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "seize her by the shoulder",
+          "ja": "彼女の肩をつかむ"
+        },
+        {
+          "en": "seize drugs",
+          "ja": "麻薬を押収する"
+        }
+      ]
+    }
+  ]
+}

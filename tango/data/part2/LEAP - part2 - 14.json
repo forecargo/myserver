@@ -1,0 +1,246 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "499",
+      "word": "official",
+      "phonetic": "[əfíʃəl]",
+      "level_tag": "B2, A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 役人, 役員"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 公式の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② an official record [website]「公式記録[サイト]」",
+        "▶「(高い地位の)役人」",
+        "派生 officer「将校, (高い地位の)役人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a government official",
+          "ja": "① 政府の役人"
+        },
+        {
+          "en": "an official language",
+          "ja": "② 公用語 (公式の言語)"
+        }
+      ]
+    },
+    {
+      "id": "500",
+      "word": "immigrant",
+      "phonetic": "[ímigrənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(外国からの)移民"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本在住の「外国人」も an immigrant となる。",
+        "頻出 accept immigrants「移民を受け入れる」",
+        "employ illegal immigrants「不法移民を雇用する」",
+        "派生 immigration「(外国からの)移住」",
+        "類義 emigrate「(永住するためにほかの国に移住する)」",
+        "派生 emigrant「(外国へ移住する)人」",
+        "類義 migrate「(鳥, 魚が)移動する, 渡る」"
+      ],
+      "word_origin": {
+        "formula": "im-[中に] + -migra-[移動] -> 「(外国からの)移民」 (e- [=ex 外に] + -migra-[移動])",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "immigrants from India",
+          "ja": "インドからの移民"
+        }
+      ]
+    },
+    {
+      "id": "501",
+      "word": "volunteer",
+      "phonetic": "[vòləntíər]",
+      "level_tag": "B2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① ボランティア"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (to do) 〜することを自発的に申し出る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① work as a volunteer「ボランティア活動を行う」",
+        "派生 voluntary「自発的な」",
+        "反義 compulsory「義務的な」"
+      ],
+      "word_origin": {
+        "formula": "volunt- [自発的な] + -eer [人] -> 「自発的な仕事に従事する人 (ボランティア)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "take part in volunteer activities",
+          "ja": "① ボランティア活動に参加する"
+        },
+        {
+          "en": "volunteer to do the dishes",
+          "ja": "② 皿洗いを自発的に申し出る"
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "word": "interact",
+      "phonetic": "[ìntərákt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(with 〜) 〜と交流する, 相互作用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人が話をしたり, いっしょに仕事をしたりして)互いに関係し合う」から「(物同士が)相互作用する」まで",
+        "頻出 (人) interact (well) with (人)「((人)と(人)が(うまく)交流する」",
+        "(物) interact with (物)「((物)と(物)が相互に作用する」",
+        "派生 interaction「交流, やりとり, 相互作用」",
+        "派生 interactive「双方向の, 相互作用の」"
+      ],
+      "word_origin": {
+        "formula": "inter- [相互に] + -act [行う]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "interact well with other students",
+          "ja": "ほかの生徒とうまく付き合う"
+        }
+      ]
+    },
+    {
+      "id": "503",
+      "word": "contribute",
+      "phonetic": "[kəntríbjuːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (〜に)貢献する",
+            "② (〜の)一因となる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (A to B) (A)を(Bに)寄付する, 提供する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「与える」が元の意味で, 「貢献する」から「(本などを)寄贈する」や「(原稿を)寄稿する」まで。(*①②は目的語が明らかなので省略され, 自扱いとなる。)",
+        "注意 ①②ともに「何かの原因の1つとなる」というニュアンス。",
+        "派生 contribution「貢献, 寄付, 寄稿」"
+      ],
+      "word_origin": {
+        "formula": "con- [強意] + -tribute [与える]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "contribute to world peace",
+          "ja": "① 世界平和に貢献する"
+        },
+        {
+          "en": "contribute to global warming",
+          "ja": "② 地球温暖化の一因である"
+        },
+        {
+          "en": "contribute a great deal of money to the church",
+          "ja": "③ 教会に多額の寄付をする (多額の金を寄付する)"
+        }
+      ]
+    },
+    {
+      "id": "504",
+      "word": "abolish",
+      "phonetic": "[əbɑ́lɪʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を廃止する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長い間存在した法律, 制度, 慣習など)を公式に終わらせる」",
+        "頻出 目的語には school uniforms「制服」, slavery「奴隷制度」, nuclear weapons「核兵器」, corporal punishment「体罰」などがくることが多い。",
+        "語源 ab- [=away] + -ol- [=old] から「古いものを捨てる」→「廃止する」"
+      ],
+      "word_origin": {
+        "formula": "ab- [=away] + -ol- [=old] から「古いものを捨てる」→「廃止する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "abolish capital punishment",
+          "ja": "死刑制度を廃止する"
+        }
+      ]
+    },
+    {
+      "id": "505",
+      "word": "impose",
+      "phonetic": "[ɪmpóʊz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A on B) (A)を(Bに)課す, 押しつける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(税や規制など)を〜に押しつける」",
+        "頻出 目的語には a ban「禁止」, sanctions「制裁」, restraints「制限」, fines「罰金」, tariffs「関税」などがくることが多い。",
+        "派生 imposing「堂々とした, 印象的な」",
+        "類義 propose「〜を提案する (←前方に置く)」"
+      ],
+      "word_origin": {
+        "formula": "im-[中に] + pose [置く] -> 「押し込む, 押しつける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The government should impose a total ban on cigarette advertising.",
+          "ja": "政府はたばこの広告を全面禁止すべきだ (禁止を課すべきだ)。"
+        }
+      ]
+    }
+  ]
+}

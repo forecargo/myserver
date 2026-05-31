@@ -1,0 +1,334 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1485",
+      "word": "coverage",
+      "phonetic": "[kʌ́vərɪdʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 報道",
+            "② (保険の)補償(範囲)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(報道や保険などが)cóver「〜を覆う, 報道[補償]する」の名詞形。",
+        "⇒ cover the news「ニュースを報道する」",
+        "⇒ cover the repair cost of the car「車の修理費を補償する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "media coverage on the case",
+          "ja": "① その事件に関するマスコミ報道"
+        },
+        {
+          "en": "the accident coverage",
+          "ja": "② (保険の)事故補償"
+        }
+      ]
+    },
+    {
+      "id": "1486",
+      "word": "obligation",
+      "phonetic": "[ὰbləgéɪʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (社会に対する)責務",
+            "② (個人に対する)恩義"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何かをしてもらって「うれしい」+「お返しをしないと」という気持ち」",
+        "▷ religion「宗教(←神と人間を強く結びつける)」",
+        "他 oblige「〜を義務づける」",
+        "形 obliged「(〜に)感謝している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fulfill social obligations",
+          "ja": "① 社会的責務を果たす"
+        },
+        {
+          "en": "I have no obligation to attend his party.",
+          "ja": "② 彼のパーティに行く義理(恩義)はない."
+        }
+      ]
+    },
+    {
+      "id": "1487",
+      "word": "hygiene",
+      "phonetic": "[háɪdʒiːn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "衛生(状態)",
+            "衛生学"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「病気になるのを防ぐために清潔にすること」",
+        "▷ ハイジが「衛生状態」に気を遣う。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the importance of dental hygiene",
+          "ja": "歯科衛生の重要性"
+        }
+      ]
+    },
+    {
+      "id": "1488",
+      "word": "supervisor",
+      "phonetic": "[súːpərvàɪzər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(人・活動などの)監督者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「物事が適切に進むように見守る責任者」",
+        "▷ director「(映画・劇などの)監督」",
+        "▷ manager「(野球などの)監督」",
+        "▷ super-[上から]+-vis-[見る]+-or[人]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "As a supervisor, I am in charge of training new employees.",
+          "ja": "監督者として, 私は新入社員の研修を担当しています."
+        }
+      ]
+    },
+    {
+      "id": "1489",
+      "word": "norm",
+      "phonetic": "[nɔ́ːrm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (the 〜)普通のこと",
+            "② (〜s)規範"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ある社会の)基準となる行動」",
+        "▷ normal「正常な」(⇔ abnormal「異常な」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Arranged marriages were the norm in the past.",
+          "ja": "① お見合い結婚は昔は普通のことだった."
+        },
+        {
+          "en": "the norms of civilized society",
+          "ja": "② 文明社会の規範"
+        }
+      ]
+    },
+    {
+      "id": "1490",
+      "word": "patent",
+      "phonetic": "[pǽtnt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 特許(権)"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜の特許をとる"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 明白な, 見えすいた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「開封された」が元の意味。→①「開封されたままの書」",
+        "③「明らかな」",
+        "参 copyright「著作権, 版権」",
+        "▷ royalty「特許[著作]権使用料」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "file a patent",
+          "ja": "① 特許を申請する"
+        },
+        {
+          "en": "patent more than 20 inventions",
+          "ja": "② 20を超える発明品の特許をとる"
+        },
+        {
+          "en": "a patent lie",
+          "ja": "③ 見えすいたうそ"
+        }
+      ]
+    },
+    {
+      "id": "1491",
+      "word": "primitive",
+      "phonetic": "[prímətɪv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "原始的な, 未開の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(発達していない)原始的な」",
+        "▷ prim-[第1位]+-tive[形容詞語尾]",
+        "☆ prima donna「プリマドンナ(←オペラの主役となる女性歌手)」",
+        "反 advanced「進歩した」",
+        "反 modern「現代の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a primitive society",
+          "ja": "原始社会(原始的な社会)"
+        }
+      ]
+    },
+    {
+      "id": "1492",
+      "word": "ethnic",
+      "phonetic": "[éθnɪk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "民族の, 民族的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ racial「人種の, 民族の」は racial discrimination「人種差別」のように「(人種間の)関係」に重点がある。",
+        "▷ 「エスニック料理」は「(東南アジア, アフリカ, 中南米などの)民族料理」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "ethnic minorities",
+          "ja": "少数民族(民族的な少数派)(*ある社会の支配的民族とは異なる少数派の民族)"
+        }
+      ]
+    },
+    {
+      "id": "1493",
+      "word": "anonymous",
+      "phonetic": "[ənɑ́nəməs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "匿名の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ ano-[否定]+-nym-[=náme 名前]→「匿名の」",
+        "副 anonymously「匿名で」",
+        "参 pseudonym「偽名」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive an anonymous tip",
+          "ja": "匿名の情報を受け取る"
+        }
+      ]
+    },
+    {
+      "id": "1494",
+      "word": "metropolitan",
+      "phonetic": "[mètrəpɑ́lɪtən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "大都市の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 東京・大阪という二大都市の地下鉄の愛称が「メトロ(Metro)」であるように、",
+        "▷ metro-[=mother 母]+-poli-[都市]",
+        "参 Metropolis「大都市」",
+        "▷ Tokyo Metropolis「東京都」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "live in the Tokyo metropolitan area",
+          "ja": "首都圏(東京という大都市の地域)に住む"
+        }
+      ]
+    },
+    {
+      "id": "1495",
+      "word": "entitled",
+      "phonetic": "[ɪntáɪtld]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (to 〜)権利がある",
+            "② 〜と題された"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ en-[与える]+-title[称号]+-ed[形容詞語尾]→「称号を与えられた」",
+        "参 entitlement「権利, 資格」",
+        "参 eligible「(年齢に達して)資格のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She is entitled to (receive) a pension.",
+          "ja": "① 彼女は年金をもらう権利がある."
+        },
+        {
+          "en": "an essay entitled “My Future”",
+          "ja": "② 「私の将来」という題の作文"
+        }
+      ]
+    }
+  ]
+}

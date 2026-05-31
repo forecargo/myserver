@@ -1,0 +1,547 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2234",
+      "word": "perpetual",
+      "phonetic": "[pərpétʃuəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "絶え間ない, 永続する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ しばしば, 「不快[不安]にさせるような」という意味をもつ.",
+        "per-[=through 通して] + -pet-[足→行く] -> 「ずっと続く」"
+      ],
+      "word_origin": {
+        "formula": "per-[=through 通して] + -pet-[足→行く] -> 「ずっと続く」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2235",
+      "word": "future-oriented",
+      "phonetic": "[fjuːtʃər ɔːrièntid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "未来志向の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「未来に興味や注意を向けた」",
+        "orientation「志向, 関心, (新たな仕事などへの)事前指導」",
+        "the Orient「東洋(=the East)」",
+        "a male-oriented society「男性中心の社会」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2236",
+      "word": "intact",
+      "phonetic": "[intǽkt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "無傷の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(衝撃を受けた後でも)壊れたり損なわれたりしていない」",
+        "in-[否定] + -tact [接触] -> 「触られていない」",
+        "contact「接触」",
+        "▷ Despite the earthquake, the building remained intact.「地震があったが, その建物は無傷のままだった。」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定] + -tact [接触] -> 「触られていない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Despite the earthquake, the building remained intact.",
+          "ja": "地震があったが, その建物は無傷のままだった。"
+        }
+      ]
+    },
+    {
+      "id": "2237",
+      "word": "maternal",
+      "phonetic": "[mətə́ːrnl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "母の, 母親らしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ mother の形容詞形.",
+        "maternity「母であること」",
+        "maternity clothes「妊婦服」",
+        "paternal「父の, 父親らしい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "maternity clothes",
+          "ja": "妊婦服"
+        }
+      ]
+    },
+    {
+      "id": "2238",
+      "word": "masculine",
+      "phonetic": "[mǽskjulin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "男性的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「伝統的に男性に関連づけられる資質や言動などの」",
+        "masculinity「男性らしさ」",
+        "feminine「女性的な」",
+        "▷ a deep, masculine voice「太く男性的な声」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a deep, masculine voice",
+          "ja": "太く男性的な声"
+        }
+      ]
+    },
+    {
+      "id": "2239",
+      "word": "juvenile",
+      "phonetic": "[dʒúːvənl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "青少年の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に法律用語として使われる.",
+        "juve-[=young]",
+        "junior「年少者」",
+        "rejuvenation「若返り」",
+        "▷ juvenile delinquency「青少年の非行」"
+      ],
+      "word_origin": {
+        "formula": "juve-[=young]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "juvenile delinquency",
+          "ja": "青少年の非行"
+        }
+      ]
+    },
+    {
+      "id": "2240",
+      "word": "intelligible",
+      "phonetic": "[intélədʒəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "理解できる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(話, 文, 考えなどが)容易に理解できる」",
+        "intelli-[知能] + -ible [可能] -> 「知能で理解できる」",
+        "unintelligible「理解できない」",
+        "comprehensible「理解できる」"
+      ],
+      "word_origin": {
+        "formula": "intelli-[知能] + -ible [可能] -> 「知能で理解できる」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2241",
+      "word": "dairy",
+      "phonetic": "[déəri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "酪農(業)の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「牛乳から作られたバターやチーズ, ヨーグルトなど乳製品の」",
+        "daily [déili]「毎日の」とはつづりが似ているが, 発音は異なるので注意.",
+        "▷ dairy products「乳製品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "dairy products",
+          "ja": "乳製品"
+        }
+      ]
+    },
+    {
+      "id": "2242",
+      "word": "stray",
+      "phonetic": "[stréi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(動物などが)家のがない, 道に迷った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "stray「道に迷う, はぐれる」",
+        "a lost child「迷子の子ども」",
+        "▷ stray cats「野良猫」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stray cats",
+          "ja": "野良猫"
+        }
+      ]
+    },
+    {
+      "id": "2243",
+      "word": "dormant",
+      "phonetic": "[dɔ́ːrmənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(火山などが)休止状態の, 眠っている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(将来的に再び活動する可能性はあるが)現在は動いていない」",
+        "dorm-[眠る] + -ant [形容詞語尾]",
+        "dormitory「寮(←眠る場所)」",
+        "active「活動状態の」"
+      ],
+      "word_origin": {
+        "formula": "dorm-[眠る] + -ant [形容詞語尾]",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2244",
+      "word": "comprehensive",
+      "phonetic": "[kàmpríhensiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "包括的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「扱うべき事項をすべて含んだ」",
+        "com-[=con 共に] + -pre-[前] + -hend [手] -> 「すべてをつかむ」",
+        "▷ a comprehensive study「包括的な研究」"
+      ],
+      "word_origin": {
+        "formula": "com-[=con 共に] + -pre-[前] + -hend [手] -> 「すべてをつかむ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a comprehensive study",
+          "ja": "包括的な研究"
+        }
+      ]
+    },
+    {
+      "id": "2245",
+      "word": "edible",
+      "phonetic": "[édəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "食用の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(無害で)食用に適している」",
+        "ed-[=eat 食べる] + -ible [可能]",
+        "tángible「触れられる」",
+        "audible「聞こえる」",
+        "visible「見える」",
+        "inedible「食用に適さない」",
+        "▷ edible mushrooms「食用のキノコ」"
+      ],
+      "word_origin": {
+        "formula": "ed-[=eat 食べる] + -ible [可能]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "edible mushrooms",
+          "ja": "食用のキノコ"
+        }
+      ]
+    },
+    {
+      "id": "2246",
+      "word": "perishable",
+      "phonetic": "[pérɪʃəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(食べ物などが)腐りやすい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "perish「消える, 死ぬ」",
+        "perishables「腐りやすい食べ物, 生鮮食品」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2247",
+      "word": "naive",
+      "phonetic": "[naɪíːv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "世間知らずの, 愚直な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「ナイーブ」(純真な)と違い, ネガティブなイメージの語.",
+        "na-[生まれる] -> 「生まれたままの」"
+      ],
+      "word_origin": {
+        "formula": "na-[生まれる] -> 「生まれたままの」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2248",
+      "word": "zealous",
+      "phonetic": "[zéləs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "熱心な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(特に政治, 宗教活動などに対して)非常に熱心な」",
+        "jealous「嫉妬した(←jealousy)」",
+        "zeal [zíːl]「熱意」",
+        "▷ a zealous supporter of the Republican Party「共和党の熱心な支持者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a zealous supporter of the Republican Party",
+          "ja": "共和党の熱心な支持者"
+        }
+      ]
+    },
+    {
+      "id": "2249",
+      "word": "timid",
+      "phonetic": "[tímid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "臆病な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何かをするために勇気も自信もなく, びくびくしている」",
+        "timidly「びくびくしながら」",
+        "intimidate「〜を怯えさせる」",
+        "▷ Rabbits are timid animals.「ウサギは臆病な動物です。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Rabbits are timid animals.",
+          "ja": "ウサギは臆病な動物です。"
+        }
+      ]
+    },
+    {
+      "id": "2250",
+      "word": "delinquent",
+      "phonetic": "[dilíŋkwənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "非行の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「社会的な規範や法律に反した」",
+        "de-[強意] + -linqu-[=leave 去る] -> 「規範や法律から外れる(去る)」",
+        "▷ delinquent behavior「非行」"
+      ],
+      "word_origin": {
+        "formula": "de-[強意] + -linqu-[=leave 去る] -> 「規範や法律から外れる(去る)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "delinquent behavior",
+          "ja": "非行"
+        }
+      ]
+    },
+    {
+      "id": "2251",
+      "word": "sober",
+      "phonetic": "[sóubər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (酒に)酔っていない",
+            "② (人, 習慣などが)真面目な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "so-[否定] + -ober [酔っぱらった] -> 「酔っていない」",
+        "そばで「酔いをさます」",
+        "sobering「厳粛な気持ちにさせるような」",
+        "drunken「酒に酔った」"
+      ],
+      "word_origin": {
+        "formula": "so-[否定] + -ober [酔っぱらった] -> 「酔っていない」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2252",
+      "word": "obstinate",
+      "phonetic": "[άbstənət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "頑固な, 強情な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「自分の考えや意見に固執する」",
+        "ob-[=against に対して] + -sti-[=stand 立つ] + -nate [形容詞語尾] -> 「何かに対して絶対に動かない」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -sti-[=stand 立つ] + -nate [形容詞語尾] -> 「何かに対して絶対に動かない」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2253",
+      "word": "solitary",
+      "phonetic": "[sɑ́lətèri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (人が)孤高の",
+            "② ただひとつの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① プラスイメージで使われる.",
+        "lonely「孤独な」(*マイナスイメージ)",
+        "sole「唯一の」から派生した語.",
+        "solitude「孤独」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2254",
+      "word": "vulgar",
+      "phonetic": "[vʌ́lgər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (人, 行動が)品がない",
+            "② (冗談などが)卑わいな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 元は「大衆」の意味. (*Volkswagen「〈独〉フォルクスワーゲン」は「大衆車」という意味.)",
+        "refined「上品な」"
+      ],
+      "word_origin": null,
+      "examples": []
+    }
+  ]
+}

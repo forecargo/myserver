@@ -1,0 +1,299 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1351",
+      "word": "instance",
+      "phonetic": "[ínstəns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 例",
+            "② (特定の)場合"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(代表例ではなく、具体的な個々の)例」",
+        "▷ example「(主に代表的、典型的な)例」",
+        "派生 instant「即時の」 副 instantly「即座に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Take Lucy, for instance.",
+          "ja": "たとえばルーシーを例に取り上げよう。"
+        }
+      ]
+    },
+    {
+      "id": "1352",
+      "word": "dialogue",
+      "phonetic": "[dáiəlɔ̀ːg]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (本、劇、映画の中の)会話",
+            "② 対談, 対話"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常で「会話」は talk, conversation などのが使われる。",
+        "反 monologue「独白」"
+      ],
+      "word_origin": {
+        "formula": "dia-[横切って]+-logue[話す] →「向かい合って話す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a book of English dialogues",
+          "ja": "① 英会話集"
+        },
+        {
+          "en": "② a dialogue between two baseball players",
+          "ja": "② 野球選手2人の対談"
+        }
+      ]
+    },
+    {
+      "id": "1353",
+      "word": "usage",
+      "phonetic": "[júːsidʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 語法",
+            "② (言葉の)使い方",
+            "③ (物の)使い方, 使用量",
+            "④ (長年の)慣行, 慣習"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「言葉の使い方」(＊まれに「物の使い方, 使用量」の意味)",
+        "a phrase in common usage「一般に使われるフレーズ」"
+      ],
+      "word_origin": {
+        "formula": "us-[=use]+-age[状態]から「(言葉の)使われる状態」→「語法」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "grammar and usage",
+          "ja": "文法と語法"
+        }
+      ]
+    },
+    {
+      "id": "1354",
+      "word": "vowel",
+      "phonetic": "[váuəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "母音"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 現代日本語ではア・イ・ウ・エ・オの5つのこと。",
+        "反 consonant「子音」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "vocal「声の」と同様に、「声の」が語源。"
+      },
+      "examples": [
+        {
+          "en": "\"Banana\" has three vowels.",
+          "ja": "\"banana\"には母音が3つある。"
+        }
+      ]
+    },
+    {
+      "id": "1355",
+      "word": "pronoun",
+      "phonetic": "[próunàun]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "代名詞"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ I, you, he, she, they, it などの総称。",
+        "参考 noun「名詞」 verb「動詞」 auxiliary「助動詞」 adjective「形容詞」 adverb「副詞」 preposition「前置詞」 conjunction「接続詞」"
+      ],
+      "word_origin": {
+        "formula": "pro-[〜の代わり]+-noun[名詞]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a personal pronoun",
+          "ja": "人称代名詞"
+        }
+      ]
+    },
+    {
+      "id": "1356",
+      "word": "accent",
+      "phonetic": "[ǽksent]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 訛",
+            "② アクセント"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「ある地方に特有の発音」",
+        "参考 dialect「方言(←ある地方に特有の文法, 語彙, 発音)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① He speaks English with a strong German accent.",
+          "ja": "① 彼は強いドイツ語訛の英語を話す。"
+        },
+        {
+          "en": "② put the accent on the first syllable",
+          "ja": "② 第1音節にアクセントを置く"
+        }
+      ]
+    },
+    {
+      "id": "1357",
+      "word": "outline",
+      "phonetic": "[áutlain]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "動詞",
+          "meanings": [
+            "〜の要点を述べる",
+            "〜の輪郭を描く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(計画や戦略などについて, 詳細を省いて)中心となる考えを述べる」",
+        "類義 outline「概要, 輪郭」 他 underline「(強調のため)〜に下線を引く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "outline the plan to him",
+          "ja": "彼にその計画の概要を説明する"
+        }
+      ]
+    },
+    {
+      "id": "1358",
+      "word": "remote",
+      "phonetic": "[rimóut]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (地理的に)辺鄙な",
+            "② (時間, 関係などが)遠い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人々が住んでいる地域から)遠く離れた」",
+        "参考 a remote control「リモコン(←遠隔操作機)」のフレーズで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① live in a remote village",
+          "ja": "① 辺鄙な村に住んでいる"
+        },
+        {
+          "en": "② the remote past",
+          "ja": "② 遠い過去"
+        }
+      ]
+    },
+    {
+      "id": "1359",
+      "word": "ambition",
+      "phonetic": "[æmbíʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(強い)願望, 野望"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かを成し遂げようとする)強い意志」",
+        "派生 ambulance「救急車(←街中をあちこち行く車)」 exit「出口」",
+        "派生 ambitious「野心的な」 ▷ Boys, be ambitious!「少年よ大志を抱け」"
+      ],
+      "word_origin": {
+        "formula": "amb-[around あちこち]+-it-[行く]→「(野心を持って)あちこちに行く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "achieve [fulfill, realize] my ambition to be a pilot",
+          "ja": "パイロットになるという望みを叶える"
+        }
+      ]
+    },
+    {
+      "id": "1360",
+      "word": "temper",
+      "phonetic": "[témpər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 気性",
+            "② (熟語で)平静(な気分)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「落ち着き」→①「(恒常的な)気質」",
+        "派生 temperament「気質」 形 short-tempered「短気な」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「加減すること」が元の意味(→「気分の高揚を抑えること」)。"
+      },
+      "examples": [
+        {
+          "en": "① have a violent temper",
+          "ja": "① 荒い気性だ"
+        },
+        {
+          "en": "② keep [lose] my temper",
+          "ja": "② 平静を保つ[かっとなる(平静を失う)]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1789",
+      "word": "indispensable",
+      "phonetic": "[ìndispénsəbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "不可欠な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(具体的な物で)絶対的に必要な」",
+        "in-[否定] + -dispens-[なしで済ます] + -able[可能] →「なしでは済まない」",
+        "☆dispense with 〜「〜なしで済ませる」(日常では do without 〜)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Cars are indispensable to a rural lifestyle.",
+          "ja": "車は田舎の生活に不可欠だ。"
+        }
+      ]
+    },
+    {
+      "id": "1790",
+      "word": "crucial",
+      "phonetic": "[krúːʃəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "極めて重大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(成功の行方を決定づけるくらい)重要な」",
+        "cru-[=cross 十字架] →「(十字架を背負うくらいに)重大な」",
+        "☆the Crusade「十字軍」crucify「〜を(十字架に)張り付けにする, 酷評する」",
+        "◎a crucial moment「決定的な瞬間」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "play a crucial role in the negotiations",
+          "ja": "その交渉で(極めて)重要な役割を果たす"
+        }
+      ]
+    },
+    {
+      "id": "1791",
+      "word": "grave",
+      "phonetic": "[gréiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 重大な",
+            "② 深刻な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 墓(穴)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「serious より深刻な」",
+        "gr-は「重い」イメージ。",
+        "☆gravity「重力」grief「深い悲しみ」",
+        "☆from (the) cradle to (the) grave「揺りかごから墓場まで(一生涯)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The ship was in grave danger.",
+          "ja": "① その船は重大な危機に瀕していた。"
+        },
+        {
+          "en": "② visit our ancestors' graves",
+          "ja": "② 先祖のお墓参りに行く"
+        }
+      ]
+    },
+    {
+      "id": "1792",
+      "word": "primary",
+      "phonetic": "[práimeri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 主な, 第1の",
+            "② 初期の, 原始の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "prim-[第1位] + -ary[の] →「第1の」",
+        "☆primate「霊長類(←動物の最高位)」",
+        "形prime「主要な」",
+        "副primarily「第1に」",
+        "(*地域の臨床医による診断など)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① My primary concern is your well-being.",
+          "ja": "① 私の今一番の関心は君の幸福だ。"
+        },
+        {
+          "en": "② primary care",
+          "ja": "② 初期医療"
+        }
+      ]
+    },
+    {
+      "id": "1793",
+      "word": "vital",
+      "phonetic": "[váitl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "不可欠な, きわめて重要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「それがなければ不都合が生じる」",
+        "vi-[命] →「(命に関わるくらい)重要な」",
+        "☆vitamin「ビタミン(←生命に必要なアミノ酸)」",
+        "他revitalize「(地域などを)を再活性化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Calcium is vital for healthy bones.",
+          "ja": "カルシウムは健康な骨に不可欠だ。"
+        }
+      ]
+    },
+    {
+      "id": "1794",
+      "word": "integral",
+      "phonetic": "[íntigrəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 不可欠な",
+            "② 完全な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「それがないと全体が完成しない」",
+        "in-[否定] + -tegr[=tact 接触] から「触れられていない」→「完全な」",
+        "☆intact「無傷の」disintegrate「分解する, 崩壊する」",
+        "名integrity「誠実さ(←完全なもの)」",
+        "他integrate「〜を取り込む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① an integral part of our lives",
+          "ja": "① 私たちの生活の不可欠な一部"
+        },
+        {
+          "en": "② the integral recording of his three interviews",
+          "ja": "② 彼の3つのインタビューの完全な録音"
+        }
+      ]
+    },
+    {
+      "id": "1795",
+      "word": "profound",
+      "phonetic": "[prəfáund]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "深い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(考えや学識, 影響などが)深い」",
+        "◇deep「(物理的, 抽象的に)深い」",
+        "pro-[前方] + -found[=foundation 底] から「底にたどり着く前に進む」→「深い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a profound impact on humans",
+          "ja": "人間に深い影響を与える"
+        }
+      ]
+    },
+    {
+      "id": "1796",
+      "word": "grim",
+      "phonetic": "[grím]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(好転しないと思われるような)厳しい」",
+        "「怒る」が元の意味。",
+        "☆grumble「((1人でぶつぶつと)不平を言う)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "face a grim reality",
+          "ja": "厳しい現実に直面する"
+        }
+      ]
+    },
+    {
+      "id": "1797",
+      "word": "fierce",
+      "phonetic": "[fíərs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (競争, 嵐などが)激しい",
+            "② どう猛な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶しばしば「暴力的な」イメージを伴う。",
+        "☆語源は異なるが, fire「火」のイメージと関連づけて覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① fierce competition",
+          "ja": "① 激しい競争"
+        },
+        {
+          "en": "② a fierce guard dog",
+          "ja": "② どう猛な番犬"
+        }
+      ]
+    },
+    {
+      "id": "1798",
+      "word": "harsh",
+      "phonetic": "[hάːrʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(現実, 天候, 法律, 批判などが)大変厳しい」",
+        "「ざらざらした」が元の意味。",
+        "☆hair「毛(←ざらざらした物)」",
+        "hard「厳しい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Alaska's harsh climate",
+          "ja": "アラスカの厳しい気候"
+        }
+      ]
+    }
+  ]
+}

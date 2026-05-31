@@ -1,0 +1,528 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2274",
+      "word": "immense",
+      "phonetic": "[iméns]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "莫大な",
+            "膨大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =extremely large",
+        "★ im-[否定] + -mense[=méasure 測る] →「(測れないほどに)大きい」"
+      ],
+      "word_origin": {
+        "formula": "im-[否定] + -mense[=méasure 測る] -> 「(測れないほどに)大きい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an immense desert",
+          "ja": "広大な砂漠"
+        }
+      ]
+    },
+    {
+      "id": "2275",
+      "word": "unanimous",
+      "phonetic": "[juːnǽnəməs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "満場一致の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「全員の意見が一致して」",
+        "★ un-[=uni 1つ] + -anim-[=命・心] + -ous[形容詞語尾] →「心が1つになって」",
+        "派 animation「アニメ、動画(←キャラクターに生命を吹き込んで動かす)」",
+        "副 unanimously「満場一致で」"
+      ],
+      "word_origin": {
+        "formula": "un-[=uni 1つ] + -anim-[=命・心] + -ous[形容詞語尾] -> 「心が1つになって」",
+        "description": "animation「アニメ、動画(←キャラクターに生命を吹き込んで動かす)」, unanimously「満場一致で」"
+      },
+      "examples": [
+        {
+          "en": "reach a unanimous decision",
+          "ja": "満場一致の決定に達する"
+        }
+      ]
+    },
+    {
+      "id": "2276",
+      "word": "reckless",
+      "phonetic": "[réklis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "無謀な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では careless「不注意な」のほうが使われる。",
+        "★ reck-[注意] + -less[ない] から「注意(用心)を欠く」→「無謀な」",
+        "派 reckon「〜だと思う、計算する(←注意深く考える)」",
+        "反 careful「注意深い」"
+      ],
+      "word_origin": {
+        "formula": "reck-[注意] + -less[ない] -> 「注意(用心)を欠く」→「無謀な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "reckless driving",
+          "ja": "無謀な運転"
+        }
+      ]
+    },
+    {
+      "id": "2277",
+      "word": "futile",
+      "phonetic": "[fjúːtl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "無駄な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(成功する見込みがないので、努力や行動が)無駄な」",
+        "★ fu-[流れる] から「効果が流れ出る」→「無駄な」",
+        "派 confuse「〜を混乱させる(←異なる物を一緒に注ぐ)」",
+        "名 futility「無駄」"
+      ],
+      "word_origin": {
+        "formula": "fu-[流れる] から「効果が流れ出る」-> 「無駄な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make a futile attempt",
+          "ja": "無駄な試みをする"
+        }
+      ]
+    },
+    {
+      "id": "2278",
+      "word": "brutal",
+      "phonetic": "[brúːtl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "残忍な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =very cruel and violent, without any pity",
+        "★ b(a)r-を含む単語は「野蛮」系の意味が多い。",
+        "類 barbarian「野蛮人」",
+        "名 brute「獣」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2279",
+      "word": "ominous",
+      "phonetic": "[óumənəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "不吉な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ómen「前兆」の形容詞形。",
+        "類 sinister「不吉な、悪意のある」",
+        "反 auspicious「縁起の良い」",
+        "名 ómen「前兆」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2280",
+      "word": "detrimental",
+      "phonetic": "[dètrəménṭl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(to 〜) (〜に)有害な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では harmful などのほうが使われる。",
+        "★ de-[分離] + -tri-[擦る] →「擦って破壊する」",
+        "派 detergent「洗剤(←擦って落とすもの)」"
+      ],
+      "word_origin": {
+        "formula": "de-[分離] + -tri-[擦る] -> 「擦って破壊する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "UV light can be detrimental to your eyesight.",
+          "ja": "紫外線は視力に悪影響を与えうる。"
+        }
+      ]
+    },
+    {
+      "id": "2281",
+      "word": "wicked",
+      "phonetic": "[wíkid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "邪悪な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「人」に対しては、ふつう evil を用いる。略式では「とても良い」という意味もある。",
+        "★ witch「魔女」と同じ語源。",
+        "参 wretched「惨めな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cast a wicked spell",
+          "ja": "邪悪な呪文をかける"
+        }
+      ]
+    },
+    {
+      "id": "2282",
+      "word": "cynical",
+      "phonetic": "[sínikəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "冷笑的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「皮肉を込めて、冷ややかに物事を見ている様子」",
+        "類 ironic(al)「(状況や展開などが)皮肉な」",
+        "名 cynic「冷笑家、皮肉屋」",
+        "名 cynicism「冷笑(的な考え方[態度])」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a cynical attitude toward life",
+          "ja": "人生に対する冷笑的な態度"
+        }
+      ]
+    },
+    {
+      "id": "2283",
+      "word": "savage",
+      "phonetic": "[sǽvidʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(とても)容赦ない",
+            "どう猛な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(攻撃や批判などが)極めて厳しい」",
+        "★ sav-[=silva 森] から「森に住む」→「未開の人」(＊人形「シルバニアファミリー」は「森に囲まれた村に住む動物たち」をモチーフとしている。)"
+      ],
+      "word_origin": {
+        "formula": "sav-[=silva 森] から「森に住む」-> 「未開の人」",
+        "description": "人形「シルバニアファミリー」は「森に囲まれた村に住む動物たち」をモチーフとしている。"
+      },
+      "examples": []
+    },
+    {
+      "id": "2284",
+      "word": "arbitrary",
+      "phonetic": "[άːrbətrèri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "独断的な",
+            "勝手な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(独裁者のように)自分勝手な」",
+        "★ あー見とられん、「勝手な」判断。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make an arbitrary decision",
+          "ja": "独断的な決定をする"
+        }
+      ]
+    },
+    {
+      "id": "2285",
+      "word": "monotonous",
+      "phonetic": "[mənάṭənəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "単調な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(変化がなく)単調な」",
+        "★ mono-[1] + -ton-[=tone 調子] + -ous[形容詞語尾] →「一本調子の」",
+        "派 monologue「独白」",
+        "名 monotony「単調さ」"
+      ],
+      "word_origin": {
+        "formula": "mono-[1] + -ton-[=tone 調子] + -ous[形容詞語尾] -> 「一本調子の」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2286",
+      "word": "crude",
+      "phonetic": "[krúːd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 粗末な",
+            "粗野な",
+            "② 加工されていない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「天然のままの」",
+        "★ cru-[生] の →「生で未加工の、粗末な」",
+        "類 cruel「残虐な」"
+      ],
+      "word_origin": {
+        "formula": "cru-[生] の -> 「生で未加工の、粗末な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a crude rope bridge",
+          "ja": "粗末なつり橋"
+        },
+        {
+          "en": "② crude oil",
+          "ja": "原油(加工されていない油)"
+        }
+      ]
+    },
+    {
+      "id": "2287",
+      "word": "extravagant",
+      "phonetic": "[ikstrǽvəgənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "法外な",
+            "金遣いが荒い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(金遣い、言動などが)度を超えている」",
+        "★ extra-[越えて] + -vaga-[さまよっている、定まらない] から「規範を越えてさまよっている」→「法外な」",
+        "類 vagabond「放浪者」",
+        "類 vague「曖昧な」"
+      ],
+      "word_origin": {
+        "formula": "extra-[越えて] + -vaga-[さまよっている、定まらない] から「規範を越えてさまよっている」-> 「法外な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make an extravagant demand",
+          "ja": "過度な要求をする"
+        }
+      ]
+    },
+    {
+      "id": "2288",
+      "word": "obsolete",
+      "phonetic": "[ὰbsəlíːt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "廃れた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(新しいものが出たり、現代の基準に合わなくなったりして)使われなくなった」",
+        "★ ob-[=against に対して] + -ole-[=old] →「何に対して古くなった」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -ole-[=old] -> 「何に対して古くなった」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2289",
+      "word": "devoid",
+      "phonetic": "[divɔ́id]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(of 〜) (〜を完全に)欠いている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何かが完全に欠けている」(＊void「欠いている」より堅い語。)",
+        "★ de-[強意] + -void-[空っぽ] →「空っぽ」",
+        "反 avoid「〜を避ける」(a-[=away 離れて])"
+      ],
+      "word_origin": {
+        "formula": "de-[強意] + -void-[空っぽ] -> 「空っぽ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "He is devoid of humor.",
+          "ja": "彼にはユーモアのかけらもない。"
+        }
+      ]
+    },
+    {
+      "id": "2290",
+      "word": "scarce",
+      "phonetic": "[skέərs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "乏しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(食料、金、生活必需品などが)一時的に不足している」",
+        "副 scarcely「ほとんど〜ない」(＊hardly よりかなり堅い表現。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Childcare centers are scarce now.",
+          "ja": "現在、託児所が不足している。"
+        }
+      ]
+    },
+    {
+      "id": "2291",
+      "word": "solemn",
+      "phonetic": "[sάləm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (場所、祝祭が)厳粛な",
+            "(音楽が)荘厳な",
+            "② (態度が)真面目な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「厳粛な」顔でサラミを食べる。",
+        "副 solemnly「厳粛に、しめやかに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a solemn ceremony",
+          "ja": "厳粛な儀式"
+        }
+      ]
+    },
+    {
+      "id": "2292",
+      "word": "rigid",
+      "phonetic": "[ríʤid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 硬い",
+            "② (規則・行為・人などが)厳格な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(物理的に)硬い」から「(規則や態度に)柔軟性が欠ける」まで。",
+        "★ rig-[=right 正しい] →「真っ直ぐな」",
+        "反 flexible「柔軟な」"
+      ],
+      "word_origin": {
+        "formula": "rig-[=right 正しい] -> 「真っ直ぐな」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a rigid plastic cup",
+          "ja": "硬いプラスチックのカップ"
+        },
+        {
+          "en": "② a rigid hierarchy",
+          "ja": "厳格な階層構造"
+        }
+      ]
+    }
+  ]
+}

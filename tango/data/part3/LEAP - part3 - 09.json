@@ -1,0 +1,343 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1083",
+      "word": "agency",
+      "phonetic": "éidʒənsi",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (政府)機関",
+            "② 代理店"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(権限を委ねられて業務を遂行する)組織」",
+        "agent「代理人」",
+        "act「行動する」"
+      ],
+      "word_origin": {
+        "formula": "age-[行う]から「行うもの」→「機関」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the Central Intelligence Agency (CIA)",
+          "ja": "アメリカ中央情報局"
+        },
+        {
+          "en": "a travel agency",
+          "ja": "旅行代理店"
+        }
+      ]
+    },
+    {
+      "id": "1084",
+      "word": "council",
+      "phonetic": "káunsəl",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "議会"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(市町村の)議会」から「(国連の)理事会」まで。",
+        "the U.N. Security Council「国連安全保障理事会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the city council",
+          "ja": "市議会"
+        }
+      ]
+    },
+    {
+      "id": "1085",
+      "word": "kingdom",
+      "phonetic": "kíŋdəm",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (the ~ kingdom)界, 社会",
+            "② 王国"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇society「主に(人間)社会」"
+      ],
+      "word_origin": {
+        "formula": "king-[王] + -dom[=dome 家]",
+        "description": "kin「親族」"
+      },
+      "examples": [
+        {
+          "en": "the animal kingdom",
+          "ja": "動物界"
+        },
+        {
+          "en": "the United Kingdom",
+          "ja": "連合王国(=英国)"
+        }
+      ]
+    },
+    {
+      "id": "1086",
+      "word": "republic",
+      "phonetic": "ripʌ́blik",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "共和国"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主権が国民にあり, 国民が選んだ代表が政治を行う国家」",
+        "Republican「共和国の」",
+        "Republican「(米)共和党員」"
+      ],
+      "word_origin": {
+        "formula": "re-[=real 現実のもの] + -public[民衆]→「民衆のもの(国)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the People's Republic of China",
+          "ja": "中華人民共和国"
+        }
+      ]
+    },
+    {
+      "id": "1087",
+      "word": "empire",
+      "phonetic": "émpaiər",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "帝国"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「émperor(皇帝)の国家」",
+        "形impérial「帝国の」⇔the Imperial Family「皇室, 皇族」",
+        "形impérative「避けられない(←émperorの命令)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the fall of the Roman Empire",
+          "ja": "ローマ帝国の崩壊"
+        }
+      ]
+    },
+    {
+      "id": "1088",
+      "word": "aid",
+      "phonetic": "éid",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "援助, 救援物資〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(政府や団体による)援助」",
+        "Band-Aid「バンドエイド(救急ばんそうこう)」は「傷口の回復を援助するもの」",
+        "with the aid of 〜「〜の援助で, 〜に助けられて」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "give economic aid to developing countries",
+          "ja": "発展途上国へ経済援助を行う"
+        }
+      ]
+    },
+    {
+      "id": "1089",
+      "word": "reform",
+      "phonetic": "rifɔ́ːrm",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "改革"
+          ]
+        },
+        {
+          "part_of_speech": "動",
+          "meanings": [
+            "改革する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日本語の「(衣類や建物などを)リフォームする」は, 「衣類」ならremake, 「建物・部屋」ならrenovateやremodelなどで表現する。",
+        "(*「改革全体」なら〈不可算〉扱い。)"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -form[形]→「形を再び変えて, 改革(再構築)する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the government's educational reform(s)",
+          "ja": "政府の教育改革"
+        }
+      ]
+    },
+    {
+      "id": "1090",
+      "word": "minister",
+      "phonetic": "mínistər",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 大臣",
+            "② 牧師"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①〈米〉secretary",
+        "ministry「(政府の)省」⇔the Ministry of Finance「(日本の)財務省」"
+      ],
+      "word_origin": {
+        "formula": "mini-[小さい] + -ster[人]から「(王に仕える)小さい人(召使い)」→「大臣」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the foreign minister",
+          "ja": "外務大臣"
+        },
+        {
+          "en": "a Baptist minister",
+          "ja": "バプティスト派の牧師"
+        }
+      ]
+    },
+    {
+      "id": "1091",
+      "word": "parliament",
+      "phonetic": "pɑ́ːrləmənt",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "議会"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶先頭が大文字のParliamentは「(英国の)国会」の意味になる。",
+        "古フランス語で「議論すること」の意味。",
+        "Congress「(米国などの)議会」",
+        "the Diet「(日本の)国会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "summon[dissolve] a parliament",
+          "ja": "議会を招集する[解散する]"
+        }
+      ]
+    },
+    {
+      "id": "1092",
+      "word": "territory",
+      "phonetic": "térətɔ̀ːri",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 領土",
+            "② (動物などの)縄張り, (学問などの)領域"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形territórial「領土の」",
+        "extraterréstrial「地球外生物, ET」"
+      ],
+      "word_origin": {
+        "formula": "terr-[土地]",
+        "description": "(※the Mediterranean Sea「地中海」は「ユーラシア大陸とアフリカ大陸という2つの土地(-terr-)の中間(medi-)に位置する海」)"
+      },
+      "examples": [
+        {
+          "en": "the issue of the Northern Territories",
+          "ja": "北方領土問題"
+        },
+        {
+          "en": "Dogs use urine to mark their territory.",
+          "ja": "イヌはオシッコをすることで自分の縄張りを示す。"
+        }
+      ]
+    },
+    {
+      "id": "1093",
+      "word": "poll",
+      "phonetic": "póul",
+      "level_tag": "B3",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (政治関連の)世論調査",
+            "② 投票"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (票)を得る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶②新聞などでよく使われる。",
+        "politics「政治」とセットで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "recent opinion polls",
+          "ja": "最近の世論調査"
+        },
+        {
+          "en": "go to the polls",
+          "ja": "投票に行く"
+        },
+        {
+          "en": "poll 30,000 votes",
+          "ja": "3万票を獲得する"
+        }
+      ]
+    }
+  ]
+}

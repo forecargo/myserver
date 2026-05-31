@@ -1,0 +1,104 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1997",
+      "word": "hence",
+      "phonetic": "[héns]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "だから、それゆえに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ therefore「それゆえに」とほぼ同じ意味だが、後ろに名が置かれることがある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The roads were icy; hence driving was not safe.",
+          "ja": "道路が凍っていた。それゆえ、車の運転は危険だった。"
+        }
+      ]
+    },
+    {
+      "id": "1998",
+      "word": "namely",
+      "phonetic": "[néimli]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "すなわち"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ わかりやすく言い換える語。(＊that is や i.e. と同じ)",
+        "名 name-[名前] +-ly[副詞語尾] から「名付けて」→「すなわち」",
+        "他 name「〜の名前を挙げる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "two basic problems; namely, time and money",
+          "ja": "2つの基本的な問題, すなわち時間とお金"
+        }
+      ]
+    },
+    {
+      "id": "1999",
+      "word": "allegedly",
+      "phonetic": "[əlédʒidli]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "(本当かどうかはわからないが)伝えられるところによると"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 英字新聞などでよく見る語で, 捜査, 逮捕, 公判などの報道で公正を期すため使用されることが多い。(≒reportedly「伝えられるところによると」)",
+        "他 allege「〜と主張する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "They were allegedly involved in the murder.",
+          "ja": "彼らはその殺人事件に関与したとされている。(伝えられるところによると, 彼らはその殺人事件に関与した。)"
+        }
+      ]
+    },
+    {
+      "id": "2000",
+      "word": "whereas",
+      "phonetic": "[hwɛərǽz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "接",
+          "meanings": [
+            "〜だが一方"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主節との対比を表す。(＊while より堅い語。)",
+        "元々は(where+as)からできた語。昔は SV, where S' V'. 「SVだがS'V'。」という表現があり, ここに as がついた形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Tom is quiet, whereas his brother is rather talkative.",
+          "ja": "トムは無口だが, 一方, 彼の弟はかなりおしゃべりだ。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2111",
+      "word": "autonomy",
+      "phonetic": "[ɔːtάnəmi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "自治(権)",
+            "自主性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「自らを管理する自由」",
+        "auto-[自己] + -nomy[=nórm 法]",
+        "形 autónomous「自治の」"
+      ],
+      "word_origin": {
+        "formula": "auto-[自己] + -nomy[=nórm 法]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the era of local autonomy",
+          "ja": "「地方自治の時代」"
+        }
+      ]
+    },
+    {
+      "id": "2112",
+      "word": "delegation",
+      "phonetic": "[dèləɡéiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "代表団",
+            "使節団"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「会社, 組織, 国などを代表する人々の集団」",
+        "de-[分離] + -legat-[送る] + -ion[名詞語尾] →「権限を(分離して)持たせ, 送ること」",
+        "名 delegate「代表団(の1人)」",
+        "動「〜を代表として派遣する」"
+      ],
+      "word_origin": {
+        "formula": "de-[分離] + -legat-[送る] + -ion[名詞語尾] →「権限を(分離して)持たせ, 送ること」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2113",
+      "word": "congress",
+      "phonetic": "[kάŋɡrəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(米国などの)議会, 会議"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ the Diet「((日本の)国会)」",
+        "con-[共に] + -gress[進む]から「共に進むこと」→「皆が集まること」",
+        "名 congressman「(米国の)国会議員, 下院議員」",
+        "⇔ sénate「上院議員」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -gress[進む]から「共に進むこと」→「皆が集まること」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2114",
+      "word": "census",
+      "phonetic": "[sénsəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "国勢(人口)調査"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人口や人の動きなどに関する一斉調査」",
+        "cens-[=judge 審査する]",
+        "☆ censor「検閲官」",
+        "censorship「検閲(制度)」"
+      ],
+      "word_origin": {
+        "formula": "cens-[=judge 審査する]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "A census is taken every five years.",
+          "ja": "「国勢調査は5年に1度実施される。」"
+        }
+      ]
+    },
+    {
+      "id": "2115",
+      "word": "monarch",
+      "phonetic": "[mάnɑːrk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "君主"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ a king「王」, a queen「女王」, emperor「皇帝, 天皇」などの総称。",
+        "mon-[1] + -arch[支配者] →「単独(1人)の支配者」",
+        "形 monarchical「君主制の」",
+        "⇔ subject「臣民」"
+      ],
+      "word_origin": {
+        "formula": "mon-[1] + -arch[支配者] →「単独(1人)の支配者」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2116",
+      "word": "monopoly",
+      "phonetic": "[mənάpəli]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "独占(権)",
+            "独占企業"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "mono-[1] + -poly[売る] →「1つの企業だけが売っている」",
+        "monism「一元論」",
+        "他 monopolize「〜を独占する」"
+      ],
+      "word_origin": {
+        "formula": "mono-[1] + -poly[売る] →「1つの企業だけが売っている」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2117",
+      "word": "surplus",
+      "phonetic": "[sə́ːrpləs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 余剰",
+            "② (会計・財政)剰余金, 黒字"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「必要以上にあるもの。収入から必要経費を差し引いたお金」",
+        "sur-[上] + -plus[プラス] →「必要な状態よりも上でプラスになっている」"
+      ],
+      "word_origin": {
+        "formula": "sur-[上] + -plus[プラス] →「必要な状態よりも上でプラスになっている」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2118",
+      "word": "expertise",
+      "phonetic": "[èkspərtíːz]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "専門的知識",
+            "専門的技術〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ expert (on ~)「(〜の)専門家」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2119",
+      "word": "quota",
+      "phonetic": "[kwóʊtə]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "ノルマ",
+            "割り当て"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「ノルマ」はロシア語から。",
+        "quo-「どれくらいの」",
+        "☆ quantity「量」"
+      ],
+      "word_origin": {
+        "formula": "quo-「どれくらいの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "meet our monthly quota",
+          "ja": "「毎月のノルマを達成する」"
+        }
+      ]
+    },
+    {
+      "id": "2120",
+      "word": "subordinate",
+      "phonetic": "[səbɔ́ːrdənət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 部下"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 下位の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「組織内での下の地位にいる者」",
+        "sub-[下] + -ordi-[order 順序] →「序列が下の者」",
+        "反 boss「上司」"
+      ],
+      "word_origin": {
+        "formula": "sub-[下] + -ordi-[order 順序] →「序列が下の者」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2121",
+      "word": "warehouse",
+      "phonetic": "[wέərhàus]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "倉庫",
+            "〈英〉問屋"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「商品の保管場所」",
+        "ware-[物]",
+        "☆ hardware「金物(類), ハードウェア」",
+        "他 bam「納屋」"
+      ],
+      "word_origin": {
+        "formula": "ware-[物]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a warehouse sale",
+          "ja": "「〈米〉在庫一掃セール」"
+        }
+      ]
+    },
+    {
+      "id": "2122",
+      "word": "peasant",
+      "phonetic": "[péznt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(個々の)小作農"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「小さな畑で働く貧しい農民」",
+        "peas-[固定する] →「田舎に固定された人」",
+        "☆ páge「ページ」",
+        "反 farmer「農場経営者」"
+      ],
+      "word_origin": {
+        "formula": "peas-[固定する] →「田舎に固定された人」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2123",
+      "word": "correlation",
+      "phonetic": "[kɔ̀ːrəléiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "相関(関係)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「片方がもう片方の原因となっているような両者の関係」",
+        "cor-[=con 共に] + -relation「関係」→「共に関係している」",
+        "他 correlate「〜を相互に関係づける」",
+        "形 correlative「相関的な」"
+      ],
+      "word_origin": {
+        "formula": "cor-[=con 共に] + -relation「関係」→「共に関係している」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2124",
+      "word": "asymmetry",
+      "phonetic": "[eisímətri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "非対称, 不釣り合い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「左右が対称になっていないこと」",
+        "a-[否定] + -sym[=syn 同じ] + -metry[=méter 測る] から「測ると同じではない」→「非対称」",
+        "☆ atheist「無神論者」",
+        "apathy「無関心」",
+        "反 symmetry「(非対称の)」",
+        "反 symmetry「(左右)対称」"
+      ],
+      "word_origin": {
+        "formula": "a-[否定] + -sym[=syn 同じ] + -metry[=méter 測る] から「測ると同じではない」→「非対称」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2125",
+      "word": "disparity",
+      "phonetic": "[dispǽrəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "相違, 不均衡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不都合や不平等等の原因となる大きな相違」",
+        "dis-[バラバラ] + -pari-[等しい] →「等しくない」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -pari-[等しい] →「等しくない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a wide disparity between rich and poor",
+          "ja": "「貧富の大きな格差」"
+        }
+      ]
+    },
+    {
+      "id": "2126",
+      "word": "divergence",
+      "phonetic": "[divə́ːrdʒəns]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "逸脱",
+            "相違",
+            "《数学》発散"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ differenceよりも堅い表現。",
+        "di-[=dis バラバラ] + -ver-[回る] →「回ってバラバラになり, 離れていく」"
+      ],
+      "word_origin": {
+        "formula": "di-[=dis バラバラ] + -ver-[回る] →「回ってバラバラになり, 離れていく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "divergence between ideal and reality",
+          "ja": "「理想と現実の相違」"
+        }
+      ]
+    },
+    {
+      "id": "2127",
+      "word": "clash",
+      "phonetic": "[klǽʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 衝突",
+            "対立"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (with ~)衝突する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物, 意見などが)衝突すること」",
+        "◇ crash「((衝突して)破損する)」",
+        "▶「金属などがぶつかり合う擬音語からできた語。」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2128",
+      "word": "persecution",
+      "phonetic": "[pə̀ːrsɪkjúːʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "迫害"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に宗教的, 政治的理由で)しいたげること」",
+        "per-[through 通して, ずっと] + -secu-[後を追う] + -tion[こと] →「ずっと(後を)追い続ける」",
+        "☆ sécond「第2の(←1に続く)」",
+        "他 persecute「〜を迫害する」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して, ずっと] + -secu-[後を追う] + -tion[こと] →「ずっと(後を)追い続ける」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2129",
+      "word": "genocide",
+      "phonetic": "[dʒénəsaɪd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大量虐殺"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人種, 国民などを計画的に大量に殺害すること」",
+        "geno-[種族] + -cide[切る] →「種族を切り殺す」",
+        "☆ súicide「自殺(←自分を切る)」"
+      ],
+      "word_origin": {
+        "formula": "geno-[種族] + -cide[切る] →「種族を切り殺す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the genocide of Jews by the Nazis",
+          "ja": "「ナチスによるユダヤ人虐殺」"
+        }
+      ]
+    },
+    {
+      "id": "2130",
+      "word": "atrocity",
+      "phonetic": "[ətrάsəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "残虐行為"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「戦争などの残忍な, 非人道的な行為」",
+        "あ! トラシティの「残虐行為」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "commit atrocities against civilians",
+          "ja": "「民間人に残虐行為を行う」"
+        }
+      ]
+    },
+    {
+      "id": "2131",
+      "word": "bribe",
+      "phonetic": "[bráib]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "贈賄"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かの見返りに不法に渡される金銭や物品」",
+        "「bréad(パン)を渡すこと」が元の意味。",
+        "☆ bríde「花嫁(←パンを焼く人)」",
+        "名 bribery「贈賄[収賄]行為」"
+      ],
+      "word_origin": {
+        "formula": "「bréad(パン)を渡すこと」が元の意味。",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2132",
+      "word": "culprit",
+      "phonetic": "[kʌ́lprɪt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (具体的な犯罪の)犯人",
+            "② (何かの問題の)元凶"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある具体的な不正行為の犯人」",
+        "◇ criminal「違法行為を犯した人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the real culprit of Alzheimer's disease",
+          "ja": "「アルツハイマー病の元凶」"
+        }
+      ]
+    }
+  ]
+}

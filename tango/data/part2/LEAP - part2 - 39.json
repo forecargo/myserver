@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "685",
+      "word": "suppose",
+      "phonetic": "[səpóuz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (be ~d to do) 〜することになっている",
+            "② 〜と思う, 仮定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 知識に基づく穏やかな表現。②事実と異なることを示唆。",
+        "[頻出] ② Suppose (that) SV. 「もし〜としたら(どうしますか)。」",
+        "[語源] sup-[下] + -pose[置く]から「ある事柄の下に置く」→「〜と仮定(想定)する」",
+        "[派生] 名 supposition「仮定, 想定」",
+        "[派生] 副 supposedly「おそらく」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "sup-[下] + -pose[置く]から「ある事柄の下に置く」→「〜と仮定(想定)する」"
+      },
+      "examples": [
+        {
+          "en": "You are supposed to take off your shoes at the door.",
+          "ja": "玄関では靴を脱ぐことになっています。"
+        },
+        {
+          "en": "Suppose you got lost there. What would you do?",
+          "ja": "そこで迷子になったとします。あなたはどうしますか。"
+        }
+      ]
+    },
+    {
+      "id": "686",
+      "word": "assume",
+      "phonetic": "[əsúːm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜と思い込む, 決めつける",
+            "② 〜を引き受ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「受け入れる」→①「(根拠はないが)〜と思い込む」②「(責任, 仕事など)を引き受ける」",
+        "[語法] ① assume (that) SV「〜ということを思い込む」と表現する。",
+        "[頻出] ① assume that SV「〜だと見込む」",
+        "[語源] as-[=ad方向] + -sume[=take取る]から「〜に対してある見方を取る」→「思い込む」",
+        "[比較] consume「〜を消費する」",
+        "[派生] 名 assumption「思い込み, 引き受けること」",
+        "[参考] assuming「〜と仮定すれば」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "as-[=ad方向] + -sume[=take取る]から「〜に対してある見方を取る」→「思い込む」"
+      },
+      "examples": [
+        {
+          "en": "assume that all people are the same",
+          "ja": "人間は皆同じだと思い込む"
+        },
+        {
+          "en": "assume responsibility",
+          "ja": "責任をとる"
+        }
+      ]
+    },
+    {
+      "id": "687",
+      "word": "care",
+      "phonetic": "[kέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (否定文で) 気にする",
+            "② 世話をする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 世話, 心配"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「気を遣う」",
+        "[頻出] ① do not care (about) wh-節「〜を気にしない」",
+        "② care for 〜「〜の世話をする, (否定文, 疑問文で)〜が好きである」",
+        "③ take care of 〜「〜の世話をする」",
+        "Take care.「お元気で。」",
+        "Take (good) care of yourself.「お大事に。」",
+        "with care「注意して」(=carefully)",
+        "[比較] 日本語の「ケア(する)」の意味に近い。→ psychological care for students「生徒たちの心のケア」",
+        "[派生] 形 carefree「のんびりした(←心配がない)」",
+        "[派生] 名 caregiver「世話をする人, 介護士」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I don't care about trivial matters.",
+          "ja": "私は細かいことを気にしません。"
+        },
+        {
+          "en": "care for orphans",
+          "ja": "孤児の世話をする"
+        },
+        {
+          "en": "medical care for the elderly",
+          "ja": "高齢者の医療"
+        }
+      ]
+    },
+    {
+      "id": "688",
+      "word": "approve",
+      "phonetic": "[əprúːv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (of 〜) (〜を) 認める, 承認する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を承認する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「目上の人(上司や先生, 両親など)が agree (同意)する」",
+        "[頻出] ② approve that SV「〜だと承認する」",
+        "[注意] ① 自を使用するのがふつうだが, 公式の場合は② 他を使用する。",
+        "[派生] 名 approval「承認」",
+        "[反義] 反 disapprove (of 〜)「(〜に)反対する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Her parents approved of her marriage.",
+          "ja": "彼女の両親は彼女の結婚を認めた。"
+        },
+        {
+          "en": "Congress approved the president's plans.",
+          "ja": "議会は大統領の計画を承認した。"
+        }
+      ]
+    },
+    {
+      "id": "689",
+      "word": "notice",
+      "phonetic": "[nóutɪs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に気づいている"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 通知, 掲示, 注意"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(見たり, 聞いたりして)気づいている」",
+        "[頻出] ② take notice of 〜「〜に気づく」",
+        "short notice「突然の通知」",
+        "advance notice「事前告知」",
+        "give (人) notice「(人)に通知する」",
+        "[注意] 「気づいている」という状態動詞だが, 日本語では「気づく」と訳すほうが自然であることが多い。なお, 「健康の大切さに気づく」のように「目に見えないこと」にはふつう使えない。",
+        "[語源] no-[=know] + -tice[状態] (*kn-はk-が読まれないため脱落することが多い。)",
+        "[派生] 形 noticeable「目立った, 注目に値する」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "no-[=know] + -tice[状態] (*kn-はk-が読まれないため脱落することが多い。)"
+      },
+      "examples": [
+        {
+          "en": "I noticed that there was a hole in my sock.",
+          "ja": "靴下に穴が空いていることに気づいた(*その後も気づいていた〈状態〉)。"
+        },
+        {
+          "en": "notice of a change of address",
+          "ja": "住所変更の通知"
+        }
+      ]
+    },
+    {
+      "id": "690",
+      "word": "aware",
+      "phonetic": "[əwέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "気づいている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(知覚的にではなく, 感覚的に)気づいている」",
+        "[頻出] be aware of 〜 / that SV「〜に/〜ということに気づく」",
+        "become aware of 〜 / that SV「〜に/〜ということに気づく」",
+        "[語源] a-[=ad方向] + -war-[用心する]",
+        "[比較] warn「警告する(←用心させる)」",
+        "[派生] 名 awareness「意識, 認識」",
+        "[反義] 反 unaware「気づいていない」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "a-[=ad方向] + -war-[用心する]"
+      },
+      "examples": [
+        {
+          "en": "I am aware that my time on earth is limited.",
+          "ja": "この世の時間には限りがあると気づいている。"
+        }
+      ]
+    }
+  ]
+}

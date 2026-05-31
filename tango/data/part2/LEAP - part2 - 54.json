@@ -1,0 +1,286 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "792",
+      "word": "fake",
+      "phonetic": "[féik]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 偽の",
+            "偽造の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 偽造品"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「本物に似せて作ったインチキ品」 ◇ false「(広い意味で)偽の」",
+        "頻出 ① a fake smile [bill, fur]「偽の笑顔[札, 毛皮]」",
+        "反 genuine「本物の」",
+        "類 counterfeit「(紙幣などが)偽造の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a fake diamond",
+          "ja": "① 偽物のダイヤモンド"
+        },
+        {
+          "en": "② The picture was a fake.",
+          "ja": "② その絵は偽物だった。"
+        }
+      ]
+    },
+    {
+      "id": "793",
+      "word": "risky",
+      "phonetic": "[ríski]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "危険な",
+            "危うい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(失敗する恐れがあるため)危険な」",
+        "▷ dangerous「危害を受ける[及ぼす]可能性があるため)危険な」",
+        "頻出 It is risky (for A) to do.「(Aが)〜するのは危険だ。」",
+        "名 risk「危険(性)」 ⇔ take a risk「(覚悟して)危険を冒す」 run the risk of 〜「(結果的に)〜という危険を冒す」 be at risk (of 〜)「(〜の)危険にさらされている」 他 risk doing「〜の危険を冒す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It is risky to buy a used car from a private seller.",
+          "ja": "個人の売り手から中古車を買うのは危険だ。"
+        }
+      ]
+    },
+    {
+      "id": "794",
+      "word": "odd",
+      "phonetic": "[άd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 奇妙な",
+            "② 奇数の",
+            "③ 半端な",
+            "雑多な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ (英) (the -s) 可能性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「違和感」を強調した語。②「(偶数で割れない)奇妙な数」から。",
+        "④「(奇妙なことが起きる)可能性」から。",
+        "反 even「偶数の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① an odd habit",
+          "ja": "① 奇妙な習慣"
+        },
+        {
+          "en": "② a ticket with an odd number",
+          "ja": "② 奇数の番号札"
+        },
+        {
+          "en": "③ an odd job",
+          "ja": "③ 雑用(雑多な仕事)"
+        },
+        {
+          "en": "④ the odds of a plane crash",
+          "ja": "④ 飛行機が墜落する可能性"
+        }
+      ]
+    },
+    {
+      "id": "795",
+      "word": "ignorant",
+      "phonetic": "[ígnərənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "無知の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では know little[nothing] about 〜のほうが使われる。",
+        "頻出 be ignorant of A「Aを知らない」",
+        "語源 i-[=in 否定] + -gno-[=know 知っている] → 名 ignorance「無知, 無学」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Doris is ignorant of the world.",
+          "ja": "ドリスは世間知らずだ(世間について無知だ)。"
+        }
+      ]
+    },
+    {
+      "id": "796",
+      "word": "contrast",
+      "phonetic": "名 [kάntræst] 動 [kəntrάːst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 対比"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を対比する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 対照をなす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① in [by] (sharp) contrast「(きわめて)対照的に」",
+        "in contrast to [with] 〜「〜とは対照的に」",
+        "語源 contra-[逆] + -st[=stand 立つ] →「向かい合って立っている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the contrast between the two",
+          "ja": "① その両者の対比"
+        },
+        {
+          "en": "② contrast two things",
+          "ja": "② 2つの物を対比する"
+        },
+        {
+          "en": "③ contrast with the previous results",
+          "ja": "③ 前回の結果と対照的だ(対照をなす)"
+        }
+      ]
+    },
+    {
+      "id": "797",
+      "word": "valid",
+      "phonetic": "[vǽlid]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (理由, 主張などが)妥当な",
+            "正当な",
+            "② (切符などが)有効な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「それが持つ価値の分だけ有効である」",
+        "語源 val-[=value 価値] →「妥当な, 有効な」",
+        "反 invalid「妥当でない, 有効でない」",
+        "名 validity「有効性」",
+        "他 validate「〜を有効にする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a valid reason",
+          "ja": "① 妥当な理由"
+        },
+        {
+          "en": "② This passport is valid for ten years.",
+          "ja": "② このパスポートは10年間有効です。"
+        }
+      ]
+    },
+    {
+      "id": "798",
+      "word": "rare",
+      "phonetic": "[rέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "珍しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(めったに手に入らなくて)貴重だ」という意味を含むこともある。",
+        "頻出 rare metals「レアメタル(←ニッケルなどの, 地球に存在する量は少ないが, 産業に多く利用される希少金属。)」",
+        "注意「〜するのは珍しくない」は It is not unusual to do. と表現する。",
+        "反 レアな(珍しい)カード」などの「レア」",
+        "副 rarely「めったに〜ない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "collect rare stamps",
+          "ja": "珍しい切手を集める"
+        }
+      ]
+    },
+    {
+      "id": "799",
+      "word": "casual",
+      "phonetic": "[kǽʒuəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 気楽な",
+            "② ふとした",
+            "何気ない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「手を加えない」→①「形式ばらない」②「気にしない」",
+        "頻出 ① a casual attitude「気楽な態度」",
+        "② a casual remark「ふとした発言」",
+        "a casual discovery「偶然の発見」",
+        "反 formal「正式な」",
+        "類 causal「因果関係の」(*つづりが似ているので注意。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① feel more relaxed in casual clothes",
+          "ja": "① ふだん着(気楽な服)のほうが落ち着く"
+        },
+        {
+          "en": "② a casual remark",
+          "ja": "② ふとした発言"
+        }
+      ]
+    }
+  ]
+}

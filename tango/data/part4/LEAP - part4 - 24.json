@@ -1,0 +1,373 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1642",
+      "word": "detach",
+      "phonetic": "[ditǽtʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A from B) (AをBから)切り離す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(切り離せるように設計された物)を切り離す」",
+        "de-[分離] + -tach[接触] 反 attach (A to B)「(A)を(Bに)取り付ける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "detach the hood from a jacket",
+          "ja": "上着からフードを取り外す"
+        }
+      ]
+    },
+    {
+      "id": "1643",
+      "word": "withdraw",
+      "phonetic": "[wíðdrɔ́ː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を引っ込める",
+            "② (預金などを)引き出す"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 退く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「手, 支援, 軍, 発言など)を引っ込める」→②「(お金)を引き出す」",
+        "名 withdrawal「撤回, 撤退」⇨ automatic withdrawal「自動引き落とし」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① withdraw a product from the market",
+          "ja": "① 市場から製品を回収する"
+        },
+        {
+          "en": "② withdraw $300 from an ATM",
+          "ja": "② ATMから300ドルを引き出す"
+        },
+        {
+          "en": "③ withdraw from the war zone",
+          "ja": "③ 戦闘地帯から撤退する"
+        }
+      ]
+    },
+    {
+      "id": "1644",
+      "word": "compile",
+      "phonetic": "[kəmpáil]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜をまとめる, (辞書などを)編集する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(資料や情報など)をまとめる」",
+        "com-[共に] + -pile[山, 積み重ね] →「一緒にして積み重ねる」→「〜をまとめる」 類 edit「(新聞や雑誌など)を編集する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "compile data for a report",
+          "ja": "報告書のためにデータをまとめる"
+        }
+      ]
+    },
+    {
+      "id": "1645",
+      "word": "browse",
+      "phonetic": "[bráuz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 拾い読みする"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を拾い読みする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(本などを)ぱらぱらめくる」から「(インターネットを)閲覧する」",
+        "★インターネットの「ブラウザ(browser)」は「ウェブページ閲覧用ソフト」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① browse through the photographs",
+          "ja": "① 写真にざっと目を通す"
+        },
+        {
+          "en": "② browse the internet",
+          "ja": "② インターネットを閲覧する"
+        }
+      ]
+    },
+    {
+      "id": "1646",
+      "word": "manipulate",
+      "phonetic": "[mənipjulèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を操作する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(世論, 数字, 株価など)を巧みに操る」",
+        "mani-[手] + -pul-[満たす] + -ate[する] から「(要件を)満たす」→「〜を操作する」",
+        "派 manual「手を使う, 手動の」 supply「供給(←満たすこと)」",
+        "名 manipulation「(巧みな)操作, 改ざん」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "manipulate public opinion",
+          "ja": "世論を操作する"
+        }
+      ]
+    },
+    {
+      "id": "1647",
+      "word": "implement",
+      "phonetic": "[動 ímpləmènt] [名 ímpləmənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (契約, 計画などを)実行する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (単純な)道具"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かを実行するための手段」",
+        "im-[中に] + -ple-[満たす] →「(要件の)中を満たす」 派 supplement「補足」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① implement political reform",
+          "ja": "① 政治改革を実行する"
+        },
+        {
+          "en": "② farming implements",
+          "ja": "② 農機具"
+        }
+      ]
+    },
+    {
+      "id": "1648",
+      "word": "execute",
+      "phonetic": "[éksikjùːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を遂行する, 実行する",
+            "② 〜を処刑する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★コンピュータのEXEファイル(executable file)は「プログラム実行ファイル」のこと。",
+        "名 execution「実行, 処刑」",
+        "名 executive「重役(←実行する人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① execute the plan from Monday",
+          "ja": "① 月曜日からその計画を実行する"
+        },
+        {
+          "en": "② execute the murderer",
+          "ja": "② その殺人犯を処刑する"
+        }
+      ]
+    },
+    {
+      "id": "1649",
+      "word": "host",
+      "phonetic": "[hóust]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (大会などを)主催する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (a ~ of)多くの",
+            "③ (客を招く)主人(*女性も含む), 主催者, 開催地, 《生物》宿主"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "動 host[人質] →「(人質を殺してはいけないので)もてなす」 (*②は別語源。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① host the Olympic Games",
+          "ja": "① オリンピックを主催する"
+        },
+        {
+          "en": "② a host of difficulties",
+          "ja": "② 多くの困難"
+        },
+        {
+          "en": "③ Our host greeted us at the door.",
+          "ja": "③ 主催者が玄関で私たちに挨拶した。"
+        }
+      ]
+    },
+    {
+      "id": "1650",
+      "word": "mount",
+      "phonetic": "[máunt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を据え付ける",
+            "② (馬, 自転車に)乗る"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 増加する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「通例, 過去分詞で使われる。 ② 日常ではrideのほうが使われる」",
+        "派 mountain「山」は「大地に据え付けられたもの」と覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① mount a new television on the wall",
+          "ja": "① 新しいテレビを壁に取り付ける"
+        },
+        {
+          "en": "② mount a horse",
+          "ja": "② 馬に乗る"
+        },
+        {
+          "en": "③ Tension is mounting in the Middle East.",
+          "ja": "③ 中東で緊張が高まっている。"
+        }
+      ]
+    },
+    {
+      "id": "1651",
+      "word": "discharge",
+      "phonetic": "[distʃáːrdʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を排出する",
+            "② (職務, 任地などから)〜を解放する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(汚水や患者など)を外に出す」",
+        "反 charge「〜を充電する」",
+        "派 sewage [súːidʒ]「下水(←出された水)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① discharge black smoke",
+          "ja": "① 黒い煙を出す"
+        },
+        {
+          "en": "② be discharged from the navy",
+          "ja": "② 海軍を除隊になる (海軍から解放される)"
+        }
+      ]
+    },
+    {
+      "id": "1652",
+      "word": "drain",
+      "phonetic": "[dréin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜の水を抜く",
+            "② 〜の水分を切る"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (液体が)流出する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「容器などから液体を抜く」",
+        "派 dry「乾いた」 drought [dráut]「干ばつ」",
+        "名 drainpipe「排水管」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① drain the bathtub",
+          "ja": "① 風呂の水を抜く"
+        },
+        {
+          "en": "② drain the cooked spaghetti",
+          "ja": "② ゆでたスパゲッティの水分を切る"
+        },
+        {
+          "en": "③ This playground does not drain well.",
+          "ja": "③ この運動場は水はけがよくない。"
+        }
+      ]
+    }
+  ]
+}

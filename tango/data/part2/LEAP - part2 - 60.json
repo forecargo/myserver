@@ -1,0 +1,266 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "836",
+      "word": "volume",
+      "phonetic": "[vάljum]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 容積, 体積",
+            "② ボリューム, 音量",
+            "③ (全集などの) 1巻"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ turn up[down] the volume「ボリュームを上げる[下げる]」",
+        "＊ vol-[巻く]が元の意味. ☆involve「〜を巻き込む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the volume of a cylinder",
+          "ja": "① 円柱の体積"
+        },
+        {
+          "en": "turn down the volume on the TV",
+          "ja": "② テレビのボリュームを小さくする"
+        },
+        {
+          "en": "an encyclopedia in 30 volumes",
+          "ja": "③ 30巻からなる百科事典"
+        }
+      ]
+    },
+    {
+      "id": "837",
+      "word": "proportion",
+      "phonetic": "[prəpɔ́ːrʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 比率",
+            "② 部分",
+            "③ (-s)規模, 大きさ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(全体の中での)割合, (ほかとの)比率」",
+        "◇percentage「全体を100としたときの)割合」",
+        "頻出 ① the proportion of A to B「AとBとの比率」",
+        "in proportion to 〜「〜に比べて, 比例して」",
+        "② a large proportion of A「Aの大部分」",
+        "③ A of 〜 proportions「〜の規模のA」",
+        "☆日本語の「プロポーション」は「身体の比率」の意味.",
+        "形 disproportionate「不釣り合いな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The proportion of boys to girls in my school is five to one.",
+          "ja": "① 私の学校の男女比は5:1だ."
+        },
+        {
+          "en": "a large proportion of the audience",
+          "ja": "② 観客の大部分"
+        },
+        {
+          "en": "a dam of great proportions",
+          "ja": "③ 大規模なダム"
+        }
+      ]
+    },
+    {
+      "id": "838",
+      "word": "dozen",
+      "phonetic": "[dʌ́zn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① ダース",
+            "② (-s of)数十の〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(同種類の物が)12個」→②「(複数形で)たくさんの, 数十の」",
+        "注意 three dozen[×dozens] pencils「3ダースの鉛筆」",
+        "☆ do-=duo 2 + -zen[=ten 10] →「12」☆double「2倍の, 2重の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "two dozen eggs",
+          "ja": "① 2ダースの卵"
+        },
+        {
+          "en": "dozens of people",
+          "ja": "② 数十人"
+        }
+      ]
+    },
+    {
+      "id": "839",
+      "word": "amount",
+      "phonetic": "[əmáunt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 量"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (to)〜に達する",
+            "② (合計が)〜に達する",
+            "③ 結局〜になる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「積み重なって〜に達する」",
+        "頻出 ① the amount of 〜「〜の量」",
+        "注意 ① a large[small] amount of 〈不可算〉「大[少]量の〜」",
+        "◇ a large[small] number of 〈可算〉「多[少]数の〜」",
+        "☆ a-[=ad 方向] + -mount[山]から「(山の)頂上に達する」→「〜に達する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a large amount of fat",
+          "ja": "① 大量の脂肪"
+        },
+        {
+          "en": "My debts amount to $200.",
+          "ja": "② 私の借金は合計200ドルになる."
+        },
+        {
+          "en": "Our ideas amount to the same thing.",
+          "ja": "③ 私たちの考えは結局同じことだ."
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "word": "mass",
+      "phonetic": "[mǽs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 大量",
+            "② (the -es)大衆",
+            "③ かたまり",
+            "④ 質量",
+            "⑤ (M-)ミサ"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を大量生産する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「大量」②「かたまり」③「質量」",
+        "頻出 ① the mass media「マスメディア(←大量の伝達媒体), マスコミ」",
+        "mass production「大量生産」",
+        "注意 ④ 物理では“m”と表記する. ⑤は別語源.",
+        "形 massive「巨大な, 大量の」 ⇔ a massive amount of information「大量の情報」",
+        "他 mass-produce「〜を大量生産する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a huge mass of data",
+          "ja": "① 非常に多くのデータ"
+        },
+        {
+          "en": "a movie aimed at the masses",
+          "ja": "② 大衆向けの映画"
+        },
+        {
+          "en": "a mass of concrete",
+          "ja": "③ コンクリートのかたまり"
+        },
+        {
+          "en": "the mass of our solar system",
+          "ja": "④ 太陽系の質量"
+        },
+        {
+          "en": "go to Mass",
+          "ja": "⑤ ミサに行く"
+        }
+      ]
+    },
+    {
+      "id": "841",
+      "word": "shortage",
+      "phonetic": "[ʃɔ́ːrtidʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "不足〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(外部から供給可能な物が)必要な量に足りていない状態」",
+        "◇lack「(「自信」など外部から供給不可能な物が)足りていない状態」",
+        "頻出 solve[face] a 〜 shortage「〜不足を解消する[に直面する]」",
+        "a severe[chronic] shortage of 〜「深刻[慢性的]な〜の不足」",
+        "☆ short-[足りていない] + -age[状態] ☆be short of 〜「〜が不足している」",
+        "名 shortcoming「欠点」(*堅い語.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There is a water shortage in this area.",
+          "ja": "この地域は水が不足している."
+        }
+      ]
+    },
+    {
+      "id": "842",
+      "word": "enormous",
+      "phonetic": "[inɔ́ːrməs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "莫大な, 巨大な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きさや量, 程度などが)桁外れの」",
+        "◇gigantic「(同種の中でも)特に巨大な」",
+        "頻出 an enormous amount of 〜「莫大な量の〜」",
+        "☆ e-[=ex 外に] + -norm-[=normal 基準] →「基準を外れた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an enormous amount of time",
+          "ja": "莫大(量)の時間"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1830",
+      "word": "innate",
+      "phonetic": "[ɪnéɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(才能などが)先天的な, 生まれつきの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇congenital「(病気が)先天的な」",
+        "nature「自然」",
+        "反 acquired「後天的な」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -nate[生まれる] -> 「(自分の)中に持って生まれる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an innate ability to make people laugh",
+          "ja": "人を笑わせる先天的な才能"
+        }
+      ]
+    },
+    {
+      "id": "1831",
+      "word": "exotic",
+      "phonetic": "[ɪɡzάtɪk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (動植物が)外来の",
+            "② 異国情緒のある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「外国の物で珍しい」"
+      ],
+      "word_origin": {
+        "formula": "exo-[外部] + -tic[形容詞語尾] -> 「外から来た」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① exotic plants",
+          "ja": "① 外来植物"
+        },
+        {
+          "en": "② a hotel with an exotic atmosphere",
+          "ja": "② 異国情緒の漂うホテル"
+        }
+      ]
+    },
+    {
+      "id": "1832",
+      "word": "tame",
+      "phonetic": "[téɪm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 飼い慣らされた, 従順な"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を飼い慣らす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「おとなしい(飼い慣らされた)イヌ」と訳すこともある。",
+        "手向かい(てむかい)しない「従順な」イヌ。",
+        "反 wild「野生の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a tame dog",
+          "ja": "① おとなしい(飼い慣らされた)イヌ"
+        },
+        {
+          "en": "② It takes a long time to tame a lion.",
+          "ja": "② ライオンを飼い慣らすには時間がかかる。"
+        }
+      ]
+    },
+    {
+      "id": "1833",
+      "word": "manifest",
+      "phonetic": "[mæ̀nəfést]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 明らかな"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (姿勢, 感情など)を明らかにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 manifestation「明らかになること」",
+        "名 manifesto「マニフェスト(←政党の公約)」"
+      ],
+      "word_origin": {
+        "formula": "mani-[手] + -fest[つかむ] -> 「(手でつかめるぐらい)はっきりした」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a manifest error",
+          "ja": "① 明白な間違い"
+        },
+        {
+          "en": "② manifest dissatisfaction",
+          "ja": "② 不満を表す"
+        }
+      ]
+    },
+    {
+      "id": "1834",
+      "word": "dense",
+      "phonetic": "[déns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "密集した, (霧などが)濃い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(森, 雲, 人などが)密集した」",
+        "名 density「(物質の)濃度」 ⇔ bone density「骨密度」",
+        "副 densely「密集して」 ⇔ a densely populated area「人口密集地帯」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a dense fog",
+          "ja": "濃い霧"
+        }
+      ]
+    },
+    {
+      "id": "1835",
+      "word": "transparent",
+      "phonetic": "[trænspέərənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "透明な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ≒ see-through「(衣服などが)透けて見える」",
+        "apparent「一見〜らしい, (通例, 補語の位置で)明らかな」"
+      ],
+      "word_origin": {
+        "formula": "trans-[越えて] + -parent[=appear 現れる] -> 「透けて見える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "transparent glass",
+          "ja": "透明なガラス"
+        }
+      ]
+    },
+    {
+      "id": "1836",
+      "word": "consistent",
+      "phonetic": "[kənsístənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (with 〜)矛盾のない, 一致している",
+            "② 安定した, 不変の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "consist「〜を構成する(←要素が集まって成り立つ)」の形容詞形。",
+        "(*「構成されている」ということは「(全体として)矛盾しない」ということ。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① His words are not consistent with his behavior.",
+          "ja": "① 彼の発言は, 行動と一致していない。"
+        },
+        {
+          "en": "② run at a consistent pace",
+          "ja": "② 安定したペースで走る"
+        }
+      ]
+    },
+    {
+      "id": "1837",
+      "word": "coherent",
+      "phonetic": "[kouhíərənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "一貫している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(話や文章の)筋が通っている」",
+        "☆adhére「((しっかりと)くっつく)」",
+        "名 coherence「首尾一貫性, 結合」"
+      ],
+      "word_origin": {
+        "formula": "co-[共に] + -here-[くっつく]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "give a coherent account of the event",
+          "ja": "その出来事の一貫した説明をする"
+        }
+      ]
+    },
+    {
+      "id": "1838",
+      "word": "universal",
+      "phonetic": "[jùːnəvə́ːrsəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "普遍的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「万人に通じる」",
+        "◇ubiquitous「至る所にある」",
+        "大阪にあるテーマパークのUSJは“Universal Studios Japan”の略。",
+        "名 universe「宇宙(に存在するありとあらゆるもの)」",
+        "参 outer space「宇宙(空間)」"
+      ],
+      "word_origin": {
+        "formula": "uni-[1] + -verse[回る] -> 「(渦巻き状の)宇宙」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "\"Time is money\" is a universal truth.",
+          "ja": "「時は金なり」は普遍的な真理だ。"
+        }
+      ]
+    },
+    {
+      "id": "1839",
+      "word": "underlying",
+      "phonetic": "[ʌ̀ndərláɪɪŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "根底にある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(表面上はわからないが)重要な」",
+        "underlie「〜の基礎となる」(lie under 〜「〜の下に横たわる」)の現在分詞が形容詞に転じてできた語の形容詞形。",
+        "☆upcoming「やがてやって来る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the underlying cause of the problem",
+          "ja": "その問題の根底にある原因"
+        }
+      ]
+    },
+    {
+      "id": "1840",
+      "word": "spontaneous",
+      "phonetic": "[spɑntéɪniəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "自然発生的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(声援や拍手などが)自然に起こる」",
+        "(*「つい拍手をして[声援を送って]しまう」イメージ。)",
+        "「思わず」スッポン(を)を手にする。",
+        "副 spontaneously「自然に, 思わず」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a spontaneous cheer from the crowd",
+          "ja": "群衆から自然に起こる声援"
+        }
+      ]
+    }
+  ]
+}

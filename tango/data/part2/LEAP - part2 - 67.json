@@ -1,0 +1,261 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "882",
+      "word": "reception",
+      "phonetic": "[risépʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① もてなし, 歓迎会",
+            "② (ホテルの)フロント",
+            "③ 受信状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物を)受け入れる」",
+        "頻出 a wedding reception「結婚披露宴」",
+        "注意 ②「(ホテルの)フロント」は和製英語。",
+        "派生 receive「〜を受け取る」の名詞形。",
+        "名 receipt「領収書, 受領」",
+        "名 receptionist「ホテルの受付係」",
+        "名 recipient「(賞などを)受け取る人, (臓器を)受け取る人」",
+        "形 receptive「受け入れようとする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive a warm reception",
+          "ja": "暖かい歓迎を受ける"
+        },
+        {
+          "en": "leave the key at the reception desk",
+          "ja": "(ホテルの)フロントにかぎを預ける"
+        },
+        {
+          "en": "The phone reception is not good here.",
+          "ja": "ここは電波(の受信状況)がよくない。"
+        }
+      ]
+    },
+    {
+      "id": "883",
+      "word": "portion",
+      "phonetic": "[pɔ́ːrʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (食事の)1盛り",
+            "② 食堂などでの1人前",
+            "③ 一部"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a large portion of 〜「〜の大量の, 〜の大部分」",
+        "divide 〜 into small portions「〜を小分けにする」",
+        "語源 port-(=part 部分)",
+        "類義 a second helping「(食事の)おかわり」",
+        "a refill「(飲み物などの)おかわり」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a large portion of roast beef",
+          "ja": "大盛りのローストビーフ"
+        },
+        {
+          "en": "eat two portions of spaghetti",
+          "ja": "スパゲッティを2人前食べる"
+        },
+        {
+          "en": "a portion of his income",
+          "ja": "彼の収入の一部"
+        }
+      ]
+    },
+    {
+      "id": "884",
+      "word": "laundry",
+      "phonetic": "[lɔ́ːndri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (米)洗濯",
+            "② (米)洗濯物",
+            "③ クリーニング店 (= a cleaner's)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(集合的に)洗濯物」または「洗濯(という行為)」",
+        "頻出 ① do the laundry「(英)washing」「洗濯をする」",
+        "注意 -au-は /ɔː/ と発音する。",
+        "日本でも「コインランドリー」は普及している。",
+        "派生 detergent「洗剤」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cook, clean, and do the laundry",
+          "ja": "料理, 掃除, 洗濯をする"
+        },
+        {
+          "en": "bring the laundry in",
+          "ja": "洗濯物を取り込む"
+        },
+        {
+          "en": "a coin(-operated) laundry",
+          "ja": "コインランドリー"
+        }
+      ]
+    },
+    {
+      "id": "885",
+      "word": "nap",
+      "phonetic": "[nǽp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 昼寝, 仮眠"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 昼寝をする, 仮眠をとる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(特に, 昼間の決まった時間に)仮眠する」",
+        "類義 doze (off)「居眠りする」",
+        "頻出 ① take [have] a nap「昼寝をする, 仮眠をとる」",
+        "参考 snore「いびきをかく」",
+        "talk in one's sleep「寝言を言う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I'll just take a little nap.",
+          "ja": "ちょっと昼寝をします。"
+        },
+        {
+          "en": "nap after lunch",
+          "ja": "昼食後に昼寝をする"
+        }
+      ]
+    },
+    {
+      "id": "886",
+      "word": "wake",
+      "phonetic": "[wéik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 目が覚める"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (眠っている人を)起こす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(眠っていた状態から)目が覚める」",
+        "頻出 ① wake up「目が覚める」(＊主に話し言葉で使われる。)",
+        "注意 ① get up「起きる(布団やベッドから出る)」とは区別。",
+        "名 「通った跡」という意味もある。",
+        "派生 in the wake of 〜「〜に続いて, 〜の結果として(←〜の通った跡で)」",
+        "参考 oversleep「寝過ごす」",
+        "wake-up call「(ホテルなどの)モーニングコール」",
+        "I'd like a wake-up call at six, please.「モーニングコールを6時にお願いします。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I woke up at six a.m., but did not get up.",
+          "ja": "午前6時に目が覚めたが, 起きなかった。"
+        },
+        {
+          "en": "Wake me up [×Wake up me] at five a.m.",
+          "ja": "午前5時に起こしてください。"
+        }
+      ]
+    },
+    {
+      "id": "887",
+      "word": "vending machine",
+      "phonetic": "[véndiŋ məʃíːn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "自動販売機"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 install a 〜 vending machine「〜の自動販売機を設置する」",
+        "buy a canned coffee [a hamburger] from a vending machine「自動販売機で缶コーヒー[ハンバーガー]を買う」",
+        "語源 vend-「(販売)する」から「販売する機械」→「自動販売機」",
+        "派生 vendor「売り子, 行商人」",
+        "類義 a ticket office「(駅, 劇場などの)切符売り場」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a soft drink vending machine",
+          "ja": "清涼飲料水の自動販売機"
+        }
+      ]
+    },
+    {
+      "id": "888",
+      "word": "grocery",
+      "phonetic": "[gróʊsəri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 食料雑貨店",
+            "② (-ies)食料雑貨類"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①〈米〉grocery store",
+        "語源 groc-(=gross 総計の)から「多くの商品を扱う店」→「食料雑貨店」"
+      ],
+      "word_origin": {
+        "formula": "groc-(=gross 総計の)から「多くの商品を扱う店」→「食料雑貨店」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a local grocery (store)",
+          "ja": "地元の食料雑貨店"
+        },
+        {
+          "en": "put my groceries in a plastic bag",
+          "ja": "食料品をビニール袋に入れる"
+        }
+      ]
+    }
+  ]
+}

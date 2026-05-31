@@ -1,0 +1,328 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1112",
+      "word": "unite",
+      "phonetic": "[juːnáit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 団結する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を団結させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (自動詞で)「(人が)団結する」",
+        "▶ 「併せて1つにする(合体させる)」",
+        "uni-[1つ] + -te[する] から「1つにする」→「団結させる」",
+        "形 united「団結した, 結合した」 ⇔ the United Nations「国際連合」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "unite in fighting poverty",
+          "ja": "① 貧困撲滅で団結する"
+        },
+        {
+          "en": "Our party is closely united.",
+          "ja": "② 我が党は結束が固い(きっちりと団結させられている)."
+        }
+      ]
+    },
+    {
+      "id": "1113",
+      "word": "link",
+      "phonetic": "[líŋk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 関連, つながり"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (A to B) (A) を (B に) 関連づける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に因果関係を示す場合に使われる。",
+        "インターネットの「リンク(ハイパーリンクの略で, WEBページ上の文章や画像などをクリックすることで, 別のWEBページなどに飛び仕組み)も意味がある。 類 linkage「結合, (生物)連鎖」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a strong link between reading and academic success",
+          "ja": "① 読書と学業の成功との強い関連"
+        },
+        {
+          "en": "Physical health is closely linked to mental health.",
+          "ja": "② 肉体の健康は精神の健康に密接に関連している."
+        }
+      ]
+    },
+    {
+      "id": "1114",
+      "word": "relevant",
+      "phonetic": "[réləvənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "関連のある, 重要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(すでに述べられたことと)関連のある, (関連があるため)重要な」",
+        "re-[再び] + -levant[=lever 持ち上げる] →「相手の発言を取り上げる」",
+        "反 irrelevant「不適切な, 関連のない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Your arguments are not relevant to this discussion.",
+          "ja": "君の主張はこの議論と関連がない."
+        }
+      ]
+    },
+    {
+      "id": "1115",
+      "word": "murder",
+      "phonetic": "[mɝːdər]",
+      "level_tag": "A2 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 殺人"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② (形容詞的に)殺人の"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (計画的に)〜を殺す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(計画的に)殺人を犯すこと」",
+        "派生 murderer「殺人犯」",
+        "類 assassinate「〜を暗殺する」(*アラビア語から.)",
+        "派生 mortal「死ぬ運命の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a brutal murder",
+          "ja": "① 残忍な殺人"
+        },
+        {
+          "en": "a murder case",
+          "ja": "② 殺人事件"
+        },
+        {
+          "en": "The king was murdered.",
+          "ja": "③ その王は殺された."
+        }
+      ]
+    },
+    {
+      "id": "1116",
+      "word": "arrest",
+      "phonetic": "[ərést]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を逮捕する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 逮捕, (医学用語)停止"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "ar-[ad 方向] + -rest[休息] から「〜の動きを止める」→「〜を逮捕する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "arrest a man for shoplifting",
+          "ja": "① 万引きで男を逮捕する"
+        },
+        {
+          "en": "go into cardiopulmonary arrest",
+          "ja": "② 心肺停止に陥る"
+        }
+      ]
+    },
+    {
+      "id": "1117",
+      "word": "prison",
+      "phonetic": "[prízn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "刑務所"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "pri-[つかむ]から「つかまれた所」→「刑務所」",
+        "類 jail「刑務所, 拘置所」, cell「独房」",
+        "派生 prisoner「囚人, 捕虜」",
+        "他 imprison「〜を投獄する」",
+        "類 inmate「収容者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Eric is in prison.",
+          "ja": "エリックは服役中(刑務所の中)だ."
+        }
+      ]
+    },
+    {
+      "id": "1118",
+      "word": "vice",
+      "phonetic": "[váis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (売春, 麻薬などの)犯罪<不可算>"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 悪徳"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 副〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 vicious「悪意のある」 ⇔ a vicious circle[cycle]「悪循環」",
+        "反 virtue「美徳, 長所」",
+        "類 vice versa「逆もまた同様」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fight against vice on the streets",
+          "ja": "① 街の犯罪と戦う"
+        },
+        {
+          "en": "Gambling is his only vice.",
+          "ja": "② ギャンブルが彼の唯一の悪い所だ."
+        },
+        {
+          "en": "the vice president",
+          "ja": "③ 副大統領"
+        }
+      ]
+    },
+    {
+      "id": "1119",
+      "word": "witness",
+      "phonetic": "[wítnis]",
+      "level_tag": "B2 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 目撃者, 証人"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 証言"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を目撃する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "wit-[知っている] + -ness[状態] →「目撃者, 証人」",
+        "派生 wise「賢い」, wit「機知(←ものを知っていること)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the only witness to the murder",
+          "ja": "① その殺人の唯一の目撃者"
+        },
+        {
+          "en": "give[bear] witness",
+          "ja": "② 証言する"
+        },
+        {
+          "en": "witness the accident",
+          "ja": "③ その事故を目撃する"
+        }
+      ]
+    },
+    {
+      "id": "1120",
+      "word": "bullet",
+      "phonetic": "[búlit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "弾丸"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ a bullet train「(新幹線のような)高速鉄道」",
+        "bull-[=ball] + -et[小さな] →「小さい球」",
+        "類 booklet「小冊子」, cigarette「(巻き)たばこ」(*cigár「葉巻」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The bullet passed through his right leg.",
+          "ja": "弾丸は彼の右足を貫通した."
+        }
+      ]
+    }
+  ]
+}

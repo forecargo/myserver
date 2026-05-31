@@ -1,0 +1,272 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1179",
+      "word": "undergo",
+      "phonetic": "[ʌndərgóu]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を経験する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(不快なこと)を経験する, (手術など)を受ける」",
+        "語源: under-[下] + -go[行く] から「〜の下を行く」→「〜を経験する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "undergo cosmetic surgery",
+          "ja": "美容整形手術を受ける"
+        }
+      ]
+    },
+    {
+      "id": "1180",
+      "word": "seal",
+      "phonetic": "[síːl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を密封する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (personal 〜)印鑑, ハンコ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶欧米では印鑑, ハンコを使用する文化はなく, signature「署名」が一般的。",
+        "★「(密封のための)小さな印」が元の意味。別語源だが, sealには「アザラシ」の意味もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a sealed container",
+          "ja": "① 密閉容器"
+        },
+        {
+          "en": "② Could you put your personal seal here?",
+          "ja": "② ここに捺印していただけますか."
+        }
+      ]
+    },
+    {
+      "id": "1181",
+      "word": "incorporate",
+      "phonetic": "[inkɔ́ːrpərèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を取り入れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「全体の中の一部とする」「(*〜を法人化する)という意味でも使う。」",
+        "語源: in-[中] + -corpo-[身体] →「身体の中に入れる」 ☆corps「(人の)身体」",
+        "派生: incorporation「合併, 法人組織」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Many words have been incorporated into English from Latin.",
+          "ja": "多くの単語がラテン語から英語に取り入れられた."
+        }
+      ]
+    },
+    {
+      "id": "1182",
+      "word": "emerge",
+      "phonetic": "[imə́ːrdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (隠れていたものが)現れる",
+            "② (国家などが)台頭する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶今, じきに「現れる」 e-(=ex外に) + -merge[水の中] →「水の中から出る」",
+        "類義: immersion「熱中, 没頭(〜にどっぷりつかる)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① emerge from the darkness",
+          "ja": "① 暗闇から現れる"
+        },
+        {
+          "en": "② Japan emerged as a modern state.",
+          "ja": "② 日本は近代国家として台頭した."
+        }
+      ]
+    },
+    {
+      "id": "1183",
+      "word": "unfold",
+      "phonetic": "[ʌnfóuld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 展開する, はっきりしてくる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を広げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「閉じているものが広がる, 〜を広げる」",
+        "語源: un-[逆動作] + -fold[折りたたむ] から「開く」→「展開する」",
+        "類義: unlock「〜の鍵を開ける」 uncover「〜を明らかにする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① How will that drama unfold?",
+          "ja": "① そのドラマはどのように展開するのだろう."
+        },
+        {
+          "en": "② unfold a map",
+          "ja": "② 地図を広げる"
+        }
+      ]
+    },
+    {
+      "id": "1184",
+      "word": "derive",
+      "phonetic": "[diráiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (from 〜) (〜に)由来する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を引き出す, 得る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: de-[下] + -rive[river]から「川の水を引く」→「〜に由来する」",
+        "類義: rival「競争相手(←同じ川の水を使う人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This word derives from Latin.",
+          "ja": "① この単語はラテン語に由来する."
+        },
+        {
+          "en": "② derive pleasure from reading",
+          "ja": "② 読書から楽しみを得る"
+        }
+      ]
+    },
+    {
+      "id": "1185",
+      "word": "generate",
+      "phonetic": "[dʒénərèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "電気, 利益などを)生み出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(電気, 熱など)を発生させる」から「(利益や考え, 感情など)を生み出す」まで。",
+        "語源: gen-[生む]",
+        "派生: generation「世代, 生み出すこと, 発電」",
+        "派生: generator「発電機」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "generate electricity",
+          "ja": "電気を生み出す"
+        }
+      ]
+    },
+    {
+      "id": "1186",
+      "word": "possess",
+      "phonetic": "[pəzés]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を所有している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(貴重なもの, 才能など)を持っている」",
+        "語源: po-[=potent力] + -sess[座る] から「力が居座る」→「力を持っている」",
+        "類義: potential「可能性, 潜在能力」",
+        "派生: possession「所有(物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Every child possesses a range of abilities.",
+          "ja": "どの子も多彩な才能を所有している."
+        }
+      ]
+    },
+    {
+      "id": "1187",
+      "word": "retain",
+      "phonetic": "[ritéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を保持する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(なくなりそうなもの)を保持する」(*keepよりも堅い語。)",
+        "語源: re-[後ろに] + -tain[保つ] →「逃げないように後ろに保つ」",
+        "類義: maintain「〜を維持する」",
+        "派生: retention「保持」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "retain her beauty",
+          "ja": "彼女の美しさを保持する"
+        }
+      ]
+    }
+  ]
+}

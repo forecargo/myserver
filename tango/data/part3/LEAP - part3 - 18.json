@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1169",
+      "word": "cast",
+      "phonetic": "[kæst]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を投げる",
+            "② (光など)を投げかける",
+            "③ 〜に役を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(具体的な物)を投げる」から「(抽象的な事象)を投げかける」",
+        "派 newscaster「ニュースを読む人(視聴者に向けてニュースを投げる人)」",
+        "派 outcast「のけ者, 浮浪者(←外へ投げられた人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cast a net around a school of tuna",
+          "ja": "マグロの群れに網を投げ入れる"
+        },
+        {
+          "en": "cast a new light on the problem",
+          "ja": "その問題に新たな光を投げかける"
+        },
+        {
+          "en": "cast him in the part of Romeo",
+          "ja": "彼にロミオの役を与える"
+        }
+      ]
+    },
+    {
+      "id": "1170",
+      "word": "stun",
+      "phonetic": "[stʌ́n]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を気絶させる",
+            "② 〜をぼう然とさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ stun gun「スタンガン」は相手に電気ショックを与えて動けなくする(→気絶させる)護身用具。",
+        "類 astonish「〜を驚かせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stun him with a blow",
+          "ja": "殴って彼を気絶させる"
+        },
+        {
+          "en": "be stunned at[by] the news",
+          "ja": "その知らせを聞いてぼう然とする"
+        }
+      ]
+    },
+    {
+      "id": "1171",
+      "word": "illuminate",
+      "phonetic": "[iljúːmənèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を照らす",
+            "② (問題など)を解明する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜を照らす」→②「(問題など)を明らかにする」",
+        "語源 il-[方向]+-lumi-[光] ☆lucid「明快な」",
+        "派 illumination「照らすこと, 照明, 解明」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a beautifully illuminated castle",
+          "ja": "美しく照らされた城"
+        },
+        {
+          "en": "illuminate the difficult issue",
+          "ja": "その難しい問題を解明する"
+        }
+      ]
+    },
+    {
+      "id": "1172",
+      "word": "uncover",
+      "phonetic": "[ʌnkʌ́vər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を明らかにする, 暴く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「意図的に隠された情報を明るみに出す」",
+        "語源 un-[逆動作]+-cover[覆う]→「覆いを取る」",
+        "類 unlock「〜の錠を開ける」",
+        "類 untie「〜をほどく」",
+        "類 unveil「〜を明らかにする」",
+        "類 unearth「〜を発掘する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "uncover a scandal",
+          "ja": "不祥事を暴く"
+        }
+      ]
+    },
+    {
+      "id": "1173",
+      "word": "mend",
+      "phonetic": "[ménd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を修繕する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶〈英〉「(小規模な物)を修理する」〈米〉「(布製品など)を修繕する」",
+        "類 amend「〜を修正する」からa-が脱落した形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "mend a tear in my jacket",
+          "ja": "上着のほころびを修繕する"
+        }
+      ]
+    },
+    {
+      "id": "1174",
+      "word": "react",
+      "phonetic": "[riǽkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (〜に)反応する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人間, 物質, 市場などが)反応する」",
+        "語源 re-[再び]+-act[行動する]から「相手の行動に対して(再び)行動する」",
+        "派 reaction「反応, 対応」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "react angrily to the news",
+          "ja": "その知らせに怒りの反応を示す(怒って反応する)"
+        }
+      ]
+    },
+    {
+      "id": "1175",
+      "word": "endure",
+      "phonetic": "[indʒúər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(長期にわたり)〜に耐える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではbear, standがふつう。",
+        "語源 en-[動詞化]+-dure[長持ち] ☆during「〜の間」",
+        "派 duration「継続」",
+        "派 endurance「忍耐」",
+        "形 durable「耐久力のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "endure years of suffering",
+          "ja": "長年の苦労に耐える"
+        }
+      ]
+    },
+    {
+      "id": "1176",
+      "word": "bind",
+      "phonetic": "[báind]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を結びつける, 縛る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではtieのほうが使われる。",
+        "派 binder「バインダー」はもともと「紙を縛って束ねるもの」",
+        "派 binding「拘束力のある」",
+        "活用 bind-bound [báund]-bound [báund]",
+        "熟 be bound up with 〜「〜と密接な関係がある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bind two communities together",
+          "ja": "2つの社会を結びつける"
+        }
+      ]
+    },
+    {
+      "id": "1177",
+      "word": "encounter",
+      "phonetic": "[inkáuntər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に偶然出会う",
+            "② (問題, 反対など)に遭う"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 出会い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(予期せぬ人や困難など)に出会う」",
+        "▶「日常ではcome acrossがふつう」",
+        "語源 en-(=in[中に])+counter[ぶつかる]→「〜にぶつかる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "encounter a bear in the woods",
+          "ja": "森の中でクマに遭遇する"
+        },
+        {
+          "en": "encounter serious problems",
+          "ja": "深刻な問題にぶつかる"
+        },
+        {
+          "en": "my first encounter with her",
+          "ja": "私と彼女の最初の出会い"
+        }
+      ]
+    },
+    {
+      "id": "1178",
+      "word": "trace",
+      "phonetic": "[tréis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を捜し出す",
+            "② 〜の追跡調査をする"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (微妙な)跡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(犯人など)を追跡して見つける」から「(歴史)をさかのぼる」まで",
+        "語源 trac-[引っぱる]→「引かれた線(跡)を追う」",
+        "類 attract「〜を引きつける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "trace a missing person",
+          "ja": "行方不明の人を捜し出す"
+        },
+        {
+          "en": "trace my family tree back 100 years",
+          "ja": "家族の系譜を100年さかのぼる"
+        },
+        {
+          "en": "disappear without trace",
+          "ja": "跡形もなく消える"
+        }
+      ]
+    }
+  ]
+}

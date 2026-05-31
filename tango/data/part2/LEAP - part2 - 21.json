@@ -1,0 +1,276 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "554",
+      "word": "associate",
+      "phonetic": "[əsóuʃièit], [əsóuʃiət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A with B) (AをBと)関連づける, (A)から(B)を連想する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (with 〜) (〜と)付き合う"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 同僚, 共同経営者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(本来は別々のカテゴリーに属していたもの)を結びつける」",
+        "＊as-(=ad 方向)+-soci-(=society 社会)から「同じ社会に入れる」→「結びつける」",
+        "名 associate「準〜, 副〜」",
+        "名 associátion「連想, 協会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① associate brand names with high quality",
+          "ja": "① ブランド名から高品質を連想する"
+        },
+        {
+          "en": "② Don't associate with shady people.",
+          "ja": "② 怪しいやつらと付き合うな。"
+        },
+        {
+          "en": "③ work with my associates till nine",
+          "ja": "③ 9時まで同僚と働く"
+        }
+      ]
+    },
+    {
+      "id": "555",
+      "word": "stick",
+      "phonetic": "[stík]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を貼り付ける",
+            "② (舌や脚を)出す"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (to) (主義などを)守る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「stick (棒切れ)が突き刺さる」イメージ。",
+        "頻出 get stuck「動けなくなる」",
+        "stick with 〜「〜を堅持する」",
+        "＊日本語の「ステッカー」は英語では sticker [stíkər]「貼り付くもの」と表現する。",
+        "形 sticky「ねばねばした」",
+        "④〈口語〉stúck-úp「お高くとまった, 高慢な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① stick posters on the wall",
+          "ja": "① 壁にポスターを貼る"
+        },
+        {
+          "en": "② stick my head[×face] out of the window",
+          "ja": "② 窓から顔を突き出す"
+        },
+        {
+          "en": "③ stick to my principles",
+          "ja": "③ 自分の主義を守る"
+        }
+      ]
+    },
+    {
+      "id": "556",
+      "word": "thief",
+      "phonetic": "[θíːf]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "泥棒"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(こっそりと持ち去る)泥棒」",
+        "◇robber「(暴力や脅しによる)強盗」",
+        "búrglár「(押し入りの)強盗」",
+        "＊a chief thief「泥棒の頭」というフレーズで覚えよう。",
+        "名 théft「窃盗, 盗み」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A thief broke into the building.",
+          "ja": "泥棒がその建物に侵入した。"
+        }
+      ]
+    },
+    {
+      "id": "557",
+      "word": "crime",
+      "phonetic": "[kráim]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "犯罪"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(法律上の)罪」",
+        "◇sín「(宗教上, 道徳上の)罪」",
+        "頻出 commit a crime「犯罪を犯す」",
+        "gun crime「銃犯罪」",
+        "注意「(個々の犯罪)→〈可算〉」「(犯罪全般)→〈不可算〉」",
+        "名 criminal [krímənl]「犯人」",
+        "形 criminal「犯罪の」",
+        "⇨ criminal law「刑法」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "combat[fight] crime",
+          "ja": "犯罪と戦う"
+        }
+      ]
+    },
+    {
+      "id": "558",
+      "word": "motive",
+      "phonetic": "[móutiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "動機"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(犯罪などの行動の背景にある)動機」",
+        "頻出 one's motive for 〜「〜の動機」",
+        "＊mot-(=move 動かす)+-ive[性質]→「動かす性質」",
+        "他 mótiνate「(人)に動機を与える」",
+        "名 motiνátion「意欲, 動機づけ」",
+        "⇨ people with motivation「やる気ある人々」(=motivated people)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "his motive for the crime",
+          "ja": "彼の犯行の動機"
+        }
+      ]
+    },
+    {
+      "id": "559",
+      "word": "punish",
+      "phonetic": "[pʌ́niʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "((人) for 〜) (人)を(〜の理由で)罰する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「痛い目に合わせる」から「(司法レベルで)罰する」まで。",
+        "名 púnishment「罰」",
+        "⇨ as (a) punishment for 〜「〜の罰として」",
+        "capital punishment「死刑」(=the death penalty)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "severely punish him for breaking the rules",
+          "ja": "規則を破ったことに対して彼を厳しく罰する"
+        }
+      ]
+    },
+    {
+      "id": "560",
+      "word": "violate",
+      "phonetic": "[váɪəlèɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (法律などに)違反する",
+            "② (権利などを)侵害する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① violate the law[an agreement, a treaty]「法[協定, 条約]に違反する」",
+        "② violate human rights[peace]「人権[平和]を侵害する」",
+        "＊vio-[暴力]→「暴力的に何かを破る, 違反する, 侵害する」",
+        "名 víolence「暴力」",
+        "名 violátion「違反, 侵害」",
+        "形 víolent「暴力的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① violate international law",
+          "ja": "① 国際法を破る"
+        },
+        {
+          "en": "② violate human rights",
+          "ja": "② 人権を侵害する"
+        }
+      ]
+    },
+    {
+      "id": "561",
+      "word": "legal",
+      "phonetic": "[líːgəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 合法の",
+            "② 法律の, 法的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「法律で認められた, 法律に関する」",
+        "頻出 ② take (a) legal action (against 〜)「(〜に対して)法的手段をとる」",
+        "反 ① illégal「違法の」",
+        "⇨ illégally.「そのDVDは違法にダビングされたものだ。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① In Japan, the current legal drinking age is 20.",
+          "ja": "① 日本では, 現在, 飲酒が許されているのは20歳から(合法の飲酒ができる年齢は20歳)です。"
+        },
+        {
+          "en": "② seek legal advice",
+          "ja": "② 法的助言を求める"
+        }
+      ]
+    }
+  ]
+}

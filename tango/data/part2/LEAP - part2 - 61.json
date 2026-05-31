@@ -1,0 +1,246 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "843",
+      "word": "spare",
+      "phonetic": "[spéər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 余分な, 予備の"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (時間やお金, 労力)を割く",
+            "③ 〜を惜しむ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「取っておいた」",
+        "頻出 ② spare A B 「A(人)にB(時間, お金, 労力)を割く」(≒spare B for A)",
+        "spare me to spare 「空き時間(←割くための時間)」",
+        "spare no effort in doing 「〜するのに努力を惜しまない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "in my spare time",
+          "ja": "① 余分な時間で"
+        },
+        {
+          "en": "Could you spare me a few minutes?",
+          "ja": "② 2, 3割いてもらえませんか."
+        },
+        {
+          "en": "spare no expense",
+          "ja": "③ 出費を惜しまない"
+        }
+      ]
+    },
+    {
+      "id": "844",
+      "word": "arrange",
+      "phonetic": "[əréindʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を手配する, 〜の段取りをつける",
+            "② 〜を整理する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「バラバラの物をきちんとした状態に整えて準備する」",
+        "頻出 ① arrange (for A) to do 「(Aが)〜するよう手配する」",
+        "arrange a meeting 「会議のばずを整える」",
+        "arrange a schedule 「予定を調整する」",
+        "派生 ar-(=ad 方向) + -range [整える] →「〜をきちんと整える」",
+        "名 arrangement 「手配, 取り決め, 配列」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "arrange for someone to drive her home",
+          "ja": "① 誰かが彼女を家まで車で送ってくれるよう手配する"
+        },
+        {
+          "en": "arrange the documents according to size[their size(s)]",
+          "ja": "② 大きさによって書類を整理する"
+        }
+      ]
+    },
+    {
+      "id": "845",
+      "word": "adapt",
+      "phonetic": "[ədǽpt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 適応する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を適応させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「現状を調整して, 新しい状況に合わせる」",
+        "頻出 ① adapt (oneself) to 〜 「〜に適応する, 慣れる」",
+        "② adapt A to B 「AをBに適応させる」",
+        "注意 adopt 「〜を採用する」と混同しない。",
+        "派生 家電製品などで用いられる「アダプター」は「電圧などを機械の設定に適応させる器具」のこと。",
+        "名 adaptation 「適応」",
+        "形 adaptable 「適応力がある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "adapt to a new school life",
+          "ja": "① 新しい学校生活に適応する"
+        },
+        {
+          "en": "adapt the menu to customers' needs",
+          "ja": "② メニューを客の要望に合わせる"
+        }
+      ]
+    },
+    {
+      "id": "846",
+      "word": "match",
+      "phonetic": "[mǽtʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜と調和する",
+            "② 〜に匹敵する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 釣り合う人[物], 好敵手"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「相手に匹敵する人」から",
+        "頻出 ① 〈物〉が〈物〉と調和する, 合う",
+        "注意 ① 〈物〉が〈人〉に似合うとは目的語が違うので区別。",
+        "名 match 「(火をつける)マッチ(棒)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This sweater matches (≒ goes with) your skirt.",
+          "ja": "① このセーターは君のスカートによく合っている."
+        },
+        {
+          "en": "No one can match her in tennis.",
+          "ja": "② テニスで彼女にかなう人はいない."
+        },
+        {
+          "en": "He is no match for the champion.",
+          "ja": "③ 彼はチャンピオンの相手にはならない."
+        }
+      ]
+    },
+    {
+      "id": "847",
+      "word": "fit",
+      "phonetic": "[fít]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (サイズが人)に合う"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 健康な",
+            "③ (to do) (~するのに)適した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ぴったり合った」",
+        "注意 ① suit 「〜に似合っている」と区別。",
+        "This dress suits you. 「このワンピースはあなたに似合っている。」",
+        "② keep fit 「(規則的に運動して)健康を保つ」(*日常では stay healthy)",
+        "名 fitness 「健康」",
+        "参 a fitting room 「試着室」",
+        "one-size-fits-all 「フリーサイズの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This dress fits you.",
+          "ja": "① このワンピースは(サイズが)君にぴったりだ."
+        },
+        {
+          "en": "walk every morning to keep fit",
+          "ja": "② 健康維持のため毎朝歩く"
+        },
+        {
+          "en": "This mushroom is not fit to eat.",
+          "ja": "③ このキノコは食用には適さない."
+        }
+      ]
+    },
+    {
+      "id": "848",
+      "word": "emergency",
+      "phonetic": "[imə́ːrdʒənsi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 緊急事態"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (形容詞的に)緊急の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(命に関わるような危険が)突然現れること, 突然の crisis(危機)」",
+        "頻出 ① in case of emergency 「緊急の場合には」",
+        "② an emergency exit「非常口」",
+        "an emergency meeting「緊急会議」",
+        "派生 emergent 「緊急の, 新興の」",
+        "emergent countries 「新興国家」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "An emergency has arisen.",
+          "ja": "① 緊急事態が生じた."
+        },
+        {
+          "en": "an emergency room (ER)",
+          "ja": "② 救急処置室"
+        }
+      ]
+    }
+  ]
+}

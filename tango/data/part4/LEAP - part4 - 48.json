@@ -1,0 +1,330 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1892",
+      "word": "outlet",
+      "phonetic": "[áutlet]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (電気の)コンセント",
+            "② (販売)店",
+            "③ (感情などの)はけ口"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(①電気 ②商品 ③感情)などを放出する場所」",
+        "▶ let ~ out「〜を外に出してやる」の語順が逆転してきた語"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "plug a vacuum cleaner into the outlet[×consent]",
+          "ja": "① 掃除機をコンセントに差し込む"
+        },
+        {
+          "en": "an outlet for a famous brand",
+          "ja": "② 有名ブランドの直営店"
+        },
+        {
+          "en": "an outlet for her frustration",
+          "ja": "③ 彼女の欲求不満のはけ口"
+        }
+      ]
+    },
+    {
+      "id": "1893",
+      "word": "accommodation",
+      "phonetic": "[əkὰmədéisən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "((米)-s)宿泊施設"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(短期間利用するための)宿泊施設」",
+        "他 accommodate「〜を収容する」"
+      ],
+      "word_origin": {
+        "formula": "ac-(=ad 方向) + -com-(=con 共に) + -mod-(=mode 様式) + -ation(=こと) →「一緒の様式に入れること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "student accommodations",
+          "ja": "学生用の宿泊施設"
+        }
+      ]
+    },
+    {
+      "id": "1894",
+      "word": "haven",
+      "phonetic": "[héivən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "避難所, 保護区"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や動物が)平和に暮らせる場所」",
+        "sánctuary「自然保護地区」",
+        "hárbor「(船が安全に停泊できる地形をもった自然の)港」から派生した語",
+        "(*pórt「hárborよりも規模が大きく, 港湾施設を完備した)港」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The island is a popular tax haven.",
+          "ja": "その島は人気のある税金回避地だ."
+        }
+      ]
+    },
+    {
+      "id": "1895",
+      "word": "venue",
+      "phonetic": "[vénjuː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "開催地, 会場"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(催し物, 会議などが)行われる場所」",
+        "*invént「〜を発明する(←(アイデアが)頭の中に入ってくる)」",
+        "a concert venue「コンサート会場」"
+      ],
+      "word_origin": {
+        "formula": "ven-[来る]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a venue for the World Cup",
+          "ja": "ワールドカップの開催地"
+        }
+      ]
+    },
+    {
+      "id": "1896",
+      "word": "intersection",
+      "phonetic": "[ìntərsékʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "交差点"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではcóner「(曲がり)角」のほうが使われる."
+      ],
+      "word_origin": {
+        "formula": "inter-[間] + -sect-[切る] + -ion[こと] →「(道の)間を横切る所」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Turn left at the intersection.",
+          "ja": "交差点を左に曲がってください."
+        }
+      ]
+    },
+    {
+      "id": "1897",
+      "word": "pavement",
+      "phonetic": "[péivmənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に英))歩道"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ (米)sidewalk",
+        "他 páve「〜を舗装する」 ⇨ pave the way「道を整える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bicycles left on the pavement",
+          "ja": "歩道上に放置された自転車"
+        }
+      ]
+    },
+    {
+      "id": "1898",
+      "word": "pedestrian",
+      "phonetic": "[pədéstriən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "歩行者"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "歩行者の, 平凡な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(車に対しての)歩行者」",
+        "*pédal「ペダル」",
+        "a pedestrian mall「歩行者天国」",
+        "crósswalk「横断歩道」"
+      ],
+      "word_origin": {
+        "formula": "ped-[足]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a pedestrian bridge",
+          "ja": "歩道橋(歩行者用の橋)"
+        }
+      ]
+    },
+    {
+      "id": "1899",
+      "word": "excursion",
+      "phonetic": "[ikskə́ːrʒən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "小旅行, 遠足"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「団体で行く(主に日帰りの)旅」",
+        "*occúr「起こる」",
+        "(* a school trip の堅い表現.)"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に] + -cur-[走る]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a school excursion to a zoo",
+          "ja": "動物園への遠足"
+        }
+      ]
+    },
+    {
+      "id": "1900",
+      "word": "shipping",
+      "phonetic": "[ʃípiŋ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(商品の)発送"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(陸海空を問わず)商品の輸送, 発送」",
+        "元々, 商品を船(ship)で運んだ名残り.",
+        "他 ship「(船, 飛行機などで)〜を発送する」",
+        "名 shipment「発送, 発送品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Free shipping anywhere within Japan.",
+          "ja": "日本国内ならどこでも送料(発送)無料."
+        }
+      ]
+    },
+    {
+      "id": "1901",
+      "word": "thread",
+      "phonetic": "[θréd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 糸"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜に糸を通す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「よじれたもの」が元の意味.",
+        "*thrów「(腕をよじるように)〜を投げる」",
+        "néedle「針」",
+        "string「ひも」",
+        "líne「釣り糸」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sew with silk thread",
+          "ja": "① 絹糸で縫う"
+        },
+        {
+          "en": "thread a needle",
+          "ja": "② 針に糸を通す"
+        }
+      ]
+    },
+    {
+      "id": "1902",
+      "word": "ornament",
+      "phonetic": "[ɔ́ːrnəmənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(小さな)飾り, 置物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「招きネコ」から「(クリスマスなどの)装飾品」まで.",
+        "形 ornaméntal「装飾用の」 ⇨ ornamental plants「観葉植物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Christmas tree ornaments",
+          "ja": "クリスマスツリーの飾り"
+        }
+      ]
+    }
+  ]
+}

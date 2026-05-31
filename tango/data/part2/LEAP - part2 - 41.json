@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "696",
+      "word": "memorize",
+      "phonetic": "[méməraìz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を暗記する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「情報を入れる」ことに重点がある。(*「(人の名前)を記憶する」は、「情報を保持する」ことに重点があるので、remember someone's name と表現する。)",
+        "▷ learn ~ by heart「(暗唱できるように詩などを)暗記する」",
+        "語源 memor-[記憶] + -ize[動詞語尾]",
+        "派生 memorization「暗記」",
+        "類義 memory「記憶力, 思い出」⇔bring back memories「記憶を呼び起こす」",
+        "類義 memento「記念物」, memoirs「回顧録」"
+      ],
+      "word_origin": {
+        "formula": "memor-[記憶] + -ize[動詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "memorize the times tables",
+          "ja": "九九を暗記する"
+        }
+      ]
+    },
+    {
+      "id": "697",
+      "word": "forgive",
+      "phonetic": "[fərgív]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(人, 過ち)を許す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(過ちを責めない, 責めるのをやめる」",
+        "▷ excuse「(ささいな失礼)を許す」",
+        "頻出 forgive (人) for ~「(人)が〜をしたことを許してやる」",
+        "語源 for-[強意] + -give[与える] から「すっかり与える」→「免除する」→「許す」",
+        "活用 forgive-forgave-forgiven"
+      ],
+      "word_origin": {
+        "formula": "for-[強意] + -give[与える] から「すっかり与える」→「免除する」→「許す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "forgive him for what he said",
+          "ja": "彼の発言に対して彼を許す"
+        }
+      ]
+    },
+    {
+      "id": "698",
+      "word": "grant",
+      "phonetic": "[grǽnt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (take ~ for granted) 〜を当然のことと思う",
+            "② (権利など)を与える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 交付, 補助金"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① take it for granted that SV「SVを当然のことと思う」",
+        "頻出 ② Granted (that) S V', but SV.「確かにS V'だが, SVだ.」",
+        "注意 think it is natural that SV「SVを当然のこと(←自然な流れ)と思う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① take cars for granted",
+          "ja": "① 車の存在を当然と考える"
+        },
+        {
+          "en": "② grant permission to visit",
+          "ja": "② 訪問の許可を与える"
+        },
+        {
+          "en": "③ obtain a grant",
+          "ja": "③ 補助金を得る"
+        }
+      ]
+    },
+    {
+      "id": "699",
+      "word": "recall",
+      "phonetic": "[rikɔ́ːl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を思い出す",
+            "② (商品を)回収する, リコールする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(法廷の場などで)意識的に思い出す」 ②「(不良品, 欠陥製品などを)回収する(呼び戻す)」",
+        "▷ remember「〜を覚えている」",
+        "語源 re-(=back 元へ) + -call[呼ぶ] →「戻って来いと呼ぶ」",
+        "類義 recolléct「〜を思い出す」( *recáll より堅い語。) recollection「思い出, 回顧」"
+      ],
+      "word_origin": {
+        "formula": "re-(=back 元へ) + -call[呼ぶ] →「戻って来いと呼ぶ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① I recalled that I had seen him cheating on the test.",
+          "ja": "① 彼がテストでカンニングするのを目撃したことを思い出した。"
+        },
+        {
+          "en": "② recall cars due to an engine fault",
+          "ja": "② エンジンの欠陥のため車を回収する"
+        }
+      ]
+    },
+    {
+      "id": "700",
+      "word": "outlook",
+      "phonetic": "[áutlùk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (人生, 世界などに対する)考え方",
+            "② (経済, 天候などの)見通し"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「外の眺め, (物事の)客観的な見通し」",
+        "頻出 ① one's outlook on life「〜の人生観」",
+        "語源 look out「外を見る」の語順が逆転してできた語。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "look out「外を見る」の語順が逆転してできた語。"
+      },
+      "examples": [
+        {
+          "en": "① broaden my outlook on life",
+          "ja": "① 人生観を広げる"
+        },
+        {
+          "en": "② the economic outlook",
+          "ja": "② 経済的な見通し"
+        }
+      ]
+    },
+    {
+      "id": "701",
+      "word": "perspective",
+      "phonetic": "[pərspéktiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (経験などで得られる)視点<可算>",
+            "② (大局的な)見方, 遠近法<不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では from a ~ point of view「〜の視点で」のほうが使われる。",
+        "頻出 ① view ~ from a new perspective「〜を新たな視点で見る」",
+        "頻出 ② S give (人) a whole new perspective on ...「Sのため(人)の…に対する見方がガラリと変わる」",
+        "語源 per-[through 通して] + -spect-[見る] →「全体を通して見る」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して] + -spect-[見る] →「全体を通して見る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① gain a fresh perspective",
+          "ja": "① 新たな視点を得る"
+        },
+        {
+          "en": "② keep the situation in perspective",
+          "ja": "② 状況を大局的に捉える"
+        }
+      ]
+    },
+    {
+      "id": "702",
+      "word": "abandon",
+      "phonetic": "[əbǽndən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を捨てる, 放棄する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(希望, 計画)を断念する」から「(国, 家族)を置き去りにする」まで。",
+        "語源 a-[の下に] + -ban-[命じる] から「命じられるがままになる」→「(権利などを)放棄する」",
+        "類義 bánish「〜を追放する」"
+      ],
+      "word_origin": {
+        "formula": "a-[の下に] + -ban-[命じる] から「命じられるがままになる」→「(権利などを)放棄する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "abandon my dream of studying abroad",
+          "ja": "留学する夢を諦める"
+        }
+      ]
+    }
+  ]
+}

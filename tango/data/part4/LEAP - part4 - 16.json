@@ -1,0 +1,361 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1558",
+      "word": "assault",
+      "phonetic": "[əsɔ́ːlt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "襲撃, 暴行"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(突然の激しい)襲撃, 暴行」(*動詞も同じ形)",
+        "sált「塩(←口に跳びかかる刺激)」 sálmon「鮭(←跳んで帰る魚)」"
+      ],
+      "word_origin": {
+        "formula": "as-[=ad 方向]+-sault[跳ぶ]→「〜へ跳びかかる」",
+        "description": "sált「塩(←口に跳びかかる刺激)」, sálmon「鮭(←跳んで帰る魚)」"
+      },
+      "examples": [
+        {
+          "en": "make assaults on station staff",
+          "ja": "駅員たちに対して暴行する"
+        }
+      ]
+    },
+    {
+      "id": "1559",
+      "word": "troop",
+      "phonetic": "[trúːp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "軍隊"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「兵士」に重点がある。◇ármy「(巨大に組織化された)軍隊」",
+        "tróphy[tróufi]「戦利品, 記念品」とセットで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "send troops to the disaster-affected area",
+          "ja": "被災地に軍を派遣する"
+        }
+      ]
+    },
+    {
+      "id": "1560",
+      "word": "shield",
+      "phonetic": "[ʃíːld]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(against 〜) (〜に対する)盾, 防御物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物)を危害から守ってくれるもの」",
+        "「シールド線」とは「電磁干渉(EMI)から信号を保護するために使用されるケーブルの一種」のこと。",
+        "他 shield「〜を防ぐ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The ozone layer forms a shield against harmful solar rays.",
+          "ja": "オゾン層は有害な太陽光線を遮蔽する盾を形成する。"
+        }
+      ]
+    },
+    {
+      "id": "1561",
+      "word": "torture",
+      "phonetic": "[tɔ́ːrtʃər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 拷問",
+            "② 辛いこと"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を拷問にかける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "tórment「(継続[反復]的な)苦痛」",
+        "tórtoise「カメ(←足のねじれた生物)」"
+      ],
+      "word_origin": {
+        "formula": "tort-[ねじる]+-ure[動作]から「(生きた人間の体を)ねじること」→「拷問」",
+        "description": "tórment「(継続[反復]的な)苦痛」, tórtoise「カメ(←足のねじれた生物)」"
+      },
+      "examples": [
+        {
+          "en": "① remain silent even under torture",
+          "ja": "① 拷問を受けても口を割らない"
+        },
+        {
+          "en": "② This job is mental torture.",
+          "ja": "② この仕事は精神的に辛い。"
+        },
+        {
+          "en": "③ torture an enemy with water",
+          "ja": "③ 敵を水責めにする"
+        }
+      ]
+    },
+    {
+      "id": "1562",
+      "word": "dispute",
+      "phonetic": "[dispjúːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 論争, 紛争"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜に異議を唱える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期間にわたる深刻な)論争, 争い」(*cóntroversyより一般的な語)",
+        "compúter「コンピュータ」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ]+-pute[考える]から。",
+        "description": "compúter「コンピュータ」"
+      },
+      "examples": [
+        {
+          "en": "① settle the border dispute",
+          "ja": "① 国境問題(紛争)を解決する"
+        },
+        {
+          "en": "② dispute the election results",
+          "ja": "② 選挙結果に異議を唱える"
+        }
+      ]
+    },
+    {
+      "id": "1563",
+      "word": "combat",
+      "phonetic": "[kómbæt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 戦闘"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜と戦う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「特に武器を用いる戦争中のfighting(喧嘩)」",
+        "báttle「争い」",
+        "combátive「好戦的な」"
+      ],
+      "word_origin": {
+        "formula": "com-[共に]+-bat[叩く]",
+        "description": "báttle「争い」, combátive「好戦的な」"
+      },
+      "examples": [
+        {
+          "en": "① go into combat",
+          "ja": "① 戦闘状態に入る"
+        },
+        {
+          "en": "② combat crime",
+          "ja": "② 犯罪と戦う"
+        }
+      ]
+    },
+    {
+      "id": "1564",
+      "word": "tactics",
+      "phonetic": "[tǽktiks]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "戦術"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(戦略内の個々の)戦術」",
+        "strátegy「戦略」",
+        "táctile「触覚の」"
+      ],
+      "word_origin": {
+        "formula": "tact-[触ること]から「感触を確かめ組み立てること」→「戦術」",
+        "description": "táctile「触覚の」"
+      },
+      "examples": [
+        {
+          "en": "delaying tactics",
+          "ja": "引き延ばし戦術"
+        }
+      ]
+    },
+    {
+      "id": "1565",
+      "word": "quarrel",
+      "phonetic": "[kwɔ́ːrəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (with 〜) (〜と)口論する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 口論"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(知り合いや家族との)口げんか」(*くだけた表現では, 「口論」にfight, 「喧嘩」にhave a fightも使われる。「殴り合い」ならhave a fist fightとする)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① quarrel with a neighbor",
+          "ja": "① 近所の人と口論する"
+        },
+        {
+          "en": "② have a terrible quarrel with him",
+          "ja": "② 彼とひどい口論をする"
+        }
+      ]
+    },
+    {
+      "id": "1566",
+      "word": "contend",
+      "phonetic": "[kənténd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (with 〜) (〜と)戦う"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (that SV) (〜と)強く主張する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(敵や困難などと)戦う」",
+        "▶②「(論争などで奮闘する→)強く主張する」",
+        "conténtious「論争好きな, 議論を呼ぶ」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に]+-tend[伸びる]から「(何かを目指して)共に伸びる」→「戦う」",
+        "description": "conténtious「論争好きな, 議論を呼ぶ」"
+      },
+      "examples": [
+        {
+          "en": "① have to contend with difficulties",
+          "ja": "① 困難と戦わなくてはならない"
+        },
+        {
+          "en": "② contend that she is innocent",
+          "ja": "② 彼女は無実だと主張する"
+        }
+      ]
+    },
+    {
+      "id": "1567",
+      "word": "slaughter",
+      "phonetic": "[slɔ́ːtər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を虐殺する, (食用肉に)殺す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動物, 人)を大量に殺す」",
+        "「(暴力的に)殺す」と同語源。",
+        "slásh「切りつける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Thousands of seals are slaughtered there every year.",
+          "ja": "そこでは毎年何千頭ものアザラシが殺されている。"
+        }
+      ]
+    },
+    {
+      "id": "1568",
+      "word": "suppress",
+      "phonetic": "[səprés]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (反乱, 暴動)を鎮圧する",
+            "② (笑い, 怒り)を抑える"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "sup-[=sub 下]+-press[押す]→「下に押しつける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① suppress a rebellion",
+          "ja": "① 反乱を鎮圧する"
+        },
+        {
+          "en": "② suppress my anger",
+          "ja": "② 怒りを抑える"
+        }
+      ]
+    }
+  ]
+}

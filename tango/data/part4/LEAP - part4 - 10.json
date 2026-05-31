@@ -1,0 +1,304 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1496",
+      "word": "demographic",
+      "phonetic": "[di:mægræfik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 人口統計上の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (一群の人々から成る)年齢層"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ある地域の人口の構成に関わる"
+      ],
+      "word_origin": {
+        "formula": "demo-[民衆] + -grah-[図] -> 「民衆の状態を図表にしたもの」",
+        "description": "democracy「民主主義(←民衆の統治)」, demography「人口統計学」"
+      },
+      "examples": [
+        {
+          "en": "major demographic changes",
+          "ja": "① 人口統計上の大きな変化"
+        },
+        {
+          "en": "the 18-30 demographic",
+          "ja": "② 18歳から30歳の年齢層"
+        }
+      ]
+    },
+    {
+      "id": "1497",
+      "word": "donate",
+      "phonetic": "[dóuneit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を寄付する",
+            "② (臓器などを)提供する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (福祉のために, 金や物)を提供する",
+        "do-[与える]",
+        "endow「〜を授ける」",
+        "donation「寄付, 贈与」",
+        "a blood donation「献血」",
+        "donor「ドナー」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "donate ten million yen to my old school",
+          "ja": "① 母校に1,000万円を寄付する"
+        },
+        {
+          "en": "donate blood every three months",
+          "ja": "② 3か月に一度献血する(血を提供する)"
+        }
+      ]
+    },
+    {
+      "id": "1498",
+      "word": "flourish",
+      "phonetic": "[flə́:riʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "栄える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (文化, 学問, 思想などが歴史上)繁栄する",
+        "flou-[花開く] + -ish[動詞語尾]",
+        "florist「花屋」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Lisbon flourished as a trading center.",
+          "ja": "リスボンは貿易の中心地として栄えた."
+        }
+      ]
+    },
+    {
+      "id": "1499",
+      "word": "conform",
+      "phonetic": "[kənfɔ́:rm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (〜に)合わせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (規則や集団行動に)従う, 順応する",
+        "conformity「一致」",
+        "conformist「(社会通念や体制などに)順応する人」"
+      ],
+      "word_origin": {
+        "formula": "con-(=com 共に) + -form[形] -> 「形を合わせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "pressure to conform to the group",
+          "ja": "集団(まわりの人)に合わせる重圧"
+        }
+      ]
+    },
+    {
+      "id": "1500",
+      "word": "comply",
+      "phonetic": "[kəmplái]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(with 〜) (〜に)従う, 遵守する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (要求や規則, 命令などに)従う",
+        "imply「(暗に)〜を意味する(中に折り込む)」",
+        "compliance「(主に企業の)法令遵守, コンプライアンス」"
+      ],
+      "word_origin": {
+        "formula": "com-[共に] + -ply[折る] -> 「合わせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "comply with the regulations",
+          "ja": "その規則を遵守する"
+        }
+      ]
+    },
+    {
+      "id": "1501",
+      "word": "legislation",
+      "phonetic": "[lèdʒəsléiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(集合的に)法律<不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「(新たな問題に取り組むための)法」(*「(個別の)法」のことももある.)",
+        "leg-(=legal 法律)",
+        "legislate「法律を制定する」",
+        "legislative「立法の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "new legislation on the sale of guns",
+          "ja": "銃販売の新たな法律"
+        }
+      ]
+    },
+    {
+      "id": "1502",
+      "word": "testimony",
+      "phonetic": "[téstəmòuni]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(法廷などでの)証言"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "testify「証言する」",
+        "testimonial「証明書, 推薦状」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the witness's testimony",
+          "ja": "目撃者の証言"
+        }
+      ]
+    },
+    {
+      "id": "1503",
+      "word": "jury",
+      "phonetic": "[dʒúəri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "陪審(員団)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 通例「12名のjúror(陪審員)によって構成される集団」",
+        "verdict「評決」"
+      ],
+      "word_origin": {
+        "formula": "ju-[=just 正しい]から「正しい判断をする人々」→「陪審」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a trial by jury",
+          "ja": "陪審裁判"
+        }
+      ]
+    },
+    {
+      "id": "1504",
+      "word": "legitimate",
+      "phonetic": "[lidʒítəmət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 正当な",
+            "② 合法の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「合法の」→「正当な, 道理にかなった」",
+        "leg-(=légal 法律) (*①は法律とは無関係.)",
+        "illegitimate「正当ではない, 合法ではない」",
+        "an illegitimate child「隠し子, 私生児」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a legitimate reason for being late",
+          "ja": "① 遅刻に対する正当な理由"
+        },
+        {
+          "en": "legitimate importers",
+          "ja": "② 合法の輸入業者"
+        }
+      ]
+    },
+    {
+      "id": "1505",
+      "word": "enforce",
+      "phonetic": "[infɔ́:rs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を施行する",
+            "② 〜を強制する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「力を持たせる」→「施行する」",
+        "enforcement「施行」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -force[力]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "enforce the law",
+          "ja": "① その法律を施行する"
+        },
+        {
+          "en": "enforce his views on us",
+          "ja": "② 私たちに彼の見解を強要する"
+        }
+      ]
+    }
+  ]
+}

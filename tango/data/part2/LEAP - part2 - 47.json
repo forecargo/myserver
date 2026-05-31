@@ -1,0 +1,263 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "741",
+      "word": "aggressive",
+      "phonetic": "[əgrésiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 攻撃的な",
+            "② 積極的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (行動がぐいぐい進んでいく様子)",
+        "頻出 ① an aggressive remark「攻撃的な言葉, 売り言葉」",
+        "注意 主に①の「マイナスイメージ」で使うが, 明らかに「プラスイメージ」とわかる場合は②の意味となる。",
+        "☆ progress「進歩, 発展」",
+        "名 aggression「攻撃, 侵略」"
+      ],
+      "word_origin": {
+        "formula": "ag-[方向]+-gress-[進む]→「前に進む」",
+        "description": "progress「進歩, 発展」"
+      },
+      "examples": [
+        {
+          "en": "① Her attitude suddenly became aggressive.",
+          "ja": "① 彼女の態度が突然攻撃的になった。"
+        },
+        {
+          "en": "② A successful businessperson needs to be aggressive.",
+          "ja": "② ビジネスで成功するためには積極的でないといけない。"
+        }
+      ]
+    },
+    {
+      "id": "742",
+      "word": "cruel",
+      "phonetic": "[krúːəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "残酷な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (相手に苦痛を与えても何も感じないくらいに)冷徹な",
+        "頻出 be cruel to 〜「〜に残酷な仕打ちをする」",
+        "☆ crude「粗末な」",
+        "名 cruelty「残酷さ」",
+        "反 merciful「慈悲深い」"
+      ],
+      "word_origin": {
+        "formula": "cru-[生の]→「人間として未発達の」",
+        "description": "crude「粗末な」"
+      },
+      "examples": [
+        {
+          "en": "Never be cruel to animals.",
+          "ja": "動物を残酷に扱うな。"
+        }
+      ]
+    },
+    {
+      "id": "743",
+      "word": "addicted",
+      "phonetic": "[ədíktid]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "〜の中毒になっている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ のめり込んでいる",
+        "頻出 be addicted to 〜「〜の中毒である」",
+        "☆ predict「〜を予測する」",
+        "▷ addiction「中毒」",
+        "▷ alcohol addiction「アルコール中毒」",
+        "形 addictive「中毒性がある」",
+        "(*nomo=no mobile phone, -phobia [〜恐怖症])"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向]+-dic-[言う]→「〜するように(体が)言う」",
+        "description": "predict「〜を予測する」"
+      },
+      "examples": [
+        {
+          "en": "Lucy is addicted to her smartphone. (=Lucy has nomophobia.)",
+          "ja": "ルーシーはスマホ(スマートフォン)中毒である。"
+        }
+      ]
+    },
+    {
+      "id": "744",
+      "word": "stubborn",
+      "phonetic": "[stʌ́bərn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "頑固な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ obstinate「((人の意見を聞かない))頑固な, 強情な」",
+        "注意 「(人の)意志が固い, 決意が固い」などプラスイメージにも使用。",
+        "▷ stubborn resistance「断固とした抵抗」",
+        "▷ 頑固な",
+        "☆ inborn「生まれつきの」"
+      ],
+      "word_origin": {
+        "formula": "stub-[切り株]+-born[生まれた]から「(切り株のように)頑として動かない」",
+        "description": "inborn「生まれつきの」"
+      },
+      "examples": [
+        {
+          "en": "a stubborn old man",
+          "ja": "頑固な老人"
+        }
+      ]
+    },
+    {
+      "id": "745",
+      "word": "bold",
+      "phonetic": "[bóuld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "大胆な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (人, 行為, 色, 形などが)人目につくような, 図太い",
+        "頻出 a bold idea [act]「大胆な考え[行為]」",
+        "注意 bald [bɔ́ːld]「(頭が)はげた」と区別。"
+      ],
+      "word_origin": {
+        "formula": "「ふくれ上がった」が元の意味で, 「思い上がった」→「大胆な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a dress with a bold design",
+          "ja": "大胆なデザインの服"
+        }
+      ]
+    },
+    {
+      "id": "746",
+      "word": "guilty",
+      "phonetic": "[gílti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 申し訳なく思う, 罪の意識がある",
+            "② (of 〜) (〜の)罪を犯した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (法的に)有罪である, (社会的に)やましい「(良心がとがめて)申し訳ない」のいずれの場合にも使われる。",
+        "頻出 ① feel guilty about [for] 〜「〜について申し訳なく思う」",
+        "名 guilt「罪」",
+        "▷ a sense of guilt「罪悪感」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① feel guilty about lying to her",
+          "ja": "① 彼女にうそをついたことを申し訳なく思う"
+        },
+        {
+          "en": "② He was guilty of cheating at playing cards.",
+          "ja": "② 彼はトランプでいかさまをした(いかさまの罪を犯した)。"
+        }
+      ]
+    },
+    {
+      "id": "747",
+      "word": "innocent",
+      "phonetic": "[ínəsənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (of 〜) (〜に関して)無実の",
+            "② 無邪気な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆ nocturnal「夜行性の」",
+        "名 innocence「無実」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定]+-noc-[night夜→悪]→「悪いところがない」",
+        "description": "nocturnal「夜行性の」"
+      },
+      "examples": [
+        {
+          "en": "① Jack is innocent of the crime.",
+          "ja": "① ジャックはその犯罪に関して無実だ。"
+        },
+        {
+          "en": "② an innocent girl",
+          "ja": "② 無邪気な少女"
+        }
+      ]
+    },
+    {
+      "id": "748",
+      "word": "sincere",
+      "phonetic": "[sinsíər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (心から)誠実な",
+            "② (言動が)心からの, 偽りのない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 sincerity「誠実, 誠意」",
+        "副 sincerely「誠実に」",
+        "▷ (手紙, メールの結び)〈米〉Sincerely (yours), 〈英〉Yours sincerely, 「敬具」"
+      ],
+      "word_origin": {
+        "formula": "sin-[=same同じ]+-cere[成長する]から「混じりけなく成長する」→「誠実な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① make a sincere effort",
+          "ja": "① ひたむきな(誠実な)努力をする"
+        },
+        {
+          "en": "② express my sincere thanks",
+          "ja": "② 心からの感謝を表現する"
+        }
+      ]
+    }
+  ]
+}

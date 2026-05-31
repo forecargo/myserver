@@ -1,0 +1,267 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "483",
+      "word": "relationship",
+      "phonetic": "[riléiʃənʃìp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 関係",
+            "② 親密な関係"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人間)関係, (物と物の)関係」◇relation(通例 -s)「(主に, 国, 会社, 組織)間の公的な関係」",
+        "頻出 ② build up[maintain, have] a good relationship with 〜「〜との良い人間関係を築き上げる[維持する, 持っている]」",
+        "注意「(1人との)関係」なら a relationship にする。",
+        "類 relation「関係, 親戚関係」⇔in relation to 〜「〜と比較[関連]して」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have good relationships with other people",
+          "ja": "他者との良好な人間関係をもつ"
+        },
+        {
+          "en": "Are you in a relationship right now?",
+          "ja": "今付き合っている(親密な関係の)人はいるの."
+        }
+      ]
+    },
+    {
+      "id": "484",
+      "word": "reputation",
+      "phonetic": "[rèpjutéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "評判"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 have a good[bad] reputation (for 〜)「(〜で)よい[悪い]評判がある」",
+        "develop[damage] one's reputation「〜の評判を上げる[落とす]」",
+        "語源 re-[再び] + -puta-[考える]から「((人々に)何度も考えられる)→「評判」」",
+        "参考 computer「コンピュータ(←共に考える[計算する]物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a good reputation for its beautiful night view",
+          "ja": "夜景がきれいなことで評判がよい"
+        }
+      ]
+    },
+    {
+      "id": "485",
+      "word": "trend",
+      "phonetic": "[trénd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (世の中の)風潮, 傾向",
+            "② 流行"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(一般的な)傾向, 風潮」",
+        "注意「(個人の)傾向」は tend to do と表現するのがよい。",
+        "▷ She tends to hide her mistakes.",
+        "「彼女は自分の間違いを隠しがちだ(隠す傾向がある)。」",
+        "派生 trendy「流行の」名 megatrend「(世の中の)大きな傾向」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a trend toward hiring cheap labor",
+          "ja": "安価な労働者を雇う風潮"
+        },
+        {
+          "en": "the latest trend in clothes",
+          "ja": "服の最新の流行"
+        }
+      ]
+    },
+    {
+      "id": "486",
+      "word": "service",
+      "phonetic": "[sə́ːrvis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (政府あるいは企業による)事業, 制度",
+            "② (電車, バスなどの)便",
+            "③ サービス, 接客"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人に役立つこと」",
+        "頻出 be of service「役に立つ」② out of service「運転休止[非稼働]中」",
+        "注意 service には「おまけ」の意味はない(*throw 〜 in「(店の人が)〜をおまけする」)。また, 「礼拝」や「(長年の)勤務, 兵役」の意味もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "public services",
+          "ja": "公共事業"
+        },
+        {
+          "en": "water[gas] service",
+          "ja": "水道[ガス]事業"
+        },
+        {
+          "en": "There is no bus service to that town.",
+          "ja": "その町へのバスの便はない."
+        },
+        {
+          "en": "This restaurant has a reputation for good service.",
+          "ja": "このレストランはサービスがよいと評判だ."
+        }
+      ]
+    },
+    {
+      "id": "487",
+      "word": "religion",
+      "phonetic": "[rilídʒən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "宗教"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ = a belief in one or more gods",
+        "注意「(仏教などの)具体的な宗教」は〈可算〉。",
+        "語源 re-[再び] + -li-[縛る]から「(神と人間を)強く結びつける」→「宗教」",
+        "類 ally「同盟」ligament「靭帯」派生 religious「信心深い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a religion",
+          "ja": "宗教を信じている(宗教を持っている)"
+        }
+      ]
+    },
+    {
+      "id": "488",
+      "word": "moral",
+      "phonetic": "[mɔ́ːrəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 道徳的な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (物語の)教訓",
+            "③ (-s)道徳"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語でも「モラル」はよく使われる。",
+        "派生 morality「道徳性」",
+        "類 morale「士気」⇔boost[raise] the morale「士気を高める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a moral responsibility",
+          "ja": "道徳的責任"
+        },
+        {
+          "en": "the morals of Aesop's Fables",
+          "ja": "イソップ物語の教訓"
+        },
+        {
+          "en": "public morals",
+          "ja": "風紀(公共の道徳)"
+        }
+      ]
+    },
+    {
+      "id": "489",
+      "word": "standard",
+      "phonetic": "[stǽndərd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 基準, 水準"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 標準の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物や方法などがごく一般的な」",
+        "頻出 ① reach[set, meet, maintain, relax] a standard「基準に達する[を設定する, 満たす, 維持する, 緩和する]」",
+        "語源 stand-[立つ] + -ard[場所]→「しっかりと確立された基準(場所)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "meet our safety standard",
+          "ja": "私たちの安全基準を満たす"
+        },
+        {
+          "en": "a standard size",
+          "ja": "標準サイズ"
+        }
+      ]
+    },
+    {
+      "id": "490",
+      "word": "prosperity",
+      "phonetic": "[praspérəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "繁栄"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「((国, 事業などの)物質的, 経済的繁栄」",
+        "語源 プロ, スパッチ pro-[前] + -sper-[希望]→「希望に向かう」",
+        "反 desperate「絶望的な(←希望がない)」",
+        "派生 prosper「繁栄する」prosperous「繁栄した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "bring prosperity to our country",
+          "ja": "我が国に繁栄をもたらす"
+        }
+      ]
+    }
+  ]
+}

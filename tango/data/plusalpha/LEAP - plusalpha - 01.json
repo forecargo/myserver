@@ -1,0 +1,540 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2001",
+      "word": "roam",
+      "phonetic": "[róum]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "歩き回る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(旅行者や動物が自由に)歩き回る」(*他も同じ形)",
+        "▷ stróll「(人が)散策する」",
+        "★ roam around Rome [róum]「ローマを歩き回る」というフレーズで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2002",
+      "word": "stroll",
+      "phonetic": "[stróul]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "散策する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「気晴らしのために散歩する」",
+        "★ stréet「街」+róll「転がる」と覚えよう。",
+        "名 stróll「散策」の意味もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stroll along the riverbank",
+          "ja": "「(川の)土手を散策する」"
+        }
+      ]
+    },
+    {
+      "id": "2003",
+      "word": "circulate",
+      "phonetic": "[sə́ːrkjulèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 循環する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を循環させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ぐるぐると回る」",
+        "★ circ-[円]+-ate[動詞語尾]",
+        "▷ circle「円」",
+        "名 circulátion「循環, 流布, 発行部数」",
+        "形 círcular「円形の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Blood circulates through the body.",
+          "ja": "「血液は体内を循環する。」"
+        }
+      ]
+    },
+    {
+      "id": "2004",
+      "word": "wane",
+      "phonetic": "[wéin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(力・程度・色などが)衰える",
+            "(月が)欠ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「徐々に減っていく」",
+        "★ wa-(=va 空っぽの)から「空っぽにする」→「衰える」",
+        "▷ wánt「不足; 〜が欲しい」",
+        "反 wáx「((月が)満ちる, 増大する)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Her popularity has been waning recently.",
+          "ja": "「彼女の人気は最近衰えてきている。」"
+        }
+      ]
+    },
+    {
+      "id": "2005",
+      "word": "deteriorate",
+      "phonetic": "[ditíəriərèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "悪化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では become[get] worse「悪くなる」のほうが使われる。",
+        "★ de-[悪化]+-terior-[悪い]+-ate[動詞語尾]",
+        "▷ térrible「恐ろしい, ひどい」",
+        "名 deteriəration「悪化」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Water quality is deteriorating rapidly.",
+          "ja": "「水質が急速に悪化している。」"
+        }
+      ]
+    },
+    {
+      "id": "2006",
+      "word": "plunge",
+      "phonetic": "[plʌ́ndʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (into 〜)に突っ込む"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (A into B) (A)を(Bに)突っ込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「頭から突然落下する」",
+        "★「水深を測る」から",
+        "▷ plúmber [plʌ́mər]「配管工」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The drone plunged into the sea.",
+          "ja": "「そのドローンは海に突っ込んだ。」"
+        },
+        {
+          "en": "plunge my hand into the water",
+          "ja": "「水に手を突っ込む」"
+        }
+      ]
+    },
+    {
+      "id": "2007",
+      "word": "backfire",
+      "phonetic": "[bǽkfàiər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "裏目に出る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「予想とは逆の望ましくない結果が出る」",
+        "★ [逆火]→「逆の結果」",
+        "▷ bácklash「(民衆の)反発」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our new policy backfired.",
+          "ja": "「我々の新たな政策は裏目に出た。」"
+        }
+      ]
+    },
+    {
+      "id": "2008",
+      "word": "cram",
+      "phonetic": "[krǽm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 詰め込み勉強をする"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を詰め込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ 頭がくらむくらいに「ぎゅうぎゅうに」詰め込む",
+        "▷ cram school「塾」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cram for the exam",
+          "ja": "「試験のために詰め込み勉強をする」"
+        },
+        {
+          "en": "cram books into my bag",
+          "ja": "「かばんに本を詰め込む」"
+        }
+      ]
+    },
+    {
+      "id": "2009",
+      "word": "speculate",
+      "phonetic": "[spékjulèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 推測する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (株, 土地などに)投機をする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(確固とした根拠もなく)推測する」(*他も同じ形)",
+        "★ spec-[見る]",
+        "▷ speculátion「推測, 投機」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "speculate about the future",
+          "ja": "「未来のことを推測する」"
+        },
+        {
+          "en": "speculate in stocks",
+          "ja": "「株に投機する」"
+        }
+      ]
+    },
+    {
+      "id": "2010",
+      "word": "evaporate",
+      "phonetic": "[ivǽpərèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "蒸発する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人が)蒸発する」は disappear や vanish で表現する。",
+        "▷ evaporátion「蒸発」",
+        "▷ vápor「水蒸気」"
+      ],
+      "word_origin": {
+        "formula": "e-[外] + -vapor-[水蒸気]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Water evaporates when heated.",
+          "ja": "「水は加熱されると蒸発する。」"
+        }
+      ]
+    },
+    {
+      "id": "2011",
+      "word": "vomit",
+      "phonetic": "[vɑ́mit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 吐く"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を吐く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では throw up のほうが使われる。",
+        "★ 棒見て「吐く」",
+        "▷ rétch「吐き気を催す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "try not to vomit",
+          "ja": "「吐くのを我慢する」"
+        },
+        {
+          "en": "vomit everything I have eaten",
+          "ja": "「食べたものを全部吐く」"
+        }
+      ]
+    },
+    {
+      "id": "2012",
+      "word": "frown",
+      "phonetic": "[fráun]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(at 〜) (〜に)眉をひそめる",
+            "(on 〜) (〜に)難色を示す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★「不機嫌に鼻を鳴らす」から",
+        "▷ fróg「カエル」",
+        "▷ frówn「しかめっ面」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "frown at his behavior",
+          "ja": "「彼の行動に眉をひそめる」"
+        }
+      ]
+    },
+    {
+      "id": "2013",
+      "word": "hatch",
+      "phonetic": "[hætʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (卵から)かえる",
+            "孵化する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (卵から)〜をかえす",
+            "③ (計画など)を企てる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(鳥, 魚, は虫類が卵から)かえる」",
+        "★ 宇宙船などの出入り口の「ハッチ」もこの単語に由来。",
+        "▷ Don't count your chickens before they are hatched.",
+        "「捕らぬ狸の皮算用((かえる前にヒヨコを数えるな))」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2014",
+      "word": "cling",
+      "phonetic": "[klíŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (〜に)固執する",
+            "しがみつく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的に)しがみつく」から「(淡い希望などに)しがみつく」まで。",
+        "★ clíp「クリップ」",
+        "[活用] cling- clung- clung"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cling to his arm",
+          "ja": "「彼の腕にしがみつく」"
+        }
+      ]
+    },
+    {
+      "id": "2015",
+      "word": "adhere",
+      "phonetic": "[ædhíər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to 〜) (規則, 主義, 法律などに)忠実に従う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ héritage「遺産」",
+        "▷ héir「相続人」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -here[くっつく]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "adhere to my beliefs",
+          "ja": "「自分の信念を貫く」"
+        }
+      ]
+    },
+    {
+      "id": "2016",
+      "word": "collaborate",
+      "phonetic": "[kəlǽbərèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to do) 共同して働く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(特に科学や芸術の分野で)人と協力する」",
+        "▷ collaborátion「共同, 共同研究」",
+        "形 colláborative「協力的な, 共同の」"
+      ],
+      "word_origin": {
+        "formula": "col-[=con 共に] + -labor[労働]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "collaborate to develop a new vaccine",
+          "ja": "「新しいワクチンを共同で開発する」"
+        }
+      ]
+    },
+    {
+      "id": "2017",
+      "word": "lag",
+      "phonetic": "[lǽg]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(behind 〜) (〜に)遅れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「動きや成長が遅い」",
+        "▷ time lag「時差ぼけ(不可算), 時間のずれ[遅れ](可算)」",
+        "⇨ recover from time lag「時差ぼけから回復する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lag behind the rest of Europe",
+          "ja": "「ヨーロッパのほかの国々に遅れをとる」"
+        }
+      ]
+    },
+    {
+      "id": "2018",
+      "word": "cater",
+      "phonetic": "[kéitər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 料理を提供する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (to 〜) (〜の要望などに)応える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「必要なものを手配する」",
+        "▷ cátering「仕出し, 料理の提供」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cater for a banquet",
+          "ja": "「宴会用の料理を用意する」"
+        },
+        {
+          "en": "cater to tourists",
+          "ja": "「旅行者の要望に応える」"
+        }
+      ]
+    }
+  ]
+}

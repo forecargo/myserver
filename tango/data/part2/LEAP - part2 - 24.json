@@ -1,0 +1,291 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "576",
+      "word": "destination",
+      "phonetic": "[dèstənéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 目的地",
+            "② (tourist ~)観光地, 旅行先 (① ② ともに〈可算〉)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「運命づけられた場所」→「目的地, 行き先」",
+        "注意 ① What[×Where] is your destination?「目的地はどこですか。」",
+        "◎ destiny「運命」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① get to my destination",
+          "ja": "① 目的地に到着する"
+        },
+        {
+          "en": "② Hawaii is a popular tourist destination.",
+          "ja": "② ハワイは人気のある観光地だ。"
+        }
+      ]
+    },
+    {
+      "id": "577",
+      "word": "transportation",
+      "phonetic": "[trænspərtéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "交通機関〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷〈英〉transport",
+        "頻出 use public transportation「公共交通機関を利用する」",
+        "improve the transportation system「交通網を整備する」",
+        "trans-[越え] + -port-[運ぶ] から「何かを(越えて)遠くへ(人を)運ぶ」",
+        "◎ export「〜を輸出する(←外に運ぶ)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "by public transportation",
+          "ja": "公共交通機関で"
+        }
+      ]
+    },
+    {
+      "id": "578",
+      "word": "vehicle",
+      "phonetic": "[víːəkl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (エンジンの付いた)車両",
+            "② (思想, 意見の)伝達手段"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ a car, a bus, a truck などの総称。",
+        "頻出 ① driverless [self-driving] vehicles「自動運転車両」",
+        "veh-[運ぶ] + -icle[小さな] から「小型の運ぶもの(車)」→「車両」",
+        "☆ véctor「ベクトル(←大きさと方向を運ぶ)」",
+        "派生 vehicular「乗り物の, 車両の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① emergency vehicles",
+          "ja": "① 緊急車両"
+        },
+        {
+          "en": "② Poetry is the vehicle of my ideas.",
+          "ja": "② 詩は私の思想を伝達する手段です。"
+        }
+      ]
+    },
+    {
+      "id": "579",
+      "word": "baggage",
+      "phonetic": "[bǽgɪdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(旅行時の)手荷物〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「いくつかの bag の集合体」なので〈不可算〉の扱い。〈英〉luggage",
+        "注意 〈不可算〉なので, 数を表すときは a piece of をつける。",
+        "⇨ two pieces of baggage[×two baggages]「2つの手荷物」",
+        "bag-[カバン] + -age[集合] から",
+        "☆ village「村(←villa「大邸宅」)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "How many pieces of baggage can I take on the airplane with me?",
+          "ja": "機内へは手荷物は何個まで持ち込むことができますか。"
+        }
+      ]
+    },
+    {
+      "id": "580",
+      "word": "via",
+      "phonetic": "[váɪə]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① 〜経由で",
+            "② 〜によって"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ≒ by way of ~",
+        "頻出 ② via (手段を表す名詞)「〜によって」",
+        "via[=way 道] から「〜の道で」→「経由で, 〜によって」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① fly to Zurich via Hong Kong",
+          "ja": "① 香港経由でチューリッヒに飛ぶ"
+        },
+        {
+          "en": "② send a message to a friend via email",
+          "ja": "② Eメールで友だちにメッセージを送る"
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "word": "lead",
+      "phonetic": "[líːd]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~) (~に)至る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (a ~ life) (~な生活を)送る",
+            "③ (A to do) Aに〜させる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ 鉛, (シャーペンなどの)芯"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「先頭に立って物事を導く」",
+        "頻出 ① (原因) lead to (結果)「〜に至る, 〜を引き起こす」",
+        "② lead a ~ life「〜な生活を送る」(=live a ~ life) ([×]lead[live] a life)",
+        "(*④ は別語源.)",
+        "形 leading「一流の, 大手の」",
+        "派生 lead [líːd]「先導」",
+        "[活用] lead-led-led",
+        "名 lead (鉛) の発音は [léd]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Laziness leads to failure.",
+          "ja": "① 怠けると失敗する(失敗に至る)。"
+        },
+        {
+          "en": "② lead an easy life",
+          "ja": "② 楽な生活を送る"
+        },
+        {
+          "en": "③ What led you to do it?",
+          "ja": "③ なぜそんなことをしたの(何があなたにそれをさせたの)。"
+        },
+        {
+          "en": "④ The pencil lead has broken.",
+          "ja": "④ 鉛筆の芯が折れた。"
+        }
+      ]
+    },
+    {
+      "id": "582",
+      "word": "rise",
+      "phonetic": "[ráɪz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 上がる, 昇る"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 上昇"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(下から上に)上がる(こと)」",
+        "頻出 ① rise to the top「頂点に昇りつめる」",
+        "② give rise to ~「〜を引き起こす」",
+        "be on the rise「上昇している」",
+        "注意 ①「(水位が)上昇する」や「(パンなどが)ふくらむ」の意味もある。",
+        "☆ sunrise「日の出(←太陽の上昇)」で覚えよう。",
+        "反 sunset「日の入り」",
+        "活用 rise-rose-risen [rɪ́zn]",
+        "類義 raise「〜を上げる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The sun rises in[×from] the east.",
+          "ja": "① 太陽は東から昇る。"
+        },
+        {
+          "en": "② a rise in sea levels",
+          "ja": "② 海面の上昇"
+        }
+      ]
+    },
+    {
+      "id": "583",
+      "word": "flow",
+      "phonetic": "[flóʊ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 流れる"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 流れ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(液体, 気体が)流れる」から「(情報, 言葉, 人が)流れる」まで。",
+        "派生 flowchart「フローチャート, 流れ図」",
+        "◎ overflow「氾濫」",
+        "[活用] flow-flowed-flowed",
+        "比較 fly-flew-flown と区別."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This river flows into the Pacific.",
+          "ja": "① この川は太平洋に流れ込む。"
+        },
+        {
+          "en": "② the flow of conversation",
+          "ja": "② 会話の流れ"
+        }
+      ]
+    }
+  ]
+}

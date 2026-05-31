@@ -1,0 +1,252 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "756",
+      "word": "proper",
+      "phonetic": "[prápər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (世間の常識に照らして)適切な, 正しい",
+            "② (状況に応じて)適切な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ appropriate「(状況に応じて)適切な」",
+        "派生 副 properly「適切に, 正しく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a proper job",
+          "ja": "まともな仕事[食事]"
+        },
+        {
+          "en": "the proper use of chopsticks",
+          "ja": "箸の正しい使い方"
+        }
+      ]
+    },
+    {
+      "id": "757",
+      "word": "tidy",
+      "phonetic": "[táidi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (主に〈英〉)きちんとした, 整然とした"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を整頓する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(部屋や考えなどが)整理されている」(≒ néat)",
+        "句動 ① keep ~ (neat and) tidy「〜をきちんと(整理して)おく」",
+        "★「整然と」置かれたテディー(タイディ)ベア。",
+        "① 反 messy「散らかった, 汚い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "keep the office tidy",
+          "ja": "事務所をきちんとしておく"
+        },
+        {
+          "en": "Tidy your room.",
+          "ja": "部屋を整頓しなさい。"
+        }
+      ]
+    },
+    {
+      "id": "758",
+      "word": "efficient",
+      "phonetic": "[ifíʃənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 能率的な, 無駄がない",
+            "② (人が)有能な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「よい結果を生み出す」→①「(物や組織が)効率的な」",
+        "▶ ②「(人が)無駄なく働く能力がある」",
+        "派生 副 efficiently「能率よく」",
+        "派生 名 efficiency「能率, 効率」",
+        "▷ fuel efficiency「燃費」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an efficient method of transporting goods",
+          "ja": "商品を輸送する能率的な方法"
+        },
+        {
+          "en": "an efficient accountant",
+          "ja": "有能な会計士"
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "word": "reasonable",
+      "phonetic": "[ríːzənəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 理にかなった",
+            "② (値段が)手ごろな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「値段が理にかなっていて高すぎない」",
+        "語法 ① It is reasonable to think that SV.「SVだと考えるのが理にかなっている。」",
+        "派生 副 reasonably「ほどよく」",
+        "▷ reasonably priced「手ごろな値段の」"
+      ],
+      "word_origin": {
+        "formula": "reason-[理性] + -able[可能]",
+        "description": "「理性で納得できる」"
+      },
+      "examples": [
+        {
+          "en": "What you're saying is reasonable.",
+          "ja": "あなたの言っていることはもっともだ。"
+        },
+        {
+          "en": "at a reasonable price",
+          "ja": "手ごろな値段で"
+        }
+      ]
+    },
+    {
+      "id": "760",
+      "word": "significant",
+      "phonetic": "[signífikənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 重要な, 有意な",
+            "② (数量, 増減などが)かなりの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(主に将来的に)重大な意味をもつ」",
+        "語法 ② a significant amount[number] of ~「かなりの量[数]の〜」",
+        "★ fiction「小説(←作られた話)」",
+        "派生 名 significance「重要性」",
+        "派生 他 signify「〜を示す, 意味する」",
+        "派生 副 significantly「かなり」",
+        "反 ① insignificant「重要でない」"
+      ],
+      "word_origin": {
+        "formula": "sign-[印] + -fic-[作る]",
+        "description": "「(印をつけるほどに)重要な」"
+      },
+      "examples": [
+        {
+          "en": "a historically significant event",
+          "ja": "歴史的に重要な出来事"
+        },
+        {
+          "en": "a significant increase in sales",
+          "ja": "売り上げのかなりの増加"
+        }
+      ]
+    },
+    {
+      "id": "761",
+      "word": "precious",
+      "phonetic": "[préʃəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (時間や命などが)貴重な",
+            "② (宝石などが)高価な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「(希少価値があるという意味で)貴重な, 高価な」",
+        "▷ priceless「(値段がつけられないほどに)値打ちのある」",
+        "▷ valuable「(金銭的に)価値のある」",
+        "語法 ① one's precious memories「大切な思い出」",
+        "★ appreciate「〜を正しく評価する」"
+      ],
+      "word_origin": {
+        "formula": "preci-[=price 価値]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Don't waste your precious time.",
+          "ja": "貴重な時間を浪費するな。"
+        },
+        {
+          "en": "precious metals",
+          "ja": "貴金属"
+        }
+      ]
+    },
+    {
+      "id": "762",
+      "word": "essential",
+      "phonetic": "[isénʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 不可欠な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (-s)不可欠なもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① = extremely important and necessary",
+        "語法 ① be essential to ~「〜にとって不可欠な」",
+        "派生 名 essence「本質, エキス」",
+        "▷ the essence of happiness「幸福の本質」",
+        "▷ vanilla essence「バニラエッセンス」",
+        "派生 副 essentially「本質的に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Water is essential to living things.",
+          "ja": "水は生物にとって不可欠だ。"
+        },
+        {
+          "en": "the bare essentials",
+          "ja": "最低限必要なもの"
+        }
+      ]
+    }
+  ]
+}

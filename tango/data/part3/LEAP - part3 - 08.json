@@ -1,0 +1,310 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1073",
+      "word": "monument",
+      "phonetic": "[mɔ́njumənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 記念碑, 遺跡, 史跡",
+            "② 記念物 (歴史的建造物)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「重要な人物[出来事]の跡, 碑」",
+        "monu-(=mom 思い出させる)+-ment[もの]",
+        "monumental「記念碑的な」 ⇔ a monumental work「記念碑的な作品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "put up a monument",
+          "ja": "記念碑を建てる"
+        }
+      ]
+    },
+    {
+      "id": "1074",
+      "word": "revolution",
+      "phonetic": "[rèvəlúːʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 革命",
+            "② (考え方, やり方などの)大改革"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(考え方, やり方などの)大改革」",
+        "re-[逆に]+-vol-[回る]から「逆回転して, 権力や組織をひっくり返す」",
+        "involve「〜を巻き込む」(in-[中に]+-vol-[回る])",
+        "revolutionary「革命の, 革命的な」 ⇔ revolve「回転する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a revolution in health care",
+          "ja": "医療の大改革"
+        }
+      ]
+    },
+    {
+      "id": "1075",
+      "word": "contract",
+      "phonetic": "[kɔ́ntrækt] (名) / [kəntrǽkt] (他)",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 契約"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を契約する",
+            "③ (病気に)感染する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "con-[共に]+-tract[引っ張る]から「引っ張り合う(駆け引きする)もの」→「契約」",
+        "attract「〜を引きつける, 魅了する」",
+        "名 contraction「収縮, 縮小」",
+        "subcontract「〜を下請けさせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① sign a contract with the team",
+          "ja": "① そのチームと契約をする"
+        },
+        {
+          "en": "② contract a loan",
+          "ja": "② ローンを契約する"
+        },
+        {
+          "en": "③ contract a killer virus",
+          "ja": "③ 致死ウイルスに感染する"
+        }
+      ]
+    },
+    {
+      "id": "1076",
+      "word": "infrastructure",
+      "phonetic": "[ìnfrəstrʌ̀ktʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "インフラ, 基幹施設"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (道路, 鉄道, ガス設備, 銀行などの)国や組織の存続に不可欠な基盤",
+        "infra-[下]+-structure[構造]→「建物の下にあるもの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "improve the tourism infrastructure",
+          "ja": "観光インフラを整備する"
+        }
+      ]
+    },
+    {
+      "id": "1077",
+      "word": "negotiate",
+      "phonetic": "[nɪgóʊʃièɪt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (with 〜) (〜と)交渉する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (交渉の上で, 条件などを)取り決める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "neg-[否定]+-oti-[暇]から「相手に暇を与えない」→「畳み掛ける」",
+        "名 negotiation「交渉, 取り決め」",
+        "形 negotiable「交渉の余地のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① negotiate with kidnappers",
+          "ja": "① 誘拐犯と交渉する"
+        },
+        {
+          "en": "② negotiate a trade agreement",
+          "ja": "② 貿易協定を取り決める"
+        }
+      ]
+    },
+    {
+      "id": "1078",
+      "word": "cooperate",
+      "phonetic": "[koʊάpərèɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(with 〜) (〜と)協力する",
+            "(in 〜) (〜を)協力する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では work together のほうが使われる。",
+        "co-(=con 共に)+-operate[働く]",
+        "名 cooperation「協力, 協会」",
+        "形 coóperative「協力的な」",
+        "a cooperative society「生活協同組合(生協)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We all cooperated in preparing for the cultural festival.",
+          "ja": "私たち全員で協力して文化祭の準備をした。"
+        }
+      ]
+    },
+    {
+      "id": "1079",
+      "word": "restore",
+      "phonetic": "[rɪstɔ́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (治安など)を回復する",
+            "② (古い建物, 絵など)を修復する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源の restaurant は「疲労を回復させる場所」が元の意味。",
+        "名 restoration「回復, 復興」 ⇔ restoration work「復旧作業」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① restore peace in the Middle East",
+          "ja": "① 中東での平和を回復する"
+        },
+        {
+          "en": "② restore the old church",
+          "ja": "② その古い教会を修復する"
+        }
+      ]
+    },
+    {
+      "id": "1080",
+      "word": "found",
+      "phonetic": "[fáʊnd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を創立する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(基金を出して, 学校や病院などを)創立する」",
+        "名 foundation「創立, 根拠」",
+        "名 founder「創設者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our school was founded in 1918.",
+          "ja": "我が校は 1918 年に創立された。"
+        }
+      ]
+    },
+    {
+      "id": "1081",
+      "word": "conservative",
+      "phonetic": "[kənsə́ːrvətɪv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "保守的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「変化や革新に対して慎重で, 伝統や慣習を尊重する」",
+        "con-[強意]+-serve[奉仕する]から「従来からの伝統や習慣などに奉仕する」→「保守的な」",
+        "他 conserve「(力, 健康, 資源など)を保護する, 保全する」",
+        "反 progressive「進歩的な, 革新的な」",
+        "*the Labour Party「労働党」と共にイギリス2大政党の1つ。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Conservative Party",
+          "ja": "保守党"
+        }
+      ]
+    },
+    {
+      "id": "1082",
+      "word": "affair",
+      "phonetic": "[əféər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (-s) 情勢",
+            "② (スキャンダラスな)事件",
+            "③ 情事, 浮気"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(政治などの)情勢」から「(出来事や活動などの漠然とした)事柄」まで",
+        "world affairs「世界情勢」(≒ what is going on in the world)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① international affairs",
+          "ja": "① 国際情勢"
+        },
+        {
+          "en": "② the spy affair",
+          "ja": "② スパイ事件"
+        },
+        {
+          "en": "③ a triangular love affair",
+          "ja": "③ 男女の三角関係(三角形の情事)"
+        }
+      ]
+    }
+  ]
+}

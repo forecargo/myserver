@@ -1,0 +1,261 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "896",
+      "word": "sweep",
+      "phonetic": "[swiːp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (床, 地面)を掃く",
+            "② (風, 波などが)〜を押し流す"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "sweeping 「広範囲にわたる, 全面的な」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ swim「(スイスイと)泳ぐ」と同様に「(スイスイと)掃く」イメージ。",
+        "頻出 ② sweep ~ away「(物, 気持ちなど)を一掃する」",
+        "⇔ sweeping reforms「全面的な改革」",
+        "[活用]sweep-swept-swept"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sweep the floor with a broom",
+          "ja": "① ほうきで床を掃く"
+        },
+        {
+          "en": "The flood swept away the bridge.",
+          "ja": "② 洪水が橋を押し流した."
+        }
+      ]
+    },
+    {
+      "id": "897",
+      "word": "transfer",
+      "phonetic": "[trænsfə́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (電車などを)乗り換える",
+            "② 転勤[転校, 移籍]する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ (物, 活動拠点など)を移す, 〜を転勤[転属]させる",
+            "④ (銀行で)〜を振り込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある場所から別の場所へ)移動する, 移動させる」",
+        "頻出 ① transfer to ~「〜に乗り換える」",
+        "頻出 ③ transfer[be transferred] to ~「〜へ転勤[転校, 移籍]する」"
+      ],
+      "word_origin": {
+        "formula": "trans-[越えて] + -fer[運ぶ] -> 「どこかへ運ぶ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "transfer at Rome",
+          "ja": "① ローマで乗り換える"
+        },
+        {
+          "en": "transfer to the London branch",
+          "ja": "② ロンドン支店に転勤する"
+        },
+        {
+          "en": "be transferred to another department",
+          "ja": "③ 別の部署に異動する(異動させられる)"
+        },
+        {
+          "en": "transfer 100,000 yen to his bank account",
+          "ja": "④ 彼の銀行口座に10万円を振り込む"
+        }
+      ]
+    },
+    {
+      "id": "898",
+      "word": "divorce",
+      "phonetic": "[divɔ́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 離婚する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜と離婚する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 離婚"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ③ get a divorce from (人)「(人)と離婚する」(=divorce(人))",
+        "派生 divórced「離婚した」⇔ get divorced「離婚する」",
+        "反 marry「〜と結婚する」",
+        "類 marriage「結婚」"
+      ],
+      "word_origin": {
+        "formula": "di-[バラバラ] + -vorce[分ける] -> 「バラバラに分ける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "They have divorced.",
+          "ja": "① 彼らは離婚した."
+        },
+        {
+          "en": "divorce my wife",
+          "ja": "② 妻と離婚する"
+        },
+        {
+          "en": "a rise in the divorce rate",
+          "ja": "③ 離婚率の増加"
+        }
+      ]
+    },
+    {
+      "id": "899",
+      "word": "fate",
+      "phonetic": "[feit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "運命, 宿命"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 destiny「運命」とは異なり, 常にマイナスイメージを伴う。",
+        "派生 fatal「致命的な, 運命を決定するような(←文字どおり, 人の死を引き起こすこともある。)」",
+        "類 a fatal mistake「致命的な間違い」",
+        "派生 fatality「死者数」(*複数形-ies)",
+        "* await は wait for より堅い語。"
+      ],
+      "word_origin": {
+        "formula": "fa-[話す]から「神の声」→「運命」",
+        "description": "fáːmous「有名な(←人々が話す)」"
+      },
+      "examples": [
+        {
+          "en": "A terrible fate awaited them.",
+          "ja": "恐ろしい運命が彼らを待ち受けていた."
+        }
+      ]
+    },
+    {
+      "id": "900",
+      "word": "destiny",
+      "phonetic": "[déstəni]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "運命"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(託された)運命」(*必ずしも悲壮感はない。)",
+        "頻出 It is one's destiny to do.「〜するのが…の運命だ.」",
+        "派生 destine「〜を運命づける」⇔ be destined to do「〜する運命にある」"
+      ],
+      "word_origin": {
+        "formula": "de-[強意] + -sti-[=stay] -> 「運命の下に)いる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "It was his destiny to save his nation.",
+          "ja": "国を救うことが彼の運命だった."
+        }
+      ]
+    },
+    {
+      "id": "901",
+      "word": "flavor",
+      "phonetic": "[fléivər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "風味, 味<可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ táste(舌で味わう味) + sméll(鼻で感じる香り)」",
+        "頻出 bring out the flavors of the ingredients「素材の味を引き出す」",
+        "▶ 日本語でも「〜フレーバー(風味)」という表現はよく使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "ice cream with a green tea flavor",
+          "ja": "抹茶味のアイスクリーム"
+        }
+      ]
+    },
+    {
+      "id": "902",
+      "word": "perfume",
+      "phonetic": "[pə́ːrfjuːm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 香り",
+            "② 香水"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ scént「(かすかな快い)香り」",
+        "類 óːdor「((タバコなどの強烈な)臭い」",
+        "頻出 ② wear[put on] perfume「香水をつけている[つける]」"
+      ],
+      "word_origin": {
+        "formula": "per-[通して] + -fume[煙] -> 「部屋中に満ちる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the perfume of roses",
+          "ja": "① バラの香り"
+        },
+        {
+          "en": "wear a cheap perfume",
+          "ja": "② 安物の香水をつけている"
+        }
+      ]
+    }
+  ]
+}

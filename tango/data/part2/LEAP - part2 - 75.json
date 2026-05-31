@@ -1,0 +1,211 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "937",
+      "word": "advertise",
+      "phonetic": "[ædvərtàiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を宣伝する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人の注意、関心を引きつけ)て宣伝する」",
+        "頻出 advertise 〜 in a newspaper[on TV]「新聞[テレビ]で〜を宣伝する」",
+        "advertising expenses「宣伝費」 an advertising agency「広告代理店」",
+        "ad-[方向]+-vert-[回る]→「人の注意を〜のほうへ回す」",
+        "名 advertising「広告(すること)」",
+        "名 advertisement「(1つの)広告」",
+        "類義 propaganda「(政治的)宣伝、プロパガンダ」",
+        "hype「誇大広告」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "advertise the concert",
+          "ja": "コンサートを宣伝する"
+        }
+      ]
+    },
+    {
+      "id": "938",
+      "word": "clarify",
+      "phonetic": "[klǽrəfài]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を明らかにする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(あいまいな点を) clear (明瞭)にする, 説明する」",
+        "頻出 clarify one's ideas「自分の考えを明確にする」",
+        "clarify one's position on 〜「〜に関する自分の立場を明確にする」",
+        "clar-[=clear]+-fy[動詞語尾]",
+        "*clarinet「クラリネット(←澄んだ音を出す楽器)」",
+        "名 clarification「解明」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Let me clarify my point.",
+          "ja": "言いたいことを明確にします。"
+        }
+      ]
+    },
+    {
+      "id": "939",
+      "word": "seek",
+      "phonetic": "[síːk]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を求める",
+            "② (to do)〜しようと努める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(仕事, 支援, 幸福など)をひたすら求める」(*日常では look for のほうがふつうだが, 新聞や広告では seek も好まれる。)",
+        "語法 目的語には advice「助言, 忠告」, help「助け」, approval「承認」, asylum「亡命」などをとる。",
+        "▷ seek to do「〜しようと努める」(*try to do より堅い表現。)",
+        "名 job seeker「求職者」",
+        "[活用]seek-sought-sought"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① seek specialist advice",
+          "ja": "① 専門家の意見を求める"
+        },
+        {
+          "en": "② seek to achieve a goal",
+          "ja": "② 目的を達成しようと努める"
+        }
+      ]
+    },
+    {
+      "id": "940",
+      "word": "entertain",
+      "phonetic": "[èntərtéin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を楽しませる",
+            "② 〜をもてなす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「((観)客)を楽しませる」",
+        "頻出 ①② entertain (人) with 〜「(人)を〜で楽しませる[もてなす]」",
+        "名 entertainer「エンターテイナー, 楽しませる人」",
+        "名 entertainment「娯楽, 歓待」 ⇨ the entertainment world「芸能界」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① entertain an audience",
+          "ja": "① 観客を楽しませる"
+        },
+        {
+          "en": "② entertain them with Italian cuisine",
+          "ja": "② イタリア料理で彼らをもてなす"
+        }
+      ]
+    },
+    {
+      "id": "941",
+      "word": "amuse",
+      "phonetic": "[əmjúːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を楽しませる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人)を(笑顔にさせて)面白がらせる」",
+        "頻出 be amused at[by] 〜「〜を楽しむ」",
+        "名 amusement「楽しみ, 娯楽」 ⇨ an amusement park「遊園地」",
+        "形 amusing「(人にとって)愉快な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The clown amused us all.",
+          "ja": "そのピエロは私たちみんなを楽しませた。"
+        }
+      ]
+    },
+    {
+      "id": "942",
+      "word": "attract",
+      "phonetic": "[ətrǽkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を引きつける, 魅了する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(磁石のように, 物や人の気持ちを)引き寄せる」",
+        "頻出 be attracted to 〜「〜に心が引かれる」",
+        "a-[=ad 方向]+-tract[引っ張る]→「〜を引きつける」",
+        "形 attractive「魅力的な」",
+        "名 attraction「魅力, 引きつけるもの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The pop star's marriage attracted media attention.",
+          "ja": "人気スターの結婚はマスコミの関心を引きつけた。"
+        }
+      ]
+    },
+    {
+      "id": "943",
+      "word": "fascinate",
+      "phonetic": "[fǽsənèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を魅了する, 〜にとても興味をもたせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 be fascinated by 〜「〜に魅了される」",
+        "(=be very interested in 〜)",
+        "形 fascinating「魅力的な」",
+        "名 fascination「魅了」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was fascinated by the Sagrada Familia.",
+          "ja": "サグラダ・ファミリアに魅了された。"
+        }
+      ]
+    }
+  ]
+}

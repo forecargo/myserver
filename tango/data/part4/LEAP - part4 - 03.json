@@ -1,0 +1,375 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1422",
+      "word": "acid",
+      "phonetic": "[æsid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 酸性の",
+            "② 辛辣な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 酸"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「酸味の鋭い」→「意地の悪い」",
+        "「尖った」が元の意味。",
+        "★acute「鋭い」",
+        "名acidification「酸性化」",
+        "反alkali [ælkəlài]「アルカリ性の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① acid rain",
+          "ja": "① 酸性雨"
+        },
+        {
+          "en": "② an acid remark",
+          "ja": "② 辛辣な発言"
+        }
+      ]
+    },
+    {
+      "id": "1423",
+      "word": "toxic",
+      "phonetic": "[táksik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "有害な, 有毒な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 科学論文などでよく使われる。",
+        "反nontoxic「無害の」",
+        "参dioxin「ダイオキシン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "toxic substances",
+          "ja": "有害物質"
+        }
+      ]
+    },
+    {
+      "id": "1424",
+      "word": "endeavor",
+      "phonetic": "[indévər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 努力, 試み"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (懸命に)努力する, 試みる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「努力」を示す最も一般的な語。",
+        "▶ (堅さ)endeavor>strive>attempt>try",
+        "かつて「エンデバー」という名のスペースシャトルがあった。",
+        "▶ Part 3「能力・努力・到達」(p.316)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① despite my best endeavors",
+          "ja": "① 最大の努力にもかかわらず"
+        },
+        {
+          "en": "② endeavor to please our customers",
+          "ja": "② 客を満足させようと努力する"
+        }
+      ]
+    },
+    {
+      "id": "1425",
+      "word": "doom",
+      "phonetic": "[dúːm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(be ~ed to ~)〜の運命にある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何らかのマイナスの運命にある」",
+        "▶ doと同様に「〜に置く」が元の意味。",
+        "名doom「(通例, 悪い)運命」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Dodoes were doomed to extinction.",
+          "ja": "ドードー鳥は絶滅の運命にあった。"
+        }
+      ]
+    },
+    {
+      "id": "1426",
+      "word": "manufacture",
+      "phonetic": "[mænjufæktʃər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を製造する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 製造, 製品"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(工場で大量に)製造する」",
+        "語源manu-[手]+-fac-[作る]",
+        "名manufacturer「メーカー, 製造業者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① manufacture computer parts",
+          "ja": "① コンピュータ部品を製造する"
+        },
+        {
+          "en": "② arms manufacture in Israel",
+          "ja": "② イスラエルにおける武器の製造"
+        }
+      ]
+    },
+    {
+      "id": "1427",
+      "word": "yield",
+      "phonetic": "[jíːld]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を産出する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (to 〜) (〜に)屈する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 産出量"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ yield oneself to 〜「自らを〜に差し出す」からoneselfが省略された形。",
+        "▶ yield「出す」",
+        "★guild「同業組合, ギルド(←会費を出す組織)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① yield a large profit",
+          "ja": "① 大きな利益を生む"
+        },
+        {
+          "en": "② yield to her demand",
+          "ja": "② 彼女の要求に屈する"
+        },
+        {
+          "en": "③ a large yield of rice",
+          "ja": "③ 米の豊作(大きい産出量)"
+        }
+      ]
+    },
+    {
+      "id": "1428",
+      "word": "duplicate",
+      "phonetic": "動[dʒúːpləkèit] 名形[dʒúːplikət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を複製する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 複製物"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 複製の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「オリジナルとまったく同一の物」を作る",
+        "語源du-[2]+-pli-[折る]から「2つに折って重ねる」→「〜を複製する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① duplicate a document",
+          "ja": "① 書類を複製する"
+        },
+        {
+          "en": "② a duplicate of the document",
+          "ja": "② 書類の複製"
+        },
+        {
+          "en": "③ a duplicate key",
+          "ja": "③ 合い(複製の)かぎ"
+        }
+      ]
+    },
+    {
+      "id": "1429",
+      "word": "assemble",
+      "phonetic": "[əsémbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を組み立てる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 集まる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではput 〜 together",
+        "語源as-[=ad方向]+-semble[=same同じ]→「同じ場所に集める」",
+        "名assembly「集会, 組み立て」",
+        "⇨the General Assembly「国連総会」",
+        "反disassemble「〜を分解する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① assemble thousands of cars",
+          "ja": "① 何千台もの車を組み立てる"
+        },
+        {
+          "en": "② All the students assembled in the gym.",
+          "ja": "② 全校生徒が体育館に集まった。"
+        }
+      ]
+    },
+    {
+      "id": "1430",
+      "word": "mold",
+      "phonetic": "[móuld]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(型に入れて)作る",
+            "② (人格, 意見などを)形成する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 型, 鋳型"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(鋳型にはめて)形作る」",
+        "(*「カビ」の意味もある。)",
+        "語源mold[=mode尺度]→「尺度に合わせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① mold a chocolate bar",
+          "ja": "① 板チョコを作る"
+        },
+        {
+          "en": "② mold public opinion",
+          "ja": "② 世論を形成する"
+        },
+        {
+          "en": "③ break the mold",
+          "ja": "③ (従来の)型を破る"
+        }
+      ]
+    },
+    {
+      "id": "1431",
+      "word": "coin",
+      "phonetic": "[kɔ́in]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を作り出す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 硬貨"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(新語, 硬貨などを)作り出す」",
+        "参〈米〉bill〈英〉note「紙幣」",
+        "change「つり銭, 小銭」〈不可算〉",
+        "名coinage「硬貨鋳造, 造語」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The term “black hole” was coined in 1969.",
+          "ja": "① 「ブラックホール」という言葉は1969年に作られた。"
+        },
+        {
+          "en": "② a 100-yen coin",
+          "ja": "② 100円硬貨"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1258",
+      "word": "fancy",
+      "phonetic": "[fǽnsi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 高級な"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (英) 〜が欲しい, 〜したい",
+            "③ 〜と思う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(空想にでてくるような)高級な」(*①の意味が多く, ③はまれ)",
+        "名 fantasy「空想」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a fancy French restaurant",
+          "ja": "① 高級なフレンチレストラン"
+        },
+        {
+          "en": "I fancy some cheesecake.",
+          "ja": "② チーズケーキが食べたい."
+        },
+        {
+          "en": "I fancy that I have seen him.",
+          "ja": "③ 彼を見かけた気がする."
+        }
+      ]
+    },
+    {
+      "id": "1259",
+      "word": "rational",
+      "phonetic": "[rǽʃənl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "理性的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(感情ではなく)理性に基づいた」",
+        "反 irrational「理性的ではない」",
+        "参 rationale「理論的根拠」"
+      ],
+      "word_origin": {
+        "formula": "ratio-[計算]+-nal[性質] -> 「計算ずくの」",
+        "description": "ráte「割合」, rário「比率」"
+      },
+      "examples": [
+        {
+          "en": "make a rational decision",
+          "ja": "理性的な決定をする"
+        }
+      ]
+    },
+    {
+      "id": "1260",
+      "word": "magnificent",
+      "phonetic": "[mægnífəsnt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "壮大な, 素晴らしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =very beautiful, very impressive",
+        "派 magnitude「大きいこと, 重要性」",
+        "他 magnify「〜を拡大する」"
+      ],
+      "word_origin": {
+        "formula": "magni-[大きい]+-fic-[作る] -> 「大きく作った」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a magnificent view of Mt. Fuji",
+          "ja": "富士山の壮大な眺め"
+        }
+      ]
+    },
+    {
+      "id": "1261",
+      "word": "superior",
+      "phonetic": "[supíəriər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (be ~ to ~) (〜)より優れている"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 上役, 上司"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "反 be inferior (in A) to ~「(Aにおいて)〜より劣っている」",
+        "名 superiority (to [over] ~)「〜より勝っていること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Your bike is superior to mine.",
+          "ja": "① 君の自転車は私のより優れている."
+        },
+        {
+          "en": "his immediate superior",
+          "ja": "② 彼の直属の上司"
+        }
+      ]
+    },
+    {
+      "id": "1262",
+      "word": "loyal",
+      "phonetic": "[lɔ́iəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(to ~) (〜に)忠実な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(友人, 国, チームなどを)裏切らない」",
+        "名 loyalty「忠実」",
+        "⇨ show loyalty to ~「〜に忠誠を示す」",
+        "pledge (one's) loyalty「忠誠を誓う」",
+        "参 royal「王室の」(←loyalとのつづりの違いに注意。「王室でアール」と覚えよう。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a loyal supporter of the team",
+          "ja": "そのチームの忠実な支持者"
+        }
+      ]
+    },
+    {
+      "id": "1263",
+      "word": "horrible",
+      "phonetic": "[hɔ́ːrəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(物, 天気などが)とてもひどい, ぞっとする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "* 名 horror「恐怖」は日本語でも「ホラー映画」などで使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That fish looks horrible but tastes terrific.",
+          "ja": "その魚は見た目はひどいが, 味はすばらしい."
+        }
+      ]
+    },
+    {
+      "id": "1264",
+      "word": "miserable",
+      "phonetic": "[mízərəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "悲惨な, とても不幸な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「極めて不幸な」",
+        "* 映画にもなったフランス小説に『レ・ミゼラブル(邦題: ああ無情)』がある。",
+        "名 misery「悲惨さ, 不幸」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lead a miserable life",
+          "ja": "悲惨な生活を送る"
+        }
+      ]
+    },
+    {
+      "id": "1265",
+      "word": "dull",
+      "phonetic": "[dʌ́l]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 退屈な",
+            "② 切れ味が悪い",
+            "③ (人, 感覚などが)鈍い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 日常ではbóringのほうが使われる。",
+        "* 「ダルい, 「退屈だ」",
+        "反 sharp「鋭い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a dull TV program",
+          "ja": "① 退屈なテレビ番組"
+        },
+        {
+          "en": "② a dull knife (⇔ a sharp knife)",
+          "ja": "② 切れ味の悪いナイフ (⇔ 鋭いナイフ)"
+        },
+        {
+          "en": "③ a dull pain in my back",
+          "ja": "③ 腰の鈍痛"
+        }
+      ]
+    },
+    {
+      "id": "1266",
+      "word": "nasty",
+      "phonetic": "[nǽsti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(人, 物, 発言などが)不快な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(気分が悪くなるほどに)不快な」",
+        "* 茄子 teaは「不快な」味がした。",
+        "⇨ make a nasty remark「ひどいことを言う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "leave a nasty taste in my mouth",
+          "ja": "後味が悪い(口の中に嫌な味を残す)"
+        }
+      ]
+    },
+    {
+      "id": "1267",
+      "word": "insane",
+      "phonetic": "[inséin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "正気でない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ばかげた」から「(深刻な)精神異常」まで。",
+        "反 sane「正気の」",
+        "参 lunatic「狂気の」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定]+-sane[正気の]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Have you gone insane?",
+          "ja": "正気を失ったか?"
+        }
+      ]
+    },
+    {
+      "id": "1268",
+      "word": "ridiculous",
+      "phonetic": "[ridíkjuləs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "ばかげた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(信じられないような)ばか加減の」",
+        "派 deride「〜をあざける」",
+        "他 ridicule「〜を嘲笑する」",
+        "名「嘲笑」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I believe that lowering the voting age is a ridiculous idea.",
+          "ja": "選挙年齢を引き下げるのはばかげた考えだと思う."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "989",
+      "word": "subtle",
+      "phonetic": "[sʌ́tl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① かすかな",
+            "② 巧妙な",
+            "③ 繊細な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「注意しないと気づかないような」",
+        "頻出 subtle taste [flavors, smells]「ほのかな味[風味, 臭い]」",
+        "give a subtle hint that SV「〜を遠回しに言う」",
+        "派生 subtlety「微妙さ」",
+        "派生 subtly「微妙に」",
+        "反 obvious「明白な」"
+      ],
+      "word_origin": {
+        "formula": "sub-[下] + -tle[織り込み] -> 「織り込みの下(よく見えない)」→「かすかな」",
+        "description": "textile「織物」"
+      },
+      "examples": [
+        {
+          "en": "a subtle difference in meaning",
+          "ja": "かすかな意味の違い"
+        }
+      ]
+    },
+    {
+      "id": "990",
+      "word": "possibly",
+      "phonetic": "[pɑ́səbli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① ひょっとすると",
+            "② どうしても(〜できない)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶《確信度》probably「おそらく(70%以上)」> perhaps「あるいはおそらく(35〜50%)」> maybe「たぶん(35〜50%)」> possibly「ひょっとすると(30%以下)」",
+        "派生 possible「可能な」の副詞形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① It will take two weeks, possibly longer.",
+          "ja": "① 2週間, ひょっとしたらそれ以上かかるかもしれない."
+        },
+        {
+          "en": "② I cannot possibly solve this problem.",
+          "ja": "② この問題がどうしても解けない."
+        }
+      ]
+    },
+    {
+      "id": "991",
+      "word": "eventually",
+      "phonetic": "[ivéntʃuəli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "最終的に",
+            "ついに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(さまざまな問題や遅れなどの後に)ようやく」「(手順の)最後に」",
+        "類 at last「(長い間楽しみにしていてことなどが叶って)ついに」",
+        "類 after all「(予想に反して)結局」",
+        "注意 否定文では使用しない。",
+        "★ さまざまな出来事(event)があった後「ついに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "After changing jobs many times, I eventually found a job in a bank.",
+          "ja": "何度も転職を繰り返したあと, 最終的に, 銀行に就職しました."
+        }
+      ]
+    },
+    {
+      "id": "992",
+      "word": "necessarily",
+      "phonetic": "[nèsəsérəli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "(not 〜)必ずしも(〜ない)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では not always のほうが使われる。",
+        "派生 形 necessary「必要な」",
+        "派生 名 necessity「必要(性)」",
+        "派生 他 necessitate「〜を必要とする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Rich people are not necessarily happy.",
+          "ja": "金持ちが必ずしも幸せとは限らない."
+        }
+      ]
+    },
+    {
+      "id": "993",
+      "word": "frankly",
+      "phonetic": "[frǽŋkli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "率直に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(周りや相手の反応を気にせず)ありのままに, 正直に」",
+        "頻出 frankly (speaking)「率直に言って」",
+        "★ フランク族(Franks)が「自由民」であったことに由来。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "talk frankly with a friend",
+          "ja": "友だちと率直に話し合う"
+        }
+      ]
+    },
+    {
+      "id": "994",
+      "word": "ironically",
+      "phonetic": "[airɑ́nəkəli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "皮肉なことに"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「予想や期待とは違って(逆の結果が起こる)」",
+        "派生 名 irony「皮肉」",
+        "派生 形 ironic「皮肉な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Ironically, my car was stolen right in front of the police station.",
+          "ja": "皮肉なことに, 私の車は警察署の真ん前で盗まれた."
+        }
+      ]
+    },
+    {
+      "id": "995",
+      "word": "moreover",
+      "phonetic": "[mɔ̀ːróuvər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "その上"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「改まった場面」で使用。(＊前述の内容に新情報を加えたり, 支持をする。)",
+        "類 besides は「日常のくだけた状況」で使用。",
+        "注意 furthermore, in addition と言い換え可能。",
+        "★ more-[もっと] + -over[さらに]",
+        "参 over and over「何度も」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Smoking is bad for you. Moreover, it costs a lot.",
+          "ja": "喫煙は体に悪い. その上お金がかかる."
+        }
+      ]
+    },
+    {
+      "id": "996",
+      "word": "otherwise",
+      "phonetic": "[ʌ́ðərwàiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① さもなければ",
+            "② ほかの点では",
+            "③ ほかの方法で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 ① 仮定法の条件節の代わりに用いることもある。",
+        "注意 ③ 動詞の前後に置かれる。",
+        "参 think otherwise「そうは思わない」",
+        "★ other-[ほか] + -wise[=way 方法, 点]",
+        "参 clockwise「時計回りの(←時計の方法で)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Hurry up; otherwise you'll be late.",
+          "ja": "① 急げ! さもないと遅れるぞ."
+        },
+        {
+          "en": "② This room is small but otherwise perfect.",
+          "ja": "② この部屋は狭いが, ほかの点では申し分ない."
+        },
+        {
+          "en": "③ They say that the movie is wonderful, but I think otherwise.",
+          "ja": "③ その映画はすばらしいと言うが, 私は違うと思う(違うように考える)."
+        }
+      ]
+    }
+  ]
+}

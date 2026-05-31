@@ -1,0 +1,325 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1411",
+      "word": "breakthrough",
+      "phonetic": "[bréikrùː]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "飛躍的進歩",
+            "大発見"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「従来の殻を破る(break)ような進歩」",
+        "break-[壊す]+-through[通り抜けて]→「(一気に道が開ける)進歩」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a breakthrough in the treatment of cancer",
+          "ja": "がん治療の飛躍的進歩"
+        }
+      ]
+    },
+    {
+      "id": "1412",
+      "word": "evolution",
+      "phonetic": "[èvəlúːʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (動植物の)進化",
+            "② (都市や文明の)進化"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動植物の)進化」から「(都市や文明の)進化」まで",
+        "e-[外に]+-vol-[回る]→「外へ展開していく」",
+        "自 evolve「進化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Darwin's theory of evolution",
+          "ja": "ダーウィンの進化論"
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "word": "innovation",
+      "phonetic": "[ìnəvéiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "革新"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「従来にはないまったく新しい考えや方法など」",
+        "in-[中に]+-nova-[新しい]から「中を新しくする」→「革新」",
+        "renovation「修復」(re-[再び]+-nova-[新しい])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the speed of technological innovation",
+          "ja": "技術革新のスピード"
+        }
+      ]
+    },
+    {
+      "id": "1414",
+      "word": "probe",
+      "phonetic": "[próub]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 探査機"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を調査する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "prob-[証明]→「証明するもの」",
+        "名 probation「試すこと, 見習い期間」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a space probe on its way to Mars",
+          "ja": "① 火星に向かう宇宙探査機"
+        },
+        {
+          "en": "② probe the surface of the moon",
+          "ja": "② 月面を探査する"
+        }
+      ]
+    },
+    {
+      "id": "1415",
+      "word": "fluid",
+      "phonetic": "[flúːid]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 流体"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 流動的な",
+            "なめらかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "flu-(=flow 流れ)「influence「影響(←中に流れ込むもの)」",
+        "futile「無駄な(←流れ出る)」",
+        "反 solid「固体」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① drink plenty of fluids",
+          "ja": "① 十分な水分を補給する"
+        },
+        {
+          "en": "② a fluid situation",
+          "ja": "② 流動的な状況"
+        }
+      ]
+    },
+    {
+      "id": "1416",
+      "word": "particle",
+      "phonetic": "[pɑ́ːrtikl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 粒子",
+            "② (not a ~ of A) (Aの)かけら(もない)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「非常に小さい物」",
+        "part-[部分]+-cle[小さな]「article「記事, 品物, 冠詞, 条項」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① an elementary particle",
+          "ja": "① 素粒子(初歩的な粒子)"
+        },
+        {
+          "en": "② not a single particle of truth",
+          "ja": "② 真実のかけらもない"
+        }
+      ]
+    },
+    {
+      "id": "1417",
+      "word": "gravity",
+      "phonetic": "[grǽvəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 重力",
+            "② 重大さ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「①地球などの惑星のgravitation(引力)のこと」",
+        "grave「重々しい, 重大な」の名形容詞",
+        "grief「深い悲しみ(←気分を重くさせる)」",
+        "形 gravitational「重力の」",
+        "a gravitational field「重力場, 重力圏」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① in zero gravity",
+          "ja": "① 無重力で"
+        },
+        {
+          "en": "② recognize the gravity of the situation",
+          "ja": "② 事態の深刻さを認識する"
+        }
+      ]
+    },
+    {
+      "id": "1418",
+      "word": "hypothesis",
+      "phonetic": "[haipɑ́θəsis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "仮説"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「まだ証明されていない説」",
+        "hypo-[下]+-thesis[主題]→「主題の下にくるもの」",
+        "hypocrisy「偽善(←本音を仮面の下に隠した行動)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "test a hypothesis",
+          "ja": "仮説を検証する"
+        }
+      ]
+    },
+    {
+      "id": "1419",
+      "word": "specimen",
+      "phonetic": "[spésəmən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 標本",
+            "② サンプル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動植物の)標本」から「(尿検査などの)サンプル」まで",
+        "speci-[見る]+-men[結果]「spectator「観客, 見物人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① butterfly specimens",
+          "ja": "① チョウの標本"
+        },
+        {
+          "en": "② a blood specimen",
+          "ja": "② 血液のサンプル (= a blood sample)"
+        }
+      ]
+    },
+    {
+      "id": "1420",
+      "word": "microbe",
+      "phonetic": "[máikroub]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "微生物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(顕微鏡でしか見ることができないような)小さな生物」",
+        "micro-[小さい]+-be(=bio)生物"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Countless microbes live in our intestines.",
+          "ja": "腸内には無数の微生物が生きている。"
+        }
+      ]
+    },
+    {
+      "id": "1421",
+      "word": "poison",
+      "phonetic": "[póizn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "毒"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ venom「(ヘビ, ハチなどの)毒」",
+        "▶「口でとって, ズンと効く「毒」」",
+        "形 poisonous「有毒な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The skull and crossbones is a warning symbol for poison.",
+          "ja": "ドクロと交差した骨は毒であることを警告する象徴だ。"
+        }
+      ]
+    }
+  ]
+}

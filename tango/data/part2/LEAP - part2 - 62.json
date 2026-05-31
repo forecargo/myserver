@@ -1,0 +1,233 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "849",
+      "word": "occasion",
+      "phonetic": "[əkèɪʒən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 場合",
+            "② 行事, 祝い事"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある特別な時間」(*②は①の意訳.)",
+        "頻出 ① on ~ occasion 「〜の場合には」 on occasion 「たまに」 an occasion when S' V' 「S'がVする機会」",
+        "語源 oc- [=against に対して] + -cas- [落ちる] から「〜に対して落ちてくる」→「特定のものを起こすこと(場合, 行事)」",
+        "派生 cascade 「(小さな)滝」",
+        "形 occasional 「時折の」",
+        "副 occasionally 「時折」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "on this occasion",
+          "ja": "① このような場合には"
+        },
+        {
+          "en": "keep the dress for special occasions",
+          "ja": "② その服を特別な行事のためにとっておく"
+        }
+      ]
+    },
+    {
+      "id": "850",
+      "word": "accidental",
+      "phonetic": "[æksədéntl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "偶発的な, 突発的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「計画や意図なしに起きた」",
+        "頻出 an accidental bombing of non-military facilities「民間施設への誤爆」",
+        "名 accident「事故, 偶発」",
+        "副 accidentally「偶然に, 誤って」(=by accident)",
+        "反 deliberate「意図的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an accidental meeting",
+          "ja": "偶然の出会い"
+        }
+      ]
+    },
+    {
+      "id": "851",
+      "word": "current",
+      "phonetic": "[kə́ːrənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 最新の, 今の",
+            "② 流通して"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 流れ, 風潮"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「流れ(走っ)ている」→「刻一刻と流れる状況で→)最新の, 今の」",
+        "▶②「世間や市場で流れている→)流通して」",
+        "頻出 ① current affairs「時事問題」 one's current job「今の仕事」",
+        "語源 cur- [=run 走る]",
+        "派生 cursor 「カーソル(←コンピュータの画面上を走るマーク)」",
+        "名 currency「通貨(流通しているもの)」",
+        "コロケーション local currency 「地元の通貨」 cryptocurrency 「暗号通貨, 仮想通貨」",
+        "副 currently 「現在」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the current energy crisis",
+          "ja": "① 現在のエネルギー危機"
+        },
+        {
+          "en": "according to a current rumor",
+          "ja": "② 世間の(流布している)うわさによると"
+        },
+        {
+          "en": "a 10 amp electrical current",
+          "ja": "③ 10アンペアの電流"
+        }
+      ]
+    },
+    {
+      "id": "852",
+      "word": "temporary",
+      "phonetic": "[témpərèri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "一時的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期間ではなく)束の間の」",
+        "語源 tempo- [(有限の)時間] + -ary [形容詞語尾] から「限られた時間」→「一時的な」",
+        "派生 tentative 「(計画などが)仮の」(←tent は仮の住まい)で覚えよう.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a temporary license",
+          "ja": "仮免許"
+        }
+      ]
+    },
+    {
+      "id": "853",
+      "word": "permanent",
+      "phonetic": "[pə́ːrmənənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "永久的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「変化せず永続する」",
+        "頻出 permanent peace [teeth]「恒久平和[永久歯]」",
+        "語源 perm「(髪の毛の)パーマ」は permanent waves の略.",
+        "反 temporary 「一時的な」",
+        "類義 perpetual 「絶え間ない」(*マイナスイメージのことが多い.)",
+        "コロケーション perpetual snow 「万年雪」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a permanent member of the U.N. Security Council",
+          "ja": "国連安全保障理事会の常任理事国"
+        }
+      ]
+    },
+    {
+      "id": "854",
+      "word": "previous",
+      "phonetic": "[príːviəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(時間, 順序で)前の, 以前の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 take back one's previous remarks「前言撤回する」",
+        "コロケーション a previous owner「以前の所有者」 previous experience「過去の経験」",
+        "語源 pre- [前に] + -vi- [=via 道] →「以前に通った道」",
+        "類義 ex-boyfriend「元彼(←前の彼氏)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the previous morning",
+          "ja": "(ある日の)前日の朝(前の朝)"
+        }
+      ]
+    },
+    {
+      "id": "855",
+      "word": "former",
+      "phonetic": "[fɔ́ːrmər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (the 〜)前者"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 元の, 前の, 旧"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(後者と比較して)前者」",
+        "▶②「(現在と比較して)昔の, 以前の」",
+        "注意 ① 名が単数→単数扱い>, 複数→複数扱い>となる.",
+        "コロケーション 以前は」",
+        "反 ① the latter 「後者」",
+        "反 ② incumbent 「現職の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the former and the latter",
+          "ja": "① 前者と後者"
+        },
+        {
+          "en": "a former colony of Britain",
+          "ja": "② 旧英国植民地"
+        }
+      ]
+    }
+  ]
+}

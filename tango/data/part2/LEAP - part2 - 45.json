@@ -1,0 +1,225 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "727",
+      "word": "species",
+      "phonetic": "[spíːʃiːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(生物分類上の)種"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(単複同形)」",
+        "頻出 our species「人類」",
+        "注意「種類」の意味もあるが、主に「種」を示す。The Origin of Species『種の起源』(C. Darwin 著)のように、生物学的な「種」を示す最も一般的な語。",
+        "派生 spec-[見る]から「様相、形状、種類」☆aspect「側面、外観」",
+        "派生 subspecies「亜種」",
+        "派生 cross-species「異種間の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "elephants and other endangered species",
+          "ja": "ゾウなどの絶滅危惧種"
+        }
+      ]
+    },
+    {
+      "id": "728",
+      "word": "pesticide",
+      "phonetic": "[péstəsaɪd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(虫や小動物などの)殺虫剤, 駆除剤",
+            "◇agricultural chemicals「(全般としての)農薬」insecticide「(特に虫に限定した)殺虫剤」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 pesticide residues「残留農薬」",
+        "派生 pesti-[虫] + -cide[切る] →「虫を殺すもの」☆genocide「大量虐殺(geno-[種族] + -cide[切る])」herbicide「除草剤(←草を切る)」suicide「自殺(←自分を切る)」"
+      ],
+      "word_origin": {
+        "formula": "pesti-[虫] + -cide[切る] -> 「虫を殺すもの」",
+        "description": "genocide「大量虐殺(geno-[種族] + -cide[切る])」, herbicide「除草剤(←草を切る)」, suicide「自殺(←自分を切る)」"
+      },
+      "examples": [
+        {
+          "en": "spray crops with pesticides",
+          "ja": "作物に農薬を散布する"
+        }
+      ]
+    },
+    {
+      "id": "729",
+      "word": "extinct",
+      "phonetic": "[ɪkstíŋkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "絶滅した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常ではdie outを使うことが多い。",
+        "頻出 become extinct「絶滅する」",
+        "an extinct volcano「死火山」(↔an active volcano「活火山」)",
+        "派生 extinction「絶滅」",
+        "他 extinguish「(火)を消す、〜を絶滅させる」",
+        "派生 a fire extinguisher「消火器」",
+        "反 active「活動的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Dinosaurs became extinct millions of years ago.",
+          "ja": "恐竜は何百万年も前に絶滅した。"
+        }
+      ]
+    },
+    {
+      "id": "730",
+      "word": "feed",
+      "phonetic": "[fíːd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜にえさを与える",
+            "② (子どもなどを)養う"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (on 〜)(〜を)常食とする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(動物、赤ちゃん、病人)に食べ物を与える」",
+        "頻出 ① be fed up with 〜「〜にうんざりしている」",
+        "I'm fed up with his excuses.「彼の言い訳にはうんざりだ。」(*upは「完了」の意味。)",
+        "派生 foodの動詞形。",
+        "派生 feedback「(利用者などの)反響、意見」",
+        "派生 a (zoo) keeper「(動物園の)飼育係」",
+        "活用 feed-fed-fed",
+        "派生 bottle-feed「(赤ちゃんを)人工乳で育てる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① feed these goldfish",
+          "ja": "① これらの金魚にえさを与える"
+        },
+        {
+          "en": "② feed a family of five",
+          "ja": "② 5人家族を養う"
+        },
+        {
+          "en": "③ Sheep feed on grass.",
+          "ja": "③ ヒツジは草を常食とする。"
+        }
+      ]
+    },
+    {
+      "id": "731",
+      "word": "energetic",
+      "phonetic": "[ènərdʒétɪk]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(人、運動などが)活発な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「活動できる力が十分にある」",
+        "派生 energe-[エネルギー] + -tic[形容詞語尾]",
+        "派生 名 energy「活力、エネルギー」",
+        "派生 副 energetically「精力的に」",
+        "work energetically「精力的に仕事する」"
+      ],
+      "word_origin": {
+        "formula": "energe-[エネルギー] + -tic[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "energetic boys and girls",
+          "ja": "活発な少年少女たち"
+        }
+      ]
+    },
+    {
+      "id": "732",
+      "word": "greedy",
+      "phonetic": "[gríːdi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "貪欲な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(あらゆるものに対して)醜いほどの欲求を示す」",
+        "頻出 be greedy for 〜「〜を貪欲に求める」",
+        "派生 Greece「ギリシャ」とは別語源。",
+        "派生 名 greed「貪欲さ、強欲さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A greedy child ate all the pies.",
+          "ja": "食い意地の張った子がパイを全部食べた。"
+        }
+      ]
+    },
+    {
+      "id": "733",
+      "word": "brave",
+      "phonetic": "[bréɪv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "勇敢な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「barbarian(未開人)が突進する」イメージで「行為」に重点がある。",
+        "類義 courageous「勇気のある」(*「精神的強さ」に重点。)",
+        "頻出 a brave action [attempt]「勇敢な行為[試み]」",
+        "派生 副 bravely「勇敢に」",
+        "派生 名 bravery「勇敢さ」",
+        "反 cowardly「臆病な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a brave firefighter",
+          "ja": "勇敢な消防士"
+        }
+      ]
+    }
+  ]
+}

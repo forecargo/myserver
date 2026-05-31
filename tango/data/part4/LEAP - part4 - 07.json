@@ -1,0 +1,337 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1464",
+      "word": "abuse",
+      "phonetic": "[əbjúːs], [əbjúːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 虐待",
+            "② 乱用"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を悪用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(子どもなどの)虐待」から「(権力や薬物の)乱用」まで。",
+        "★ab-(=away 離れて) + -use[使用]から「ふつうではない使い方」→「乱用」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "child abuse",
+          "ja": "児童の虐待"
+        },
+        {
+          "en": "drug abuse",
+          "ja": "薬物の乱用"
+        },
+        {
+          "en": "abuse his position",
+          "ja": "彼の地位を悪用する"
+        }
+      ]
+    },
+    {
+      "id": "1465",
+      "word": "bias",
+      "phonetic": "[báɪəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "偏見"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "biased"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人間なら誰でも持つ)好き嫌いや、ひいきする感情」",
+        "★元は「斜面」の意味で「偏り」→「偏見」",
+        "「偏見を持った、偏った」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a bias against single mothers",
+          "ja": "シングルマザーに対する偏見"
+        }
+      ]
+    },
+    {
+      "id": "1466",
+      "word": "prestige",
+      "phonetic": "[prestíːʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "名声, 威信"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "prestigious"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(成功によって人々から向けられる)尊敬の念」",
+        "「名声のある、一流の」",
+        "a prestigious school「名門校」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "gain wealth and prestige",
+          "ja": "富と名声を得る"
+        }
+      ]
+    },
+    {
+      "id": "1467",
+      "word": "privilege",
+      "phonetic": "[prívəlɪdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "特権"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "privileged"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "underprivileged"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「特定の個人や集団のみに与えられた権利」",
+        "★pri-(=private) + -lege(=legal 法律の) →「自分だけに与えられた法的な権利」",
+        "「特権的な」",
+        "privileged classes「特権階級」",
+        "「(社会的、経済的に)恵まれない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a privilege of the rich",
+          "ja": "金持ちの特権"
+        }
+      ]
+    },
+    {
+      "id": "1468",
+      "word": "feat",
+      "phonetic": "[fíːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "偉業"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(南極大陸横断など)簡単にはできないこと」",
+        "★fac-(=fic, fec 作る, 行う)と同語源で「作り上げられたもの」→「偉業」",
+        "factory「工場」, fiction「小説」, infection「感染」",
+        "feasible「実現可能な(←行うことができる)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "accomplish [pull off] the feat of climbing Mt. Everest twice",
+          "ja": "エベレスト山に2回登るという偉業を達成する"
+        }
+      ]
+    },
+    {
+      "id": "1469",
+      "word": "dignity",
+      "phonetic": "[dígnəti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "威厳"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "dignified"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(尊敬に値するような)穏やかで品格のある様子」",
+        "「威厳のある」",
+        "indignant「激怒した(←威厳を傷つけられた)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "choose a death with dignity",
+          "ja": "尊厳死を選ぶ"
+        }
+      ]
+    },
+    {
+      "id": "1470",
+      "word": "virtue",
+      "phonetic": "[və́ːrtʃuː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 美徳",
+            "② (人, 物の個々の)長所",
+            "③ (by - of ~)〜のために"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「道徳的な良さ」→「長所」",
+        "★③の元の意味「(望ましい)力」から①②へ意味が発展。",
+        "vice「悪徳」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lead a life of virtue",
+          "ja": "徳のある生活を送る"
+        },
+        {
+          "en": "the virtues of organic farming",
+          "ja": "有機農法の長所"
+        },
+        {
+          "en": "She became an Australian resident by virtue of her marriage.",
+          "ja": "彼女は結婚のためにオーストラリアの住人になった。"
+        }
+      ]
+    },
+    {
+      "id": "1471",
+      "word": "aristocracy",
+      "phonetic": "[æ̀rəstɑ́krəsi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(通例 the -)貴族(階級, 社会)"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "arist-[最上の] + -cracy[支配]",
+        "description": "democracy「民主主義」(demo-[民衆] + -cracy[支配]), aristocrat「(個人としての)貴族」"
+      },
+      "examples": [
+        {
+          "en": "a pastime of the Polish aristocracy",
+          "ja": "ポーランド貴族の娯楽"
+        }
+      ]
+    },
+    {
+      "id": "1472",
+      "word": "rebel",
+      "phonetic": "[rébəl], [rɪbél]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 反逆者"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (against ~)〜に反逆する, 反抗する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(権力や慣習に立ち向かう)反逆者」",
+        "★battle「戦い」",
+        "rebellious「反抗的な」",
+        "rebellion「反抗, 反乱」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a rebel army",
+          "ja": "反乱軍"
+        },
+        {
+          "en": "rebel against my parents",
+          "ja": "親に反抗する"
+        }
+      ]
+    },
+    {
+      "id": "1473",
+      "word": "scheme",
+      "phonetic": "[skíːm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 〈英〉計画",
+            "② 陰謀"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(政府や企業などが行う大規模な)公共計画, 事業計画」(①〈米〉program)",
+        "▶「(不正や違法な目的を達成するための)巧妙な計画」",
+        "★スキー村(むら)の「計画」",
+        "in the scheme of things「全体から見れば」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a clever marketing scheme",
+          "ja": "巧妙なマーケティング計画"
+        },
+        {
+          "en": "a devilish scheme to cheat people",
+          "ja": "人々をだます悪魔のような陰謀"
+        }
+      ]
+    }
+  ]
+}

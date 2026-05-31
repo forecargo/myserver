@@ -1,0 +1,378 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1320",
+      "word": "brick",
+      "phonetic": "[brik]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① れんが",
+            "② (英) おもちゃの積み木",
+            "② (米) block"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「壊れたかけら」が元の意味。",
+        "★break",
+        "名 bricklayer「れんが職人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a brick house",
+          "ja": "① れんが造りの家"
+        },
+        {
+          "en": "use my bricks to make a castle",
+          "ja": "② 積み木を使って城を作る"
+        }
+      ]
+    },
+    {
+      "id": "1321",
+      "word": "pole",
+      "phonetic": "[póul]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 棒, さお, 柱",
+            "② (天体, 地球の)極",
+            "① 「くい」",
+            "② 「軸」"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "pólar「極の」"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "pólarize「〜を二極化させる」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ポールダンス」は「垂直の柱を使ったダンス」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a ten-foot bamboo pole",
+          "ja": "① 10フィートの竹ざお"
+        },
+        {
+          "en": "head for the North Pole",
+          "ja": "② 北極点を目指す"
+        }
+      ]
+    },
+    {
+      "id": "1322",
+      "word": "mischief",
+      "phonetic": "[místʃif]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "いたずら〈不可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "mischievous「いたずら好きな」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に, 子どもがやる)深刻ではないいたずら」",
+        "★chef「シェフ」"
+      ],
+      "word_origin": {
+        "formula": "mis-[マイナス]+-chief[頭→端→終わり]→「マイナスの結果に達すること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a child who loves mischief",
+          "ja": "いたずらが好きな子ども"
+        }
+      ]
+    },
+    {
+      "id": "1323",
+      "word": "superstition",
+      "phonetic": "[sùːpərstíʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "迷信"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "superstitious「迷信の, 迷信を信じる」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(総称的な)迷信」→〈不可算〉",
+        "▶「(個々の)迷信」→〈可算〉"
+      ],
+      "word_origin": {
+        "formula": "super-[上に]+-stition[立つこと]から「(常識より)上にある誤った考え」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the superstition that rooms numbered 4[×No. 4 rooms] are unlucky",
+          "ja": "4号室は不吉であるという迷信"
+        }
+      ]
+    },
+    {
+      "id": "1324",
+      "word": "storage",
+      "phonetic": "[stɔ́ːridʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "貯蔵, 保管〈不可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "store「〜を蓄える, 保存する」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶店(store)は商品の「貯蔵」場所。",
+        "名 storeroom「貯蔵室」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I need more storage space.",
+          "ja": "もっと多くの貯蔵スペースが必要だ."
+        }
+      ]
+    },
+    {
+      "id": "1325",
+      "word": "shelter",
+      "phonetic": "[ʃéltər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 避難(所)",
+            "② 住居"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 雨宿りする(雨から避難する)",
+            "② 衣食住"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「避難するための建物」以外は〈不可算〉。",
+        "▶a nuclear (bomb) shelter「核シェルター」は「核攻撃から身を守るために設けられた避難所」のこと。",
+        "(*語順に注意.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "take shelter from the rain",
+          "ja": "① 雨宿りする(雨から避難する)"
+        },
+        {
+          "en": "food, clothing, and shelter",
+          "ja": "② 衣食住"
+        }
+      ]
+    },
+    {
+      "id": "1326",
+      "word": "garment",
+      "phonetic": "[gáːrmənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "衣類"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常ではclothesのほうが使われる。",
+        "★garage「ガレージ」",
+        "名 attire「(特別な)服装」(-tire[タイヤ, 巻きつけるもの])"
+      ],
+      "word_origin": {
+        "formula": "gar-[保護する]+-ment[もの]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Delicate garments should be handwashed.",
+          "ja": "傷みやすい衣類は手洗いしなければならない."
+        }
+      ]
+    },
+    {
+      "id": "1327",
+      "word": "canal",
+      "phonetic": "[kənǽl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "運河"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(船が運航できるように作られた)人工的な川」",
+        "▶「水の管」が語源で, channel「海峡」も同語源。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「水の管」が語源で, channel「海峡」も同語源。"
+      },
+      "examples": [
+        {
+          "en": "the Suez Canal",
+          "ja": "スエズ運河"
+        }
+      ]
+    },
+    {
+      "id": "1328",
+      "word": "cabinet",
+      "phonetic": "[kǽbənìt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 戸棚",
+            "② (the C-)内閣"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★bullet「弾丸」",
+        "★budget「予算」",
+        "名 coalition「連立」"
+      ],
+      "word_origin": {
+        "formula": "cabin-[部屋]+-et[小さな]から「戸棚, 内閣(~小部屋で会合を開く人々)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "put the forms in the filing cabinet",
+          "ja": "① 書類整理棚にその書類をしまう"
+        },
+        {
+          "en": "a member of the Cabinet",
+          "ja": "② 内閣の一員"
+        }
+      ]
+    },
+    {
+      "id": "1329",
+      "word": "incident",
+      "phonetic": "[ínsədənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に不快な)出来事"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "incidental「付随的な」"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "incidentally「ついでに言えば」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(深刻な, 暴力を伴うような)出来事, 事件」",
+        "◇happening「(妙な)出来事」(*通例, 複数形.)",
+        "◇occurrence「出来事(一般)」",
+        "⇨incidental expenses「雑費」",
+        "名 incidence「(病気などの)発症率」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The incident occurred at around 3 a.m.",
+          "ja": "その出来事は午前3時ごろに起きた."
+        }
+      ]
+    },
+    {
+      "id": "1330",
+      "word": "circumstance",
+      "phonetic": "[sə́ːrkəmstæns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(通例-s)状況, 事情"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★circumvent「〜を迂回する」",
+        "名 agreement「一致」",
+        "◇under no circumstances「決して〜ない」",
+        "◇things「事情, 事態」",
+        "⇨Things are getting better.「状況は好転している.」"
+      ],
+      "word_origin": {
+        "formula": "circum-[円]+-stance[立つ]から「円の周りに立つ」→「(周囲の)状況」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The circumstances are changing minute by minute.",
+          "ja": "状況は刻一刻と変化している."
+        }
+      ]
+    }
+  ]
+}

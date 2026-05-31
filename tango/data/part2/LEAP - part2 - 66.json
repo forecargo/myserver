@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "875",
+      "word": "luxury",
+      "phonetic": "[lʌ́kʃəri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 高級(品), ぜいたく品",
+            "② (形容詞的に)豪華な, ぜいたくな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 ② 名の前に置いて形容詞的に使われる。",
+        "語源 lūx「光輝」(照度の国際単位) →「光り輝く」→「豪華」と覚えよう。",
+        "形 luxurious「豪華な」 (⇔ simple「質素な」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "spend a lot of money on luxuries",
+          "ja": "ぜいたく品に多額のお金を使う"
+        },
+        {
+          "en": "a luxury hotel",
+          "ja": "豪華なホテル"
+        }
+      ]
+    },
+    {
+      "id": "876",
+      "word": "credit",
+      "phonetic": "[krédit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (― card)クレジットカード",
+            "② 功績, 手柄",
+            "③ (大学の)単位"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "④ 〜の功績を認める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「信用」(「社会的に信用に基づいた後払いが可能」) ④「(信用に基づいた)功績(を認める)」 ③「(信用に基づいた)単位」",
+        "頻出 ① pay by credit card [with a credit card]「カードで支払う」",
+        "A is credited with[for] B.「AはBの功績があると認められる。」",
+        "熟 buy ~ in cash「〜を現金で買う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Do you accept credit cards?",
+          "ja": "クレジットカードは使えますか."
+        },
+        {
+          "en": "All the credit goes to him.",
+          "ja": "すべて彼の手柄(功績)だ."
+        },
+        {
+          "en": "cannot get credits simply by attending class",
+          "ja": "授業に出るだけでは単位はもらえない"
+        },
+        {
+          "en": "He is credited with that invention. (=That invention is credited to him.)",
+          "ja": "その発明は彼の功績だ(彼はその発明の功績があると認められる)."
+        }
+      ]
+    },
+    {
+      "id": "877",
+      "word": "questionnaire",
+      "phonetic": "[kwèstʃənέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "アンケート, 質問票"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「質問事項をアンケート形式にまとめたもの」",
+        "熟 a survey「アンケート調査」",
+        "頻出 answer, fill out, 〈英〉fill in a questionnaire「アンケートに答える[記入する]」",
+        "collect questionnaires「アンケートを回収する」",
+        "派生 question- [質問] + -aire [関係する物(人)]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a survey using a questionnaire",
+          "ja": "アンケート(を用いた)調査"
+        }
+      ]
+    },
+    {
+      "id": "878",
+      "word": "reservation",
+      "phonetic": "[rèzərvéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 予約",
+            "② 慎重な姿勢"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①(席, 部屋などの)予約",
+        "熟 appointment「(歯医者などの)予約, (面会の)約束」",
+        "頻出 ① make a reservation「予約をする」 (〈英〉make a booking)",
+        "語源 re-[後ろ] + -serve [奉仕する, 保つ] から「後ろに保つ」→「とっておく」",
+        "他 reserve「〜を予約する」 ⇔「ホテルを予約する」は reserve a room at a hotel または reserve a hotel と表現する。",
+        "類義 non-reserved [unreserved] seats「予約されていない席」",
+        "反 réservé「禁猟区」",
+        "形 reserved「控えめな」",
+        "類義 book「(主に〈英〉)〜を予約する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make a reservation under the name of Sophie",
+          "ja": "ソフィーの名前で予約する"
+        },
+        {
+          "en": "have reservations about the proposal",
+          "ja": "その提案に対して慎重な姿勢を保つ"
+        }
+      ]
+    },
+    {
+      "id": "879",
+      "word": "fuss",
+      "phonetic": "[fʌ́s]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "大騒ぎ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(必要以上に)あれこれやと騒ぎたてること」",
+        "頻出 make a fuss (about ~)「(~について)大騒ぎをする」",
+        "語源 infant「幼児(←話せない者)」の -fa- [話す] と関連づけて覚えよう。",
+        "形 fussy「すぐ騒ぎ立てる, 口うるさい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make a fuss about trivial things",
+          "ja": "くだらないことで大騒ぎする"
+        }
+      ]
+    },
+    {
+      "id": "880",
+      "word": "reward",
+      "phonetic": "[riwɔ́ːrd]",
+      "level_tag": "B1/B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 報酬, 褒美"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に褒美を与える, 報いる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(奉仕や功労などに対する)報酬」",
+        "熟 prize「(競争やコンテストなどで得る)賞品, 賞金など」",
+        "頻出 ① a[the] reward for ~「〜に対する報酬, 褒美」",
+        "② reward +(人)+with ~「(人)に〜を与える」",
+        "語源 re-[再び] + -ward [見る] →「(よく見て)褒美を与える」",
+        "類義 award「賞(←しっかり見て与える)」",
+        "形 rewarding「やりがいのある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the reward for the job",
+          "ja": "その仕事に対する報酬"
+        },
+        {
+          "en": "reward children for behaving well",
+          "ja": "いい子にしていたので子どもたちに褒美をあげる"
+        }
+      ]
+    },
+    {
+      "id": "881",
+      "word": "farewell",
+      "phonetic": "[fɛ́ərwél]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "別れ(のあいさつ)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ しばしば形容詞的に用いる。",
+        "頻出 a farewell address to the graduates「卒業生への贈る言葉」",
+        "語源 fare-[行く] + -well [よい] →「よい旅を」",
+        "類義 fare「運賃(←旅の料金)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a farewell party",
+          "ja": "送別会を開く"
+        }
+      ]
+    }
+  ]
+}

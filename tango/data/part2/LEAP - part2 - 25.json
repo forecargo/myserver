@@ -1,0 +1,272 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "584",
+      "word": "burst",
+      "phonetic": "[bə́ːrst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 破裂する, 爆発する",
+            "② (慣用句で)突然〜し始める"
+          ]
+        },
+        {
+          "part_of_speech": "熟語",
+          "meanings": [
+            "burst out laughing [crying]",
+            "burst into laughter [tears]",
+            "burst apart"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(内部からの圧力や衝撃によって)爆発する」",
+        "「突然笑い[泣き]出す」(=burst into laughter [tears])",
+        "派生 outburst「噴出」",
+        "活用 burst-burst(ed)-burst(ed)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Japan's economic bubble burst in the 1990s.",
+          "ja": "日本のバブル経済は1990年代にはじけた。"
+        },
+        {
+          "en": "She burst out crying.",
+          "ja": "彼女は突然泣き始めた。"
+        }
+      ]
+    },
+    {
+      "id": "585",
+      "word": "melt",
+      "phonetic": "[mélt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (固体が)溶ける"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を溶かす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷ thaw「(雪, 氷などが)溶ける」",
+        "注意 固体が液体の中で「溶ける」は dissolve で表現する。",
+        "⇒ Salt dissolves in hot water.「塩がお湯で溶ける。」",
+        "派生 meltdown「(原子炉の)炉心溶融, (株, 相場の)急落」",
+        "派生 melting「溶けていく」",
+        "▷ a melting pot「人種のるつぼ(←アメリカ社会の比喩)」",
+        "▶「固体が溶けて, 液体になる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The ice cream quickly melted.",
+          "ja": "アイスクリームがすぐに溶けてしまった。"
+        },
+        {
+          "en": "melt the butter",
+          "ja": "バターを溶かす"
+        }
+      ]
+    },
+    {
+      "id": "586",
+      "word": "commute",
+      "phonetic": "[kəmjúːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 通勤[通学]する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 通勤[通学](距離)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(交通機関を使って)通勤する」",
+        "熟 commute from A to B[between A and B]「AからBまで通勤する」",
+        "熟 commute a long distance to work「長距離を通勤する」"
+      ],
+      "word_origin": {
+        "formula": "com-(=con 共に) + -mute[変える] →「場所を変える」",
+        "description": "mutation「突然変異」, commuter「通勤者」, a commuter train「通勤列車」"
+      },
+      "examples": [
+        {
+          "en": "commute (to work) by train",
+          "ja": "電車を使って通勤する"
+        },
+        {
+          "en": "My commute takes around one hour.",
+          "ja": "通勤には1時間くらいかかります。"
+        }
+      ]
+    },
+    {
+      "id": "587",
+      "word": "accompany",
+      "phonetic": "[əkʌ́mpəni]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人が主語)〜と一緒に行く",
+            "② (物が主語)〜に伴う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟 A accompany B「BにはAが伴う」(=B is accompanied by A)"
+      ],
+      "word_origin": {
+        "formula": "ac-(=ad 方向) + -company[仲間] →「仲間として一緒に行く」",
+        "description": "accompaniment「伴奏, 添え物」"
+      },
+      "examples": [
+        {
+          "en": "accompany my boss to Germany",
+          "ja": "上司に同行してドイツに行く"
+        },
+        {
+          "en": "A cold is often accompanied by a fever.",
+          "ja": "かぜはしばしば熱を伴う。"
+        }
+      ]
+    },
+    {
+      "id": "588",
+      "word": "emit",
+      "phonetic": "[imít]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(ガス, 熱, 光などを)を排出する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ガス, 熱, 光など)を外へ放出する」",
+        "熟 emit exhaust fume「排気ガスを出す」",
+        "熟 emit black smoke「黒い煙を出す」"
+      ],
+      "word_origin": {
+        "formula": "e-(=ex- 外へ) + -mit[送る]",
+        "description": "permit「許可する(←通して送る)」, emission「放出(物), 放射(物)」"
+      },
+      "examples": [
+        {
+          "en": "emit greenhouse gas",
+          "ja": "温室効果ガスを排出する"
+        }
+      ]
+    },
+    {
+      "id": "589",
+      "word": "progress",
+      "phonetic": "名[prɑ́gres] 動[prəgrés]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 進歩, 前進<不可算>"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 進歩する, 進む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(個人の能力の)進歩」から「(社会, 科学技術の)進歩」まで。",
+        "熟 make progress (in 〜)「(〜で)進歩する」",
+        "熟 make ~ progress in ...「〜で〜な進歩を遂げる」",
+        "熟 in progress「(工事などが)進行中で」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -gress[進む]",
+        "description": "congress「(正式な)会議(←共に進む)」, progressive「進歩的な」"
+      },
+      "examples": [
+        {
+          "en": "make great progress in English",
+          "ja": "英語が随分と上達する"
+        },
+        {
+          "en": "As the meeting progressed, I grew more and more tired.",
+          "ja": "会議が進むにつれて, ますます疲れた。"
+        }
+      ]
+    },
+    {
+      "id": "590",
+      "word": "advance",
+      "phonetic": "[ædvǽns]",
+      "level_tag": "B2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 進歩, 前進<可算>"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (軍隊などが)前進する, 進歩する"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 事前の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 主に「科学技術, 医学の進歩」",
+        "熟 in advance「前もって」(=beforehand)"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -vance[進む]",
+        "description": "advantage「利点(←人より進んだ所)」, advanced「進歩した, 上級の」, advancement「進歩, 昇級」"
+      },
+      "examples": [
+        {
+          "en": "advances in technology",
+          "ja": "科学技術の進歩"
+        },
+        {
+          "en": "The team advanced to the final.",
+          "ja": "チームは決勝戦に進んだ。"
+        },
+        {
+          "en": "an advance ticket",
+          "ja": "前売り券"
+        }
+      ]
+    }
+  ]
+}

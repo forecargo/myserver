@@ -1,0 +1,277 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "650",
+      "word": "stir",
+      "phonetic": "[stə́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (液体など)を混ぜる",
+            "② (- up) (感情など)を呼び覚ます"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(液体状の物)をかき混ぜる」 ◇mix「(異なる複数の物)を混ぜる」",
+        "注意 ②「(問題など)を引き起こす」の意味でも使う。",
+        "派生 storm「(かき回すもの)」 熟 stir-fry「(フライパンでゆすりながら)〜をすばやく炒める」 熟 stir-fried vegetables「野菜炒め」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stir my coffee with a spoon",
+          "ja": "スプーンでコーヒーを混ぜる"
+        },
+        {
+          "en": "stir up childhood memories",
+          "ja": "子どものころの記憶を呼び覚ます"
+        }
+      ]
+    },
+    {
+      "id": "651",
+      "word": "shake",
+      "phonetic": "[ʃéik]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を振る",
+            "② 〜を揺さぶる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (恐怖, 寒さで)震える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「小刻みに振る, 震える」 ◇wave「(手を振るなど)左右に大きく振る」",
+        "頻出 ① shake hands (with ~)「(~と)握手する」",
+        "shake one's head「首を横に振る」(*否定)",
+        "nod (one's head)「首を縦に振る」(*同意)",
+        "▶「迅速に動く」が元の意味。",
+        "[活用] shake-shook-shaken"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't shake the bottle of soda water.",
+          "ja": "炭酸の瓶を振るな。"
+        },
+        {
+          "en": "The powerful earthquake shook the town.",
+          "ja": "大地震がその町を襲った(その町を揺さぶった)。"
+        },
+        {
+          "en": "My hand began to shake.",
+          "ja": "手が震え始めた。"
+        }
+      ]
+    },
+    {
+      "id": "652",
+      "word": "polish",
+      "phonetic": "[pɑ́liʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を磨く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(靴, レンズ)を磨く」から「(文章, 演技)を磨く」まで。",
+        "◇scrub「ごしごしこする, 洗う」",
+        "注意 日常では「歯を磨く」は brush one's teeth と表現することが多い。",
+        "比較 The Polish [póuliʃ]「ポーランド人」は発音が異なる。",
+        "語源 pol-[滑らかに]+-ish[動詞語尾]",
+        "派生 polite「礼儀正しい」",
+        "熟 an apple polisher「(米)ゴマをする人」"
+      ],
+      "word_origin": {
+        "formula": "pol-[滑らかに]+-ish[動詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "polish my glasses with a piece of cloth",
+          "ja": "布で眼鏡(のレンズ)を磨く"
+        }
+      ]
+    },
+    {
+      "id": "653",
+      "word": "attend",
+      "phonetic": "[əténd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に出席する, 通う"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (to ~) (~に)注意を向ける",
+            "③ (to ~) (~を)世話する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜に足[注意, 関心]を向ける」(*③はまれ。)",
+        "頻出 ① attend school[college, church]「学校[大学, 教会]に通う」",
+        "注意 ① 堅い表現なので, 日常では, 「パーティーに出席する」なら go to a party と表現するのがふつう。",
+        "③「(一時的に)世話をする」の意味。",
+        "語源 a-(=ad方向)+-tend[伸びていく]",
+        "派生 attendance「出席(率, 者)」",
+        "注意 I'll take attendance.「出席を取ります。」",
+        "派生 attentive「注意深い」",
+        "比較 attention「注意」 ⇔ pay attention to ~「〜に注意を払う」"
+      ],
+      "word_origin": {
+        "formula": "a-(=ad方向)+-tend[伸びていく]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "attend my sister's wedding",
+          "ja": "姉の結婚式に出席する"
+        },
+        {
+          "en": "attend to his words",
+          "ja": "彼の言うことに注意を向ける"
+        },
+        {
+          "en": "A nurse attended to his broken arm.",
+          "ja": "看護師が彼の折れた腕の手当てをした。"
+        }
+      ]
+    },
+    {
+      "id": "654",
+      "word": "imitate",
+      "phonetic": "[ímətèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜をまねる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ copy のほうが「((より完全に)まねる」の意味。",
+        "注意 人を笑わせるために「(声, 話し方など)をまねる」は mimic で表現する。",
+        "派生 imitation「模倣, 模造品」 ⇔ Children learn by imitation.「子どもはまねることで学ぶ。」",
+        "imitation leather「人工皮革」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "imitate the American teacher's English",
+          "ja": "そのアメリカ人教師の英語をまねる"
+        }
+      ]
+    },
+    {
+      "id": "655",
+      "word": "conduct",
+      "phonetic": "[kəndʌ́kt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を行う",
+            "② (電気, 熱)を伝える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 行為"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「全体を導く」→①「(調査, 実験など)を実施する」 ②「伝える」",
+        "頻出 ① conduct a survey [a study]「(アンケート)調査[研究]を行う」",
+        "語源 con-[共に]+-duct[導く]",
+        "派生 produce「〜を生産する(←前に導く)」",
+        "派生 conductor「指揮者, (列車の)車掌, 伝導(体)」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に]+-duct[導く]",
+        "description": "produce「〜を生産する(←前に導く)」, conductor「指揮者, (列車の)車掌, 伝導(体)」"
+      },
+      "examples": [
+        {
+          "en": "conduct research",
+          "ja": "研究を行う"
+        },
+        {
+          "en": "conduct electricity",
+          "ja": "電気を伝える"
+        },
+        {
+          "en": "a code of conduct",
+          "ja": "行動規範"
+        }
+      ]
+    },
+    {
+      "id": "656",
+      "word": "struggle",
+      "phonetic": "[strʌ́gl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 苦闘する, もがく"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 苦闘, もがくこと〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「必死にもがきながら進む(こと)」",
+        "頻出 ① struggle (hard) to do「〜するのに(大変)苦労する」",
+        "struggle with ~「〜と格闘する」",
+        "語源 str-[前に展開する]",
+        "派生 strive「努力する」",
+        "派生 struggling「もがいている」"
+      ],
+      "word_origin": {
+        "formula": "str-[前に展開する]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "struggle to bring up my children",
+          "ja": "必死になって子どもたちを育てる(育てるのに苦闘する)"
+        },
+        {
+          "en": "a struggle for existence",
+          "ja": "生存競争"
+        }
+      ]
+    }
+  ]
+}

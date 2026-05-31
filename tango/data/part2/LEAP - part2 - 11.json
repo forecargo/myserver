@@ -1,0 +1,300 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "474",
+      "word": "rural",
+      "phonetic": "[rúərəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "田舎の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「広々とした田舎の、田園の」",
+        "[注意]「(都市に対する)田舎」は the country と表現する。(*日本語の「田舎」は「郊外」を指すこともあるのでニュアンスの違いに注意)",
+        "[比較] urban「都会の」",
+        "metropolitan「大都市の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "show an interest in a rural lifestyle",
+          "ja": "田舎暮らしに興味を示す"
+        }
+      ]
+    },
+    {
+      "id": "475",
+      "word": "domestic",
+      "phonetic": "[dəmésṭik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 国内の",
+            "② 家庭内の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶②「家の中の、家庭の」→①「国内の」",
+        "▷ domestic industry「国内産業」",
+        "▷ domestic science「家庭科」",
+        "[派生] 名 dome-「家」",
+        "domestication「(動物を)飼い慣らすこと」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a domestic flight",
+          "ja": "① (飛行機の)国内線"
+        },
+        {
+          "en": "② domestic violence[DV]",
+          "ja": "② 家庭内暴力"
+        }
+      ]
+    },
+    {
+      "id": "476",
+      "word": "global",
+      "phonetic": "[glóubəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(全)世界的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「世界全体に影響する、世界全体を含む」",
+        "[頻出] ▷ global citizen「国際人」",
+        "global warming「地球温暖化」(*無冠詞)",
+        "GPS(= Global Positioning System)「全地球測位システム」",
+        "[派生] 名 globe「地球、球」",
+        "globalization「グローバル化」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "global climate change",
+          "ja": "世界的な気候変動"
+        }
+      ]
+    },
+    {
+      "id": "477",
+      "word": "suburb",
+      "phonetic": "[sábəːrb]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(通例 the ~s)郊外"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「都市の周りのベッドタウン」",
+        "[語法] the がついて複数形にする表現はほかに go to the movies「映画に行く」、in the mountains「山の中で」などがある。",
+        "(* in a suburb of ~も可.)"
+      ],
+      "word_origin": {
+        "formula": "sub-[下] + -urb-[都会] から「都会の下」→「郊外」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "live in the suburbs of Yokohama City",
+          "ja": "横浜市の郊外に住む"
+        }
+      ]
+    },
+    {
+      "id": "478",
+      "word": "border",
+      "phonetic": "[bɔ́ːrdər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 国境(地帯), 境界"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を縁取る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「国や別の種類の物などを)区別する線」",
+        "▷ boundary「(主に、知識、領域などの)境界」",
+        "[派生] 形 borderline「きわどい(←境界線上の)」",
+        "▷ a borderline joke「きわどいジョーク」",
+        "[参考] Doctors Without Borders「国境なき医師団」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① cross the border",
+          "ja": "① 国境を越える"
+        },
+        {
+          "en": "② The street is bordered by trees.",
+          "ja": "② その通りは両側に木が植えてある(木で縁取りされている)."
+        }
+      ]
+    },
+    {
+      "id": "479",
+      "word": "burden",
+      "phonetic": "[bə́ːrdn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "重荷, 負担"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(精神的な)負担」から「(経済的な)負担」まで。",
+        "[頻出] ▷ bear[carry, put down] a burden「重荷に耐える[を負う、を降ろす]」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "bear「(重いものを)持つ」と同語源で、「(重いものを)持っている」→「負担」"
+      },
+      "examples": [
+        {
+          "en": "take on a financial burden",
+          "ja": "財政的な負担を負う"
+        }
+      ]
+    },
+    {
+      "id": "480",
+      "word": "impact",
+      "phonetic": "[ímpækt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (on ~) (~への)影響",
+            "② (物体間の)衝撃"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (on ~) (~に)影響を及ぼす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(大きな変化をもたらす)影響」",
+        "▶②「(精神的な)衝撃」は shock で表現する。",
+        "▶③ 他の用法もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a negative impact on the tourist industry",
+          "ja": "① 観光業にマイナスの影響を与える"
+        },
+        {
+          "en": "② the impact of the explosion",
+          "ja": "② 爆発の衝撃"
+        },
+        {
+          "en": "③ This strategy impacted on sales.",
+          "ja": "③ この戦略が売り上げに影響を与えた."
+        }
+      ]
+    },
+    {
+      "id": "481",
+      "word": "status",
+      "phonetic": "[stéitəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 地位",
+            "② (特定時点の)状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "[頻出] ▷ the status quo「現状」(*quo は「今ある」の意味。)",
+        "[注意] 日本語の「ステータス」はプラスイメージで使われるが、status はそうとは限らない。",
+        "▷ a low social status「低い社会的地位」"
+      ],
+      "word_origin": {
+        "formula": "sta-[じっと] + -tus[状態] →「(じっと)立っている状態」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① women's social status",
+          "ja": "① 女性の社会的地位"
+        },
+        {
+          "en": "② check the shipment status",
+          "ja": "② 配送状況を確認する"
+        }
+      ]
+    },
+    {
+      "id": "482",
+      "word": "equal",
+      "phonetic": "[íːkwəl]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (to ~) (~に)等しい, 平等な"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜に等しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "[頻出] ▷ have no equal in ~「〜において匹敵するものはいない」",
+        "[派生] 名 equality「平等」 (↔ inequality「不平等」)",
+        "[参考] 名 equation「方程式」",
+        "the equator「赤道(←地球を等しく二分する)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① All human beings are created equal.",
+          "ja": "① すべての人は平等に作られている."
+        },
+        {
+          "en": "② Two plus three equals five.",
+          "ja": "② 2+3=5"
+        }
+      ]
+    }
+  ]
+}

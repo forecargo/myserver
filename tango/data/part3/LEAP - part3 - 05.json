@@ -1,0 +1,328 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1041",
+      "word": "ankle",
+      "phonetic": "[æŋkl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "足首"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「体の中で角度(angle)がついた部分」",
+        "派生 anklet「アンクレット、足首の飾り」",
+        "類義 wrist「手首」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "twist my ankle",
+          "ja": "足首をひねる"
+        }
+      ]
+    },
+    {
+      "id": "1042",
+      "word": "thumb",
+      "phonetic": "[θʌm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "親指"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶通例, finger に「親指」は含まれない。",
+        "★「ふくれた指」が元の意味。",
+        "*thumbtack「画びょう」",
+        "類義 toe「(足の)親指」",
+        "forefinger「人差し指」",
+        "palm「手のひら」",
+        "big toe「(足の)親指」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stick up my thumb",
+          "ja": "親指を立てる(*勝利・同意の身振り)"
+        }
+      ]
+    },
+    {
+      "id": "1043",
+      "word": "forehead",
+      "phonetic": "[fɔ́ːrhèd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "額, おでこ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ the part of your face above your eyes and below your hair",
+        "語源 fore-[前方]+-head[頭部]",
+        "類義 pimple「にきび」"
+      ],
+      "word_origin": {
+        "formula": "fore-[前方]+-head[頭部]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I've got a pimple on my forehead.",
+          "ja": "(私の)おでこににきびができた。"
+        }
+      ]
+    },
+    {
+      "id": "1044",
+      "word": "chin",
+      "phonetic": "[tʃín]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "下あご, あごの先端"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶(Keep your) chin up!「元気を出せ。」",
+        "rub one's chin「あごをなでる」",
+        "注意 *映画 JAWS は「(サメの)上下のあごと歯を含めた部分」を表す。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stick out my chin",
+          "ja": "あごを突き出す(*挑戦的態度を示唆。)"
+        }
+      ]
+    },
+    {
+      "id": "1045",
+      "word": "chest",
+      "phonetic": "[tʃést]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 胸(部)",
+            "② (大きな木の)箱, 密閉容器"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶バスケットボールの chest pass は「胸のあたりから押し出すようなパス」のこと。",
+        "①② 共に「箱」が元の意味。",
+        "類義 chestnut「栗の実」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a chest X-ray examination",
+          "ja": "① 胸部のレントゲン検査を受ける"
+        },
+        {
+          "en": "② a large wooden chest",
+          "ja": "② 大きな木の箱"
+        }
+      ]
+    },
+    {
+      "id": "1046",
+      "word": "breast",
+      "phonetic": "[brést]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に女性の)胸, 乳房"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「盛り上がった胸の上部」",
+        "★「膨らみ」が元の意味。",
+        "*bread「パン(←生地が膨らんでできる)」",
+        "派生 brew「〜を醸造する」",
+        "他 breast-feed「〜に母乳をやる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "early detection of breast cancer",
+          "ja": "乳がんの早期発見"
+        }
+      ]
+    },
+    {
+      "id": "1047",
+      "word": "lung",
+      "phonetic": "[lʌŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "肺<可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ light「軽い」と同語源で「肺はほかの臓器より軽い」と思われていたことに由来。",
+        "類義 pneumonia [njuːmóunjə]「肺炎(←ギリシア語から)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the heart and the lungs",
+          "ja": "(ヒトの)心肺"
+        }
+      ]
+    },
+    {
+      "id": "1048",
+      "word": "organ",
+      "phonetic": "[ɔ́ːrgən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 臓器, (動植物の)器官",
+            "② (楽器)オルガン"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①② ともに「道具」→「臓器(一体を動かすための道具)」",
+        "形 organic「有機的な」",
+        "類義 organism「生物」",
+        "類義 internal organs「内臓」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① wait for an organ transplant",
+          "ja": "① 臓器移植を待つ"
+        },
+        {
+          "en": "② play the organ",
+          "ja": "② オルガンを弾く"
+        }
+      ]
+    },
+    {
+      "id": "1049",
+      "word": "vision",
+      "phonetic": "[víʒən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 視力, 視野",
+            "② 未来像",
+            "③ 未来を見通す力, 先見の明"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日本語の「ビジョン」は②の意味。",
+        "(*①③→<不可算>) ②→<可算>",
+        "形 visual「視覚の」",
+        "形 visible「見える」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have good[normal, poor] vision",
+          "ja": "① 視力が良い[正常だ, 悪い]"
+        },
+        {
+          "en": "② his vision for Japan's future",
+          "ja": "② 日本の未来の彼の予想図"
+        },
+        {
+          "en": "③ a leader with vision",
+          "ja": "③ 先見の明のある指導者"
+        }
+      ]
+    },
+    {
+      "id": "1050",
+      "word": "skeleton",
+      "phonetic": "[skélətn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "骸骨, 骨格"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「すべての骨からなる構造」",
+        "注意 日本語でよく使われる「スケルトン(=透明な)」の意味はないので注意。(英語では transparent や see-through で表現。)",
+        "類義 rib「肋骨」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a model of the human skeleton",
+          "ja": "ヒトの骸骨の模型"
+        }
+      ]
+    },
+    {
+      "id": "1051",
+      "word": "sensation",
+      "phonetic": "[senséiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 感覚",
+            "② (説明し難い)感情"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①(主に接触によって得られる)感覚",
+        "語源 sensa-[=sense 感じる]+-tion[こと]",
+        "派生 sensational「衝撃的な, 世間を騒がせる」"
+      ],
+      "word_origin": {
+        "formula": "sensa-[=sense 感じる]+-tion[こと]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① lose all sensation in my toes",
+          "ja": "① 足の指先の感覚がなくなる"
+        },
+        {
+          "en": "② I had the sensation that I was being followed.",
+          "ja": "② 後をつけられているのではないかという感じがした。"
+        }
+      ]
+    }
+  ]
+}

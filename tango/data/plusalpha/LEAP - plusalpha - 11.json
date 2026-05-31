@@ -1,0 +1,537 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2195",
+      "word": "anecdote",
+      "phonetic": "[ǽnikdòut]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "逸話, 秘話"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (実際の出来事や人物に基づいた)面白い小話",
+        "語源: an-[否定] + -ec-[外に] + -do-[与える] -> 「公開されていない(外に出されない)小話」",
+        "派生: dose「服用量」"
+      ],
+      "word_origin": {
+        "formula": "an-[否定] + -ec-[外に] + -do-[与える] -> 「公開されていない(外に出されない)小話」",
+        "description": "dose「服用量」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2196",
+      "word": "lord",
+      "phonetic": "[lɔ́ːrd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (通例 the Lord) 神",
+            "② 高位の貴族, 支配者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①から発展して, 「神のような存在」という意味でも使用する.",
+        "派生: landlord「家主, 地主(←土地の支配者)」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2197",
+      "word": "saint",
+      "phonetic": "[séint]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 聖人",
+            "② (S-)(人名の前で)聖…"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②信仰深い, または道徳的に優れた人物に対して, 死後にキリスト教会から与えられる称号.",
+        "派生: sacred「神聖な」, sacrifice「〜を犠牲にする」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2198",
+      "word": "prophet",
+      "phonetic": "[práfət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "預言者, 予言者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (キリスト教, ユダヤ教, イスラム教などで)神のお告げを述べる人",
+        "語源: pro-[前方] + -phet[述べる] -> 「前もって述べる人」",
+        "派生: phone「電話, 音」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -phet[述べる] -> 「前もって述べる人」",
+        "description": "phone「電話, 音」"
+      },
+      "examples": []
+    },
+    {
+      "id": "2199",
+      "word": "pilgrim",
+      "phonetic": "[pílgrim]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "巡礼者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 聖地(holy place)へ旅する, 信仰心の強い人",
+        "派生: pilgrimage「巡礼」",
+        "例文: pilgrims to Mecca「メッカへの巡礼者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pilgrims to Mecca",
+          "ja": "メッカへの巡礼者"
+        }
+      ]
+    },
+    {
+      "id": "2200",
+      "word": "salvation",
+      "phonetic": "[sælvˈéiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "救済"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(魂の)救済」から「(損害・失敗などからの)救済」まで",
+        "類義: save「救う」と同語源",
+        "派生: salvage「海難救助」",
+        "例文: seek salvation「救いを求める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "seek salvation",
+          "ja": "救いを求める"
+        }
+      ]
+    },
+    {
+      "id": "2201",
+      "word": "artifact",
+      "phonetic": "[άɚtəf`ækt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(考古学的価値のある)人工遺物, 出土品(〈英〉artefact)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (自然のものに対して)過去に人間によって作られた重要な物品",
+        "語源: art-[つなぐ→技術] + -fact[作る] -> 「人間の技術によって)作られたもの」"
+      ],
+      "word_origin": {
+        "formula": "art-[つなぐ→技術] + -fact[作る] -> 「人間の技術によって)作られたもの」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2202",
+      "word": "token",
+      "phonetic": "[tóukən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (as a ~ of)しるし(として)",
+            "② (バスなどで使われる)代用硬貨, トークン",
+            "③ 〈英〉商品引換券"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "類義: teach「教える(←生徒に示す)」と同語源で「指し示すもの」が元の意味."
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2203",
+      "word": "cue",
+      "phonetic": "[kjúː]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "合図, キュー"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何かを始める, または行動を起こすための指示」",
+        "コロケーション: (right) on cue「ぴったりのタイミングで」",
+        "例文: wait for a cue from the stage manager「舞台監督からの合図を待つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wait for a cue from the stage manager",
+          "ja": "舞台監督からの合図を待つ"
+        }
+      ]
+    },
+    {
+      "id": "2204",
+      "word": "quest",
+      "phonetic": "[kwést]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "探求"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「長期間, 何かを探し求めたり, 追求したりする努力や活動」",
+        "語源: 「質問すること」が元の意味.",
+        "派生: question「質問」",
+        "例文: the quest for truth「真理の探求」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「質問すること」が元の意味. question「質問」"
+      },
+      "examples": [
+        {
+          "en": "the quest for truth",
+          "ja": "真理の探求"
+        }
+      ]
+    },
+    {
+      "id": "2205",
+      "word": "melancholy",
+      "phonetic": "[mélənkàli]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "憂うつ, ふさぎ込み"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(長く続く説明しがたい)深い悲しみ」",
+        "語源: melan-[黒い] + -choly[胆汁] (*胆汁は憂うつの原因と考えられていた.)",
+        "派生: melanin「メラニン(←黒色の色素)」",
+        "例文: Angie was lost in melancholy.「アンジーはふさぎ込んでいた.」"
+      ],
+      "word_origin": {
+        "formula": "melan-[黒い] + -choly[胆汁] (*胆汁は憂うつの原因と考えられていた.)",
+        "description": "melanin「メラニン(←黒色の色素)」"
+      },
+      "examples": [
+        {
+          "en": "Angie was lost in melancholy.",
+          "ja": "アンジーはふさぎ込んでいた."
+        }
+      ]
+    },
+    {
+      "id": "2206",
+      "word": "self-esteem",
+      "phonetic": "[sélfistíːm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "自尊心"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「自分が認められ[評価され]ているという気持ち」",
+        "語源: self-[自身] + -esteem[価値を置く] -> 「自分自身に価値を置く」",
+        "派生: estimate「(数などを)を推定する(←価値を見積もる)」",
+        "例文: build my self-esteem「自尊心を高める」"
+      ],
+      "word_origin": {
+        "formula": "self-[自身] + -esteem[価値を置く] -> 「自分自身に価値を置く」",
+        "description": "estimate「(数などを)を推定する(←価値を見積もる)」"
+      },
+      "examples": [
+        {
+          "en": "build my self-esteem",
+          "ja": "自尊心を高める"
+        }
+      ]
+    },
+    {
+      "id": "2207",
+      "word": "empathy",
+      "phonetic": "[émpəθi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "共感(能力), 感情移入"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「他の気持ちや他者が抱える問題を理解する能力」",
+        "派生: empathize (with ~)「(〜に)感情移入する, 共感する」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2208",
+      "word": "precaution",
+      "phonetic": "[prikɔ́ːʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "用心, 予防策"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「危険なことや不快なことが起きないように手段を講じること」",
+        "語源: pre-[前に] + -caution[用心] -> 「前もって用心しておくこと」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -caution[用心] -> 「前もって用心しておくこと」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2209",
+      "word": "distress",
+      "phonetic": "[distrés]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 苦しみ, 苦難"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を苦しめる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(心を)苦しめること」",
+        "語源: stress「ストレス」は di- が脱落してできた.",
+        "コロケーション: a distress signal「遭難信号」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "stress「ストレス」は di- が脱落してできた."
+      },
+      "examples": []
+    },
+    {
+      "id": "2210",
+      "word": "apprehension",
+      "phonetic": "[æprìhénʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 不安",
+            "② 逮捕"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②日常では arrest のほうが使われる.",
+        "語源: ap-[=ad 方向] + -prehen-[つかむ] -> 「心や体をつかまれること」",
+        "派生: comprehend「〜を理解している(←すべてをつかむ)」",
+        "例文: ① feel sick with apprehension「不安で気分が悪い」",
+        "例文: ② the apprehension of smugglers「密輸業者の逮捕」"
+      ],
+      "word_origin": {
+        "formula": "ap-[=ad 方向] + -prehen-[つかむ] -> 「心や体をつかまれること」",
+        "description": "comprehend「〜を理解している(←すべてをつかむ)」"
+      },
+      "examples": [
+        {
+          "en": "feel sick with apprehension",
+          "ja": "不安で気分が悪い"
+        },
+        {
+          "en": "the apprehension of smugglers",
+          "ja": "密輸業者の逮捕"
+        }
+      ]
+    },
+    {
+      "id": "2211",
+      "word": "scorn",
+      "phonetic": "[skɔ́ːrn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "軽蔑"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「他人の考えや行動などを拒絶したり, 見下したりすること」",
+        "他: scorn「〜を軽蔑する」",
+        "形: scornful「軽蔑した」",
+        "例文: look at him with scorn「彼を軽蔑の目で見る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "look at him with scorn",
+          "ja": "彼を軽蔑の目で見る"
+        }
+      ]
+    },
+    {
+      "id": "2212",
+      "word": "menace",
+      "phonetic": "[ménis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(to ~)(〜にとっての)厄介なもの[人], 脅威"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「迷惑なもの」(*日常では nuisance のほうが使われる.)",
+        "語源: men-[突き出る]",
+        "派生: mouth「口」, mountain「山」",
+        "例文: This drunk, violent man is a menace to those around him.「この酔って暴れる男は周りの者にとって厄介な存在だ.」"
+      ],
+      "word_origin": {
+        "formula": "men-[突き出る]",
+        "description": "mouth「口」, mountain「山」"
+      },
+      "examples": [
+        {
+          "en": "This drunk, violent man is a menace to those around him.",
+          "ja": "この酔って暴れる男は周りの者にとって厄介な存在だ."
+        }
+      ]
+    },
+    {
+      "id": "2213",
+      "word": "sentiment",
+      "phonetic": "[séntəmənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "感情"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(主に大衆がもつ)理性ではなく感情に基づいた意見や態度」",
+        "語源: senti-[感じる] + -ment[名詞語尾]",
+        "派生: sentimental「心情的な, 感情に影響されやすい」",
+        "例文: anti-Japanese sentiment「反日感情」"
+      ],
+      "word_origin": {
+        "formula": "senti-[感じる] + -ment[名詞語尾]",
+        "description": "sentimental「心情的な, 感情に影響されやすい」"
+      },
+      "examples": [
+        {
+          "en": "anti-Japanese sentiment",
+          "ja": "反日感情"
+        }
+      ]
+    },
+    {
+      "id": "2214",
+      "word": "verge",
+      "phonetic": "[və́ːrdʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 瀬戸際, 寸前",
+            "② 道路べり, (場所の)縁"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: 馬耳(ばじ)東風で「瀬戸際」に立つ.",
+        "例文: ① Anne was on the verge of tears.「アンは泣き出す寸前だった.」",
+        "例文: ② the verge of the lake「その湖の縁」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "馬耳(ばじ)東風で「瀬戸際」に立つ."
+      },
+      "examples": [
+        {
+          "en": "Anne was on the verge of tears.",
+          "ja": "アンは泣き出す寸前だった."
+        },
+        {
+          "en": "the verge of the lake",
+          "ja": "その湖の縁"
+        }
+      ]
+    }
+  ]
+}

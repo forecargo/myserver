@@ -1,0 +1,218 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "974",
+      "word": "sorrow",
+      "phonetic": "[sáròu]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "悲しみ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「深い悲しみ」(*「悲しい出来事」の意味では〈可算〉。)を示す。",
+        "頻出 share one's joys and sorrows with ~ 「喜びと悲しみを〜と共有する」",
+        "to one's sorrow 「〜が悲しんだことには」",
+        "★ sorryの類義語。形 sorrowful「悲しみに満ちた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "experience the joys and sorrows of life",
+          "ja": "人生の苦楽を経験する"
+        }
+      ]
+    },
+    {
+      "id": "975",
+      "word": "ignore",
+      "phonetic": "[ignɔ́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(人, 物)を無視する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「((人)を無視する)」から「((その問題)を無視する)」まで幅広い意味で用いられる。",
+        "頻出 ignore the red light [the issue, the demand, one's advice] 「赤信号[その問題、その要求、〜の忠告]を無視する」",
+        "注意 日常では take no notice of ~ 「〜を気に留めない, 〜に目もくれない」もよく使われる。",
+        "★ i-[=in 否定] + -gno-[=know 知っている] (*gno-のgの濁音がkに変化したのがknow) 反 pay attention to ~ 「〜に注意を払う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "completely ignore him",
+          "ja": "完全に彼を無視する"
+        }
+      ]
+    },
+    {
+      "id": "976",
+      "word": "offend",
+      "phonetic": "[əfénd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(人, 物が)〜を怒らせる",
+            "〜の気分を害する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(社会的, 道徳的に)不快感を与える, 気分を害する」",
+        "頻出 be deeply offended 「ひどく怒っている」",
+        "★ of-[方向] + -fend[打つ] fencing「フェンシング」 名 offense「違反, 罪, 立腹」 名 offender「犯罪者」 形 offensive「不快な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His jokes offended Irish people.",
+          "ja": "彼の冗談はアイルランドの人たちを怒らせた。"
+        }
+      ]
+    },
+    {
+      "id": "977",
+      "word": "depress",
+      "phonetic": "[diprés]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を憂うつにさせる",
+            "落ち込ませる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(気持ち, 景気を)抑えつける」",
+        "★ de-[下] + -press[押す] 名 depression「(憂)うつ, 大不況」",
+        "形 depressed「憂うつな」(*〈米〉の口語でよく使われる。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The rainy weather depressed me.",
+          "ja": "雨天ですっかり気がめいってしまった(私を落ち込ませた)。"
+        }
+      ]
+    },
+    {
+      "id": "978",
+      "word": "owe",
+      "phonetic": "[óu]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A)は(B)のおかげだ",
+            "② (A)を(Bに)借りている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ borrow「〜を借りる」は動作動詞だが, oweは状態動詞。",
+        "頻出 〈会話〉Thanks, I really owe you.「ありがとう。恩に着ます。」",
+        "注意 ② owe B Aの形も可。(*この場合, Aに重点がある。)",
+        "★ 日本語の「負う」と音が似ている。 前 owing to ~ 「〜が原因で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I owe my success to him.",
+          "ja": "① 私の成功は彼のおかげだ。"
+        },
+        {
+          "en": "② I owe 2,000 yen to him.",
+          "ja": "② 彼に2,000円を借りている。"
+        },
+        {
+          "en": "I owe him 2,000 yen.",
+          "ja": "彼に2,000円を借りている。(*下線は重点を示す。)"
+        }
+      ]
+    },
+    {
+      "id": "979",
+      "word": "fear",
+      "phonetic": "[fíər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 恐怖"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を恐れる",
+            "③ 〜を心配する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険を感じて)不安になる, 怖くなる」(*「心配, 懸念」を表す一般的な語。terrorは「(より強い)恐怖」を表し, frightは「(突然の)恐怖」を表す。)",
+        "頻出 ① for fear of doing / that SV 「〜するのを / 〜ということを恐れて」",
+        "shake [go white] with fear 「恐怖で震える[顔面そう白になる]」",
+        "② fear that SV 「〜ということを恐れる」",
+        "注意 通例〈不可算〉だが, 「((具体的な)恐怖)」の場合は〈可算〉扱いとなる。",
+        "形 fearful「恐ろしい, 恐れて」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① overcome my fear of snakes",
+          "ja": "① ヘビに対する恐怖を克服する"
+        },
+        {
+          "en": "② fear that we may not receive a pension",
+          "ja": "② 年金をもらえないかもしれないと恐れる"
+        },
+        {
+          "en": "③ fear that it will rain tomorrow",
+          "ja": "③ 明日雨が降らないか心配する"
+        }
+      ]
+    },
+    {
+      "id": "980",
+      "word": "method",
+      "phonetic": "[méθəd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "方法"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(一般的に知られ, 使用されている)方法」(*wayより体系的。)",
+        "頻出 the[a] method for [of ~ / × to do] 「〜の方法」",
+        "★ 日本語でも「メソッド」はよく使われる。 形 methodical「きちょうめん, 秩序だった」 名 methodology「方法論」 形 methodological「方法論上の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a method for reducing stress",
+          "ja": "ストレスを減らすやり方"
+        }
+      ]
+    }
+  ]
+}

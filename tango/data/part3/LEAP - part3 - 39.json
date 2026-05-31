@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1381",
+      "word": "formula",
+      "phonetic": "[fɔ́ːrmjulə]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 方法",
+            "② 秘けつ",
+            "③ (数学、化学などの)式、公式"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(問題解決や成功につながる)決まったやり方」",
+        "自動車レースのF1は“Formula(車両規定)1”の略。",
+        "他 formulate「(計画などを)作成する、〜を表現する」",
+        "名 equátion「方程式(←両辺が等しい式)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a new formula",
+          "ja": "① 新しい方法"
+        },
+        {
+          "en": "a formula for success",
+          "ja": "② 成功のための秘けつ"
+        },
+        {
+          "en": "the formula for finding the area of a circle",
+          "ja": "③ 円の面積を求める公式"
+        }
+      ]
+    },
+    {
+      "id": "1382",
+      "word": "procedure",
+      "phonetic": "[prəsídʒər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "手続き、手順"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かをするときの)決まった手順、正式な方法」",
+        "動 proceed「(順を追って)進む」の名詞形(→「進み方」→「手続き」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the procedure for applying for a passport",
+          "ja": "パスポート申請の手順"
+        }
+      ]
+    },
+    {
+      "id": "1383",
+      "word": "extraordinary",
+      "phonetic": "[ikstrɔ́ːrdənèri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 並外れた",
+            "② 臨時の(会議など)",
+            "③ 特命の(大使など)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ふつうの状態を超えた」",
+        "ex-[外に]+-ordinary[平凡な]から「平凡の外の」→「並外れた」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に]+-ordinary[平凡な]→「平凡の外の」→「並外れた」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have an extraordinary memory",
+          "ja": "① 並外れた記憶力を有する"
+        },
+        {
+          "en": "an extraordinary Diet session",
+          "ja": "② 臨時国会"
+        },
+        {
+          "en": "an extraordinary ambassador",
+          "ja": "③ 特命大使"
+        }
+      ]
+    },
+    {
+      "id": "1384",
+      "word": "absolute",
+      "phonetic": "[ǽbsəlùːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "絶対的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「一切の縛りがない」",
+        "ab-[away]+-solute[開放する]→「開放されて制限がない」",
+        "副 absolutely「絶対に」 ⇔ 〈会話〉Absolutely!「まさにそのとおり。」"
+      ],
+      "word_origin": {
+        "formula": "ab-[away]+-solute[開放する]→「開放されて制限がない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "in absolute silence",
+          "ja": "静寂に(絶対的な沈黙で)"
+        }
+      ]
+    },
+    {
+      "id": "1385",
+      "word": "overwhelming",
+      "phonetic": "[òuvərwé́lmiŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "圧倒的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「数量や規模が圧倒的に大きい」",
+        "over-[越えて]+-whelm-[覆う]→「〜を覆う」",
+        "helmet「ヘルメット(←頭を覆う物)」 他 overwhé́lm「〜を圧倒する」"
+      ],
+      "word_origin": {
+        "formula": "over-[越えて]+-whelm-[覆う]→「〜を覆う」",
+        "description": "helmet「ヘルメット(←頭を覆う物)」"
+      },
+      "examples": [
+        {
+          "en": "an overwhelming majority",
+          "ja": "圧倒的多数"
+        }
+      ]
+    },
+    {
+      "id": "1386",
+      "word": "altogether",
+      "phonetic": "[ɔ̀ːltəgéðər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 完全に",
+            "② 全部で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① completelyより強い意味。",
+        "al-[=all 強意]+-together[一緒に]から「完全に一緒に」→「完全に」",
+        "副 not altogether「まったく〜というわけではない」"
+      ],
+      "word_origin": {
+        "formula": "al-[=all 強意]+-together[一緒に]から「完全に一緒に」→「完全に」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "This old custom has vanished altogether.",
+          "ja": "① この古い習慣は完全になくなった。"
+        },
+        {
+          "en": "That'll be $120 altogether, please.",
+          "ja": "② 全部で120ドルになります。"
+        }
+      ]
+    },
+    {
+      "id": "1387",
+      "word": "entire",
+      "phonetic": "[intáiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "すべての"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(欠けることなく)すべての」(＊wholeより「完全性」を強調。)",
+        "副 entirely「完全に」 名 entity「(独立した)存在」 ⇔ The mind exists as a separate entity.「精神は(身体とは)別の存在として存在している。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The entire audience stood up to cheer.",
+          "ja": "観客は総立ちで(すべての観客が立って)歓声を上げた。"
+        }
+      ]
+    },
+    {
+      "id": "1388",
+      "word": "tremendous",
+      "phonetic": "[trəmèndəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "すさまじい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きさ、速さなどが)桁違いの」",
+        "trem-[震える]+-ous[多い]から「震えるほどものすごい」→「すさまじい」",
+        "動 tremble「震える」"
+      ],
+      "word_origin": {
+        "formula": "trem-[震える]+-ous[多い]から「震えるほどものすごい」→「すさまじい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a tremendous reaction from the crowd",
+          "ja": "群衆からのすさまじい反応"
+        }
+      ]
+    },
+    {
+      "id": "1389",
+      "word": "sheer",
+      "phonetic": "[ʃíər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (数量やサイズを強調して)とてつもない〜の",
+            "② まったくの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「混じり気のない」→①強意表現",
+        "「純粋で輝いている」が元の意味。☆shine「輝く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the sheer number of visitors",
+          "ja": "① 非常に多くの(とてつもない数の)訪問者"
+        },
+        {
+          "en": "sheer hard work",
+          "ja": "② まったくの重労働"
+        }
+      ]
+    },
+    {
+      "id": "1390",
+      "word": "partial",
+      "phonetic": "[pɑ́ːrʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 部分的な",
+            "② 不公平な",
+            "③ (to 〜)(〜が)大好きで"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "part-[部分]+-ial[形容詞語尾]",
+        "副 partially「部分的に」",
+        "反 impartial「平等な」"
+      ],
+      "word_origin": {
+        "formula": "part-[部分]+-ial[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a partial success",
+          "ja": "① 部分的な成功"
+        },
+        {
+          "en": "be partial in his judgement",
+          "ja": "② 彼の判断が偏っている"
+        },
+        {
+          "en": "be partial to chocolate",
+          "ja": "③ チョコレートが大好きです"
+        }
+      ]
+    }
+  ]
+}

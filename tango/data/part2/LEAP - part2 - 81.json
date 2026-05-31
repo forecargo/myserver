@@ -1,0 +1,270 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "981",
+      "word": "medium",
+      "phonetic": "[míːdiəm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (情報伝達)手段, 媒体, メディア"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 中間の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "the mass media「マスコミ」",
+        "a media circus「マスコミの報道合戦」",
+        "注意 ① 複数形は media [míːdiə] となる。",
+        "〈単〉datum [déitəm]「データ」→〈複〉data* [déitə])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive a great deal of media attention",
+          "ja": "① メディアにとても注目される"
+        },
+        {
+          "en": "What size shirt do you wear — small, medium, or large?",
+          "ja": "② あなたのシャツのサイズは, 小, 中, 大のどれですか."
+        }
+      ]
+    },
+    {
+      "id": "982",
+      "word": "means",
+      "phonetic": "[míːnz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 手段 (単複同形)",
+            "② (特定な表現で)財産, 収入"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(何かを達成するための)手段」",
+        "▶ ②「(生活の手段→)お金」",
+        "頻出 ① by no means「決して〜ない」by all means「ぜひとも」",
+        "a means to an end「目的を達成する1つの手段」",
+        "middle「中間」と同様に「中間にあるもの」が元の意味。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "middle「中間」と同様に「中間にあるもの」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "a means of communication",
+          "ja": "① 意思疎通の手段"
+        },
+        {
+          "en": "live beyond my means",
+          "ja": "② 収入以上の暮らしをする"
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "word": "extent",
+      "phonetic": "[ikstént]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "程度"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長さや広がり」→「範囲, 程度」",
+        "頻出 to ~ extent「〜の程度に」⇔ to some extent「ある程度」(＝ to some degree) the extent to which SV「〜の程度, どの程度〜か」",
+        "extend「延長する, 伸ばす」の名詞形の1つ。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "extend「延長する, 伸ばす」の名詞形の1つ。"
+      },
+      "examples": [
+        {
+          "en": "You are correct to some extent.",
+          "ja": "君はある程度正しい."
+        }
+      ]
+    },
+    {
+      "id": "984",
+      "word": "extremely",
+      "phonetic": "[ikstríːmli]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "極度に, 非常に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「程度が激しい」(*veryより強い語。)",
+        "派生 extreme「極度の, 極端な」",
+        "an extreme heat wave「熱波」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It's extremely hot outside.",
+          "ja": "外はひどく暑い."
+        }
+      ]
+    },
+    {
+      "id": "985",
+      "word": "total",
+      "phonetic": "[tóutl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 全体の",
+            "② (a-)まったくの"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 合計"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ③ in total「合計で」",
+        "a total of ~「合計〜」",
+        "a total of $10,000 [100 people]「合計1万ドル[100人]」",
+        "a grand total「総合計」(⇔ a subtotal「小計」)",
+        "派生 totally「完全に, まったく」",
+        "totalitarian「全体主義者」",
+        "totalitarian「全体主義の」",
+        "(*レジで使われる表現)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the total cost",
+          "ja": "① 総費用"
+        },
+        {
+          "en": "a total stranger",
+          "ja": "② 赤の(まったくの)他人"
+        },
+        {
+          "en": "The total comes to 50 dollars.",
+          "ja": "③ 合計 50 ドルです."
+        }
+      ]
+    },
+    {
+      "id": "986",
+      "word": "largely",
+      "phonetic": "[lάːrdʒli]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "① 大部分は",
+            "② 主に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①＝mostly, ② chieflyより強い語。",
+        "largely because ~「主に〜の理由で」",
+        "large「大きい, 多い」の副詞形。",
+        "反 partly「一部には」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our customers are largely women.",
+          "ja": "① 私たちのお客様は大部分が女性だ."
+        },
+        {
+          "en": "largely because of its beauty",
+          "ja": "② 主にその美しさのため"
+        }
+      ]
+    },
+    {
+      "id": "987",
+      "word": "moderate",
+      "phonetic": "[mάdərət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "適度な, 節度のある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数量, 価格, 程度が)適度な」",
+        "注意 政治などに関する場合, 「穏健派の」の意味になる。",
+        "the moderate party「穏健派の政党」",
+        "派生 moderate「(公正な立場で)〜の進行役をする」",
+        "名 moderator「司会者(←争いを適度にする人)」",
+        "反 excessive「過度の」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "mod-「尺度」から「尺度で調整された」→「適度な」"
+      },
+      "examples": [
+        {
+          "en": "get moderate exercise",
+          "ja": "適度な運動をする"
+        }
+      ]
+    },
+    {
+      "id": "988",
+      "word": "somewhat",
+      "phonetic": "[sʌ́mwʌ̀t]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "いくぶん"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ = more than a little but not very",
+        "注意「少し(いくぶん)難しい問題」と表現する場合, a difficult problem に a little(少し)を加えると[×]a a little difficult problem となるので, このような場合, a somewhat difficult problem とする。"
+      ],
+      "word_origin": {
+        "formula": "some-[少しの]+-what[何か]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "feel somewhat sad",
+          "ja": "いくぶん悲しい気分だ"
+        }
+      ]
+    }
+  ]
+}

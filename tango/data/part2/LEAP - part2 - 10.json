@@ -1,0 +1,255 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "467",
+      "word": "sense",
+      "phonetic": "[sens]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 感覚",
+            "② 分別",
+            "③ (言葉の)意味"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ (何となく)〜を感じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(五感による)感覚」から「分別, 意味」まで。",
+        "頻出 have a sense of humor「ユーモアのセンスがある」",
+        "in a sense「ある意味では」",
+        "make sense「意味が通る」",
+        "派生 sensitive「敏感な, 繊細な」 ⇔ be sensitive to 〜「〜に対して敏感である」",
+        "派生 sensible「分別のる, 賢明な」",
+        "派生 sensibility「感性, 感受性」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lose my sense of time",
+          "ja": "時間の感覚をなくす"
+        },
+        {
+          "en": "common sense",
+          "ja": "常識(共通の分別)"
+        },
+        {
+          "en": "in a broad[narrow] sense",
+          "ja": "広い[狭い]意味では"
+        },
+        {
+          "en": "sense that something is wrong",
+          "ja": "何かがおかしいと感じる"
+        }
+      ]
+    },
+    {
+      "id": "468",
+      "word": "sweat",
+      "phonetic": "[swét]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 汗 (通例〈不可算〉)"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 汗をかく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ perspiration [pə̀ːrspəréiʃən] [パースピレイション] のほうが堅い語。",
+        "▶ perspire [pərspáiər] のほうが堅い語。",
+        "頻出 work up a (good) sweat「(運動, 労働で)(かなりの)汗をかく」(*この場合, 〈可算〉)",
+        "sweat appears on 〜「〜に汗が出る」",
+        "sweat easily「汗かきだ」",
+        "sweat with fear「冷や汗をかく」",
+        "派生 sweatshirt「トレーナー」",
+        "派生 sweater [swétər]「セーター」",
+        "派生 sweatshop「搾取工場(低賃金・長時間労働の工場)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wipe the sweat off my forehead",
+          "ja": "額の汗をぬぐう"
+        },
+        {
+          "en": "sweat a lot",
+          "ja": "汗だくになる(たくさん汗をかく)"
+        }
+      ]
+    },
+    {
+      "id": "469",
+      "word": "gender",
+      "phonetic": "[dʒéndər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "性別"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(社会的, 文化的に見た)性」 ◇sex「(生物学的に見た)性」",
+        "頻出 gender differences「性差, 男女差」",
+        "gender discrimination「性差別」",
+        "gender stereotypes「性別による固定観念」",
+        "注意 LGBTQ (=Lesbian, Gay, Bisexual, Transgender, and Questioning) は「性的マイノリティーの総称」を意味する。",
+        "派生 gen- [生む] →「生まれたもの」",
+        "派生 gender-free「性別に関係のない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "regardless of age or gender",
+          "ja": "年齢, 性別とは無関係に"
+        }
+      ]
+    },
+    {
+      "id": "470",
+      "word": "nationality",
+      "phonetic": "[næ̀ʃənǽləti]",
+      "level_tag": "A1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "国籍"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある国の法的市民である状態」",
+        "頻出 dual nationality「二重国籍」",
+        "Japanese nationality「日本国籍」",
+        "派生 national- [国] + -ity [状態] →",
+        "派生 multinational「多国籍の」",
+        "acquire [have] French nationality「フランス国籍を得る[持っている]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "“What is your nationality?” “I’m Japanese.”",
+          "ja": "「あなたの国籍は?」「日本です(←日本人です).」"
+        }
+      ]
+    },
+    {
+      "id": "471",
+      "word": "citizen",
+      "phonetic": "[sítəzn]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 市民",
+            "② 国民"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「市民権[国籍]を持つ1人の人間」",
+        "頻出 a global citizen「国際人」",
+        "a senior citizen「高齢者」",
+        "派生 citi- [city 都市] + -zen [人] →「都市に住む人」",
+        "派生 citizenship「市民権(←ある国に属する権利)」",
+        "派生 national「国民の, 国の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the population of senior citizens",
+          "ja": "高齢者(高齢の市民)人口"
+        },
+        {
+          "en": "British citizens living in Japan",
+          "ja": "日本に住むイギリス人"
+        }
+      ]
+    },
+    {
+      "id": "472",
+      "word": "civil",
+      "phonetic": "[síval]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (一般)市民の",
+            "② 国内の",
+            "③ 礼儀正しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(最低限の礼儀を保つだけで)よそよそしい感じ」",
+        "頻出 a civil war「内戦」",
+        "civil affairs「国内問題」",
+        "派生 civilian [民間人]「(軍人, 警察官に対して)民間人, 一般市民」",
+        "派生 civilian 形「民間の」",
+        "反 military「軍の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "civil rights",
+          "ja": "公民権(選挙権などの権利)"
+        },
+        {
+          "en": "the Civil War",
+          "ja": "アメリカ南北戦争(国内の戦争)"
+        },
+        {
+          "en": "She is civil but not friendly.",
+          "ja": "彼女は礼儀正しいが友好的ではない。"
+        }
+      ]
+    },
+    {
+      "id": "473",
+      "word": "racial",
+      "phonetic": "[réiʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "人種の, 民族の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に肌の色などの身体的特徴によって分けられる)人種の」",
+        "派生 race「人種, 競争」 ⇔ the human race「人類」",
+        "派生 racism「人種差別」",
+        "派生 sexism「性差別」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "racial discrimination",
+          "ja": "人種差別"
+        }
+      ]
+    }
+  ]
+}

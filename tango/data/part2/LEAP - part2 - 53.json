@@ -1,0 +1,298 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "784",
+      "word": "stable",
+      "phonetic": "[stéibl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 安定した"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 馬小屋",
+            "きゅう舎"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(上がったり下がったりの変化がなく)安定した」",
+        "★ sta-(=stay)じっとして →「stay」滞在する",
+        "他 stabilize「〜を安定させる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His temperature remains stable.",
+          "ja": "① 彼の体温は安定している。"
+        },
+        {
+          "en": "a racehorse stable",
+          "ja": "② 競走馬のきゅう舎"
+        }
+      ]
+    },
+    {
+      "id": "785",
+      "word": "negative",
+      "phonetic": "[négətiv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 否定的な",
+            "否定の"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 悲観的な",
+            "厭世とした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a negative attitude [reply, effect]「否定的な態度[返答, 影響]」",
+        "★ neg-[否定] + -ative[性質] (*否定を表す語はn-が多い。 ⇨ nasty「不快な」 neglect「怠る」など)",
+        "反 positive「肯定的な」",
+        "▶「(情報不足で)輪郭がはっきりしない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the negative aspects of aging",
+          "ja": "歳をとることの否定的な側面"
+        }
+      ]
+    },
+    {
+      "id": "786",
+      "word": "vague",
+      "phonetic": "[véig]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "曖昧な",
+            "漠然とした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(情報不足で)輪郭がはっきりしない」",
+        "◇ ambiguous「(いくつかの意味にとれて)曖昧な」",
+        "★ vag-[さまよう, 定まらない] →「曖昧な」",
+        "副 vaguely「曖昧に, 漠然と」",
+        "◇ vaguely remember 〜「〜を曖昧に覚えている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a vague description",
+          "ja": "曖昧な説明"
+        }
+      ]
+    },
+    {
+      "id": "787",
+      "word": "weird",
+      "phonetic": "[wíərd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "変な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "変な人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(侮蔑的に)気味の悪い」",
+        "◇ odd「(どこかふつうではなく)変な」",
+        "★ weir-[ねじ曲がった] →「奇妙な」",
+        "☆ wire「針金, ワイヤー」",
+        "頻出 a computer nerd [ná:rd] [gí:k] [gí:k]「コンピュータおたく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Steve is a little weird, isn't he?",
+          "ja": "スティーブってちょっと変だよね。"
+        }
+      ]
+    },
+    {
+      "id": "788",
+      "word": "rough",
+      "phonetic": "[rʌ́f]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (表面が)粗い",
+            "ざらざらした"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② おおざっぱな"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ (海, 天候などが)荒れている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a rough idea「おおまかな考え」",
+        "▶ 日本語でも「ラフな服装」など②の意味で使うことがある。",
+        "反 smooth [smú:ð]「なめらかな」",
+        "副 roughly「おおよそ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a rough road",
+          "ja": "① でこぼこの道"
+        },
+        {
+          "en": "② a rough idea of the plan",
+          "ja": "② その計画の概略(おおまかな考え)"
+        },
+        {
+          "en": "③ rough weather",
+          "ja": "③ 荒れた天候"
+        }
+      ]
+    },
+    {
+      "id": "789",
+      "word": "severe",
+      "phonetic": "[səvíər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (天候, 批判, 罰則などが)厳しい"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (けが, 問題などが)ひどい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(天候などが)厳しい」から「(痛みなど)身体的に厳しい」「(批判, 罰則などが)厳しい」まで。(*②日常ではseriousのほうがふつう。)",
+        "副 severely「ひどく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① severe criticism",
+          "ja": "① 厳しい批判"
+        },
+        {
+          "en": "② a severe injury",
+          "ja": "② ひどいけが"
+        }
+      ]
+    },
+    {
+      "id": "790",
+      "word": "passive",
+      "phonetic": "[pǽsiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "受動的な",
+            "消極的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 passive smoking「受動喫煙(←他人が吐くタバコの煙を吸うこと)」",
+        "★ pass-[苦しみに耐える]",
+        "反 active「能動的な, 積極的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is quite passive, and never speaks out.",
+          "ja": "彼はかなり消極的で, 決して意見をはっきり言わない。"
+        }
+      ]
+    },
+    {
+      "id": "791",
+      "word": "vain",
+      "phonetic": "[véin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (in 〜)無駄に"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (努力などが)無駄な"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ うぬぼれの強い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(無駄で)むなしい」(*②主に名詞の前に置かれる。)",
+        "頻出 ① try in vain to do「〜を試みるが無駄である」",
+        "注意 vein「静脈」と同じ発音。",
+        "★ va-[空っぽの] →「無駄な」",
+        "☆ vacation「休暇, 休日(←家を空っぽ(留守)にする)」",
+        "名 vanity「うぬぼれ, 虚栄心(←自分の中身が空っぽなので認めてほしいという気持ち)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① His effort was in vain.",
+          "ja": "① 彼の努力は無駄になった。"
+        },
+        {
+          "en": "② in a vain attempt",
+          "ja": "② 無駄な試みをして"
+        },
+        {
+          "en": "③ a vain man",
+          "ja": "③ 虚栄心の強い男性"
+        }
+      ]
+    }
+  ]
+}

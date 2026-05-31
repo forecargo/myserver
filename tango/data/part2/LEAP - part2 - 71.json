@@ -1,0 +1,210 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "910",
+      "word": "distant",
+      "phonetic": "[dístənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "遠い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(地理的に)遠い」から「(時間, 関係が)遠い」まで。",
+        "◇ 日常で「AはBから遠い」は A is a long way from B, 「〜から遠く離れて」は far off 〜と表現することが多い。",
+        "頻出 a distant relative「遠い親戚」(⇔ a close relative「近い親戚」)",
+        "語源 dis-[バラバラ] + -stant[=stand 立つ] から「バラバラに立っている」→「遠い」",
+        "名 distance「距離」 ⇔ in the distance「遠くに」 an interpersonal distance「対人距離」",
+        "副 distantly「遠くに, よそよそしく」",
+        "類義 faraway「(地理的に)遠い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a distant [×far] island",
+          "ja": "遠い島"
+        }
+      ]
+    },
+    {
+      "id": "911",
+      "word": "locate",
+      "phonetic": "[lóukeit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (be ~d) 〜に位置している",
+            "② 〜の場所を見つける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 日本語でよく使われる「ロケ(=野外撮影)」は和製英語で, 正しくは outdoor shooting と表現する。",
+        "語源 loc-[場所] + -ate[動詞語尾]",
+        "名 location「位置, 場所」 ⇔ The GPS will show your location.「GPSがあなたの場所を教えてくれる。」",
+        "他 relocate「(会社など)を移転する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "New Mexico is located 2,240 meters above sea level.",
+          "ja": "ニューメキシコは海抜2,240メートルの位置にある。"
+        },
+        {
+          "en": "locate the restaurant on the map",
+          "ja": "地図でレストランの場所を見つける"
+        }
+      ]
+    },
+    {
+      "id": "912",
+      "word": "occupy",
+      "phonetic": "[ákjupài]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を占める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(時間, 場所, 地位など)を占める」",
+        "頻出 be occupied with 〜「〜で忙しい」",
+        "語源 oc-[against に対して] + -cup-[=catch] →「捕まえること」",
+        "名 occupation「職業, 占領」",
+        "名 occupancy「占有」 ⇔ an occupancy rate「(ホテルなどの)稼働率」",
+        "派生 preoccupied with 〜「〜で頭がいっぱいだ(←あらかじめ占有されている)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "occupy two seats on the train",
+          "ja": "電車で2つの席を占有する"
+        }
+      ]
+    },
+    {
+      "id": "913",
+      "word": "surround",
+      "phonetic": "[səráund]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を取り囲む, 包囲する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的に)取り囲む (*「恩師を囲む(~を囲んで歓談する)」などは sit around 〜と表現するほうがよい。)」",
+        "名 surroundings「(物的)環境(←取り囲むもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a mansion surrounded by red brick walls",
+          "ja": "赤れんがの塀に囲まれたお屋敷"
+        }
+      ]
+    },
+    {
+      "id": "914",
+      "word": "classical",
+      "phonetic": "[klǽsɪkəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (音楽, バレエ, ダンスなどで)クラシックの",
+            "② 古典的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「伝統的な, 古典的な」",
+        "類義 classic",
+        "名 classic「古典文学」",
+        "形 「最高級の, 典型的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "classical [×classic] music",
+          "ja": "① クラシック音楽"
+        },
+        {
+          "en": "classical literature",
+          "ja": "② (ギリシャ, ローマの)古典文学"
+        }
+      ]
+    },
+    {
+      "id": "915",
+      "word": "civilization",
+      "phonetic": "[sìvəlaizéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "文明"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「組織化され, 発達した社会」",
+        "頻出 Western civilization「西洋文明」 modern civilization「現代文明」",
+        "派生 civilized「文明化した」",
+        "他 civilize「〜を洗練させる, 文明化する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an advanced civilization",
+          "ja": "高度な文明"
+        }
+      ]
+    },
+    {
+      "id": "916",
+      "word": "heritage",
+      "phonetic": "[héritɪdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "遺産"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自然環境, 建造物などの)遺産」",
+        "◇ legacy「(事件, 時代などのなごりとしての)遺産, (親などから受け継いだ)遺産」 ⇔ a legacy from one's aunt「おばからの遺産」",
+        "注意 通例, 〈不可算〉だが, 「(個々の)遺産」は〈可算〉扱いも可。",
+        "例 「(個々の)世界遺産」は, 通例, a World Heritage Site と表現する。",
+        "例 Mt. Fuji is a World Heritage Site.「富士山は世界遺産だ。」"
+      ],
+      "word_origin": {
+        "formula": "here-[くっつく] + -age[抽象名詞語尾] →「先人にくっついたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the cultural heritage of Japan",
+          "ja": "日本の文化遺産"
+        }
+      ]
+    }
+  ]
+}

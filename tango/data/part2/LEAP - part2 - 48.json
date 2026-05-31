@@ -1,0 +1,225 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "749",
+      "word": "modest",
+      "phonetic": "[mɑ́dəst]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (人が)謙虚な",
+            "② (物が)大きくない, 高くない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(よい意味で)慎み深い, 控えめな」",
+        "▶②「謙遜した表現」",
+        "▶「人」の場合→①, 「物」の場合→②の意味になる。",
+        "注意 形容する対象が「人」の場合→①, 「物」の場合→②の意味になる。",
+        "▶ mode-[尺度]「適切な尺度をもつ」 ☆moderate「適度な」",
+        "反 boastful「自慢している, 鼻にかけている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Paul is modest about his success.",
+          "ja": "ポールは成功を鼻にかけない."
+        },
+        {
+          "en": "a modest house with a small garden",
+          "ja": "小さな庭つきの質素な家(*謙遜して)"
+        }
+      ]
+    },
+    {
+      "id": "750",
+      "word": "stupid",
+      "phonetic": "[stjúːpɪd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "ばかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(判断力に欠けていて)愚かな」",
+        "頻出 A is stupid[It is stupid of A] to do「〜するなんてAはばかげている」",
+        "名 stupidity「愚かな行為[発言]」",
+        "反 clever「利口な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make a stupid mistake",
+          "ja": "ばかな間違いをする"
+        }
+      ]
+    },
+    {
+      "id": "751",
+      "word": "indifferent",
+      "phonetic": "[ɪndífərənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "無関心で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「まったく関心を示さない」",
+        "頻出 be indifferent to 〜「〜に無関心である」",
+        "▶ in-[否定] + -different[違う]から「違いがない」→「無関心だ, どうでもいい」",
+        "名 indifference「無関心」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定] + -different[違う] -> 「違いがない」→「無関心だ, どうでもいい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Rick is indifferent to politics.",
+          "ja": "リックは政治に無関心だ."
+        }
+      ]
+    },
+    {
+      "id": "752",
+      "word": "punctual",
+      "phonetic": "[pʌ́ŋktʃuəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(約束などの)時間を守る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「決められた時間どおりにきっちり行う」",
+        "頻出 be punctual for 〜「〜に対して時間を守る」",
+        "▶ punct-[刺す] + -ual[形容詞語尾]から「決められた時間をピシッと突き刺す」→「時間を守る」 ☆puncture「(タイヤの)パンク(←タイヤに何かが刺さって穴が開くこと)」",
+        "副 punctually「時間きっちりに」",
+        "反 late「遅れて」"
+      ],
+      "word_origin": {
+        "formula": "punct-[刺す] + -ual[形容詞語尾] -> 「決められた時間をピシッと突き刺す」→「時間を守る」",
+        "description": "puncture「(タイヤの)パンク(←タイヤに何かが刺さって穴が開くこと)」"
+      },
+      "examples": [
+        {
+          "en": "Japanese trains are extremely punctual.",
+          "ja": "日本の列車は非常に時間に正確だ."
+        }
+      ]
+    },
+    {
+      "id": "753",
+      "word": "coward",
+      "phonetic": "[káuərd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "臆病者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「勇気のない者」(*相手を非難するときによく使われる.)",
+        "頻出 You coward!「この臆病者!」",
+        "▶ cow「ウシ」が尻尾をまいて逃げる様子から。",
+        "形 cowardly「臆病な」",
+        "名 cowardice「臆病」",
+        "参 chicken「弱虫」",
+        "反 brave「勇敢な」"
+      ],
+      "word_origin": {
+        "formula": "cow「ウシ」が尻尾をまいて逃げる様子から。",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "My son is a coward when it comes to going to the dentist.",
+          "ja": "息子は歯医者に行くことにかけては臆病者です."
+        }
+      ]
+    },
+    {
+      "id": "754",
+      "word": "precise",
+      "phonetic": "[prɪsáɪs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "正確な, 精密な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数値, 器具などが細部に至るまで)正確な」",
+        "頻出 後に続く名は instrument「器具」, location「位置」, record「記録」, description「描写」, meaning「意味」, figure「数字」など。",
+        "注意 accurateと言い換え可能な場合も多いが, not accurateは「(情報が乏しく)正しくない」, not preciseは「(情報が乏しく)詳細ではない」の意味となる。",
+        "▶ pre-[前に] + -cise[切る]から「あらかじめ切りそろえておいた」→「正確な」 ☆concise「簡潔な(←すべて切りそろえた)」",
+        "名 precision「正確さ」",
+        "副 precisely「正確に, ちょうど」",
+        "⇔ at precisely 1:00「1時ちょうどに」",
+        "副 precisely[×accurately] because SV「まさに〜という理由で」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -cise[切る] -> 「あらかじめ切りそろえておいた」→「正確な」",
+        "description": "concise「簡潔な(←すべて切りそろえた)」"
+      },
+      "examples": [
+        {
+          "en": "Each plane has to follow a precise route.",
+          "ja": "どの飛行機も正確な航路をたどらなくてはならない."
+        }
+      ]
+    },
+    {
+      "id": "755",
+      "word": "accurate",
+      "phonetic": "[ǽkjurət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "正確な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(測定値, 予測などが)現実的な(現実のものに近い)」",
+        "頻出 後に続く名は prediction「予測」, measurement「測定」など。",
+        "注意「(時間に)正確な」はpunctualを使う。",
+        "▶ ac-[〜方向] + -cur-[cure]から「〜に注意が行き届いている」→「正確な」",
+        "反 inaccurate「不正確な」",
+        "副 accurately「正確に」"
+      ],
+      "word_origin": {
+        "formula": "ac-[〜方向] + -cur-[cure] -> 「〜に注意が行き届いている」→「正確な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an accurate map",
+          "ja": "正確な地図"
+        }
+      ]
+    }
+  ]
+}

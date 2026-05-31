@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "529",
+      "word": "qualify",
+      "phonetic": "[kwɔ́ləfài]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (for ~) (~の) 資格がある",
+            "② (as ~) (~としての) 資格を得る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜に資格を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意: ①② be qualifiedの形も可。"
+      ],
+      "word_origin": {
+        "formula": "quali-[質] + -fy[与える]",
+        "description": "qualified「資格のある, 適格の」, qualification「資格」"
+      },
+      "examples": [
+        {
+          "en": "① qualify for bank loans",
+          "ja": "① 銀行ローンを受ける資格がある"
+        },
+        {
+          "en": "② qualify as a teacher",
+          "ja": "② 教師としての資格を得る"
+        },
+        {
+          "en": "③ a World Cup qualifying game",
+          "ja": "③ ワールドカップの予選 (本選への資格を与える試合)"
+        }
+      ]
+    },
+    {
+      "id": "530",
+      "word": "assign",
+      "phonetic": "[əsáin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を割り当てる",
+            "② 〜を配属する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を(人に)割り当てる」",
+        "語法: assign A to B 「AをBに割り当てる」(≒assign B A)"
+      ],
+      "word_origin": {
+        "formula": "as-[=ad方向] + -sign[印]",
+        "description": "「(誰の担当かと)印をつける」→「〜を割り当てる」, assignment「宿題, 割り当て, 配属」"
+      },
+      "examples": [
+        {
+          "en": "① assign that important job to him",
+          "ja": "① 彼にその大切な仕事を割り当てる"
+        },
+        {
+          "en": "② be assigned to the head office",
+          "ja": "② 本店に配属される"
+        }
+      ]
+    },
+    {
+      "id": "531",
+      "word": "occupation",
+      "phonetic": "[ὰkjupéiʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 職業 (可算)",
+            "② 占有, 占領 <不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法: ① 公文書などで使われる堅い語。(＊日常ではjobのほうが使われる。)"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "occupy「〜を占める」の名詞形(「人生を占有するもの」→「職業」)"
+      },
+      "examples": [
+        {
+          "en": "① my name, address, and occupation",
+          "ja": "① 氏名, 住所, 職業"
+        },
+        {
+          "en": "② be under occupation",
+          "ja": "② 占領下にある"
+        }
+      ]
+    },
+    {
+      "id": "532",
+      "word": "career",
+      "phonetic": "[kəríər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 職業",
+            "② 経歴"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(生涯にわたって)人が歩む(歩んできた)道」",
+        "頻出: ② pursue a career as ~ 「〜としての経歴を歩む」",
+        "語法: 日本語の「キャリア」は②の意味で使われることが多い。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① start a career as a doctor",
+          "ja": "① 医者として働き始める(職業を始める)"
+        },
+        {
+          "en": "② during her long career as a teacher",
+          "ja": "② 彼女の長い教員生活(教員としての長い経歴)の間に"
+        }
+      ]
+    },
+    {
+      "id": "533",
+      "word": "profession",
+      "phonetic": "[prəféʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (専門的な) 職業",
+            "② (the ~) 同業者集団"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(弁護士, 医師など)特別な訓練や高度な知識を必要とする専門職」",
+        "頻出: ① enter a profession「専門職に就く」",
+        "比較: confess「〜を告白する」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -fess-[言う]",
+        "description": "「はっきり言う人」, professor「教授」, professional 形「専門的な, プロの」 名「専門家, プロ」"
+      },
+      "examples": [
+        {
+          "en": "① enter the legal profession",
+          "ja": "① 法律関係の仕事に就く"
+        },
+        {
+          "en": "② the medical profession",
+          "ja": "② 医療従事者"
+        }
+      ]
+    },
+    {
+      "id": "534",
+      "word": "unemployment",
+      "phonetic": "[ὰnimplɔ́imənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "失業 ( = ~ rate), 失業者数 (① ② ともに <不可算>)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出: ① unemployment benefits「失業手当」",
+        "頻出: ② high [low] unemployment「高い[低い]失業率」"
+      ],
+      "word_origin": {
+        "formula": "un-[否定] + -employment[雇用]",
+        "description": "→「失業」, unemployed「失業した」"
+      },
+      "examples": [
+        {
+          "en": "① an unemployment problem",
+          "ja": "① 失業問題"
+        },
+        {
+          "en": "② Unemployment has fallen.",
+          "ja": "② 失業率が下がった。"
+        }
+      ]
+    },
+    {
+      "id": "535",
+      "word": "document",
+      "phonetic": "[dάkjumənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 書類, 資料"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を記録する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語法: ① 主に「公式の文書, 書類」",
+        "語法: ② 「(文書, 動画, 写真などで)〜を記録する」",
+        "頻出: ① an official document「公文書」"
+      ],
+      "word_origin": {
+        "formula": "docu-[教え示す] + -ment[もの]",
+        "description": "doctrine「教義, (政治上の)主義」, documentary 形「文書の」 名「記録作品, ドキュメンタリー」"
+      },
+      "examples": [
+        {
+          "en": "① look over the documents",
+          "ja": "① 資料に目を通す"
+        },
+        {
+          "en": "② document how this event happened",
+          "ja": "② この出来事がどのように起きたかを記録する"
+        }
+      ]
+    },
+    {
+      "id": "536",
+      "word": "department",
+      "phonetic": "[dipάːrtmənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (組織の) 部門, 課",
+            "② (大学の) 学科",
+            "③ (米国などの) 省"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出: ① a department store「デパート, 百貨店(←各部門に分かれている店)」"
+      ],
+      "word_origin": {
+        "formula": "de-[分離] + -part-[部分] + -ment[もの]",
+        "description": "→「部分に分けられた物」"
+      },
+      "examples": [
+        {
+          "en": "① the toy department",
+          "ja": "① おもちゃ売り場"
+        },
+        {
+          "en": "② the English department",
+          "ja": "② 英語学科"
+        },
+        {
+          "en": "③ the U.S. State Department",
+          "ja": "③ 米国国務省"
+        }
+      ]
+    },
+    {
+      "id": "537",
+      "word": "branch",
+      "phonetic": "[bræntʃ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 支店, 支局",
+            "② (学問の) 部門",
+            "③ 枝"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「枝(bránch)分かれしてきたもの」",
+        "語法: a head office「(銀行などの)本店」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a branch of this bank",
+          "ja": "① この銀行の支店"
+        },
+        {
+          "en": "② a branch of biology",
+          "ja": "② 生物学の一部門"
+        },
+        {
+          "en": "③ Don't break branches off the trees.",
+          "ja": "③ 木の枝を折ってはいけません。"
+        }
+      ]
+    }
+  ]
+}

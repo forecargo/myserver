@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1873",
+      "word": "millennium",
+      "phonetic": "[miléniəm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "1000年間"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語の「ミレニアム(=新たな千年紀の始まり)」の意味もある。",
+        "(* [複数形]millennia)",
+        "＊ mille-[千]+-ennium[年] ⇨ century「100年」⇨ the 21st century「21世紀」(*the が必要。) billion「10億」 trillion「1兆」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "for millennia",
+          "ja": "何千年もの間"
+        }
+      ]
+    },
+    {
+      "id": "1874",
+      "word": "expire",
+      "phonetic": "[ikspáiər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "期限が切れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では run out のほうが使われる。",
+        "＊ ex-[外に]+-pire[呼吸]から「息絶える」→「期限が切れる」",
+        "派 expired「期限が切れた」(⇔válid「有効な」) 名 expiration「終了, 満期」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "When does this license expire?",
+          "ja": "この免許はいつ期限が切れますか。"
+        }
+      ]
+    },
+    {
+      "id": "1875",
+      "word": "postpone",
+      "phonetic": "[poustpóun]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を延期する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ put off 〜「〜を後回しにする」",
+        "delay 〜を延ばす。(したくないこと)を先延ばしにする",
+        "＊ post-[後に]+-pone[置く]→「(日程を)後に置く」 ☆póst-war「戦後の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "postpone the meeting until tomorrow",
+          "ja": "明日まで会議を延期する"
+        }
+      ]
+    },
+    {
+      "id": "1876",
+      "word": "periodically",
+      "phonetic": "[pìəriádikəli]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "定期的に, 周期的に, 時折"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある一定期間で繰り返して」",
+        "派 périoｄ「時代, 期間, 時限」⇨ the second period「2時限目」 periódical 名「定期刊行物」 形「定期刊行物の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This old elevator breaks down periodically.",
+          "ja": "この古いエレベーターは時折故障する。"
+        }
+      ]
+    },
+    {
+      "id": "1877",
+      "word": "array",
+      "phonetic": "[əréi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(an ~ of ~)さまざまな, 多彩な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(目を引くものが)ずらりと並んだ」のイメージ。",
+        "＊ ar-(=ad 方向)+-ray[準備]→「きれいに並べて準備万全な状態」",
+        "☆ready「準備ができて」 参 a wide array of 〜「膨大な種類の〜」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a wide array of seafood delicacies",
+          "ja": "ずらりと並んだ(さまざまな)魚介の珍味"
+        }
+      ]
+    },
+    {
+      "id": "1878",
+      "word": "realm",
+      "phonetic": "[rélm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "領域, 領土"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(考え, 知識の全般的な)領域, 領土」",
+        "◇ domáin「(個々の)領域」",
+        "＊レール向(む)かいに「領土」がある。 参 reign [réin]「(君主の)統治」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "new discoveries in the realm of biochemistry",
+          "ja": "生化学の領域における新たな発見"
+        }
+      ]
+    },
+    {
+      "id": "1879",
+      "word": "domain",
+      "phonetic": "[douméin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "領域"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(活動, 興味, 知識, 領地などの)一部分」",
+        "(*.com はインターネット上のドメイン名の1つ。)",
+        "＊ dom-(=dome 家) ☆dóminate「〜を支配する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Cloning technology is a violation of God's domain.",
+          "ja": "クローン技術は神の領域を侵すものだ。"
+        }
+      ]
+    },
+    {
+      "id": "1880",
+      "word": "boundary",
+      "phonetic": "[báundəri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "境界(線)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的な)境目」から「(人種などの)垣根」まで。",
+        "(*「国境」や「州境」など, 「(2つの国や地域などの)境界」の意味では, ふつう bórdər が使われる。)",
+        "＊ bound-[境界]+-ary[に関わる] ☆líbrary「図書館」(líber-[本])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The Pyrenees mountains form a natural boundary between France and Spain.",
+          "ja": "ピレネー山脈はフランスとスペインの自然な境界を形成している。"
+        }
+      ]
+    },
+    {
+      "id": "1881",
+      "word": "spectrum",
+      "phonetic": "[spéktrəm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (思想・活動などの)範囲",
+            "② (光の)スペクトル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「ヒトの目によって色を識別するための判断素材」のこと。波長の長い順に「赤・橙・黄・緑・青・藍・紫」となる。",
+        "参 spectrómeter「分光計」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① appeal to a wide spectrum of voters",
+          "ja": "① 幅広い(広い範囲の)有権者に訴える"
+        },
+        {
+          "en": "② the invisible spectrum of light",
+          "ja": "② 光の不可視スペクトル"
+        }
+      ]
+    }
+  ]
+}

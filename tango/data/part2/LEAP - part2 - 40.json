@@ -1,0 +1,219 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "691",
+      "word": "conscious",
+      "phonetic": "[kάnʃəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 意識している, 気づいている",
+            "② 意識がある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(不安や責任など)を意識している, 〜に気づいている」から「(病人などが)意識のある」まで。",
+        "頻出 ① be conscious of 〜 / that SV「〜を / 〜ということを意識している」",
+        "注意 英作文で「無意識のうちに, 知らない間に」と表現する場合, before realizing it や before S know(s) itなどと表現するのがよいが, 主文と主語が異なる場合は before S know(s) it を用いる。",
+        "名 consciousness「意識」",
+        "反 unconscious「無意識の, 意識を失った」",
+        "形 health-conscious「健康を意識した」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -sci-[知識] -> 「知っている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I was conscious of the fact that it was an important meeting.",
+          "ja": "それが重要な会議であるということは意識していた。"
+        },
+        {
+          "en": "He was still conscious when we arrived.",
+          "ja": "私たちが到着したとき, 彼はまだ意識があった。"
+        }
+      ]
+    },
+    {
+      "id": "692",
+      "word": "concerned",
+      "phonetic": "[kənsə́ːrnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (with [about] 〜) (〜に) 関心を持っている, 重視している",
+            "② (with 〜) (〜を) 扱っている",
+            "③ (about [for] 〜) (〜を) 懸念している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「関心を向ける」(*①be interested in 〜より堅い表現。②主語は本や論文など。③for は「〜を求めて」の意味。)",
+        "頻出 as [so] far as A is concerned「Aに関する限り」",
+        "the people concerned「関係者」",
+        "名 concern「懸念, 関心」",
+        "コロケーション people's concern for food safety「人々の食の安全への関心」",
+        "前 concerning「〜に関する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The professor is concerned with environmental problems.",
+          "ja": "その教授は環境問題に関心を持っている。"
+        },
+        {
+          "en": "His book is concerned with environmental problems.",
+          "ja": "彼の本は環境問題を取り扱っている。"
+        },
+        {
+          "en": "be concerned about her safety",
+          "ja": "彼女の安全を懸念する"
+        }
+      ]
+    },
+    {
+      "id": "693",
+      "word": "regard",
+      "phonetic": "[rigάːrd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A as B) (A)を(Bと)みなす",
+            "② (副詞を伴い) 〜を評価する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (in 〜) 点",
+            "④ (-s) よろしくという挨拶"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①の意味がほとんど。",
+        "頻出 A with [in] regard to B「Bに関するA」",
+        "as regards 〜「(新たな情報を示して)〜に関しては」",
+        "注意 ①「AをBとみなす」の意味を持つことがあるので, 「AをBと思う」は consider A (to be) B が無難。",
+        "前 regarding「(新たな話題を提供する)〜に関しては」",
+        "反 disregard「〜を無視する(←〜を見ない)」",
+        "熟 regardless (of 〜)「(〜と)無関係に」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "re-[再び] + -gard [=guard 見守る] から「何度も注意して見る」→「みなす」"
+      },
+      "examples": [
+        {
+          "en": "Zack was born in the U.S. but he regards Japan as his home.",
+          "ja": "ザックはアメリカ生まれだが, 日本を故郷だと思っている。"
+        },
+        {
+          "en": "be highly regarded as a singer",
+          "ja": "歌手として高く評価されている"
+        },
+        {
+          "en": "in this regard",
+          "ja": "この点で"
+        },
+        {
+          "en": "Please give [send] my regards to Mr. Smith.",
+          "ja": "スミスさんによろしくお伝えください。"
+        }
+      ]
+    },
+    {
+      "id": "694",
+      "word": "commit",
+      "phonetic": "[kəmít]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (oneself to 〜 / be -ed to 〜) 〜に専念する",
+            "② (A to B) (A)を(Bに)委ねる, 充てる",
+            "③ (犯罪など)を犯す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「引っ込みのつかない状態まで(すっかり)送り込む」",
+        "頻出 ② commit 〜 to memory「〜を暗記する(←〜を記憶に送る, 委ねる)」",
+        "③ commit a crime [suicide, an error]「犯罪[自殺, 間違い]を犯す」",
+        "名 commitment「約束, 献身」",
+        "名 committee「委員会」",
+        "名 commission「委員会, 手数料」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "com-[共に] + -mit [送る] から「共に送る」"
+      },
+      "examples": [
+        {
+          "en": "We are fully committed to the project.",
+          "ja": "私たちはその計画に専念している。"
+        },
+        {
+          "en": "commit the words to memory",
+          "ja": "その言葉を記憶する (言葉を記憶に委ねる)"
+        },
+        {
+          "en": "commit a foul",
+          "ja": "反則を犯す"
+        }
+      ]
+    },
+    {
+      "id": "695",
+      "word": "doubt",
+      "phonetic": "[dáut]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を疑う",
+            "② (that SV) 〜とは思わない"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 疑い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を疑わしく思う, 〜ではないと思う」",
+        "頻出 ② doubt that SV「〜とは思わない」(≒ do not think that SV)",
+        "③ There is no doubt that SV. / No doubt SV.「きっと〜.」",
+        "注意 ② suspect that SV「〜と思う」(≒ think that SV)と区別。",
+        "形 doubtful「疑わしい」",
+        "It is doubtful whether SV.「〜かどうかは疑わしい。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have never once doubted him.",
+          "ja": "彼のことを疑ったことは一度もない。"
+        },
+        {
+          "en": "I doubt that this diamond is real.",
+          "ja": "このダイヤモンドは本物ではないと思う。"
+        },
+        {
+          "en": "There's no doubt that he was happy.",
+          "ja": "きっと(疑いなく)彼は幸せだった。"
+        }
+      ]
+    }
+  ]
+}

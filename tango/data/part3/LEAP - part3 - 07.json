@@ -1,0 +1,365 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1062",
+      "word": "poverty",
+      "phonetic": "[pάvərti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "貧困〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「家計が苦しい」は be badly off と表現する。",
+        "派 poor「貧しい」の名詞形。",
+        "他 impoverish「〜を貧しくする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "live below the poverty line",
+          "ja": "最低(貧困)水準以下の暮らしをする"
+        }
+      ]
+    },
+    {
+      "id": "1063",
+      "word": "chaos",
+      "phonetic": "[kéiɑs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大混乱, 混沌〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(秩序がなく)ぐちゃぐちゃの状態」",
+        "形 chaotic「混沌とした, 混乱した」",
+        "反 cosmos [kάzmɑs]「(秩序だった)宇宙」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The kitchen is in chaos.",
+          "ja": "台所がめちゃくちゃ(大混乱)だ."
+        }
+      ]
+    },
+    {
+      "id": "1064",
+      "word": "isolation",
+      "phonetic": "[ὰisəléiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "孤立, 分離, 孤独感"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかから切り離されている状態」",
+        "語源 isol-(=island 島) + -at-(=[する]) + -ion[こと]から「島のように切り離すこと」",
+        "他 isolate「〜を孤立させる, 隔離する」"
+      ],
+      "word_origin": {
+        "formula": "isol-(=island 島) + -at-(=[する]) + -ion[こと]から「島のように切り離すこと」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "in isolation from society",
+          "ja": "社会から孤立して"
+        }
+      ]
+    },
+    {
+      "id": "1065",
+      "word": "region",
+      "phonetic": "[ríːdʒən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "地域"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(山岳地域のように)明確な線引きはできない広い地域」",
+        "(* 日常では area のほうが使われる.)",
+        "語源 reg-(=rule 支配) + -ion[こと] →「支配する地域」",
+        "形 regional「地域の」"
+      ],
+      "word_origin": {
+        "formula": "reg-(=rule 支配) + -ion[こと] →「支配する地域」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a wine-producing region",
+          "ja": "ワインの生産地域"
+        }
+      ]
+    },
+    {
+      "id": "1066",
+      "word": "proof",
+      "phonetic": "[prúːf]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 証拠, 証明〈不可算〉"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (複合語で)〜を防ぐ, 〜に耐える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(evidence を積み上げた)決定的な証拠」",
+        "▶ ②「〜に対する強度が十分な」",
+        "動 prove「〜を証明する」の名詞形。",
+        "類 testimony「(法廷などの)証言」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① There is no proof that she was at home at that time.",
+          "ja": "① 彼女がその時家にいたという証拠はない."
+        },
+        {
+          "en": "② a waterproof watch",
+          "ja": "② 防水の腕時計"
+        }
+      ]
+    },
+    {
+      "id": "1067",
+      "word": "warranty",
+      "phonetic": "[wɔ́ːrənti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "保証"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 製品の5年保証などの「保証」の意味。",
+        "類 guarantee「保証」と同語源。",
+        "熟 be covered by warranty「保証が適用される」",
+        "熟 out-of-warranty repairs「保証期間外の修理」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My microwave oven was under warranty, so the repair was free.",
+          "ja": "私の電子レンジは保証期間中だったので, 修理は無料だった."
+        }
+      ]
+    },
+    {
+      "id": "1068",
+      "word": "principle",
+      "phonetic": "[prínsəpl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 原理, 原則",
+            "② 主義, 信念"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(行動や思想などの基礎となる)一貫した考え, 信念」",
+        "語源 princip- [第1位] →「1番のもの」",
+        "派 principal「主要な, 校長」(*同じ発音.)"
+      ],
+      "word_origin": {
+        "formula": "princip- [第1位] →「1番のもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① in principle",
+          "ja": "① 原則的には"
+        },
+        {
+          "en": "② a guiding principle in my life",
+          "ja": "② 人生の指針となる信念"
+        }
+      ]
+    },
+    {
+      "id": "1069",
+      "word": "origin",
+      "phonetic": "[ɔ́ːrədʒin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "起源"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「あるものの出所, 原因」",
+        "語源 ori- [太陽が昇る]",
+        "派 -oriented「〜指向の, 〜に向いている」",
+        "例 a male-oriented society「男性中心社会」",
+        "形 original「最初の, 独創的な」",
+        "自 originate「起こる, 始まる」",
+        "副 originally「(今は違うが)元々は」"
+      ],
+      "word_origin": {
+        "formula": "ori- [太陽が昇る]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the origin of life on Earth",
+          "ja": "地球上の生命の起源"
+        }
+      ]
+    },
+    {
+      "id": "1070",
+      "word": "setting",
+      "phonetic": "[sétiŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 環境, 状況",
+            "② (小説, 機械などの)設定, 舞台"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②ともに〈可算〉",
+        "▶ ①「(ある具体的な)環境, 状況」",
+        "(* 日本語の「セッティング」は②の意味.)",
+        "語源 set- [配置する] →「何かが置かれた場所, 環境」"
+      ],
+      "word_origin": {
+        "formula": "set- [配置する] →「何かが置かれた場所, 環境」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a perfect setting for a picnic",
+          "ja": "① ピクニックにはうってつけの環境"
+        },
+        {
+          "en": "② the setting for the novel",
+          "ja": "② その小説の舞台"
+        }
+      ]
+    },
+    {
+      "id": "1071",
+      "word": "mission",
+      "phonetic": "[míʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 任務, 使命",
+            "② 使節団",
+            "③ (主にキリスト教の)布教(団)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 miss- [送る] →「送られること」",
+        "派 missile「ミサイル」",
+        "派 missionary 名「布教者」 形「布教の」",
+        "熟 missionary work「布教活動」"
+      ],
+      "word_origin": {
+        "formula": "miss- [送る] →「送られること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a mission to Saturn",
+          "ja": "① 土星への(飛行)任務"
+        },
+        {
+          "en": "② dispatch a mission to North Korea",
+          "ja": "② 北朝鮮へ使節団を派遣する"
+        },
+        {
+          "en": "③ a Christian mission",
+          "ja": "③ キリスト教の布教"
+        }
+      ]
+    },
+    {
+      "id": "1072",
+      "word": "project",
+      "phonetic": "名 [prάdʒekt] 動 [prədʒékt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 計画, 企画"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (予算など)を見積もる",
+            "③ 〜を投影する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(目標達成のための)個人[団体]の周到な計画」",
+        "語源 pro- [前方] + -ject [投げる] から「前に投げたもの(目標)に向かって進む」",
+        "反 reject「〜を拒絶する(←逆を投げる)」"
+      ],
+      "word_origin": {
+        "formula": "pro- [前方] + -ject [投げる] から「前に投げたもの(目標)に向かって進む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① the outline of the new project",
+          "ja": "① 新企画の概要"
+        },
+        {
+          "en": "② The cost was projected to be 100 million dollars.",
+          "ja": "② 費用は1億ドルと見積もられた."
+        },
+        {
+          "en": "③ be projected onto a big screen",
+          "ja": "③ 大きなスクリーンに映し出される"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2215",
+      "word": "plausible",
+      "phonetic": "[plɔ́ːzəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(説明、言い訳などが)もっともらしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(実際には違うかもしれないが)一見、合理的で信じられそうな」",
+        "＊applaud「拍手する」"
+      ],
+      "word_origin": {
+        "formula": "plaus-[拍手する]+-ible[可能]→「(なるほどと)拍手できてしまうような」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make a plausible excuse",
+          "ja": "「もっともらしい言い訳をする」"
+        }
+      ]
+    },
+    {
+      "id": "2216",
+      "word": "holistic",
+      "phonetic": "[houlístik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "全体(論)的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物を)全体として統合的に考えて」",
+        "＊hol-(=whole 全体)+-istic[形容詞語尾]"
+      ],
+      "word_origin": {
+        "formula": "hol-(=whole 全体)+-istic[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "holistic medicine",
+          "ja": "「全体論的医学」"
+        }
+      ]
+    },
+    {
+      "id": "2217",
+      "word": "contagious",
+      "phonetic": "[kəntéidʒəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "感染(性)の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(接触などによる直接的な)感染の」",
+        "◇infectious「(水や空気などを通した間接的な)感染の」",
+        "＊conta-[接触]+-gious[形容詞語尾]",
+        "☆tángent「タンジェント, 正接」"
+      ],
+      "word_origin": {
+        "formula": "conta-[接触]+-gious[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "contagious diseases",
+          "ja": "「感染病」"
+        }
+      ]
+    },
+    {
+      "id": "2218",
+      "word": "vocal",
+      "phonetic": "[vóukəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 発声の",
+            "② (about ~) (~について)遠慮なく意見を述べる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊voc-[声]",
+        "名vocalist「歌手, ボーカリスト」",
+        "他revóke「〜を取り消す(←再び呼ぶ)」"
+      ],
+      "word_origin": {
+        "formula": "voc-[声]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the vocal cords",
+          "ja": "「声帯」"
+        },
+        {
+          "en": "He was vocal about his rights.",
+          "ja": "「彼は自分の権利を主張した。」"
+        }
+      ]
+    },
+    {
+      "id": "2219",
+      "word": "sensory",
+      "phonetic": "[sénsəri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "感覚の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「五感に関わる, 五感を使った」",
+        "＊sens-[感じる]+-ory[〜の働きをする]"
+      ],
+      "word_origin": {
+        "formula": "sens-[感じる]+-ory[〜の働きをする]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a sensory organ",
+          "ja": "「(聴覚器, 味覚器などの)感覚器官」"
+        }
+      ]
+    },
+    {
+      "id": "2220",
+      "word": "numb",
+      "phonetic": "[nʌ́m]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(寒さや麻酔などで)麻痺している, 感覚を失った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(身体的な)麻痺」から「(ショックなどによる)精神的麻痺」まで。",
+        "＊numb numbers「麻痺した数字」というフレーズで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2221",
+      "word": "physiological",
+      "phonetic": "[fìziəlɑ́dʒikəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "生理的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「生体またはその器官, 細胞などの機能に関わる」",
+        "＊physio-[体の]+-logic[論理]+-al[形容詞語尾]",
+        "名physiology「生理学」"
+      ],
+      "word_origin": {
+        "formula": "physio-[体の]+-logic[論理]+-al[形容詞語尾]",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2222",
+      "word": "bilateral",
+      "phonetic": "[bailǽtərəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "二国間の, 双方の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「2つの集団(2か国など)に関わる」",
+        "＊bi-[2]+-lateral[側面]",
+        "図multilateral「多国間の」"
+      ],
+      "word_origin": {
+        "formula": "bi-[2]+-lateral[側面]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "bilateral negotiations between Japan and the U.S.",
+          "ja": "「日米二国間協議」"
+        }
+      ]
+    },
+    {
+      "id": "2223",
+      "word": "feudal",
+      "phonetic": "[fjúːdl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(主に欧州の)封建制の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊feud-[領地]+-al[関わる]",
+        "☆fée「報酬(←封建制の領地)」"
+      ],
+      "word_origin": {
+        "formula": "feud-[領地]+-al[関わる]",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2224",
+      "word": "imperial",
+      "phonetic": "[impíəriəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "帝国の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶empire「帝国」の形容詞形。",
+        "＊impérative「必要不可欠の, 避けられない, 強制的な(←émperorの命令)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Imperial Japanese Navy",
+          "ja": "「大日本帝国海軍」"
+        }
+      ]
+    },
+    {
+      "id": "2225",
+      "word": "complementary",
+      "phonetic": "[kὰmpləméntəri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "相補的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「お互いに補い合う」",
+        "名complement「補語, 余角, 補集合」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our jobs are complementary to each other rather than competitive.",
+          "ja": "「私たちの仕事はぶつかるのではなくお互いに補い合うものです。」"
+        }
+      ]
+    },
+    {
+      "id": "2226",
+      "word": "pertinent",
+      "phonetic": "[pə́ːrtənənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (直接)関連のある",
+            "② 適切な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「関連があり, 重要な」",
+        "＊per-[through 通して]+-tine-[保つ→続く]から「何かを通して続いている」→「関連のある」",
+        "☆continent「大陸(←陸が続いている)」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して]+-tine-[保つ→続く]から「何かを通して続いている」→「関連のある」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2227",
+      "word": "intrinsic",
+      "phonetic": "[intrínsik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "固有の, 本来備わっている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人や物に本来備わっているものの一つで」",
+        "＊intrin-[内部]+-sic[=sec 続く]→「内部で続いている」",
+        "☆pérsecute「迫害する(←徹底的に追いかける)」"
+      ],
+      "word_origin": {
+        "formula": "intrin-[内部]+-sic[=sec 続く]→「内部で続いている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the intrinsic nature of women",
+          "ja": "「女性が持つ固有の性質」"
+        }
+      ]
+    },
+    {
+      "id": "2228",
+      "word": "unprecedented",
+      "phonetic": "[ʌnprésədèntid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "前例のない, 空前の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「過去に類似の事例がないくらいの規模や程度の」",
+        "＊un-[否定]+-pre-[前]+-cede[=ceed 進む]→「前に進むものがない」",
+        "名précédent「前例」",
+        "他precéde「〜に先行する」"
+      ],
+      "word_origin": {
+        "formula": "un-[否定]+-pre-[前]+-cede[=ceed 進む]→「前に進むものがない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an unprecedented economic crisis",
+          "ja": "「未曽有の経済危機」"
+        }
+      ]
+    },
+    {
+      "id": "2229",
+      "word": "tentative",
+      "phonetic": "[téntətiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "仮の, 試験的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(計画などが)最終的には変更する可能性があるので, 確定的ではない」",
+        "＊tent-[=touch 触る]→「試しに触ってみる」"
+      ],
+      "word_origin": {
+        "formula": "tent-[=touch 触る]→「試しに触ってみる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "arrive at a tentative agreement",
+          "ja": "「仮の合意に達する」"
+        }
+      ]
+    },
+    {
+      "id": "2230",
+      "word": "drastic",
+      "phonetic": "[drǽstik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "抜本的な, 思い切った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(行動や手段などが)急激で激しい」",
+        "＊dramátic「劇的な」",
+        "「劇的な」は, つづりと発音が似ている。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "take drastic measures",
+          "ja": "「抜本的な措置を講じる」"
+        }
+      ]
+    },
+    {
+      "id": "2231",
+      "word": "ubiquitous",
+      "phonetic": "[juːbíkwətəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "遍在している, 至る所にある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「あちらこちらにある」",
+        "＊指, 切ったっス! 血が「あちらこちらに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Convenience stores are ubiquitous these days.",
+          "ja": "「近ごろ, コンビニはどこにでもある。」"
+        }
+      ]
+    },
+    {
+      "id": "2232",
+      "word": "pervasive",
+      "phonetic": "[pərvéisiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "広く行き渡った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「隅々に浸透していて, どこにでも存在している」",
+        "＊per-[through 通して, ずっと]+-vas-(=vade 行く)→「隅々まで行く」",
+        "☆inváder「侵略[入](←中にいくもの)」",
+        "他perváde「〜に行き渡る」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して, ずっと]+-vas-(=vade 行く)→「隅々まで行く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a pervasive phenomenon",
+          "ja": "「広範囲に見られる現象」"
+        }
+      ]
+    },
+    {
+      "id": "2233",
+      "word": "exponential",
+      "phonetic": "[èkspounénʃəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(増加が)指数関数的な, 急激な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(急激な)増加」を形容する語。",
+        "副exponéntially「指数関数的に」",
+        "熟exponential function「指数関数」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an exponential rise in the city's population",
+          "ja": "「その市の人口の急激な増加」"
+        }
+      ]
+    }
+  ]
+}

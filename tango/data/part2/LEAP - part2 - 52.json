@@ -1,0 +1,243 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "776",
+      "word": "sort",
+      "phonetic": "[sɔ́ːrt]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 種(類)",
+            "② (副詞的に) (- of) 多少"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を分類する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "類出 ① sort of + (無冠詞の単数形) 「〜の種類」",
+        "注意 ② 日常ではa littleよりも使われる。(＊②は①が変化した用法。)",
+        "▶ 日本語でも「ソートする(←データを特定の規則に従って並べ替える)」などの意味で使われる。",
+        "類 assortment 「詰め合わせ(←分類されたもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "What sort of soap do you use?",
+          "ja": "どのような(種類の)石けんを使っているの。"
+        },
+        {
+          "en": "I'm sort of tired today.",
+          "ja": "今日はちょっと疲れている。"
+        },
+        {
+          "en": "The watermelons are sorted according to size[their size(s)].",
+          "ja": "スイカは大きさによって分類されている。"
+        }
+      ]
+    },
+    {
+      "id": "777",
+      "word": "marvelous",
+      "phonetic": "[mɑ́ːrvələs]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "驚くべき, 素晴らしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人を興奮させるほど)すごい」",
+        "類 marvel (at ~) 「(~に)驚く」 ( [×]be marveledは不可.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a marvelous memory",
+          "ja": "驚くべき記憶力を持っている"
+        }
+      ]
+    },
+    {
+      "id": "778",
+      "word": "active",
+      "phonetic": "[ǽktiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "積極的な, 活発な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「活動的な」",
+        "類出 play an active role 「活躍する(←活発な役割を演じる)」",
+        "派 act 「行動する」 派 activate 「〜を起動させる, 活性化させる」",
+        "派 activist 「活動家」 反 passive 「消極的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lead an active school life",
+          "ja": "活動的な学校生活を送る"
+        }
+      ]
+    },
+    {
+      "id": "779",
+      "word": "positive",
+      "phonetic": "[pɑ́zətiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 前向きな, 積極的な",
+            "② 確信している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「確信している」→①「前向きな, 積極的な」",
+        "類 a positive[negative] effect 「良い[悪い]効果」",
+        "派 posi-[置かれた]→「はっきりした」 派 position 「位置」",
+        "反 negative 「否定的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① positive thinking",
+          "ja": "① 前向きな考え"
+        },
+        {
+          "en": "② Are you positive?",
+          "ja": "② 自信あるの(確信しているの)?"
+        }
+      ]
+    },
+    {
+      "id": "780",
+      "word": "pure",
+      "phonetic": "[pjúər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 純粋な",
+            "② (水, 空気が)澄んだ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「混じり気がない」",
+        "副 purely 「まったくの, 純粋に」 ⇔ purely by chance 「まったくの偶然に」",
+        "反 mixed 「混ざった」 類 a water purifier 「浄水器」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a pure wool [wúl] blanket",
+          "ja": "① 100%(純粋な)ウールの毛布"
+        },
+        {
+          "en": "② pure air and water",
+          "ja": "② 澄み切った空気と水"
+        }
+      ]
+    },
+    {
+      "id": "781",
+      "word": "steady",
+      "phonetic": "[stédi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "着実な, 一定の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「よい状態が安定して続く」",
+        "類 steady progress 「着実な進歩」 a steady job[income] 「定職[定収入]」 a steady boyfriend 「(長く付き合っている)決まった彼氏」",
+        "派 ste-[stay じっとして]→「しっかり固定され揺がない」",
+        "副 steadily 「着実に」 反 volatile 「不安定な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make steady progress",
+          "ja": "着実に進歩する(着実な進歩をする)"
+        }
+      ]
+    },
+    {
+      "id": "782",
+      "word": "flexible",
+      "phonetic": "[fléksəbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "柔軟な, 融通のきく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(物が)曲がる」から「変更可能な, 柔軟な」まで。",
+        "類 be flexible about ~ 「〜に柔軟に対応する」",
+        "類 be flexible in one's thinking 「頭が柔軟だ」",
+        "派 flex-[曲げる]+-ble[可能] 派 flextime 「フレックスタイム(←自由勤務時間制)」",
+        "名 flexibility 「柔軟性」 反 rigid 「硬直した, 柔軟性に欠ける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Jim is flexible about everything.",
+          "ja": "ジムはあらゆることに柔軟に対応する。"
+        }
+      ]
+    },
+    {
+      "id": "783",
+      "word": "ripe",
+      "phonetic": "[ráip]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "熟した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(果物などが)熟した」から「(機が)熟した」まで。",
+        "類 The time is ripe for ~. 「今こそ〜な時だ.」",
+        "派 rip-[ちぎる]→「熟したのでちぎれる」 派 rip 「〜を裂く」 派 reap 「〜を刈り取る」",
+        "派 ripen 「熟する」 類 orchard [ɔ́ːrtʃərd] 「果樹園」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a ripe mango",
+          "ja": "熟したマンゴー"
+        }
+      ]
+    }
+  ]
+}

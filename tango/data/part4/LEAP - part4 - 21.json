@@ -1,0 +1,307 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1611",
+      "word": "cope",
+      "phonetic": "[kóup]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(with 〜) (〜に)対処する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(問題自体を解決するのではなく)その問題と折り合いをつける」",
+        "barely cope「ほとんど対処できない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am having trouble coping with the huge amount of work I have to do.",
+          "ja": "やらなければならない膨大な量の仕事に対処するのに苦労している。"
+        }
+      ]
+    },
+    {
+      "id": "1612",
+      "word": "tackle",
+      "phonetic": "[tǽkl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に取り組む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(腰を据えて、複雑な仕事[問題]など)に取り組む」",
+        "ラグビーの「タックル」は「走る相手に組みつき、地面に倒すプレー」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tackle the unemployment problem",
+          "ja": "失業問題に取り組む"
+        }
+      ]
+    },
+    {
+      "id": "1613",
+      "word": "demolish",
+      "phonetic": "[dimɔ́liʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(建物など)を取り壊す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(建物など)を完全に取リ壊す」(∗日常では tear 〜 down のほうがふつう。)",
+        "名 demolition「取り壊し」",
+        "abandoned houses「廃屋」"
+      ],
+      "word_origin": {
+        "formula": "de-[否定] + -molish[壊にする]",
+        "description": "máss「塊」"
+      },
+      "examples": [
+        {
+          "en": "demolish the old apartment building",
+          "ja": "その古いアパートを取り壊す"
+        }
+      ]
+    },
+    {
+      "id": "1614",
+      "word": "confine",
+      "phonetic": "[kənfáin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を閉じ込める",
+            "② (活動など)を制限する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある場所に)閉じ込める」から「(ある状態を)余儀なくする」まで。",
+        "fin-[制限] finish「〜を終える」",
+        "confinement「閉じ込めること、監禁」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① We were confined to a small room.",
+          "ja": "① 私たちは小部屋に閉じ込められた。"
+        },
+        {
+          "en": "② be confined to a wheelchair after the accident",
+          "ja": "② 事故の後、車いす(の生活)を余儀なくされる"
+        }
+      ]
+    },
+    {
+      "id": "1615",
+      "word": "designate",
+      "phonetic": "[dézignèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(通例、受け身で)〜を指定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「場所、人などを指定する」",
+        "designation「(役職などへの)任命、名称」"
+      ],
+      "word_origin": {
+        "formula": "de-[強調] + -sign-[印] + -ate[動詞語尾] →「印をつけて(はっきりと)指定する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a designated smoking area",
+          "ja": "指定された喫煙場所"
+        }
+      ]
+    },
+    {
+      "id": "1616",
+      "word": "regulate",
+      "phonetic": "[régjulèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (主に規則によって)〜を規制する",
+            "② (機器など)を調整する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "regulation「規制、規則」(規則性のある)規則",
+        "形 regular「通常の」(⇔ irregular「変則的な」)"
+      ],
+      "word_origin": {
+        "formula": "regul-[=regular 規則正しい] + -ate[動詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① regulate air pollution",
+          "ja": "① 大気汚染を規制する"
+        },
+        {
+          "en": "② a hormone that regulates metabolism",
+          "ja": "② 新陳代謝を調整するホルモン"
+        }
+      ]
+    },
+    {
+      "id": "1617",
+      "word": "refrain",
+      "phonetic": "[rifréin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(from 〜) 〜を控える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(他人の迷惑にならないように)控える」"
+      ],
+      "word_origin": {
+        "formula": "re-[後ろに] + -frain[抑える] →「(馬車の手綱を)後ろに引いて抑える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Please refrain from smoking.",
+          "ja": "たばこはお控えください。"
+        }
+      ]
+    },
+    {
+      "id": "1618",
+      "word": "prohibit",
+      "phonetic": "[prouhíbit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を禁じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(法、団体などが公的に)禁じる」",
+        "forbid「(個人が)禁止する」",
+        "名 prohibition「禁止」",
+        "the monopoly prohibition law「独占禁止法」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -hibit[持つ] →「(人の手が届かないくらい)前方に置く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "We are prohibited from holding second jobs.",
+          "ja": "私たちは副業を禁止されている。"
+        }
+      ]
+    },
+    {
+      "id": "1619",
+      "word": "halt",
+      "phonetic": "[hɔ́ːlt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を止める"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 止まる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 停止"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(公式に)止める」(∗短い単語なので新聞用語としてよく使われる。)"
+      ],
+      "word_origin": {
+        "formula": "halt[=hold] →「しっかり持って止める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① halt the hunting of whales",
+          "ja": "① 捕鯨を止める"
+        },
+        {
+          "en": "② “Halt!” said the soldier.",
+          "ja": "② 「止まれ！」と兵士は言った。"
+        },
+        {
+          "en": "③ The train came to a halt.",
+          "ja": "③ 列車が(突然)停止した。"
+        }
+      ]
+    },
+    {
+      "id": "1620",
+      "word": "constraint",
+      "phonetic": "[kənstréint]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "制約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(時間やお金、自由などが)制限されている状態」",
+        "他 constrain「〜を制約する、(人)に強いる」"
+      ],
+      "word_origin": {
+        "formula": "con-[強調] + -strain-[締め付けること]",
+        "description": "stráit「海峡」"
+      },
+      "examples": [
+        {
+          "en": "the constraints of prison life",
+          "ja": "刑務所暮らしの制約"
+        }
+      ]
+    }
+  ]
+}

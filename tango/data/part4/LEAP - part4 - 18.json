@@ -1,0 +1,344 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1579",
+      "word": "infant",
+      "phonetic": "[ínfənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(主に歩く前の)幼児"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶〈成長〉embryo「胎芽」→ fetus「胎児」→ infant",
+        "語源: in-[否定] + -fa-[話す] →「物言えぬ人」",
+        "☆fable「寓話」",
+        "名infancy「幼年時代」",
+        "◎toddler「(よちよち歩きの)幼児」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a breast-fed infant",
+          "ja": "母乳で育てられた幼児"
+        },
+        {
+          "en": "(⇔ a bottle-fed infant)",
+          "ja": "(⇔ ミルクで育てられた幼児)"
+        }
+      ]
+    },
+    {
+      "id": "1580",
+      "word": "spouse",
+      "phonetic": "[spáus]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "配偶者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(結婚を)誓った相手」が元の意味。",
+        "☆spónsor「広告主, スポンサー」",
+        "◎pártner「(既婚, 未婚と無関係に)つれあい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the employees and their spouses",
+          "ja": "従業員とその配偶者"
+        }
+      ]
+    },
+    {
+      "id": "1581",
+      "word": "heir",
+      "phonetic": "[ɛ́ər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "相続人, 後継者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「お金や地位, 財産, 仕事などを受け継ぐ人」",
+        "語源: heir [=heri くっつく] →「引き継ぐ者」",
+        "☆héritage「遺産」",
+        "発音: air「空気」と同じ発音。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the heir to the throne",
+          "ja": "王位の継承者"
+        }
+      ]
+    },
+    {
+      "id": "1582",
+      "word": "folk",
+      "phonetic": "[fóuk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 人々"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 民間(起源)の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名① ▶「(一般に)人々」を表すややくだけた語。(＊〈米〉では folks と表現する。)",
+        "名fólklore「民間伝承, 民俗学」",
+        "◎fólktale「民話」",
+        "◎fólkcraft「民芸品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① “Old Folks at Home”",
+          "ja": "① 「故郷の人々」(フォスター作詞作曲)"
+        },
+        {
+          "en": "② folk medicine",
+          "ja": "② 民間療法(民間起源の療法)"
+        }
+      ]
+    },
+    {
+      "id": "1583",
+      "word": "peer",
+      "phonetic": "[píər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (〜s)同等の人, 同輩"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (よく見えなくて)じっと見る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名① ▶「地位, 年齢, 職業が同等の人」(＊特に子どもや若者。)",
+        "語源: peer [=pair 等しいもの] (＊②は別語源。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① It is easy to relax among your peers.",
+          "ja": "① 同等の者同士で集まると気が楽だ。"
+        },
+        {
+          "en": "② peer into the darkness",
+          "ja": "② 暗闇に目を凝らす"
+        }
+      ]
+    },
+    {
+      "id": "1584",
+      "word": "recipient",
+      "phonetic": "[risípiənt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "受け取る人, 被移植者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「奨学金, 生活保護, 臓器などを)受け取る人」",
+        "語源: recipi- [=receive 受け取る] + -ent [人]",
+        "他recéive「〜を受け取る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a welfare recipient",
+          "ja": "生活保護受給者"
+        }
+      ]
+    },
+    {
+      "id": "1585",
+      "word": "navigate",
+      "phonetic": "[nǽvəgèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (旅などで)進路を決める"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を克服して進む, 〜を航行する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名navigátion「運行, 航海」",
+        "▷car [automotive] navigation system「カーナビゲーションシステム(カーナビ) (←車を誘導する物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① navigate by the stars",
+          "ja": "① 星によって進路を決める"
+        },
+        {
+          "en": "② navigate the Pacific Ocean",
+          "ja": "② 太平洋を航行する"
+        }
+      ]
+    },
+    {
+      "id": "1586",
+      "word": "flee",
+      "phonetic": "[flíː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "逃亡する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険から逃れるために)急いで逃げる」",
+        "語源: 「飛ぶように逃げる」から",
+        "☆fly「飛ぶ」",
+        "[活用] flee-fled-fled"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "flee to neighboring countries",
+          "ja": "近隣諸国へ逃亡する"
+        }
+      ]
+    },
+    {
+      "id": "1587",
+      "word": "retreat",
+      "phonetic": "[ritríːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 退く"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 撤退, 退却"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名② ▶「(面倒を避けるために)撤退する」",
+        "語源: re-[後ろ] + -treat [=train 引く] →「引き下がる」(＊軍隊の「退却」が元の意味。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① When he saw me, he retreated into the room.",
+          "ja": "① 彼は私を見ると部屋に入って行った(部屋の中に退いた)。"
+        },
+        {
+          "en": "② Napoleon's retreat from Moscow",
+          "ja": "② ナポレオンのモスクワからの撤退"
+        }
+      ]
+    },
+    {
+      "id": "1588",
+      "word": "crawl",
+      "phonetic": "[krɔ́ːl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "這って進む, (渋滞などで)這うように進む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◎créep「這う」",
+        "▶水泳の「クロール」は泳いでいるときの姿勢からそのように名付けられたが, 英語の種目としては“freestyle”と呼ばれることが多い。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "crawl into bed at four in the morning",
+          "ja": "朝4時にベッドに這うように入る"
+        }
+      ]
+    },
+    {
+      "id": "1589",
+      "word": "hover",
+      "phonetic": "[hʌ́vər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (鳥などが)空中ににとどまる"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② うろつく, さまよう"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自① ▶「(昆虫, 鳥などが)空中ににとどまる」",
+        "◎hóvercraft「ホバークラフト(地[水]面から浮いた状態で移動する乗り物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Helicopters can hover.",
+          "ja": "① ヘリコプターは空中にとどまることができる。"
+        },
+        {
+          "en": "② hover between life and death",
+          "ja": "② 生死の境をさまよう"
+        }
+      ]
+    }
+  ]
+}

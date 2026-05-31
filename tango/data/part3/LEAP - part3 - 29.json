@@ -1,0 +1,375 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1279",
+      "word": "internal",
+      "phonetic": "[intə́ːrnl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 内部の, 体内の",
+            "② 国内の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(外部を意識しての)内部」",
+        "反 extérnal「外部の, 国外の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "internal organs",
+          "ja": "① 内臓"
+        },
+        {
+          "en": "the internal problems of Japan",
+          "ja": "② 日本の国内問題"
+        }
+      ]
+    },
+    {
+      "id": "1280",
+      "word": "mobile",
+      "phonetic": "[móubəl]",
+      "level_tag": "A2/A1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 流動的な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 携帯電話"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(固定されず)動くことができる」",
+        "語源: mob-(=move 動く)+-ile(=able 可能)",
+        "名 mobility「流動性」"
+      ],
+      "word_origin": {
+        "formula": "mob-[move 動く]+-ile[able 可能]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a mobile society",
+          "ja": "① 流動的な社会"
+        },
+        {
+          "en": "Call me on my mobile.",
+          "ja": "② 私の携帯電話に電話してください."
+        }
+      ]
+    },
+    {
+      "id": "1281",
+      "word": "steep",
+      "phonetic": "[stíːp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (坂などが)険しい",
+            "② (増減が)急な, (価格などが)異常に高い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: ste-(=stand)から「そびえ立つ」→「険しい」",
+        "反 géntle「ゆるやかな」"
+      ],
+      "word_origin": {
+        "formula": "ste-(=stand)から「そびえ立つ」→「険しい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "climb steep stone steps",
+          "ja": "① 急な石段を上る"
+        },
+        {
+          "en": "a steep price rise",
+          "ja": "② 物価の急騰"
+        }
+      ]
+    },
+    {
+      "id": "1282",
+      "word": "intense",
+      "phonetic": "[inténs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(感情, 競争などが)強烈な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "≒ extremely strong",
+        "派生: inténsive「集中的な」",
+        "intensive training「特訓」",
+        "Intensive Care Unit(ICU)「集中治療室」",
+        "名 inténtity「激しさ」",
+        "他 inténtify「〜を強める」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "intense pressure to succeed",
+          "ja": "成功しなければという強烈な重圧"
+        }
+      ]
+    },
+    {
+      "id": "1283",
+      "word": "inevitable",
+      "phonetic": "[inévətəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "避けられない, 必然的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「確実に起きる」",
+        "語源: in-[否定]+-evit-[避ける]+-able[可能]",
+        "エビ食べるは「避けられる」",
+        "副 inevitably「必然的に」",
+        "形 évitable「避けられる」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定]+-evit-[避ける]+-able[可能]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an inevitable result",
+          "ja": "避けられない結果"
+        }
+      ]
+    },
+    {
+      "id": "1284",
+      "word": "neutral",
+      "phonetic": "[njúːtrəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 中立の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 中立"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 車の「D(ドライブ)」と「P(パーキング)」の「中間」のギアの状態を「N(ニュートラル)」という。",
+        "参 neutrality「中立政策」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a demilitarized neutral zone",
+          "ja": "① 非武装中立地帯"
+        },
+        {
+          "en": "carbon neutral",
+          "ja": "② 炭素中立(*排出, 吸収される二酸化炭素の量を同じにするという概念)"
+        }
+      ]
+    },
+    {
+      "id": "1285",
+      "word": "brief",
+      "phonetic": "[bríːf]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 手短な, 簡潔な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 要約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(期間が)短い」から「(発言, 説明が)短い」まで。(*shortより堅い.)",
+        "男性用の短い下着は「ブリーフ(briefs)」",
+        "参 briefcase「書類カバン」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a brief conversation with her",
+          "ja": "① 彼女と少し話(手短な会話)をする"
+        },
+        {
+          "en": "in brief",
+          "ja": "② 要するに(手短に言えば)"
+        }
+      ]
+    },
+    {
+      "id": "1286",
+      "word": "bare",
+      "phonetic": "[bέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① むき出しの",
+            "② 最低限の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「ふだん身につけている物がなく, (体の一部が)覆うものが何もない状態」→②「それしかない」",
+        "派生: barefoot「素足の」",
+        "副 barefoot「素足で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Her arms were bare.",
+          "ja": "① 彼女の腕はむき出しだった."
+        },
+        {
+          "en": "the bare necessities of life",
+          "ja": "② 最低限の生活必需品"
+        }
+      ]
+    },
+    {
+      "id": "1287",
+      "word": "mutual",
+      "phonetic": "[mjúːtʃuəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (感情, 行為が)相互の",
+            "② (友だち, 趣味などが)共通の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「お互いの間で行ったり来たり」",
+        "語源: mut-[変化→交換]",
+        "commúte「通勤する」",
+        "副 mútuallly「相互に」",
+        "recíprocal「相互の」(reci-(=receive 受け取る)+-pro-(前方へ)から「受け取ったり, 与えたり」→「相互の」)"
+      ],
+      "word_origin": {
+        "formula": "mut-[変化→交換]",
+        "description": "recíprocal「相互の」(reci-(=receive 受け取る)+-pro-(前方へ)から「受け取ったり, 与えたり」→「相互の」)"
+      },
+      "examples": [
+        {
+          "en": "promote mutual understanding",
+          "ja": "① 相互の理解を促進させる"
+        },
+        {
+          "en": "a mutual friend",
+          "ja": "② 共通の友だち"
+        }
+      ]
+    },
+    {
+      "id": "1288",
+      "word": "potential",
+      "phonetic": "[pəténʃəl]",
+      "level_tag": "B2/B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 潜在的な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 潜在能力, 可能性<不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かになる可能性」",
+        "語源: potent-[力]+-ial[に関する]",
+        "power「力」",
+        "pótent「強力な」",
+        "副 poténtially「もしかすると」"
+      ],
+      "word_origin": {
+        "formula": "potent-[力]+-ial[に関する]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a potential customer",
+          "ja": "① 将来の(潜在的な)顧客"
+        },
+        {
+          "en": "That child actor has a lot of potential.",
+          "ja": "② あの子役は大きな可能性がある."
+        }
+      ]
+    },
+    {
+      "id": "1289",
+      "word": "tough",
+      "phonetic": "[tʌ́f]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① たくましい, 頑強な",
+            "② 骨の折れる, 厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではdifficultよりも使われる.",
+        "日本語でも「タフな(骨の折れる)仕事」などで使われる."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a tough soldier",
+          "ja": "① たくましい兵士"
+        },
+        {
+          "en": "have a tough time",
+          "ja": "② 厳しい時間を過ごす"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "959",
+      "word": "hesitate",
+      "phonetic": "[hézətèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "ためらう",
+            "ちゅうちょする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "wāver「(判断、決心で)心が揺れ動く」",
+        "頻出 hesitate to do「〜するのをためらう」",
+        "hesitate about 〜「〜をためらう」",
+        "語源 he- [くっつく] →「足が前へ行かない」",
+        "派生 名 hesitation「ためらい」",
+        "派生 形 hesitant「ためらって」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Please do not hesitate to contact me if you have any questions.",
+          "ja": "質問があればどうぞご遠慮なく連絡して(連絡するのをためらわないで)ください。"
+        }
+      ]
+    },
+    {
+      "id": "960",
+      "word": "reluctant",
+      "phonetic": "[rilΛktənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(to do) (〜するのは)気が進まない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「やりたくない気持ち」と「義務感」の葛藤を暗示する表現。",
+        "(*最終的には実行することを示唆することが多い。)",
+        "頻出 be reluctant to do「〜するのは気が進まない」",
+        "派生 副 reluctantly「いやいや」",
+        "派生 名 reluctance「したがらないこと」",
+        "反 be ready [happy] to do「喜んで〜する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was reluctant to go with him.",
+          "ja": "彼と一緒に行くのは気が進まなかった。"
+        }
+      ]
+    },
+    {
+      "id": "961",
+      "word": "tremble",
+      "phonetic": "[trémbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "震える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "shiver「(寒さでブルッと)震える」",
+        "▶「(恐怖や怒りなどで)ガタガタ震える」",
+        "頻出 tremble with fear [rage]「恐怖[怒り]で震える」",
+        "語源 trem- [震える] -ble [反復]",
+        "派生 形 tremendous「すさまじい」 (trem- [震える] + -ous [多い])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The little girl was trembling with fear.",
+          "ja": "その少女は恐怖で震えていた。"
+        }
+      ]
+    },
+    {
+      "id": "962",
+      "word": "boast",
+      "phonetic": "[bóust]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 自慢する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (場所や組織が)〜を誇りにしている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① = talk too proudly about 〜",
+        "頻出 ① boast about [of] 〜 / that SV「〜を / 〜ということを自慢する」",
+        "派生 名 boasting「自慢」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① boast about how clever my son is",
+          "ja": "① 私の息子がどれほど賢いかを自慢する"
+        },
+        {
+          "en": "② Our school boasts a long history of 110 years.",
+          "ja": "② 我が校は 110 年という長い歴史を誇っている。"
+        }
+      ]
+    },
+    {
+      "id": "963",
+      "word": "jealous",
+      "phonetic": "[dʒéləs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(of 〜) (〜に)嫉妬した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人が持っている物や能力、運などを)嫉妬する、妬ましく思う」",
+        "(*envious に「不快感」が加わった語。)",
+        "派生 名 jealousy「嫉妬」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "be jealous of his promotion",
+          "ja": "彼の昇進が妬ましい"
+        }
+      ]
+    },
+    {
+      "id": "964",
+      "word": "envy",
+      "phonetic": "[énvi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を羨ましく思う"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 羨望"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 口語で「あなたが羨ましい」は Lucky you! と表現する。",
+        "頻出 ① envy (人) for 〜「〜のことで(人)を羨ましく思う」",
+        "派生 形 envious「羨んで」 ⇔ be envious of 〜「〜を羨ましく思う」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① envy him for his wealth",
+          "ja": "① 財産のことで彼を羨ましく思う"
+        },
+        {
+          "en": "② feel envy at her success",
+          "ja": "② 彼女の成功を羨む(羨望を感じる)"
+        }
+      ]
+    },
+    {
+      "id": "965",
+      "word": "yell",
+      "phonetic": "[jél]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 叫ぶ, 大声をあげる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 叫び, わめき声"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大声で叫ぶ」",
+        "頻出 ① yell for 〜「〜を求めて大声を出す」",
+        "yell at 〜「〜に向かって叫ぶ, 大声を出す, 〜を叱る」",
+        "▶ 日本語でも「(応援団の)エールを送る」などで使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① yell at the children to be quiet",
+          "ja": "① 子どもたちに静かにせよと叱る(大声で言う)"
+        },
+        {
+          "en": "② let out a yell of delight",
+          "ja": "② 喜びの叫び声をあげる"
+        }
+      ]
+    },
+    {
+      "id": "966",
+      "word": "respect",
+      "phonetic": "[rispékt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人)を尊敬する",
+            "② (物)を尊重する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (for 〜) (〜に対し)尊敬, 尊重",
+            "④ (in 〜)点"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "類義 look up to 〜「(人)を尊敬する」"
+      ],
+      "word_origin": {
+        "formula": "re- [再び] + -spect [見る] -> 「振り返って見る」",
+        "description": "形 respectable「(人, 家庭などが)ちゃんとした」, 形 respectful「敬意をもっている」"
+      },
+      "examples": [
+        {
+          "en": "① respect Gandhi",
+          "ja": "① ガンジーを尊敬する"
+        },
+        {
+          "en": "② respect his judgement",
+          "ja": "② 彼の判断を尊重する"
+        },
+        {
+          "en": "③ a deep respect for the aged",
+          "ja": "③ 老人への深い敬意"
+        },
+        {
+          "en": "④ differ in this respect",
+          "ja": "④ この点で異なる"
+        }
+      ]
+    }
+  ]
+}

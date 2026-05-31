@@ -1,0 +1,249 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "415",
+      "word": "refer",
+      "phonetic": "[rifə́ːr]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to 〜) (人が主語) (〜に)言及する, 参照する",
+            "② (物が主語) (〜を)示す"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① refer to A as B 「AをB(呼称など)と呼ぶ」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(〜に)話が脱線する」",
+        "頻出 ① refer to A as B 「AをB(呼称など)と呼ぶ」",
+        "語源 re-[再び] + -fer-[運ぶ] から「再びどこか(言及先や参照先)に運ぶ」→「言及する, 参照する」",
+        "ferry「フェリー」",
+        "名 reference「言及, 参照, 照会先」",
+        "参 referendum「国民投票(←国民の意見を参照する)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① refer to my childhood",
+          "ja": "① 私の子どものころについて触れる"
+        },
+        {
+          "en": "② What does the underlined “it” refer to?",
+          "ja": "② 下線を引いた“it”の指すものは何か."
+        }
+      ]
+    },
+    {
+      "id": "416",
+      "word": "mention",
+      "phonetic": "[ménʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜について述べる, 言及する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(詳細を述べずに)さっと口に出す[書く]」",
+        "頻出 Don't mention it. 「(感謝, わびに対して)どういたしまして.」",
+        "not to mention 〜 「〜は言うまでもなく」",
+        "注意 mention 〜 to (人) 「(人)に〜について述べる」([×]mention (人) 〜)",
+        "語源 men-[思い出す] →「(思い出して)口に出す」",
+        "☆ memory「思い出」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "You'd better not mention it.",
+          "ja": "それには触れ(それについて述べ)ないほうがいい."
+        },
+        {
+          "en": "(* You'd = You had)",
+          "ja": ""
+        }
+      ]
+    },
+    {
+      "id": "417",
+      "word": "convey",
+      "phonetic": "[kənvěi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を伝える",
+            "② (乗客, 音, 病気など)を運ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(言葉, あるいは非言語や接触によって)気持ちやメッセージを伝える」",
+        "頻出 ① convey a message[one's feelings] 「メッセージ[気持ち]を伝える」",
+        "② conveyer 「運搬人, 運搬機」",
+        "参 conveyor-belt 「ベルトコンベアー」",
+        "a conveyor-belt sushi bar 「回転寿司」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① convey my feelings by touching her hand",
+          "ja": "① 彼女の手に触れて, 気持ちを伝える"
+        },
+        {
+          "en": "② Blood is conveyed to the heart by the veins.",
+          "ja": "② 血液は静脈から心臓へと運ばれる."
+        }
+      ]
+    },
+    {
+      "id": "418",
+      "word": "demonstrate",
+      "phonetic": "[démənstrèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(はっきり)示す, 実演する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "デモをする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「具体的に示す, 実証する」",
+        "頻出 demonstrate one's real ability 「実力を発揮する」",
+        "demonstrate how to put on a life jacket 「救命胴衣の着け方を実演して見せる」",
+        "注意 demonstrate that SV[wh- SV]の形でも使用可.",
+        "名 demonstration「はっきり示すこと, デモ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "demonstrate my real ability",
+          "ja": "実力を発揮する(真の実力を示す)"
+        }
+      ]
+    },
+    {
+      "id": "419",
+      "word": "emphasize",
+      "phonetic": "[émfəsaiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を強調する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(重要な点を)強く示す」",
+        "頻出 emphasize the importance of 〜 「〜の重要性を強調する」",
+        "名 emphasis「強調」",
+        "place[put, lay] (an) emphasis on 〜 「〜を強調する」",
+        "他 overemphasize「〜を強調しすぎる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "emphasize the importance of breakfast",
+          "ja": "朝食の重要性を強調する"
+        }
+      ]
+    },
+    {
+      "id": "420",
+      "word": "exaggerate",
+      "phonetic": "[igzǽdʒərèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を誇張する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 誇張する, 大げさに言う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 語源のラテン語の意味は「言葉を積み上げる」→「大げさに言う」",
+        "頻出 It is difficult[impossible] to exaggerate 〜. 「〜はどれだけ言っても誇張にはならない.」",
+        "greatly[grossly, wildly] exaggerate 〜 「〜を大いに誇張する」",
+        "名 exaggeration「誇張」",
+        "It is no exaggeration to say that SV. 「〜と言っても過言ではない.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① greatly exaggerate a story",
+          "ja": "① 話をとても大げさに言う"
+        },
+        {
+          "en": "② He often exaggerates when talking about fish he caught.",
+          "ja": "② 彼は釣った魚について話すときに大げさに言うことが多い."
+        }
+      ]
+    },
+    {
+      "id": "421",
+      "word": "reply",
+      "phonetic": "[riplái]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to 〜) (〜に)返事をする, 答える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 返事, 答え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人の言葉, 手紙など)に返事する」",
+        "頻出 ① reply that SV 「〜と返事する」",
+        "② receive a reply 「返事をもらう」",
+        "注意 ① answer「〜に答える」と異なり, 自として使われることが多い.",
+        "語源 re-[折り返す] + -ply[折り返す] →「折り返す」",
+        "☆ apply「〜を適用する(←その方向に折る)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I asked him why, but he didn't reply.",
+          "ja": "① 彼になぜかと尋ねたが, 彼は返事をしなかった."
+        },
+        {
+          "en": "② I look forward to your reply.",
+          "ja": "② あなたの返事をたのしみにしています."
+        }
+      ]
+    }
+  ]
+}

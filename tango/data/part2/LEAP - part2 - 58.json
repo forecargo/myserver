@@ -1,0 +1,235 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "822",
+      "word": "deserve",
+      "phonetic": "[dizə́ːrv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に値する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (評価, 報酬)を受けるにふさわしい",
+        "頻出 目的語には a rest「休息」, a praise「褒めること」, punishment「罰」, to do などがくることが多い。",
+        "語源 de-[強調] + -serve[仕える] →「(しっかり仕えたので)褒美に値する」",
+        "派生 deserving (of ~)「(~に)値する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Masato has trained so hard that he deserves to win.",
+          "ja": "マサトは一生懸命トレーニングしたので, 勝ってもおかしくない(勝つことに値する)。"
+        }
+      ]
+    },
+    {
+      "id": "823",
+      "word": "fragment",
+      "phonetic": "[frǽgmənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "破片 (可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何か1つの物のかけら, 断片」",
+        "頻出 in fragments「粉々になって」, shatter into fragments「粉々に砕ける」",
+        "語源 frag-[破壊された] + -ment[名詞語尾]",
+        "類義 fracture「骨折, 砕けること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "glass fragments",
+          "ja": "ガラスの破片"
+        }
+      ]
+    },
+    {
+      "id": "824",
+      "word": "range",
+      "phonetic": "[réindʒ]",
+      "level_tag": "A2, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 範囲"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (from A to B) (AからBの)範囲に及ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「範囲」を表す最も一般的な語。",
+        "頻出 ① a wide [full] range of ~「幅広い[あらゆる](種類の)〜」",
+        "at close range「近距離で」",
+        "注意 「電子レンジ」は a microwave (oven)と表現する。",
+        "語源 range[列]から「1列に伸びる」→「(伸びていった)範囲」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a wide range of [×a wide] topics",
+          "ja": "① 幅広い話題"
+        },
+        {
+          "en": "② Their ages range from seven to eleven.",
+          "ja": "② 彼らの年齢は7歳から11歳にわたっている。"
+        }
+      ]
+    },
+    {
+      "id": "825",
+      "word": "scale",
+      "phonetic": "[skéil]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 規模",
+            "② (-s)体重計",
+            "③ うろこ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②③はすべて別語源",
+        "頻出 ① on a large [small] scale「大[小]規模に」",
+        "② weigh oneself on the scale(s)「体重計で体重を計る」",
+        "注意 「(定規などの)目盛り, (地図などの)縮尺」の意味もある。",
+        "語源 ③はescale-[殻]から。 ☆escargot「エスカルゴ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① do business on a large scale",
+          "ja": "① 手広く(大規模に)商売をする"
+        },
+        {
+          "en": "② step on the scale(s)",
+          "ja": "② 体重計に乗る"
+        },
+        {
+          "en": "③ remove scales from a fish",
+          "ja": "③ 魚のうろこを落とす"
+        }
+      ]
+    },
+    {
+      "id": "826",
+      "word": "unique",
+      "phonetic": "[juːníːk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (to ~)〜に特有の, 独自の",
+            "② 独特の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ほかに類を見ない」",
+        "頻出 ②を強調する場合, veryではなく quite, really, totally, absolutelyなどを伴う。",
+        "注意 「個性的で面白い」の意味はまれ。",
+        "語源 uni-[1つ] + -que[の]から「1つしかない」→「特有の」",
+        "派生 uniquely「比類なく, 独自に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This custom is unique to Japan.",
+          "ja": "① この習慣は日本特有のものだ。"
+        },
+        {
+          "en": "② Her voice is totally unique.",
+          "ja": "② 彼女の声はとても独特だ。"
+        }
+      ]
+    },
+    {
+      "id": "827",
+      "word": "particular",
+      "phonetic": "[pərtíkjulər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① ある特定の, 特有の",
+            "② (about ~) (〜の)好みがうるさい"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ (in ~) 特に (=particularly)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「(特定の)部分に注意を払う」→「こだわりがある」",
+        "注意 on that particular day「その日に限って」は「さまざまな日がある中の特定な日」の意味で, 「特別な日」という意味ではない。",
+        "派生 particularly「特に, とりわけ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a particular situation",
+          "ja": "① ある特定の状況"
+        },
+        {
+          "en": "② I am particular about pillows.",
+          "ja": "② 私は枕にこだわりがある。"
+        },
+        {
+          "en": "③ Nothing in particular.",
+          "ja": "③ (意見や予定などを尋ねられた答えとして)特にはないです。"
+        }
+      ]
+    },
+    {
+      "id": "828",
+      "word": "typical",
+      "phonetic": "[típikəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "典型的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人, 物)の特徴を最もよく表している」",
+        "頻出 It is typical of A to do.「〜するなんかいかにもAらしい。」",
+        "派生 typically「一般的に, 典型的に」 (≒usually)",
+        "語源 type[型, 典型] + -ical[形容詞語尾]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a typical Japanese-style breakfast",
+          "ja": "典型的な日本の朝食"
+        }
+      ]
+    }
+  ]
+}

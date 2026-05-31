@@ -1,0 +1,305 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1121",
+      "word": "sword",
+      "phonetic": "[sɔːrd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "剣"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長い刃と取っ手のついた武器」",
+        "a bamboo sword「竹刀」",
+        "the [a] sword of Damocles「ダモクレスの剣(いつ起こるかも知れぬ危険)」",
+        "ax「斧」plow[plough][pláu]「鋤」bláde「刃」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a double-edged sword",
+          "ja": "諸刃の剣"
+        }
+      ]
+    },
+    {
+      "id": "1122",
+      "word": "wound",
+      "phonetic": "[wúːnd]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 傷"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を傷つける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(戦争やけんかによる)傷」",
+        "wind [wáind]「曲がりくねる, (を)巻く」の過去形, 過去分詞と同じ形だが発音は異なる. ([活用]wind-wound-wound [wáund])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The wound still hurts.",
+          "ja": "① 傷がまだ痛む."
+        },
+        {
+          "en": "wounded soldiers",
+          "ja": "② 傷を負った兵士たち"
+        }
+      ]
+    },
+    {
+      "id": "1123",
+      "word": "triumph",
+      "phonetic": "[tráiəmf]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 勝利"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 勝利する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではvictoryのほうが使われる.",
+        "★本来, 語源は異なるが, triangle「三角形」のtri-[3]から, 日本の「万歳三唱」と同様に「勝利の歌を3回歌う」イメージで覚えよう.",
+        "■軍事的な「凱旋, 空軍に関する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "her triumph in the election",
+          "ja": "① 選挙での彼女の勝利"
+        },
+        {
+          "en": "Virtue always triumphs over vice.",
+          "ja": "② 善は常に悪に勝つ."
+        }
+      ]
+    },
+    {
+      "id": "1124",
+      "word": "military",
+      "phonetic": "[mílitèri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "軍事的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「陸, 海, 空軍に関する」",
+        "★army「陸軍」návy「海軍」áir force「空軍」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "use military forces",
+          "ja": "軍事力を使う"
+        }
+      ]
+    },
+    {
+      "id": "1125",
+      "word": "strategy",
+      "phonetic": "[strǽtədʒi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "戦略"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある目標を達成するための計画(全体的な戦略)」",
+        "◇tactics「(戦略内の個々の)戦術(←タクトの振り方)」",
+        "■strategic「戦略的な」marketing strategy「販売戦略」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a strategy for winning the game",
+          "ja": "その試合に勝つための戦略"
+        }
+      ]
+    },
+    {
+      "id": "1126",
+      "word": "conquer",
+      "phonetic": "[kɑ́ŋkər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (国や地域)を征服する",
+            "② (病気や恐怖など)を克服する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "request「要請(←何度も求める)」",
+        "conquest [kɑ́ŋkwest]「征服」"
+      ],
+      "word_origin": {
+        "formula": "◆con-[強意] + -quer-[求める] →「(獲得しようと)強く求める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The Normans conquered England in 1066.",
+          "ja": "① 1066年, ノルマン人はイングランドを征服した."
+        },
+        {
+          "en": "conquer my fear of the dark",
+          "ja": "② 暗闇に対する恐怖を克服する"
+        }
+      ]
+    },
+    {
+      "id": "1127",
+      "word": "defend",
+      "phonetic": "[difénd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "A from B (BからA)を守る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「相手の攻撃から守る」",
+        "■defense「防御」the Self-Defense Forces of Japan「自衛隊」",
+        "■defendant「被告」",
+        "attack「〜を攻撃する」",
+        "offend「(人の感情を害する)」",
+        "offense「罪, 違反」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "learn karate[kərɑ́ːti] to defend myself",
+          "ja": "自分の身を守るために空手を習う"
+        }
+      ]
+    },
+    {
+      "id": "1128",
+      "word": "dominate",
+      "phonetic": "[dɑ́mənèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を支配する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ controlより強い語.",
+        "■dominant「支配的な, (遺伝)顕性の」one's dominant hand「利き手」",
+        "■predominantly「主に(←前もって優位を占めて)」",
+        "■domination「支配, 統治, 優勢」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Donald is dominated by his wife.",
+          "ja": "ドナルドは奥さんの尻に敷かれている(奥さんに支配されている)."
+        }
+      ]
+    },
+    {
+      "id": "1129",
+      "word": "rob",
+      "phonetic": "[rɑ́b]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (銀行など)を襲う",
+            "② (A of B) (A)から(Bを)奪う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「無理やり奪う」",
+        "◇steal A from B「BからAを(こっそり)盗む」",
+        "★バスローブなどの「ローブ(róbe)」は同語源で「強奪の結果得た戦利品」が元の意味.",
+        "robbery「強盗(行為)」",
+        "thief「泥棒」",
+        "(*このofは本来off「〜を離す」の意味.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The pirates robbed the ship.",
+          "ja": "① 海賊はその船を襲った."
+        },
+        {
+          "en": "They robbed her of her handbag.",
+          "ja": "② 彼らは彼女からハンドバッグを奪った."
+        }
+      ]
+    },
+    {
+      "id": "1130",
+      "word": "deprive",
+      "phonetic": "[dipráiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(A of B) (A)から(Bを)奪う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(権利, 能力などを)剥奪する」",
+        "deprived「恵まれない, 貧困な」",
+        "a deprived child「恵まれない子ども」"
+      ],
+      "word_origin": {
+        "formula": "★de-[分離] + -prive[=private]から「人から離して自分のものにする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Diana was deprived of her civil rights.",
+          "ja": "ダイアナは公民権を剥奪された."
+        }
+      ]
+    }
+  ]
+}

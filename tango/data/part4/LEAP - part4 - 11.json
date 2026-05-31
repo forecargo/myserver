@@ -1,0 +1,327 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1506",
+      "word": "regime",
+      "phonetic": "[rəʤíːm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "政治体制"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(世間から批判を受けている)政権, 体制」",
+        "＊reg-[=rule 支配]から「支配, 統治するもの」→「政権」",
+        "＊région「地域(←支配する地域)」",
+        "come to power「政権につく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Nazi regime in Germany",
+          "ja": "ドイツのナチ政権"
+        }
+      ]
+    },
+    {
+      "id": "1507",
+      "word": "bureaucracy",
+      "phonetic": "[bjuərάkrəsi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 官僚制度, 官僚主義",
+            "② (集合的に)官僚"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶軽微なニュアンスを含む",
+        "名bureaucrat「(個々の)官僚, 役人」",
+        "形bureaucratic「官僚の」",
+        "名bureau[bjuərou]「案内所, 事務局」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the government bureaucracy",
+          "ja": "① 政府の官僚制度"
+        },
+        {
+          "en": "② government run by the bureaucracy",
+          "ja": "② 官僚主義の政治"
+        }
+      ]
+    },
+    {
+      "id": "1508",
+      "word": "corruption",
+      "phonetic": "[kərʌ́pʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "腐敗, 汚職"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(道徳的な)堕落」",
+        "＊cor-[強意]+-rupt-[破壊する]→「すべて破壊された」",
+        "☆bankrupt「破産した」",
+        "形corrupt「堕落[腐敗]した」",
+        "他「〜を堕落[腐敗]させる」",
+        "bribe「賄賂」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "corruption of politicians",
+          "ja": "政治家の腐敗"
+        }
+      ]
+    },
+    {
+      "id": "1509",
+      "word": "tyranny",
+      "phonetic": "[tírəni]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 圧政, 専制政治",
+            "② 暴虐(な行為)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "道鏡は寺にこもって「専制政治」tyran-[暴君]+-y[性質]",
+        "tyrannosaur「ティラノサウルス(暴君竜)」",
+        "tyrant「暴君, 独裁者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the tyranny of the government",
+          "ja": "① 政府の圧政"
+        },
+        {
+          "en": "② the victim of his father's tyranny",
+          "ja": "② 彼の父の横暴の犠牲者"
+        }
+      ]
+    },
+    {
+      "id": "1510",
+      "word": "sanction",
+      "phonetic": "[sǽŋkʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (-s)制裁",
+            "② (公的な)認可"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊sanc-[神聖な]+-tion[こと]から「罰を与え, 神聖なものにすること」→「制裁」",
+        "sacrifice「〜を犠牲にする」",
+        "saint「聖人」",
+        "sanctuary「聖域, 禁猟区」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① impose sanctions on that country",
+          "ja": "① その国に制裁を加える"
+        },
+        {
+          "en": "② without White House sanction",
+          "ja": "② ホワイトハウスの認可を得ないで"
+        }
+      ]
+    },
+    {
+      "id": "1511",
+      "word": "candidate",
+      "phonetic": "[kǽndidèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(for 〜の)候補(者), (〜に)なりそうな人[物]"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊can-[白い]→「古代ローマでは選挙の候補者が「白い」服を着ていた」",
+        "candle「ろうそく」",
+        "cancel「〜を取り消す(←白くして消す)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a candidate for the Nobel Prize",
+          "ja": "ノーベル賞の候補者"
+        }
+      ]
+    },
+    {
+      "id": "1512",
+      "word": "senator",
+      "phonetic": "[sénətər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "〈米〉(しばしば S-)上院議員"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊senior「年上の人」",
+        "反Representative「下院議員」",
+        "the Senate「〈米〉上院」(↔the House of Representatives「〈米〉下院」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Senator Kennedy",
+          "ja": "ケネディ上院議員"
+        }
+      ]
+    },
+    {
+      "id": "1513",
+      "word": "ambassador",
+      "phonetic": "[æmbǽsədər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大使"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「最高位にいる外交官」",
+        "＊amb-[=around あちこち]から「あちこち(さまざまな国)に行く人」→「大使」",
+        "ambiguous「あいまいな」",
+        "the U.S. Embassy「アメリカ大使館」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Japanese ambassador to Ghana",
+          "ja": "駐ガーナ日本大使"
+        }
+      ]
+    },
+    {
+      "id": "1514",
+      "word": "diplomat",
+      "phonetic": "[dípləmæ̀t]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "外交官"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大使, 公使, 参事官, 書記官などの総称」",
+        "＊di-[2つ]+-pl-[折る]→「2つ折りした親書を携えていく人」",
+        "名diplomacy「外交(的腕前)」",
+        "形diplomatic「外交の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a seasoned diplomat",
+          "ja": "経験豊富な外交官"
+        }
+      ]
+    },
+    {
+      "id": "1515",
+      "word": "refugee",
+      "phonetic": "[rèfjuʤíː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "難民"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「さまざまな理由で国を追われた人」",
+        "exile「追放(者)」",
+        "＊re-[後ろに]-fuge-[逃げる]",
+        "名refuge「避難」",
+        "take refuge (from 〜)「((〜から)避難する)」",
+        "(*アクセント移動に注意。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "refugee camps in Syria",
+          "ja": "シリアの難民キャンプ"
+        }
+      ]
+    },
+    {
+      "id": "1516",
+      "word": "ally",
+      "phonetic": "名[ǽlài] 動[əlái]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 同盟国, 協力者"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (with 〜)(〜と)提携する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊al-[=ad 方向]+-ly[縛る]から「(同じ)方向に縛る」→「提携する」",
+        "religion「宗教(←神と人間を強く結びつける)」",
+        "名alliance「同盟, 提携」",
+        "a coalition government「連立政権」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① an important ally",
+          "ja": "① 重要な同盟国"
+        },
+        {
+          "en": "② ally with a Taiwanese company",
+          "ja": "② 台湾の企業と提携する"
+        }
+      ]
+    }
+  ]
+}

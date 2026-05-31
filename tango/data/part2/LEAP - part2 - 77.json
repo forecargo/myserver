@@ -1,0 +1,248 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "952",
+      "word": "confuse",
+      "phonetic": "[kənfjúːz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を混乱させる, 困惑させる",
+            "② (A with [and] B) (A)を(Bと)混同する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「思考がまとまらない状態にさせる」",
+        "▶「〜を混同する」",
+        "con-[共に] + -fuse[注ぐ]から「(異なる物を)一緒に注ぐ」→「混乱させる」",
+        "反 refuse「意見が合わない」",
+        "名 confusion「混乱」",
+        "形 confusing「混乱[困惑]させる」",
+        "形 confused「混乱[困惑]した」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -fuse[注ぐ]から「(異なる物を)一緒に注ぐ」→「混乱させる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "His reply confused me.",
+          "ja": "彼の返答は私を困惑させた。"
+        },
+        {
+          "en": "confuse Nancy with her twin sister",
+          "ja": "ナンシーを双子の姉妹と混同する"
+        }
+      ]
+    },
+    {
+      "id": "953",
+      "word": "bore",
+      "phonetic": "[bɔ́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜をうんざりさせる, 退屈させる"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "つまらない"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "うんざりして, 退屈して"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "退屈"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「単調でつまらないため, 飽きさせる」",
+        "頻出 be bored with 〜「〜に退屈する」",
+        "注意 boring「つまらない(←退屈させる)」",
+        "注意 bored「うんざりして, 退屈して(←退屈させられた)」",
+        "▷ This movie is boring! I'm bored.「この映画はつまらない。退屈しちゃった。」",
+        "語法 a wild boar「イノシシ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was bored with his long speech.",
+          "ja": "彼の長い話にうんざりした。"
+        }
+      ]
+    },
+    {
+      "id": "954",
+      "word": "frustrate",
+      "phonetic": "[frʌ́streɪt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を欲求不満にさせる",
+            "② (計画などを)挫折させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「計画などを阻む, 挫折させる」→「①(挫折により)いらいらさせる」",
+        "頻出 be frustrated at[with]〜 / that SV「〜に/〜ということにいらいらする」",
+        "名 frustration「欲求不満, 挫折」",
+        "形 frustrated「欲求不満を抱いた」",
+        "形 frustrating「欲求不満[挫折感]を抱かせるような」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I felt frustrated because I could not express myself well.",
+          "ja": "うまく表現できなくてもどかしい思いをした。"
+        },
+        {
+          "en": "His plan was frustrated by a lack of money.",
+          "ja": "彼の計画はお金がなかったため頓挫した。"
+        }
+      ]
+    },
+    {
+      "id": "955",
+      "word": "disappoint",
+      "phonetic": "[dìsəpɔ́ɪnt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を失望させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では let 〜 down のほうが使われる。",
+        "頻出 be disappointed with[at] 〜「〜でがっかりする」",
+        "dis-[否定] + -appoint[指名]→「(指名しないで)がっかりさせる」",
+        "名 disappointment「失望」",
+        "形 disappointing「失望させる(ような)」"
+      ],
+      "word_origin": {
+        "formula": "dis-[否定] + -appoint[指名]→「(指名しないで)がっかりさせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I was disappointed with the soccer game.",
+          "ja": "サッカーの試合にがっかりした。"
+        }
+      ]
+    },
+    {
+      "id": "956",
+      "word": "embarrass",
+      "phonetic": "[ɪmbǽrəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に恥ずかしい思いをさせる, 困惑させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「邪魔をして困らせる, (人前で)恥ずかしい思いをさせる」",
+        "頻出 be embarrassed (about 〜)「(〜で)恥ずかしい思いをする」",
+        "em-[中に] + -bar-[障害物]から「障害物を中に置く」→「困惑させる」",
+        "▷ barricade「バリケード」",
+        "形 embarrassing「((人を)当惑させるような, みっともない)」",
+        "▷ an embarrassing question「気まずくさせるような質問」",
+        "名 embarrassment「当惑」"
+      ],
+      "word_origin": {
+        "formula": "em-[中に] + -bar-[障害物]から「障害物を中に置く」→「困惑させる」",
+        "description": "barricade「バリケード」"
+      },
+      "examples": [
+        {
+          "en": "I was embarrassed about using the wrong fork at dinner.",
+          "ja": "夕食時, フォークを使い間違えて恥ずかしかった。"
+        }
+      ]
+    },
+    {
+      "id": "957",
+      "word": "ashamed",
+      "phonetic": "[əʃéɪmd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "恥ずかしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(道徳的に悪いことをしたことに対して)恥じる」",
+        "頻出 be ashamed of 〜 / that SV「〜を/〜ということを恥ずかしく思う」",
+        "語法「恥」に対しては shameful を使用する。",
+        "▷ a shameful secret「恥ずべき秘密」",
+        "a-[強意] + -shame-[恥]→「恥ずかしい」"
+      ],
+      "word_origin": {
+        "formula": "a-[強意] + -shame-[恥]→「恥ずかしい」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I'm ashamed of hurting her feelings.",
+          "ja": "彼女の気持ちを傷つけたことを恥じている。"
+        }
+      ]
+    },
+    {
+      "id": "958",
+      "word": "uneasy",
+      "phonetic": "[ʌníːzi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "不安な, 胸騒ぎがする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何となく不安な」",
+        "▷ anxious「(より強く)不安な」",
+        "頻出 feel uneasy about 〜「〜について不安を感じる」",
+        "un-[否定] + -easy[気楽な]→「気が休まらない」",
+        "名 unease「不安, 心配」"
+      ],
+      "word_origin": {
+        "formula": "un-[否定] + -easy[気楽な]→「気が休まらない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "feel uneasy about living alone",
+          "ja": "ひとり暮らしは不安だ"
+        }
+      ]
+    }
+  ]
+}

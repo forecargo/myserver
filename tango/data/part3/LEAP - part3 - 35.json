@@ -1,0 +1,311 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1341",
+      "word": "funeral",
+      "phonetic": "[fjúːnərəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 葬式",
+            "② 葬儀"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「葬式」を示す最も一般的な語。",
+        "(* funeral のアナグラム(文字の入れ替え)は real fun.)",
+        "Ⓢ corpse [kɔ́ːrps]「(人の)死体」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "attend a funeral",
+          "ja": "葬式に出席する"
+        }
+      ]
+    },
+    {
+      "id": "1342",
+      "word": "soul",
+      "phonetic": "[sóul]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 魂",
+            "② (慣用句あるいは否定文で)人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ soul food「ソウルフード」は本来「アメリカ合衆国南部の黒人の伝統的な料理」のこと。",
+        "Ⓢ spirit「精神, (-s)気分」 ⇔ be in ~ spirits「〜な気分だ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the souls of the dead",
+          "ja": "① 死者の魂"
+        },
+        {
+          "en": "② There was not a soul in sight.",
+          "ja": "② 人の姿は見えなかった."
+        }
+      ]
+    },
+    {
+      "id": "1343",
+      "word": "priest",
+      "phonetic": "[príːst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "神父, 僧侶, 牧師, 聖職者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 呼び名は宗教によって異なる。",
+        "Ⓢ preach「(牧師などが)説教する」",
+        "mónk [mʌ́ŋk]「修道士, 僧」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The priest crossed himself, saying \"Amen.\"",
+          "ja": "神父は「アーメン」と言いながら十字を切った。"
+        }
+      ]
+    },
+    {
+      "id": "1344",
+      "word": "faith",
+      "phonetic": "[féiθ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (主に宗教上の)信仰",
+            "② 信頼"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人の行為や物の価値を信じること」",
+        "Ⓢ fiancé「仏婚約者(結婚を約束(信頼)している男性)」",
+        "faithful「忠実な, 信頼深い」",
+        "Ⓢ the Buddhist faith「仏教(の信仰)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① my faith in God",
+          "ja": "① 私の神への信仰"
+        },
+        {
+          "en": "② have[lose] faith in him",
+          "ja": "② 彼を信頼する[彼への信頼を失う]"
+        }
+      ]
+    },
+    {
+      "id": "1345",
+      "word": "sacred",
+      "phonetic": "[séikrid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "神聖な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「神に関わる」→「尊重すべき」",
+        "Ⓢ sacr-[神聖な] + -ed[を持った]",
+        "Ⓢ saint「聖人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Cows are sacred animals to the Hindus.",
+          "ja": "ウシはヒンドゥー教徒にとって神聖な動物だ。"
+        }
+      ]
+    },
+    {
+      "id": "1346",
+      "word": "divine",
+      "phonetic": "[diváin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "神の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ To err is human; to forgive divine.「過つは人の常, 許すは神の心。」",
+        "Ⓢ God あるいは a God の形容詞形。",
+        "di-(=deus 神, デ(ゼ)ウス)",
+        "Ⓢ deity「(多神教の)神, 女神」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a divine message",
+          "ja": "神のお告げ"
+        }
+      ]
+    },
+    {
+      "id": "1347",
+      "word": "Muslim",
+      "phonetic": "[mʌ́zlim]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "イスラム教徒"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「唯一絶対神 Allah を信仰する人」",
+        "Ⓢ Islam「イスラム教」, Christianity「キリスト教」, Buddhism「仏教」, Hinduism「ヒンドゥー教」, Confucianism「儒教」",
+        "Ⓢ mosque「モスク(イスラム教寺院)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Muslims fast during Ramadan[rӕmədáːn].",
+          "ja": "イスラム教徒はラマダンの間, 断食をする。"
+        }
+      ]
+    },
+    {
+      "id": "1348",
+      "word": "context",
+      "phonetic": "[kántekst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 文脈",
+            "② 状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(文, 発話の)前後関係, 文脈」→②「(事柄をとりまく)状況, 背景」",
+        "Ⓢ contéxtual「文脈上の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The meaning of \"charge\" depends on the context.",
+          "ja": "① \"charge\" の意味は文脈によって決まる。"
+        },
+        {
+          "en": "② look at the issue in a historical context",
+          "ja": "② 歴史的状況に照らして, その問題を考える"
+        }
+      ]
+    },
+    {
+      "id": "1349",
+      "word": "singular",
+      "phonetic": "[síŋgjulər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 単数の",
+            "② (褒めて)比類なき",
+            "③ 奇妙な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「1つだけの」→②「ほかにはない」→③「奇妙な」",
+        "(*②③は堅い語)",
+        "Ⓢ singulárity「奇抜さ」",
+        "Ⓢ single「独身の(⇔márried「既婚の」), single-sex「男女どちらかの, 共学ではない」",
+        "Ⓢ plural「複数の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a singular form",
+          "ja": "① 単数形"
+        },
+        {
+          "en": "② the singular beauty of sunset",
+          "ja": "② 夕日の比類なき美しさ"
+        },
+        {
+          "en": "③ a singular design",
+          "ja": "③ 奇妙なデザイン"
+        }
+      ]
+    },
+    {
+      "id": "1350",
+      "word": "command",
+      "phonetic": "[kəmǽnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 言語を操る力",
+            "② 命令"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を集める",
+            "④ 〜を見渡せる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「命じて支配下に置く」→対象は①「言語」③「尊敬や同情など」④「景色」",
+        "Ⓢ commánder「指揮官, 司令官」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a good command of Chinese",
+          "ja": "① 中国語が達者だ(操る力がある)"
+        },
+        {
+          "en": "② give the command to attack",
+          "ja": "② 攻撃命令を出す"
+        },
+        {
+          "en": "③ command great respect",
+          "ja": "③ とても尊敬されている(尊敬を集める)"
+        },
+        {
+          "en": "④ This hill commands a fine view.",
+          "ja": "④ この丘からよい景色が見られる。"
+        }
+      ]
+    }
+  ]
+}

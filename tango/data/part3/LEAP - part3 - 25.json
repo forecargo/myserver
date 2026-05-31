@@ -1,0 +1,307 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1238",
+      "word": "kitten",
+      "phonetic": "[kítn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "子ネコ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ kitty「ニャンコ, ネコちゃん」は kitten の幼児語。",
+        "比較 child「(人間の)子ども」 puppy「子犬」 lamb「子羊」 calf「子牛」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a lost kitten",
+          "ja": "迷子のネコ"
+        }
+      ]
+    },
+    {
+      "id": "1239",
+      "word": "organism",
+      "phonetic": "[ɔ́ːrgənìzm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "生物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 動物, 植物, 人間などさまざまな生物",
+        "(*主に学術論文などに使われ, 「微生物」を指すこともよくある)",
+        "語源 organ-[道具]から「臓器(体を動かす道具)をもったもの」→「生物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "microscopic organisms (=microorganisms)",
+          "ja": "微生物"
+        }
+      ]
+    },
+    {
+      "id": "1240",
+      "word": "wildlife",
+      "phonetic": "[wáildlàif]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "野生生物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (集合的に)狩猟の対象となる野生の鳥, 獣, 魚",
+        "語源 wild-[野生の]＋-life[生物](* life には「生物」の意味がある。) 比較 animal[plant] life「[動植物]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the wildlife of the Galapagos Islands",
+          "ja": "ガラパゴス諸島の野生生物"
+        }
+      ]
+    },
+    {
+      "id": "1241",
+      "word": "beast",
+      "phonetic": "[bíːst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "野獣"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =a large or dangerous four-footed animal",
+        "映画『美女と野獣』の原題は Beauty and the Beast."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the lion, the king of beasts",
+          "ja": "百獣の王ライオン"
+        }
+      ]
+    },
+    {
+      "id": "1242",
+      "word": "ape",
+      "phonetic": "[éip]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "類人猿"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ゴリラ(gorilla)やチンパンジー(chimpanzee[ʧímp]), オランウータン(orang-utan)など, 尻尾のない[短い]大型の monkey(サル)」",
+        "映画『猿の惑星』の原題は Planet of the Apes."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "great apes",
+          "ja": "大型(×偉大な)類人猿"
+        }
+      ]
+    },
+    {
+      "id": "1243",
+      "word": "flock",
+      "phonetic": "[flɔ́k]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (鳥, 羊の)群れ"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 群れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 ▶ (柔らかい毛や羽毛を持ったヒツジや鳥などの)群れ",
+        "自 ▶ 「群がる」 参 herd「(ウシ, ウマ, ゾウなどの)群れ」 pack「(猟犬やオオカミなどの)群れ」 swarm「(ハチ, アリなどの)群れ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a flock of crows",
+          "ja": "① カラスの一群"
+        },
+        {
+          "en": "② Birds of a feather flock together.",
+          "ja": "② 《ことわざ》類は友を呼ぶ(同じ羽の鳥は一緒に群れる)."
+        }
+      ]
+    },
+    {
+      "id": "1244",
+      "word": "vein",
+      "phonetic": "[véin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "静脈"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「身体の各部分から心臓へ血液を送る血管」",
+        "反 artery「動脈」 参 the main vein「大静脈」",
+        "▶ 「調子, 傾向」の意味もあり. ⇔ in a serious vein「深刻な調子[傾向]で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "inject a medicine into a vein",
+          "ja": "静脈に薬を注射する"
+        }
+      ]
+    },
+    {
+      "id": "1245",
+      "word": "breed",
+      "phonetic": "[bríːd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 繁殖する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を繁殖させる",
+            "③ 〜を引き起こす"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ 品種, 血統"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自 ▶ ①「(動物が)交尾をして, 子を産む」",
+        "名 ▶ 「(馬の)品種改良された良馬」",
+        "「サラブレッド」は thoroughbred「(完全に育てられた→)競走用に品種改良された優良馬」のこと. [活用] breed-bred-bred"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Rabbits breed all year round.",
+          "ja": "① ウサギは年中繁殖する."
+        },
+        {
+          "en": "② breed sheep for the market",
+          "ja": "② 出荷用にヒツジを繁殖させる"
+        },
+        {
+          "en": "③ Poverty breeds terrorism.",
+          "ja": "③ 貧困がテロを生み出す."
+        },
+        {
+          "en": "④ Shiba Inu is my favorite breed.",
+          "ja": "④ 柴犬は私の好きな血統だ."
+        }
+      ]
+    },
+    {
+      "id": "1246",
+      "word": "reproduce",
+      "phonetic": "[rìːprədʒúːs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 繁殖する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (音, 絵などを)再現する",
+            "③ (許可を得て)複製, 再現する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自 ▶ ① 繁殖の仕方[能力]に重点. ⇔ Fish reproduce by laying eggs.「魚は卵を産むことにより繁殖する.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The virus can reproduce rapidly.",
+          "ja": "① ウイルスは急速に繁殖する."
+        },
+        {
+          "en": "② reproduce bacteria",
+          "ja": "② バクテリアを繁殖させる"
+        },
+        {
+          "en": "③ permission to reproduce the cartoon",
+          "ja": "③ そのマンガを転載する許可"
+        }
+      ]
+    },
+    {
+      "id": "1247",
+      "word": "talkative",
+      "phonetic": "[tɔ́ːkətiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "おしゃべりの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =fond of talking",
+        "語源 talk-[話す]＋-tive[性質]→「話し好きな」",
+        "比較 active「積極的な」 negative「否定的な」 反 quiet「静かな」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a talkative taxi driver",
+          "ja": "おしゃべりなタクシー運転手"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2037",
+      "word": "convict",
+      "phonetic": "[kənvíkt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に有罪判決を下す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 有罪判決を受けた者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 conviction 「有罪判決」 (*convince「〜を確信させる」の名詞で、「確信」の意味もある。) 名 ex-convict 「前科者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "be convicted of shoplifting",
+          "ja": "「万引きの罪で有罪判決を下される」"
+        }
+      ]
+    },
+    {
+      "id": "2038",
+      "word": "hinder",
+      "phonetic": "[híndər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を妨げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かの障害となって)その進行を遅らせる」",
+        "語源 hind-[後に] + -er[置く] *behind「〜の後ろに」 名 hindrance 「妨げ」"
+      ],
+      "word_origin": {
+        "formula": "hind-[後に] + -er[置く]",
+        "description": "*behind「〜の後ろに」 名 hindrance 「妨げ」"
+      },
+      "examples": [
+        {
+          "en": "hinder economic growth",
+          "ja": "「経済成長を妨げる」"
+        }
+      ]
+    },
+    {
+      "id": "2039",
+      "word": "inflict",
+      "phonetic": "[inflíkt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A on B) (BにA(痛み, 打撃など))を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(痛み, 打撃, 罰, 被害など)を与える」",
+        "語源 in-[中に] + -flict[打つ] *conflict「対立」 afflict「〜を苦しめる」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -flict[打つ]",
+        "description": "*conflict「対立」 afflict「〜を苦しめる」"
+      },
+      "examples": [
+        {
+          "en": "inflict pain on helpless animals",
+          "ja": "「無力な動物に痛みを与える」"
+        }
+      ]
+    },
+    {
+      "id": "2040",
+      "word": "alleviate",
+      "phonetic": "[əlíːvièit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(苦痛・困難など)を軽減する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(問題・状況などを改善する)から「(負の感情など)を緩和する」まで」",
+        "語源 al-[=ad- 方向] + -lev-[=léver 持ち上げる] →「持ち上げて軽くする」 *elevate「持ち上げる(→持ち上げ外へ出す)」 relevant「関連のある」"
+      ],
+      "word_origin": {
+        "formula": "al-[=ad- 方向] + -lev-[=léver 持ち上げる] →「持ち上げて軽くする」",
+        "description": "*elevate「持ち上げる(→持ち上げ外へ出す)」 relevant「関連のある」"
+      },
+      "examples": [
+        {
+          "en": "alleviate water shortages",
+          "ja": "「水不足を緩和する」"
+        }
+      ]
+    },
+    {
+      "id": "2041",
+      "word": "eradicate",
+      "phonetic": "[irǽdəkèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を根絶する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(病気や社会問題など)を完全に除去する」",
+        "語源 e-[=ex 外に] + -radic-[=root 根] + -ate[動詞語尾] →「根っこから引き抜く」 名 eradication 「根絶」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 外に] + -radic-[=root 根] + -ate[動詞語尾] →「根っこから引き抜く」",
+        "description": "名 eradication 「根絶」"
+      },
+      "examples": [
+        {
+          "en": "eradicate malaria",
+          "ja": "「マラリアを根絶する」"
+        }
+      ]
+    },
+    {
+      "id": "2042",
+      "word": "expel",
+      "phonetic": "[ikspél]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を追放する",
+            "〜を退学処分にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「学校や会社や国から追放する」",
+        "語源 ex-[外に] + -pel[押す] →「外へ押し出す」 *propeller「プロペラ」 名 expulsion 「追放, 除名, 除籍, 駆逐」 動 exile 「追放(された人)」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に] + -pel[押す] →「外へ押し出す」",
+        "description": "*propeller「プロペラ」 名 expulsion 「追放, 除名, 除籍, 駆逐」 動 exile 「追放(された人)」"
+      },
+      "examples": [
+        {
+          "en": "be expelled from her party",
+          "ja": "「彼女の政党から除名される」"
+        }
+      ]
+    },
+    {
+      "id": "2043",
+      "word": "omit",
+      "phonetic": "[oumít]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を省く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「最初から含めない」 (*日常では not include と表現するのがふつう。) ◇eliminate「(すでにそこにある物)を消去する」",
+        "語源 o-[=ob 反対の方向] + -mit[送る] →「逆の方向に送る」→「省略する」",
+        "活用 omit - omitted - omitted"
+      ],
+      "word_origin": {
+        "formula": "o-[=ob 反対の方向] + -mit[送る] →「逆の方向に送る」→「省略する」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2044",
+      "word": "discard",
+      "phonetic": "[diskáːrd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(不要品)を捨てる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「しばしば捨ててはいけない場所に捨てる」 (*日常では throw 〜 away のほうが使われる。)",
+        "語源 dis-[バラバラ] + -card[カード] →「(トランプの)カードをバラバラにして捨てる」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -card[カード] →「(トランプの)カードをバラバラにして捨てる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "discard a cigarette butt on the street",
+          "ja": "「路上にタバコの吸い殻を捨てる」"
+        }
+      ]
+    },
+    {
+      "id": "2045",
+      "word": "curb",
+      "phonetic": "[kə́ːrb]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を抑制する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 縁石"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(病気, インフレなど)を下にカーブさせる」 ②「カーブした所」",
+        "語源 curve「曲線, カーブ」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "curve「曲線, カーブ」"
+      },
+      "examples": [
+        {
+          "en": "① curb the spread of the disease",
+          "ja": "「病気の蔓延を抑制する」"
+        }
+      ]
+    },
+    {
+      "id": "2046",
+      "word": "restrain",
+      "phonetic": "[ristréin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を抑制する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(感情, 行動など)を抑制する」",
+        "語源 re-[再び→強意] + -strain[きつく結ぶ] *constrain「〜を強いる」 名 restraint 「抑制」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び→強意] + -strain[きつく結ぶ]",
+        "description": "*constrain「〜を強いる」 名 restraint 「抑制」"
+      },
+      "examples": [
+        {
+          "en": "restrain my anger with difficulty",
+          "ja": "「やっとのことで怒りを抑える」"
+        }
+      ]
+    },
+    {
+      "id": "2047",
+      "word": "inhibit",
+      "phonetic": "[inhíbit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を抑制する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かの成長や発達を妨げる」",
+        "語源 in-[否定] + -hibit[持つ] →「持つことを否定する」 *prohibit「〜を禁じる」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定] + -hibit[持つ] →「持つことを否定する」",
+        "description": "*prohibit「〜を禁じる」"
+      },
+      "examples": [
+        {
+          "en": "inhibit the growth of cancerous tumors",
+          "ja": "「ガン性腫瘍の成長を抑える」"
+        }
+      ]
+    },
+    {
+      "id": "2048",
+      "word": "hamper",
+      "phonetic": "[hǽmpər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(しばしば受身形で)を妨げる, 邪魔をする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「足かせのように, 人が何かをするのを困難にする」",
+        "語源 ハンパなく「邪魔をする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our search was hampered by fog.",
+          "ja": "「私たちの探索は霧によって妨げられた。」"
+        }
+      ]
+    },
+    {
+      "id": "2049",
+      "word": "lure",
+      "phonetic": "[lúər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を誘い込む"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 魅力, 誘惑"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(悪いことに)誘う」",
+        "語源 釣りの「疑似餌(←針が付いていて, 動きや色などで魚を誘う物)」を「ルアー」という。 *allure「〜を魅惑する」: 魅力"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "釣りの「疑似餌(←針が付いていて, 動きや色などで魚を誘う物)」を「ルアー」という。 *allure「〜を魅惑する」: 魅力"
+      },
+      "examples": [
+        {
+          "en": "① lure a deer into a trap",
+          "ja": "「シカを罠に誘い込む」"
+        }
+      ]
+    },
+    {
+      "id": "2050",
+      "word": "reassure",
+      "phonetic": "[rìːəʃúər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を安心させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「心配することはないよと言って安心させる」",
+        "語源 re-[再び] + -assure[保証する] →「(何度も保証して)安心させる」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -assure[保証する] →「(何度も保証して)安心させる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "reassure an anxious patient",
+          "ja": "「不安な患者を安心させる」"
+        }
+      ]
+    },
+    {
+      "id": "2051",
+      "word": "dictate",
+      "phonetic": "[díkteit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を書き取らせる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を命令する, 規定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「書き取りをさせる」 ②「規定する」",
+        "名 dictation 「書き取り」 名 dictator 「独裁者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① dictate a memo to my secretary",
+          "ja": "「秘書にメモを書き取らせる」"
+        }
+      ]
+    },
+    {
+      "id": "2052",
+      "word": "provoke",
+      "phonetic": "[prəvóuk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (非難など)を引き起こす"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (意図的に)〜を怒らせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「引き起こす」 ②「挑発的な, しゃくにさわる」",
+        "語源 pro-[前方] + -voke[=vocal 声] から「前に出るような声を出す(呼び寄せる)」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -voke[=vocal 声] から「前に出るような声を出す(呼び寄せる)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① provoke storms of protest",
+          "ja": "「抗議の嵐を招く」"
+        }
+      ]
+    },
+    {
+      "id": "2053",
+      "word": "refine",
+      "phonetic": "[rifáin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を洗練させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「作法・言葉などを上品にする」から「石油・金属などを精錬する」まで。",
+        "語源 re-[再び] + -fine[良い] から「何度も良いものにする」→「洗練させる」",
+        "形 refined 「洗練[精錬]された」 名 refinement 「洗練[精錬](すること)」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -fine[良い] から「何度も良いものにする」→「洗練させる」",
+        "description": "形 refined 「洗練[精錬]された」 名 refinement 「洗練[精錬](すること)」"
+      },
+      "examples": [
+        {
+          "en": "refine my writing skills",
+          "ja": "「書く技術を洗練させる」"
+        }
+      ]
+    },
+    {
+      "id": "2054",
+      "word": "enlighten",
+      "phonetic": "[inláitn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を啓蒙する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜の知識を増やし, 理解を深める」",
+        "語源 en-[動詞化] + -light[光] →「〜に光を当てる」",
+        "形 enlightened 「進んだ考えの, 啓蒙された」 名 enlightenment 「啓蒙, 啓発」"
+      ],
+      "word_origin": {
+        "formula": "en-[動詞化] + -light[光] →「〜に光を当てる」",
+        "description": "形 enlightened 「進んだ考えの, 啓蒙された」 名 enlightenment 「啓蒙, 啓発」"
+      },
+      "examples": [
+        {
+          "en": "enlighten the ignorant",
+          "ja": "「無知な人々を啓蒙する」"
+        }
+      ]
+    }
+  ]
+}

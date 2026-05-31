@@ -1,0 +1,280 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1290",
+      "word": "conventional",
+      "phonetic": "[kənvénʃənl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 従来の, 慣習的な",
+            "② 従来の, 型にはまらない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「昔ながらの, 従来からある, 平凡な」",
+        "反 unconventional「型にはまらない」",
+        "派 convention「会議, 慣習, 条約」",
+        "派 innovative「革新的な」",
+        "派 conventional wisdom「社会通念」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "conventional weapons",
+          "ja": "通常兵器 (従来の兵器) (*「最新の兵器」ではないことを示唆 (⇔核兵器))"
+        }
+      ]
+    },
+    {
+      "id": "1291",
+      "word": "supreme",
+      "phonetic": "[səpríːm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "最高の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(権力や影響力や地位が)最高の」",
+        "語源 ラテン語 super「上の」の最上級が語源で, 比較級は superior (to 〜)「〜より優れている」",
+        "派 supremacy「優位, 至高」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Supreme Court",
+          "ja": "最高裁判所"
+        }
+      ]
+    },
+    {
+      "id": "1292",
+      "word": "resemble",
+      "phonetic": "[rizémbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜に似ている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では look like 〜のほうが使われる。",
+        "語源 re-[再び→強意] +-semble[=same 同じ]",
+        "類 similar「よく似た」",
+        "派 resemblance「類似」",
+        "熟 bear a resemblance to 〜「〜と似ている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Peter resembles his father in every way.",
+          "ja": "ピーターはあらゆる点で父親に似ている。"
+        }
+      ]
+    },
+    {
+      "id": "1293",
+      "word": "contrary",
+      "phonetic": "[kάntreri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (on the 〜) それどころか"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "② (〜 to A) (Aとは)反対に"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ (名詞) to the 〜) それとは反対の〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①否定文に続けることが多い。",
+        "▶ ②「世間の常識とは逆に」という文脈で使うことが多い。",
+        "語源 contra-[逆]",
+        "派 contraband「密輸(←宣言の逆をやる)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Roger is not stupid; on the contrary, he is a genius.",
+          "ja": "① ロジャーはばかではない. それどころか天才だ."
+        },
+        {
+          "en": "② contrary to popular belief",
+          "ja": "② 世間の考えとは逆に"
+        },
+        {
+          "en": "③ evidence to the contrary",
+          "ja": "③ その逆の証拠"
+        }
+      ]
+    },
+    {
+      "id": "1294",
+      "word": "category",
+      "phonetic": "[kǽtəgɔ̀ːri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "範囲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「同じ特徴を持つ人や物の集団(集合)」",
+        "派 categorize「〜を分類する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fall into the same category",
+          "ja": "同じ範疇に属する"
+        }
+      ]
+    },
+    {
+      "id": "1295",
+      "word": "scope",
+      "phonetic": "[skóup]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "範囲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(活動, 研究などの)範囲」",
+        "語源 「見る」が元の意味。",
+        "派 telescope「望遠鏡」(tele-[遠く] +-scope[見る])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "limit the scope of our activities",
+          "ja": "私たちの活動範囲を制限する"
+        }
+      ]
+    },
+    {
+      "id": "1296",
+      "word": "given",
+      "phonetic": "[gívən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (時間, 量などが)定められた"
+          ]
+        },
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "② 〜を考慮すると"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(〜を与えられると→)一定の」",
+        "▶ ②「(〜を与えられると→)〜を考慮すると」",
+        "＊接続詞的に given (that) SVとしても使う。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a given period of time",
+          "ja": "① ある一定の期間"
+        },
+        {
+          "en": "② Given the situation, you did well.",
+          "ja": "② 状況を考慮すれば, 君はよくやった."
+        }
+      ]
+    },
+    {
+      "id": "1297",
+      "word": "peculiar",
+      "phonetic": "[pikjúːljər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (to 〜) (〜に)固有の",
+            "② 独特な, 変な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある人, 物にしかないちょっと変わった独特の」",
+        "派 peculiarity「特色, 特性」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a custom peculiar to Japan",
+          "ja": "① 日本固有の習慣"
+        },
+        {
+          "en": "② a peculiar smell of garlic",
+          "ja": "② にんにくの独特な臭い"
+        }
+      ]
+    },
+    {
+      "id": "1298",
+      "word": "sufficient",
+      "phonetic": "[səfíʃənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "十分な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ enoughより堅い語。",
+        "語源 suf-[=sub 下] +-fic-[作る] から「下から上まで(すっかり)作る」→「十分な」",
+        "派 suffice「十分である」",
+        "熟 Suffice (it) to say that SV「SVと言えば十分だ。」",
+        "反 deficient「欠乏している」",
+        "反 insufficient「不十分な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sufficient food for everyone",
+          "ja": "全員に行き渡る十分な食料"
+        }
+      ]
+    }
+  ]
+}

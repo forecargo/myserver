@@ -1,0 +1,305 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1903",
+      "word": "cosmetic",
+      "phonetic": "[kəzmétik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (-s) 化粧品"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 美容の, 化粧(用)の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語では「コスメ」ではなく「コスメ」と表記するので発音に注意。",
+        "◇ makeup「化粧」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "buy cosmetics at a duty-free shop",
+          "ja": "免税店で化粧品を買う"
+        },
+        {
+          "en": "undergo cosmetic surgery on my eyelids",
+          "ja": "まぶたの美容整形手術を受ける"
+        }
+      ]
+    },
+    {
+      "id": "1904",
+      "word": "chamber",
+      "phonetic": "[tʃéimbər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 部屋",
+            "② (協会などの)会議所, 議院"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (ある特別な目的で使われる)部屋",
+        "◇ camera「丸天井の暗室」から。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a gas chamber",
+          "ja": "ガス室"
+        },
+        {
+          "en": "a chamber of commerce and industry",
+          "ja": "商工会議所"
+        }
+      ]
+    },
+    {
+      "id": "1905",
+      "word": "commodity",
+      "phonetic": "[kəmάdəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 商品",
+            "② 有用なもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「売買の対象となるもの」"
+      ],
+      "word_origin": {
+        "formula": "com-[強意]+-mod-[便利]+-ity[状態]→「便利にするもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "commodity prices",
+          "ja": "物価(さまざまな商品の値段)"
+        },
+        {
+          "en": "basic commodities",
+          "ja": "生活必需品(基本的な有用なもの)"
+        }
+      ]
+    },
+    {
+      "id": "1906",
+      "word": "dwell",
+      "phonetic": "[dwél]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 住む",
+            "② (on ~) 〜をくどくど)考える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「1箇所でぐずぐずしている」(*①日常ではliveのほうが使われる)",
+        "▷ dwelling「住居」",
+        "▷ dweller「住人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "dwell in a cave",
+          "ja": "洞窟に住む"
+        },
+        {
+          "en": "dwell on the past",
+          "ja": "過去についてくどくど考える"
+        }
+      ]
+    },
+    {
+      "id": "1907",
+      "word": "acoustic",
+      "phonetic": "[əkjúːstik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 音響の",
+            "② (アンプを用いない)アコースティックの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(音や人々の)音の聞き方に関わる」",
+        "② ⇔ electric「電気の」, amplified「増幅された」",
+        "★ ギリシャ語で「聞く」という意味の単語に由来。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "great acoustic effects",
+          "ja": "すばらしい音響効果"
+        },
+        {
+          "en": "an acoustic guitar",
+          "ja": "アコースティックギター"
+        }
+      ]
+    },
+    {
+      "id": "1908",
+      "word": "recipe",
+      "phonetic": "[résəpi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① レシピ, 調理法",
+            "② 秘訣, 原因"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 日本語の「レシピ」と同じ。",
+        "② マイナスイメージでも使う。",
+        "★ recipe[=receive受け取る]→「(料理の準備をする)命令を受け取る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "learn the recipe for this stew",
+          "ja": "このシチューの調理法を学ぶ"
+        },
+        {
+          "en": "a recipe for disaster",
+          "ja": "大惨事を引き起こすもの"
+        }
+      ]
+    },
+    {
+      "id": "1909",
+      "word": "intake",
+      "phonetic": "[íntèik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "摂取(量)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(栄養や飲食物, 人員, 空気などを)取り入れること」",
+        "★ take ~ in「〜を取り入れる」の語順が変換してできた単語。",
+        "反 excretion「排泄(ex-[外に]+-cretion[ふるいにかける])」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a high fat intake",
+          "ja": "高脂肪摂取"
+        }
+      ]
+    },
+    {
+      "id": "1910",
+      "word": "precede",
+      "phonetic": "[prisíːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に先行する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ≒ go before",
+        "★ pre-[前に]+-cede[=ceed進む]",
+        "▷ preceding「(時間, 順序が)先行する」",
+        "⇔ following「次の」",
+        "▷ precedent「先例」",
+        "形 unprecedented「前例のない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "In English, the subject precedes the verb.",
+          "ja": "英語では主語は動詞の前に来る。"
+        }
+      ]
+    },
+    {
+      "id": "1911",
+      "word": "phase",
+      "phonetic": "[féiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "段階, 位相"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(成長や発達の)段階」",
+        "(*stageより堅い語。)",
+        "★ pha-[出現]",
+        "▷ phenomenon「現象(←出現したもの)」",
+        "▷ phase ~ out「(段階的に)〜を削減していく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "four phases in the lifecycle of a butterfly",
+          "ja": "チョウの一生の4つの段階"
+        }
+      ]
+    },
+    {
+      "id": "1912",
+      "word": "priority",
+      "phonetic": "[praiórəti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "優先(事項)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「ほかよりも大切で注意を向けるべきもの」",
+        "★ prior-[前の]→「何よりも前のもの」",
+        "▷ prior「前の」",
+        "▷ prior to ~「〜より前の」(＝before)",
+        "▷ a priority seat「優先座席」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Safety is our highest priority.",
+          "ja": "安全が最優先だ。"
+        }
+      ]
+    }
+  ]
+}

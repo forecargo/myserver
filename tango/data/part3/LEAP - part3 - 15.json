@@ -1,0 +1,373 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1141",
+      "word": "chase",
+      "phonetic": "[tʃéis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を追いかける"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 追跡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(逃げる物を捕まえようと、速度を上げて)追う」",
+        "a car chase は「自動車同士の追跡」のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Police chased the stolen car.",
+          "ja": "① 警察はその盗難車を追いかけた。"
+        },
+        {
+          "en": "After a long chase, I finally caught the thief.",
+          "ja": "② 長い追跡の末、私はようやくその泥棒を捕まえた。"
+        }
+      ]
+    },
+    {
+      "id": "1142",
+      "word": "proceed",
+      "phonetic": "[prəsíːd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (順を追って)進む",
+            "② (to do) (さらに続けて)〜する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(複数形で) proceeds"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(計画どおりに順を追って)動作が続いている」",
+        "pro-[前方]+-ceed[進む]→「前へ進む」",
+        "名 process「過程(→進み方)」",
+        "名 proceeds「(取引・投資などによる)収入、売上高」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "First, please proceed to Gate 3.",
+          "ja": "① まず、3番ゲートへお進みください。"
+        },
+        {
+          "en": "He took off his jacket and proceeded to untie his shoelaces.",
+          "ja": "② 彼は上着を脱ぎ、さらに靴ひもをゆるめた。"
+        }
+      ]
+    },
+    {
+      "id": "1143",
+      "word": "fade",
+      "phonetic": "[féid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(色、記憶などが)薄れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「少しずつ力がなくなっていく」",
+        "日常ではbecome weakerやgradually disappearのほうが使われる。",
+        "熟 fade-out「(映像・音などが)次第に消えること」",
+        "熟 fade away「(色、記憶、名声などが)しだいに弱まっていく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Childhood memories fade as time passes.",
+          "ja": "時が過ぎるとともに子どものころの記憶は薄れる。"
+        }
+      ]
+    },
+    {
+      "id": "1144",
+      "word": "dissolve",
+      "phonetic": "[dizálv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 溶ける"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を溶かす",
+            "③ (議会などを)解散する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「バラバラにする」→①②「溶ける、溶かす」③「解放する」",
+        "dis-[バラバラ]+-solve[解く]→「バラバラに分解する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Salt dissolves in hot water.",
+          "ja": "① 塩が熱湯に溶ける。"
+        },
+        {
+          "en": "dissolve salt in hot water",
+          "ja": "② 熱湯で塩を溶かす"
+        },
+        {
+          "en": "dissolve the Diet",
+          "ja": "③ 国会を解散する"
+        }
+      ]
+    },
+    {
+      "id": "1145",
+      "word": "float",
+      "phonetic": "[flóut]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 浮かぶ"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を浮かべる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(水や空中に)浮かぶ、漂う」から「(考え、うわさが)広まる」まで。",
+        "コーヒーフロートはアイスコーヒーにアイスクリームを「浮かせた」飲み物。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "float on the sea",
+          "ja": "① 海面に浮かぶ"
+        },
+        {
+          "en": "float a raft on the river",
+          "ja": "② 川にいかだを浮かべる"
+        }
+      ]
+    },
+    {
+      "id": "1146",
+      "word": "sink",
+      "phonetic": "[síŋk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 沈む"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を沈める"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ (台所の)流し"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「台所のシンク(=流し)は「沈んだ」所。",
+        "参 stove [stóuv]「(料理用)レンジ」",
+        "参 chopping board「まな板」",
+        "[活用]sink-sank-sunk"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Oil does not sink in water.",
+          "ja": "① 油は水に沈まない。"
+        },
+        {
+          "en": "sink enemy ships",
+          "ja": "② 敵艦を沈める"
+        },
+        {
+          "en": "unwashed dishes in the sink",
+          "ja": "③ 流しの中の洗っていない皿"
+        }
+      ]
+    },
+    {
+      "id": "1147",
+      "word": "bounce",
+      "phonetic": "[báuns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① ボールなどが跳ねる"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (宛先不明で)〜を返送する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "bounce"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日本語では「バウンド」というが、英語ではbounceと表現する。",
+        "「ノーバウンドで捕球する」はcatch a fly ball.",
+        "名 bounce「跳ね返り、バウンド」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The ball bounced over the wall.",
+          "ja": "① ボールは跳ねて壁を越えた。"
+        },
+        {
+          "en": "My email was bounced back.",
+          "ja": "② 私のメールが返送されてきた。"
+        }
+      ]
+    },
+    {
+      "id": "1148",
+      "word": "transform",
+      "phonetic": "[trænsfɔ́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を(大幅に)変える"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (大幅に)変形する、変身する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ changeより堅い表現で、「より劇的な変化」を示す。",
+        "trans-[移す]+-form[形]→「形を変える」",
+        "☆uniform「制服(→同一の形)」",
+        "名 transformation「変形、変化、変態」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "transform the old house into a restaurant",
+          "ja": "① 古い家を改造してレストランにする"
+        },
+        {
+          "en": "This car can transform into a robot.",
+          "ja": "② この車はロボットに変身できる。"
+        }
+      ]
+    },
+    {
+      "id": "1149",
+      "word": "shift",
+      "phonetic": "[ʃíft]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (考え方の)転換",
+            "② (勤務の)交替"
+          ]
+        },
+        {
+          "part_of_speech": "他自",
+          "meanings": [
+            "(〜を)転換する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②は日本語でも「シフト制」などで使われる。",
+        "熟 makeshift「間に合わせの、一時しのぎの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a paradigm shift",
+          "ja": "① パラダイムシフト(理論的枠組の転換)"
+        },
+        {
+          "en": "work on the night[day] shift",
+          "ja": "② 夜間[昼間](交替)勤務で働く"
+        },
+        {
+          "en": "shift the responsibility to her",
+          "ja": "彼女に責任をなすりつける(移す)"
+        }
+      ]
+    },
+    {
+      "id": "1150",
+      "word": "modify",
+      "phonetic": "[mɑ́dəfài]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を修正する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(改善のため計画や製品など)を修正する」",
+        "mod-[=mode 尺度]+-fy[動詞語尾]→「尺度を合わせる」",
+        "名 modest「謙虚な」",
+        "名 modification「修正」",
+        "名 modifier「修飾語」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "genetically modified (GM) foods (= transgenic foods)",
+          "ja": "遺伝子組み換え(遺伝子上修正された)食品"
+        }
+      ]
+    }
+  ]
+}

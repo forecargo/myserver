@@ -1,0 +1,326 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1432",
+      "word": "therapy",
+      "phonetic": "[θérəpi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "治療 (法)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に長期にわたる, 薬や外科手術を用いない)治療」",
+        "名 therapist「治療士, セラピスト」",
+        "名 chemotherapy「化学療法」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "gene therapy",
+          "ja": "遺伝子治療"
+        }
+      ]
+    },
+    {
+      "id": "1433",
+      "word": "injection",
+      "phonetic": "[indʒékʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "注射",
+            "注入"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(薬の)注入」から「(資金の)投入」まで。",
+        "語源 in-[中に] + -ject-[投げる] →「中に投げ込む」",
+        "★ project「〜を投影する」",
+        "vaccination against the flu「インフルエンザの予防注射(ワクチン)」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -ject-[投げる] →「中に投げ込む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "get an injection",
+          "ja": "注射をしてもらう"
+        }
+      ]
+    },
+    {
+      "id": "1434",
+      "word": "dose",
+      "phonetic": "[dóus]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(1回分の)服用量"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「与えること」が元の意味。",
+        "★ donor「ドナー」",
+        "名 overdose「過剰服用」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Take a dose of three pills after every meal.",
+          "ja": "毎食後3錠(の服用量)ずつ服用して下さい。"
+        }
+      ]
+    },
+    {
+      "id": "1435",
+      "word": "sanitation",
+      "phonetic": "[sænətéiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "衛生"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「一般の人々の健康に関わる状態」",
+        "◇ hygiene「(個人の)衛生」",
+        "語源 sun「太陽」を浴びる(→衛生的)と覚えよう。",
+        "形 sanitary「衛生的な」",
+        "⇨ sanitary facilities「衛生施設(←トイレを示すことが多い)」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "sun「太陽」を浴びる(→衛生的)と覚えよう。"
+      },
+      "examples": [
+        {
+          "en": "improve public sanitation",
+          "ja": "公衆衛生を改善する"
+        }
+      ]
+    },
+    {
+      "id": "1436",
+      "word": "germ",
+      "phonetic": "[dʒə́ːm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "細菌, ばい菌"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ germ culture「細菌培養」というフレーズで覚えよう。",
+        "語源 parasite「寄生虫」(para-[横で] + -site[=food])"
+      ],
+      "word_origin": {
+        "formula": "para-[横で] + -site[=food]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "germs and dust",
+          "ja": "細菌とほこり"
+        }
+      ]
+    },
+    {
+      "id": "1437",
+      "word": "tumor",
+      "phonetic": "[tjúːmər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "腫瘍"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ benign「良性の」と malignant「悪性の」がある。",
+        "語源「膨らんだもの」が元の意味。",
+        "★ thumb「親指」",
+        "tomb「墓」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「膨らんだもの」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "remove a brain tumor",
+          "ja": "脳腫瘍を除去する"
+        }
+      ]
+    },
+    {
+      "id": "1438",
+      "word": "stroke",
+      "phonetic": "[stróuk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(脳)卒中",
+            "(強い)発作"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ strike「〜を打つ」の過去分詞 stroke「打たれた」から派生して, 「一撃」が元の意味(「水泳のひとかき」「筆の運び」などの意味もある)。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a heat stroke [heatstroke]",
+          "ja": "熱中症"
+        }
+      ]
+    },
+    {
+      "id": "1439",
+      "word": "agony",
+      "phonetic": "[ǽgəni]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "苦痛"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長く続く耐え切れない(肉体的, 精神的)痛み」",
+        "語源 あごに「苦痛」のアッパーカット(←ボクシングのパンチ)。",
+        "自 agonize「(難しい決断などで)苦悶する」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "あごに「苦痛」のアッパーカット(←ボクシングのパンチ)。"
+      },
+      "examples": [
+        {
+          "en": "Having my tooth drilled was agony.",
+          "ja": "歯を削られるのは苦痛だった。"
+        }
+      ]
+    },
+    {
+      "id": "1440",
+      "word": "plague",
+      "phonetic": "[pléig]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (大規模な)疫病, 伝染病, 災害"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を苦しめる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ The Plague は「ペスト(黒死病)」のことを表すことが多い。",
+        "語源 pla-[打つ]→「人を打つ」",
+        "★ complain「不平を言う」"
+      ],
+      "word_origin": {
+        "formula": "pla-[打つ]→「人を打つ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① die from the plague",
+          "ja": "① 疫病で死ぬ"
+        },
+        {
+          "en": "② The government was plagued by scandals.",
+          "ja": "② 政府はスキャンダルに苦しめられていた。"
+        }
+      ]
+    },
+    {
+      "id": "1441",
+      "word": "fatigue",
+      "phonetic": "[fətíːg]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(ひどい)疲労"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期にわたり蓄積された肉体的, 精神的)疲労」",
+        "(*日常では be tired と表現するのがふつう。)",
+        "派生 physical[mental] fatigue「肉体[精神]疲労」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His face was gray with fatigue.",
+          "ja": "疲労のため, 彼の顔は蒼白だった。"
+        }
+      ]
+    },
+    {
+      "id": "1442",
+      "word": "diagnosis",
+      "phonetic": "[dàiəgnóusis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "診断"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(病気の)診断」から「(問題の)分析」まで。",
+        "語源 dia-[横切って] + -gno-[=know 知る] →「横切って(全体を)知る」",
+        "他 diagnose「〜を診断する」",
+        "⇨ diagnose A as B「AがBであると診断する」",
+        "⇨ diagnose A with B「AはBを持っていると診断する」"
+      ],
+      "word_origin": {
+        "formula": "dia-[横切って] + -gno-[=know 知る] →「横切って(全体を)知る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "receive a medical diagnosis",
+          "ja": "医師の診断を受ける"
+        }
+      ]
+    }
+  ]
+}

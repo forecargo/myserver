@@ -1,0 +1,228 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "657",
+      "word": "burn",
+      "phonetic": "[bə́ːrn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 焼ける"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を燃やす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(炎が上がって焦げるくらいに)燃える」",
+        "▶「burn down「焼き落ちる」 burn out「(火が)燃え尽きる, (疲労などで)疲れ果てる」 ② burn one's hand「手をやけどする」 ③ burning「燃えている」 ④ burned「燃えた」 ⑤ get a sunburn「火傷を起こして日焼けする」 get a (sun)tan「(浅黒く)日焼けする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Kinkakuji Temple has burned down several times.",
+          "ja": "金閣寺は何度か焼け落ちている。"
+        },
+        {
+          "en": "burn things in a fire",
+          "ja": "火に入れて物を燃やす"
+        }
+      ]
+    },
+    {
+      "id": "658",
+      "word": "cheat",
+      "phonetic": "[tʃíːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ごまかす"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜をだます"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「自分の利益のために相手をあざむく」",
+        "▶ cheat on one's wife [husband]「浮気をする」",
+        "名 cheating「カンニング, 不正行為」 (*cunning「ずる賢い」に日本語の「カンニング」の意味はない。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cheat in an exam",
+          "ja": "試験でカンニングをする"
+        },
+        {
+          "en": "cheat the woman out of money",
+          "ja": "その女性をだまして金を取る"
+        }
+      ]
+    },
+    {
+      "id": "659",
+      "word": "participate",
+      "phonetic": "[pɑːrtísəpèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(in 〜)に参加する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かの役割を果たすために, 積極的に)参加する」",
+        "注意「何かの役割を果たす」場合以外は go to 〜で表現する。⇨ go to the meeting「会議に参加する」 また「(人, クラブ)に参加する」は join を使う。⇨ Would you like to join us?「私たちに参加しませんか」"
+      ],
+      "word_origin": {
+        "formula": "part-[部分] + -cipate[=take]から participate (in 〜) = take part (in 〜)",
+        "description": "名 participation「参加」 名 participant「参加者」"
+      },
+      "examples": [
+        {
+          "en": "participate in the National Sports Festival",
+          "ja": "国体(国民体育大会)に参加する"
+        }
+      ]
+    },
+    {
+      "id": "660",
+      "word": "exist",
+      "phonetic": "[igzíst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "存在する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(UFOやお化けのようなものが実は)存在する」",
+        "注意 日常では(〜 is[are]+(場所の副詞))や〈There is[are]〜+(場所の副詞)〉, be around「(人, 物)が存在している」のほうが使われる。",
+        "名 existence「存在, 生存, 生活」⇨ the oldest temple in existence「現存する最古の寺院」 形 existing「現存する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "believe that Santa Claus exists",
+          "ja": "サンタクロースは存在すると信じる"
+        }
+      ]
+    },
+    {
+      "id": "661",
+      "word": "arise",
+      "phonetic": "[əráiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "生じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(問題, 誤解, 危機などが)生じる」",
+        "頻出 arise from 〜「〜から生じる」"
+      ],
+      "word_origin": {
+        "formula": "a-[強意] + -rise[生じる]",
+        "description": "[活用]arise-arose-arisen[ərizn]"
+      },
+      "examples": [
+        {
+          "en": "Several problems arose.",
+          "ja": "いくつかの問題が生じた。"
+        }
+      ]
+    },
+    {
+      "id": "662",
+      "word": "occur",
+      "phonetic": "[əkə́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 生じる",
+            "② (to (人)) (考えなどが(人)に)思いつく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(問題, 事故, 地球温暖化, 洪水などが偶然に)生じる」"
+      ],
+      "word_origin": {
+        "formula": "oc-[方向] + -cur[走る]",
+        "description": "☆cursor「カーソル(←コンピュータの画面上を走るマーク)」 名 occurrence「出来事, 生じること」 自 recur「再発する」 活用 occur-occurred-occurred"
+      },
+      "examples": [
+        {
+          "en": "The accident occurred at this intersection at about 10 p.m.",
+          "ja": "その事故は午後10時ごろにこの交差点で起きた。"
+        },
+        {
+          "en": "A wonderful idea suddenly occurred to me.",
+          "ja": "いい考えが突然浮かんだ。"
+        }
+      ]
+    },
+    {
+      "id": "663",
+      "word": "involve",
+      "phonetic": "[inválv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (be -d in 〜) (事件などに)巻き込まれる",
+            "② (be -d in 〜) (子育てなどに)参加する",
+            "③ 〜を伴う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「巻き込む」",
+        "頻出 ①② 修飾する副詞は actively, deeply, heavily などが多い。",
+        "注意 特に「動かせないものに巻き込まれる(=つかまる)」は be caught in a traffic jam と表現する。"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -vol-[回る(→巻く)] →「巻き込む」",
+        "description": "☆volume「巻, 容量」"
+      },
+      "examples": [
+        {
+          "en": "I was involved in a traffic accident.",
+          "ja": "交通事故に巻き込まれた。"
+        },
+        {
+          "en": "be involved in child-rearing",
+          "ja": "子育てに参加する"
+        },
+        {
+          "en": "Traveling abroad may involve danger.",
+          "ja": "海外旅行は危険を伴うかもしれない。"
+        }
+      ]
+    }
+  ]
+}

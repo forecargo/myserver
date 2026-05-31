@@ -1,0 +1,318 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "547",
+      "word": "edge",
+      "phonetic": "[édʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 端 (可算)",
+            "② (ナイフなどの)刃",
+            "③ 優位"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を徐々に動かす",
+            "④ 〜を鋭くする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「鋭い」→②「刃(先)」→①「端, 縁」→③「最先端」",
+        "▶「〜に対して優位である」",
+        "▶「最先端の(←刃先から)」",
+        "dóuble-edged「両刃の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sit on the edge of the bed",
+          "ja": "① ベッドの端に座る"
+        },
+        {
+          "en": "This knife has a sharp edge.",
+          "ja": "② このナイフはよく切れる(鋭い刃をもっている)."
+        },
+        {
+          "en": "have the edge over my rival",
+          "ja": "③ 競争相手より優位である"
+        },
+        {
+          "en": "have the edge on[over] ~",
+          "ja": "〜に対して優位である"
+        },
+        {
+          "en": "cutting-edge",
+          "ja": "最先端の"
+        }
+      ]
+    },
+    {
+      "id": "548",
+      "word": "makeup",
+      "phonetic": "[méikʌp]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (物の)構成, 構造",
+            "② (人の)資質",
+            "③ 化粧",
+            "④ (— exam)追試験"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「作り上げたもの」",
+        "cosmétics「化粧品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the makeup of the team",
+          "ja": "① そのチームの構成"
+        },
+        {
+          "en": "the unique makeup of each person",
+          "ja": "② 1人1人の独自の資質"
+        },
+        {
+          "en": "wear heavy makeup",
+          "ja": "③ 厚化粧をしている"
+        },
+        {
+          "en": "take a makeup exam in Latin",
+          "ja": "④ ラテン語の追試験を受ける"
+        },
+        {
+          "en": "put on[wear] makeup",
+          "ja": "化粧をする[している]"
+        },
+        {
+          "en": "take off[remove] makeup",
+          "ja": "化粧を落とす"
+        }
+      ]
+    },
+    {
+      "id": "549",
+      "word": "consist",
+      "phonetic": "[kənsíst]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (of ~) (~で)構成されている",
+            "② (in ~) (~に)ある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(要素を集めて)成り立つ」(＊話し言葉では be made up of 〜のほうが使われる. ②はまれ.)",
+        "con-[共に]+-sist[=stand 立っている]→「(要素が集まって成り立つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The audience consisted mainly of young people.",
+          "ja": "① 観客は大半が若者だった(若者で構成されていた)."
+        },
+        {
+          "en": "Happiness consists in contentment.",
+          "ja": "② 幸福(の本質)は満足にある."
+        },
+        {
+          "en": "consist of ~",
+          "ja": "〜で構成されている (=comprise)"
+        },
+        {
+          "en": "consist in[〈米〉of] ~",
+          "ja": "〜((本質的な物が)〜にある)"
+        }
+      ]
+    },
+    {
+      "id": "550",
+      "word": "compose",
+      "phonetic": "[kəmpóuz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を構成する, 組み立てる",
+            "② 〜を作曲[作文]する",
+            "③ 〜を落ち着かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(バラバラなものを)まとめる」",
+        "com-[=con 共に]+-pose[置く]から「まとめて置く」→「〜を組み立てる」",
+        "名 composition「組み立て, 構造, 作品」",
+        "名 compóser「作曲家, 作る人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Water is composed of hydrogen and oxygen.",
+          "ja": "① 水は水素と酸素から構成される."
+        },
+        {
+          "en": "compose a haiku",
+          "ja": "② 俳句を詠む(書く)"
+        },
+        {
+          "en": "remain perfectly composed",
+          "ja": "③ 落ち着き払う"
+        },
+        {
+          "en": "be composed of ~",
+          "ja": "〜(物質やグループが)〜から構成される"
+        }
+      ]
+    },
+    {
+      "id": "551",
+      "word": "attach",
+      "phonetic": "[ətǽtʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜をくっつける, 添付する",
+            "② 〜に愛着を持たせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物や気持ち)をつなぎ留める」",
+        "名 attachment「付属品, 愛着」",
+        "反 detach「〜を切り離す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "attach a file to an email",
+          "ja": "① Eメールにファイルを添付する"
+        },
+        {
+          "en": "feel attached to this jacket",
+          "ja": "② この上着に愛着を感じる"
+        },
+        {
+          "en": "attach A to B",
+          "ja": "「AをBに取り付ける」"
+        },
+        {
+          "en": "the attached file",
+          "ja": "「添付ファイル」"
+        },
+        {
+          "en": "attach importance to ~",
+          "ja": "「〜を重んじる」"
+        },
+        {
+          "en": "feel attached to ~",
+          "ja": "「(人, 物)に愛着を感じる」"
+        }
+      ]
+    },
+    {
+      "id": "552",
+      "word": "connect",
+      "phonetic": "[kənékt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜をつなげる",
+            "② 〜を関連づける"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ つながる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 connèction「関係, つながり, コネ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "connect the printer to my PC",
+          "ja": "① パソコンにプリンターを接続する"
+        },
+        {
+          "en": "Exercise is closely connected with your health.",
+          "ja": "② 運動は健康に密接に関わっている."
+        },
+        {
+          "en": "connect to the internet",
+          "ja": "③ インターネットに接続する"
+        },
+        {
+          "en": "connect A to B",
+          "ja": "「AをBにつなげる」"
+        },
+        {
+          "en": "connect A with B",
+          "ja": "「AをBと関連づける」"
+        }
+      ]
+    },
+    {
+      "id": "553",
+      "word": "relate",
+      "phonetic": "[riléit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A to B) (A)を(Bに)関連づける",
+            "② 〜を(順序立てて)話す"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (to ~) (~に)理解を示す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を自らに関連づける」→「(相手の考えなどに共感し)理解を示す」",
+        "stress-related illnesses「ストレス関連の病気」",
+        "an 800m relay「800mリレー」の rélay と同語源."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "These two events are closely related.",
+          "ja": "① これら2つの出来事は密接に関連している."
+        },
+        {
+          "en": "relate my adventures",
+          "ja": "② 冒険談を語る"
+        },
+        {
+          "en": "cannot relate to his way of thinking",
+          "ja": "③ 彼の考え方が理解できない"
+        }
+      ]
+    }
+  ]
+}

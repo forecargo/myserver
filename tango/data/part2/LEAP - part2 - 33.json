@@ -1,0 +1,305 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "642",
+      "word": "hang",
+      "phonetic": "[hæŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を掛ける",
+            "② 〜を絞首刑にする"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ ぶら下がる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「つるす, ぶら下げる, 掛ける」",
+        "頻出 ① hang up「(電話を)切る」",
+        "③ hang out [around]「たむろする」",
+        "Hang in there!「がんばれ(←そこにしっかりとがみつけ).」",
+        "名 hanger「ハンガー, 洋服掛け」",
+        "名 hangover「二日酔い」",
+        "[活用] ①③ hang-hung-hung",
+        "② hang-hanged-hanged"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "hang the washing on the pole",
+          "ja": "① 物干しざおに洗濯物を掛ける"
+        },
+        {
+          "en": "be hanged for murder",
+          "ja": "② 殺人で絞首刑になる"
+        },
+        {
+          "en": "An old lamp was hanging from the ceiling.",
+          "ja": "③ 古いランプが天井からぶら下がっていた。"
+        }
+      ]
+    },
+    {
+      "id": "643",
+      "word": "release",
+      "phonetic": "[rilíːs]",
+      "level_tag": "B1 A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を解放する",
+            "② (映画などを)発表する, 出す",
+            "③ (ガスなど)を放出する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 解放, 発売"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 他と名の発音は同じ。",
+        "▶ 日本語でも「(釣りの)キャッチアンドリリース」などでよく使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "release the hostages",
+          "ja": "① 人質を解放する"
+        },
+        {
+          "en": "release his new album",
+          "ja": "② 彼らの新しいアルバムを出す"
+        },
+        {
+          "en": "release CO₂[carbon dioxide]",
+          "ja": "③ 二酸化炭素を放出する"
+        },
+        {
+          "en": "the release of the prisoners",
+          "ja": "④ 囚人の解放"
+        }
+      ]
+    },
+    {
+      "id": "644",
+      "word": "strike",
+      "phonetic": "[stráik]",
+      "level_tag": "B1 A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を打つ",
+            "② (災害が)〜を襲う",
+            "③ (考えが人)に思い浮かぶ",
+            "④ (A as B) (A)に(Bという)印象を与える"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "⑤ ストライキ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では①②は hit のほうが, ③は, (人) hit on 〜「(人)が〜を思いつく」のほうが使われる。(＊②は自としても使われる。)",
+        "頻出 strike a balance between work and play「勉強(仕事)と遊びを両立させる」",
+        "⑤ go[come] (out) on strike「ストライキに入る」",
+        "形 striking「著しい(←打つような)」",
+        "名 stroke「脳卒中」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "strike him on the cheek",
+          "ja": "① 彼のほほを打つ"
+        },
+        {
+          "en": "The earthquake struck the area.",
+          "ja": "② 地震がその地域を襲った。"
+        },
+        {
+          "en": "A good idea struck me.",
+          "ja": "③ よい考えが(私に)浮かんだ。"
+        },
+        {
+          "en": "His plan struck me as impractical.",
+          "ja": "④ 彼の計画は実践的ではないと(私に)思えた。"
+        },
+        {
+          "en": "go on strike",
+          "ja": "⑤ ストライキをする"
+        }
+      ]
+    },
+    {
+      "id": "645",
+      "word": "beat",
+      "phonetic": "[bíːt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を打つ",
+            "② 〜に勝つ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(繰り返し)たたく」→「打ち負かす」",
+        "頻出 (質問に対して) Beats [It beats] me.「わからない, 手に負えない.」",
+        "beat around the bush「遠回しに言う」",
+        "注意「〜に勝つ」は〈beat (人, チーム)〉と〈win (試合, 戦争)〉で区別。",
+        "★「続けざまに打つ」が元の意味。☆bat「バット」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "beat a drum",
+          "ja": "① 太鼓をたたく"
+        },
+        {
+          "en": "beat[×win] the world champion at chess",
+          "ja": "② チェスの世界チャンピオンに勝つ"
+        }
+      ]
+    },
+    {
+      "id": "646",
+      "word": "protect",
+      "phonetic": "[prətékt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を守る, 保護する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(攻撃や危害から何かを用いて)守る」",
+        "★détect「〜を見抜く(←覆いを取る)」",
+        "名 protection「保護」",
+        "形 protéctive「保護の」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -tect[覆う] -> 「前を覆う」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "protect our skin from the sun",
+          "ja": "日差しから肌を守る"
+        }
+      ]
+    },
+    {
+      "id": "647",
+      "word": "twist",
+      "phonetic": "[twist]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(ねじ)曲げる",
+            "② (体の一部)をひねる, 捻挫する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(① 針金や花など ② 体の一部)をねじる, ひねる」",
+        "名 twister「竜巻(←激しい渦巻き状の上昇気流)」(≒tornado)",
+        "名 twist「ねじれ」",
+        "the twists and turns of life「人生の紆余曲折」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "twist a wire",
+          "ja": "① 針金をねじ曲げる"
+        },
+        {
+          "en": "twist my ankle",
+          "ja": "② 足首を捻挫する"
+        }
+      ]
+    },
+    {
+      "id": "648",
+      "word": "skip",
+      "phonetic": "[skip]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜をサボる, 抜かす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「スキップする」→「飛び越える, 抜かす」",
+        "頻出 skip breakfast [school, class]「朝食を抜く, 学校[授業]をサボる」",
+        "名 skipping「(米)飛び級」",
+        "名 skip rope「縄跳びをする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "skip cram school",
+          "ja": "塾をサボる"
+        }
+      ]
+    },
+    {
+      "id": "649",
+      "word": "expose",
+      "phonetic": "[ikspóuz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をさらす",
+            "② (秘密, 犯罪など)を暴露する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「① (雨, 風, 批判)にさらす」から「(新しい文化, 文学)に触れさせる」まで。",
+        "頻出 ① expose A to B「AをBにさらす」",
+        "名 exposure「露出, 暴露」",
+        "名 exposition「(万国)博覧会」(＝expo.)"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に] + -pose[置く] -> 「外に置く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Children should be exposed to different cultures.",
+          "ja": "① 子どもはさまざまな文化に触れる(さらされる)べきだ。"
+        },
+        {
+          "en": "expose a secret",
+          "ja": "② 秘密を暴露する"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "829",
+      "word": "general",
+      "phonetic": "[dʒénərəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 一般的な, 全体の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 大将, 将軍"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を一般化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(部分的な)でなく)全体の, 全体にわたる」",
+        "▶「全体を見る人」",
+        "頻出 in general",
+        "people in general",
+        "the general meeting",
+        "generally speaking",
+        "generalization「一般化」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the general public",
+          "ja": "① 一般大衆"
+        },
+        {
+          "en": "General Grant",
+          "ja": "② グラント将軍 (*南北戦争の北軍総司令官)"
+        },
+        {
+          "en": "in general",
+          "ja": "一般に, 一般の"
+        },
+        {
+          "en": "people in general",
+          "ja": "一般大衆"
+        },
+        {
+          "en": "the general meeting",
+          "ja": "総会"
+        },
+        {
+          "en": "generally speaking",
+          "ja": "一般的に言えば"
+        }
+      ]
+    },
+    {
+      "id": "830",
+      "word": "ordinary",
+      "phonetic": "[ɔ́ːrdənèri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "平凡な, ふつうの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかと比べて特に違いがない」",
+        "頻出 ordinary clothes「普段着」",
+        "out of the ordinary「並外れた」",
+        "反 extraordinary「非凡な」"
+      ],
+      "word_origin": {
+        "formula": "ordin-[順序正しい]+-ary[形容詞語尾]→「単一の, 変化がない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the lives of ordinary people",
+          "ja": "庶民(ふつうの人々)の生活"
+        },
+        {
+          "en": "ordinary clothes",
+          "ja": "普段着"
+        },
+        {
+          "en": "out of the ordinary",
+          "ja": "並外れた"
+        }
+      ]
+    },
+    {
+      "id": "831",
+      "word": "account",
+      "phonetic": "[əkáunt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (割合を)占める",
+            "② (〜の原因を)説明する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 説明",
+            "④ 口座"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「数えられる, (1つ1つ数えるように)説明する」",
+        "頻出 take ~ into account「〜を考慮に入れる」",
+        "on account of ~「〜が原因で」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad方向]+-count[数える]から「数を数える」→「(割合を)占める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Middle-aged and older people account for 70% of the group.",
+          "ja": "① 中高年がその集団の70%を占める."
+        },
+        {
+          "en": "Stress accounts for his failure.",
+          "ja": "② ストレスが彼の失敗の原因だ."
+        },
+        {
+          "en": "by her account",
+          "ja": "③ 彼女の説明では"
+        },
+        {
+          "en": "open a bank account",
+          "ja": "④ 銀行口座を開く"
+        },
+        {
+          "en": "take ~ into account",
+          "ja": "〜を考慮に入れる"
+        },
+        {
+          "en": "on account of ~",
+          "ja": "〜が原因で"
+        }
+      ]
+    },
+    {
+      "id": "832",
+      "word": "calculate",
+      "phonetic": "[kǽlkjulèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を計算する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数量や費用などを)算出する」(*日常ではfigure outのほうがふつう。)",
+        "▶「足し算や引き算など「(簡単な)計算をする」はdo sumsと表現する。",
+        "注意 足し算や引き算など「(簡単な)計算をする」はdo sumsと表現する。",
+        "派生 名 calculátion「計算」",
+        "派生 名 cálculator「計算機」"
+      ],
+      "word_origin": {
+        "formula": "calc-[石]+-ul-[小さい]から「小石を用いて数える」→「計算する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "calculate this month's expenses",
+          "ja": "今月の出費を計算する"
+        }
+      ]
+    },
+    {
+      "id": "833",
+      "word": "measure",
+      "phonetic": "[méʒər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を測る"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 〜の寸法がある"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ (-s)手段"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 take ~ measures (to do / against A)「(〜するために/Aに対して)〜な手段を取る」",
+        "a measure of ~「ある程度の〜」",
+        "派生 名 measurement「測定」",
+        "派生 形 immeasurable「計り知れない」",
+        "派生 名 countermeasure「対抗策」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Please measure your blood pressure.",
+          "ja": "① 血圧を測ってください."
+        },
+        {
+          "en": "His waist measures over a meter.",
+          "ja": "② 彼のウエストは1メートルを超えている(寸法がある)."
+        },
+        {
+          "en": "take drastic measures to pass the bill",
+          "ja": "③ 法案を通すために強硬手段に出る"
+        },
+        {
+          "en": "take ~ measures (to do / against A)",
+          "ja": "(〜するために/Aに対して)〜な手段を取る"
+        },
+        {
+          "en": "a measure of ~",
+          "ja": "ある程度の〜"
+        }
+      ]
+    },
+    {
+      "id": "834",
+      "word": "decline",
+      "phonetic": "[dikláin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 減る, 衰退する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を断る"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 衰退, 減少"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では, ① decrease ② turn ~ downのほうが使われる。",
+        "頻出 decline an offer[invitation]「申し出[招待]を断る」",
+        "頻出 a decline in the birthrate「(我が国の)出生率の低下」",
+        "類義 climb「登る」"
+      ],
+      "word_origin": {
+        "formula": "de-[down下]+-cline[傾く]から「下に傾く」→「減少する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Educational standards are declining.",
+          "ja": "① 教育水準が下がっている."
+        },
+        {
+          "en": "decline his invitation to dinner",
+          "ja": "② 彼の夕食の誘いを断る"
+        },
+        {
+          "en": "a sharp decline in unemployment",
+          "ja": "③ 失業率の急激な減少"
+        },
+        {
+          "en": "decline an offer[invitation]",
+          "ja": "申し出[招待]を断る"
+        },
+        {
+          "en": "a decline in the birthrate",
+          "ja": "(我が国の)出生率の低下"
+        }
+      ]
+    },
+    {
+      "id": "835",
+      "word": "split",
+      "phonetic": "[split]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を割る",
+            "② 〜を分裂させる"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 分裂する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ 分裂, 裂け目, 割れ目"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 split the bill[×pay half]「割り勘にする」",
+        "▶「(おおよそ半分に)割る」",
+        "頻出 split the bill",
+        "▶ ボウリングで第1投投球後, 残ったピンの位置が, 中間が抜けて離ればなれになっている(分裂)状態を「スプリット」と呼ぶ。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Let's split the bill.",
+          "ja": "① 割り勘にしよう(勘定を割る)."
+        },
+        {
+          "en": "The issue split the church.",
+          "ja": "② その問題は教会を分裂させた."
+        },
+        {
+          "en": "split into three groups",
+          "ja": "③ 3つのグループに分かれる"
+        },
+        {
+          "en": "a split in the party",
+          "ja": "④ 党の分裂"
+        },
+        {
+          "en": "split the bill",
+          "ja": "割り勘にする"
+        }
+      ]
+    }
+  ]
+}

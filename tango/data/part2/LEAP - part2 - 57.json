@@ -1,0 +1,287 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "815",
+      "word": "vivid",
+      "phonetic": "[vívid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (記憶, 描写などが)鮮明な",
+            "② (色が)鮮明な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「生き生きとした」",
+        "vi-[命]から「命が躍動している」→「鮮明な」",
+        "☆ revive「生き返る」",
+        "副 vividly「はっきりと, 鮮明に」",
+        "⇨ vividly remember 〜「〜を鮮明に覚えている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "vivid memories of 〜",
+          "ja": "〜の鮮明な記憶"
+        },
+        {
+          "en": "have vivid memories of my time in Sydney",
+          "ja": "① シドニーで過ごした日々の鮮明な思い出が残っている"
+        },
+        {
+          "en": "a vivid blue sky",
+          "ja": "② 目の覚めるような青空"
+        }
+      ]
+    },
+    {
+      "id": "816",
+      "word": "awkward",
+      "phonetic": "[ɔ́ːkwərd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① ぎこちない",
+            "② 気まずい",
+            "③ 扱いにくい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(通常の状態から)ずれている」",
+        "awk-(=away 離れて)+-ward[方向]から「遠くに行ってしまっている」→「ずれている」",
+        "☆ forward「前へ」",
+        "afterward(s)「その後で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an awkward relationship",
+          "ja": "ぎくしゃくした関係"
+        },
+        {
+          "en": "an awkward customer",
+          "ja": "扱いにくい客"
+        },
+        {
+          "en": "the awkward movements of the robot",
+          "ja": "① そのロボットのぎこちない動き"
+        },
+        {
+          "en": "After I laughed out loud, there was an awkward silence.",
+          "ja": "② 私が大声で笑った後, 気まずい沈黙があった."
+        },
+        {
+          "en": "awkward questions like “Where do babies come from?”",
+          "ja": "③ 「赤ちゃんはどこから来るの」といった困った(扱いにくい)質問"
+        }
+      ]
+    },
+    {
+      "id": "817",
+      "word": "objective",
+      "phonetic": "[əbdʒéktiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 客観的な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 目標"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期的な視野に立った具体的な)目的」(☆堅い語.)",
+        "ob-[に対して]+-ject-[投げる]→「対象を(物を投げるくらい)離れた所から見る」",
+        "反 subjective「主観的な」",
+        "⇨ subject「主語」",
+        "⇨ object「目的語」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have an objective view of 〜",
+          "ja": "〜に対して客観的な見方をする"
+        },
+        {
+          "en": "from an objective point of view",
+          "ja": "客観的な視点から"
+        },
+        {
+          "en": "Historians try to be objective.",
+          "ja": "① 歴史家は客観的になるよう努める."
+        },
+        {
+          "en": "Our main objective is to help the homeless.",
+          "ja": "② 私たちの主な目的はホームレスの力になることだ."
+        }
+      ]
+    },
+    {
+      "id": "818",
+      "word": "manual",
+      "phonetic": "[mǽnjuəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 手を使う, 身体を使う",
+            "② 手動の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 手引き書"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "manu-[手] ☆ manuscript「原稿(←手で書いた)」",
+        "反 automatic「自動の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "manual labor[workers]",
+          "ja": "肉体労働[者]"
+        },
+        {
+          "en": "an instruction manual",
+          "ja": "取扱説明書"
+        },
+        {
+          "en": "manual work (↔mental work)",
+          "ja": "① 手仕事(↔頭脳労働)"
+        },
+        {
+          "en": "switch to manual operation",
+          "ja": "② 手動(の操作)に切り替える"
+        },
+        {
+          "en": "a computer manual",
+          "ja": "③ コンピュータの手引き書"
+        }
+      ]
+    },
+    {
+      "id": "819",
+      "word": "alike",
+      "phonetic": "[əláik]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 似ている"
+          ]
+        },
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "② (A and B-) (AもBも)同様に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きな違いがなく, 外見や性質などが)よく似ている」",
+        "注意 ① 強調するときは(very) much alike, 口語では very alike と表現できる。",
+        "① alive「生きている」や asleep「眠っている」と同様に補語として使う。",
+        "☆ like「〜に似た」の類義語として覚えよう。",
+        "⇨ liken (A to B)「(AをBに)例える」",
+        "⇨ alive「生きている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The twins are very alike.",
+          "ja": "① その双子とはとてもよく似ている."
+        },
+        {
+          "en": "Children and parents alike can enjoy this book.",
+          "ja": "② この本は親子共々(子どもも親も同様に)楽しめる."
+        }
+      ]
+    },
+    {
+      "id": "820",
+      "word": "alien",
+      "phonetic": "[éiljən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 異質な",
+            "② 外国(人)の, 地球圏外の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(慣れているものから)大きく異なる」",
+        "② foreign より堅い語",
+        "☆ 日本語の「エイリアン」と同様に「地球圏外の(生物)」の意味もある。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an alien culture",
+          "ja": "異文化"
+        },
+        {
+          "en": "an alien registration card",
+          "ja": "外国人登録証明書"
+        },
+        {
+          "en": "a custom that is alien to me",
+          "ja": "① 私にとって異質な慣習"
+        },
+        {
+          "en": "alien cultures",
+          "ja": "② 外国の文化"
+        }
+      ]
+    },
+    {
+      "id": "821",
+      "word": "tend",
+      "phonetic": "[ténd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(to do)〜する傾向にある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 be apt to do「(本来的な性質で)〜しがちだ」(☆通例, マイナスイメージ)と区別。",
+        "tend to (名詞)「〜の世話をする」の意味もある。",
+        "☆「伸びていく」が元の意味で「〜の方向へ伸びていく」→「〜する傾向にある」",
+        "⇨ extend「〜を延長する, 広げる」",
+        "⇨ tendency「傾向」",
+        "⇨ There is a tendency for A to do.「Aには〜する傾向がある。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Women tend to count calories more than men do.",
+          "ja": "女性は男性よりカロリー計算をする傾向がある."
+        }
+      ]
+    }
+  ]
+}

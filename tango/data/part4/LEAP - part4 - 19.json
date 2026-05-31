@@ -1,0 +1,324 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1590",
+      "word": "drift",
+      "phonetic": "[dríft]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "目的もなくゆっくりと動く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自動車のタイヤを滑らせ(漂わせ)て、カーブを曲がる技術を「ドリフト」という"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a boat drifting on the waves",
+          "ja": "波に漂う船"
+        }
+      ]
+    },
+    {
+      "id": "1591",
+      "word": "alter",
+      "phonetic": "[ɔ́ːltər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を変える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(一部)を変更[修正]する」",
+        "alt-[ほかのもの]→「ほかのものにする」",
+        "alien「異質な」",
+        "名 alteration「(部分的な)変更, 改変」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This does not alter the fact.",
+          "ja": "これによって事実が変わる(事実を変える)わけではない."
+        }
+      ]
+    },
+    {
+      "id": "1592",
+      "word": "convert",
+      "phonetic": "[kənvə́ːrt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A into B) (A)を(Bに)転換する",
+            "② 〜を改宗させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「別の形[性質, 用途]に変える」",
+        "con-[強意]+-vert[回る]→「ぐるっと回って方向転換する」"
+      ],
+      "word_origin": {
+        "formula": "con-[強意]+-vert[回る]→「ぐるっと回って方向転換する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① convert the basement into an office",
+          "ja": "① 地下室を事務所にする(転換する)"
+        },
+        {
+          "en": "② be converted to Christianity",
+          "ja": "② キリスト教へ改宗する(改宗させられる)"
+        }
+      ]
+    },
+    {
+      "id": "1593",
+      "word": "overtake",
+      "phonetic": "[òuvərtéik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を追い越す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(物理的に)追い抜く」から「〜を上回る」まで。",
+        "take oneself over 〜 「自らを〜を越えて連れて行く」の語順が逆転した表現。",
+        "catch up with 〜 「〜に追いつく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "overtake the truck ahead of us",
+          "ja": "前のトラックを追い越す"
+        }
+      ]
+    },
+    {
+      "id": "1594",
+      "word": "dispatch",
+      "phonetic": "[dispǽtʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(使者, 軍隊などを)を派遣する, (物資などを)を送る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「人や物を(ある目的のために)どこかへ送り込む」",
+        "dis-[分離]+-patch[邪魔]から「障害物を取り除く」→「(万難を排して)送り届ける」",
+        "名 dispatch「派遣」"
+      ],
+      "word_origin": {
+        "formula": "dis-[分離]+-patch[邪魔]から「障害物を取り除く」→「(万難を排して)送り届ける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "dispatch troops to the border",
+          "ja": "国境に軍隊を派遣する"
+        }
+      ]
+    },
+    {
+      "id": "1595",
+      "word": "shrink",
+      "phonetic": "[ʃríŋk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 縮む",
+            "② (数量が)減る"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜を縮ませる, 減らす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「曲がる」が元の意味。",
+        "shrug「肩をすくめる」",
+        "shrimp「エビ(←体が曲がっている生物)」",
+        "[活用]shrink-shrunk-shrunk(en)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This shirt has shrunk.",
+          "ja": "① このシャツは縮んだ."
+        },
+        {
+          "en": "② the shrinking birthrate",
+          "ja": "② 少子化(低下している出生率)"
+        },
+        {
+          "en": "③ shrink the deficit",
+          "ja": "③ 赤字を減少させる"
+        }
+      ]
+    },
+    {
+      "id": "1596",
+      "word": "wither",
+      "phonetic": "[wíðər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "しおれる, しぼむ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「植物[人]の元気がなくなる, 色があせる」",
+        "weather「(雨, 風の)天気にさらされて「しおれる」(＊つづりの違いに注意)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The flower withered in the heat.",
+          "ja": "暑さで花がしおれた."
+        }
+      ]
+    },
+    {
+      "id": "1597",
+      "word": "descend",
+      "phonetic": "[disénd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "降下する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "日常では go down や come down のほうがふつう。",
+        "名 descent「降下」",
+        "descendant「子孫(←降りて来た人)」",
+        "反 ascend「上昇する(＊航空管制官は descend との聞き間違いを避けるために「上昇する」と表現する際には climb を用いる。)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Our plane started to descend.",
+          "ja": "飛行機が下降を開始した."
+        }
+      ]
+    },
+    {
+      "id": "1598",
+      "word": "accelerate",
+      "phonetic": "[æksélərèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を加速する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(自動車などを)加速する」から「(経済成長を)加速する」まで。",
+        "自動車の「アクセル」を踏むことで加速させることができる。",
+        "名 acceleration「加速」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "accelerate the aging process",
+          "ja": "老化を早める"
+        }
+      ]
+    },
+    {
+      "id": "1599",
+      "word": "fluctuate",
+      "phonetic": "[flʌ́ktʃuèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(数値, 物価が)変動する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「上がったり下がったりを繰り返す」",
+        "flu-(=flow 流れる)→「(波が)上がったり下がったりする」",
+        "名 fluctuation「変動」",
+        "stable「安定した, 変動がない」"
+      ],
+      "word_origin": {
+        "formula": "flu-(=flow 流れる)→「(波が)上がったり下がったりする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Stock prices are fluctuating wildly.",
+          "ja": "株価は乱高下している(激しく変動している)."
+        }
+      ]
+    },
+    {
+      "id": "1600",
+      "word": "distort",
+      "phonetic": "[distɔ́ːrt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を歪める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(物の形や話など)を変な方向に変える」",
+        "dis-[強意]+-tort[ねじる]",
+        "torture「拷問(←生きた人間の体をねじること)」",
+        "torch「たいまつ(←ねじった麦わら)」",
+        "名 distortion「歪める」"
+      ],
+      "word_origin": {
+        "formula": "dis-[強意]+-tort[ねじる]",
+        "description": "torture「拷問(←生きた人間の体をねじること)」, torch「たいまつ(←ねじった麦わら)」"
+      },
+      "examples": [
+        {
+          "en": "distort a historical fact",
+          "ja": "史実を歪める"
+        }
+      ]
+    }
+  ]
+}

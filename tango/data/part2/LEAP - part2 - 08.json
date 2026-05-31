@@ -1,0 +1,278 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "451",
+      "word": "stomachache",
+      "phonetic": "[stʌ́məkèik]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "腹痛"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 腹部に感じる(持続的な)痛み",
+        "頻出 have a sharp[bad, terrible] stomachache 「ひどい腹痛がする」",
+        "★ stomach-「胃」+-ache「痛み」 ㊥ báckache「腰痛」 tóothache「歯痛」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "drop out of the race because of a sudden stomachache",
+          "ja": "突然の腹痛でレースを棄権する"
+        }
+      ]
+    },
+    {
+      "id": "452",
+      "word": "symptom",
+      "phonetic": "[símptəm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (通例 -s)症状",
+            "② 兆候"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(病気の)症状」から「(深刻な問題の)兆候」まで。",
+        "頻出 ① cause[develop, alleviate] symptoms 「症状を引き起こす[示す, 緩和する]」",
+        "注意 ① 「(病気の)症状」はさまざまな形で現れるので, 通例, 複数形とする。",
+        "★ sym-(=syn-一緒に)+-ptom[落ちる]→「(災いが)ふりかかること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① show the symptoms of heatstroke",
+          "ja": "① 熱中症の症状が現れる"
+        },
+        {
+          "en": "② a symptom of social inequality",
+          "ja": "② 社会の不平等な兆候"
+        }
+      ]
+    },
+    {
+      "id": "453",
+      "word": "cancer",
+      "phonetic": "[kǽnsər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① がん",
+            "② (C-)かに座"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① breast[lung, skin, stomach] cancer 「乳[肺, 皮膚, 胃]がん」",
+        "a terminal cancer patient 「末期がん患者」",
+        "★ ①は「がんを取り巻く血管が, カニの足に似ている」ことに由来。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① get[×become] cancer",
+          "ja": "① がんになる"
+        },
+        {
+          "en": "② My star sign is Cancer.",
+          "ja": "② 私の星座はかに座です。"
+        }
+      ]
+    },
+    {
+      "id": "454",
+      "word": "ambulance",
+      "phonetic": "[ǽmbjuləns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "救急車"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ a fire engine 「消防車」",
+        "頻出 call[dispatch] an ambulance 「救急車を呼ぶ[急派する]」",
+        "take ~ to (the) hospital by[in an] ambulance 「救急車で〜を病院に搬送する」",
+        "★ amb-(=around あちこち)→「(病人を乗せて)街をあちこち走り回る車」",
+        "㊥ ambiguous「曖昧な(←意味があちこち行く)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fire engines and ambulances",
+          "ja": "消防車と救急車"
+        }
+      ]
+    },
+    {
+      "id": "455",
+      "word": "recover",
+      "phonetic": "[rikʌ́vər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (from ~) (~から)回復する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (盗品など)を取り戻す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「かぜから回復する」程度なら get over one's cold などと表現する。",
+        "★ 名 recovery「回復, 取り戻すこと」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① recover from a heart attack",
+          "ja": "① 心臓発作から回復する"
+        },
+        {
+          "en": "② recover the paintings stolen from the museum",
+          "ja": "② 美術館から盗まれた絵画を取り戻す"
+        }
+      ]
+    },
+    {
+      "id": "456",
+      "word": "sore",
+      "phonetic": "[sɔ́ːr]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (のどや筋肉が)痛い",
+            "② (話題など)触れてほしくない, 心が痛む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「触れたり使ったりすると痛い」(*painful より口語的。)",
+        "頻出 ① have a sore throat 「のどが痛い」",
+        "★ sor-[痛い] ☆sórry「気の毒で(←心が痛む)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a sore throat from a cold",
+          "ja": "① かぜでのどが痛い"
+        },
+        {
+          "en": "② a sore subject",
+          "ja": "② 触れてほしくない話題"
+        }
+      ]
+    },
+    {
+      "id": "457",
+      "word": "swell",
+      "phonetic": "[swél]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (手足などが)腫れる",
+            "② (風船, 費用などが)膨らむ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「大きく膨らむ」",
+        "★ 形 swollen「腫れた, 腫れ上がった」 ⇔ My feet are swollen. 「足がむくんでいる。」 ㊥ blow ~ up「(風船などを)膨らませる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① My eyelids swelled up.",
+          "ja": "① まぶたが腫れ上がった。"
+        },
+        {
+          "en": "② The balloon was swelling more and more.",
+          "ja": "② その風船はどんどん膨らんでいった。"
+        }
+      ]
+    },
+    {
+      "id": "458",
+      "word": "cough",
+      "phonetic": "[kɔ́ːf]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 咳をする"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 咳(可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ 日本語ではふつう咳の音を「コンコン」や「ゴホゴホ」というが, 英語では [kɔ́ːf kɔ́ːf] といい, そこからできた擬音語。 ㊥ sneeze「くしゃみをする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① cough loudly",
+          "ja": "① 大きく咳をする"
+        },
+        {
+          "en": "② I have a bad cough.",
+          "ja": "② 咳がひどい。"
+        }
+      ]
+    },
+    {
+      "id": "459",
+      "word": "bleed",
+      "phonetic": "[blíːd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "出血する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(花が咲くように)血が噴き出す」",
+        "頻出 bleed to death 「出血多量で死ぬ」",
+        "★ 「花を咲かせる」が元の意味。 ★ blóom「(花が)咲く」 名 blóod「血」",
+        "形 blóody「血なまぐさい, 血だらけの」 [活用]bleed-bled-bled"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My nose has started to bleed.",
+          "ja": "鼻血が出てきた(鼻が出血し始めた)。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "720",
+      "word": "leak",
+      "phonetic": "[líːk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 漏れる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を漏らす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 漏れ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (水やガスなどが)漏れる",
+        "頻出 ① leak out「(情報などを)漏らす」",
+        "② leak A to B「AをBにリークする(漏らす)」",
+        "★ 日本語でも「情報をリークする」という。名 leakage「漏れ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This roof leaks.",
+          "ja": "① 雨漏りがする(この屋根は漏れる)."
+        },
+        {
+          "en": "leak secret information",
+          "ja": "② 秘密の情報を漏らす"
+        },
+        {
+          "en": "a gas leak",
+          "ja": "③ ガス漏れ"
+        }
+      ]
+    },
+    {
+      "id": "721",
+      "word": "climate",
+      "phonetic": "[kláimit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 気候",
+            "② (政治, 経済, 文化の)状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ある土地の年間を通じての)気候」◇weather「(日々変わる)天気」",
+        "頻出 ① global climate change「世界的な気候変動」",
+        "注意 weather →〈不可算〉 climate →〈可算〉",
+        "★ 「気候」が悪いと、暗い水戸黄門。clim-[傾き]→「気候」(*気候は緯度の「傾き(違い)」によって決まる。) 派生 climb「登る」 cliff「崖」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This town has a mild [harsh] climate.",
+          "ja": "① この町の気候は温暖[過酷]です。"
+        },
+        {
+          "en": "the present economic climate",
+          "ja": "② 現在の経済状況"
+        }
+      ]
+    },
+    {
+      "id": "722",
+      "word": "atmosphere",
+      "phonetic": "[ǽtməsfìər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (the -)大気",
+            "② 雰囲気",
+            "③ (the Earth's -)大気圏"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① (地球, 惑星を覆う)大気 → ② (その場を覆う)空気",
+        "◇mood「人(の一時的な)気分」",
+        "注意 ②「(部屋や店内など、限定された空間の)雰囲気」では使用するが、「(人やなどの)雰囲気」には使用しないのが無難。",
+        "★ atmo-[水蒸気, 空気]+-sphere[球]→「大気」☆hémisphere「半球」",
+        "派生 atmospheric「大気の」 参 the ozone [óuzoun] layer「オゾン層」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "ice crystals in the atmosphere",
+          "ja": "① 大気中の氷の結晶"
+        },
+        {
+          "en": "Our workplace has a friendly atmosphere.",
+          "ja": "② 私たちの職場は和やかな雰囲気だ。"
+        },
+        {
+          "en": "re-enter the atmosphere",
+          "ja": "③ 大気圏に再突入する"
+        }
+      ]
+    },
+    {
+      "id": "723",
+      "word": "forecast",
+      "phonetic": "[fɔ́ːrkæst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 予報"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を予報する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (天候や社会情勢, 出来事などを)(科学的に)予測し, 報じる",
+        "頻出 ① check the weather forecast「天気予報をチェックする」",
+        "★ fore-[前もって]+-cast[投げる]→「前もって投げる」☆broadcast「放送する(←幅広く投げる)」",
+        "活用 forecast-forecast-forecast"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "according to the weather forecast",
+          "ja": "① 天気予報によれば"
+        },
+        {
+          "en": "Snow is forecast for the weekend.",
+          "ja": "② 週末は雪の予報だ(雪が予報された)。"
+        }
+      ]
+    },
+    {
+      "id": "724",
+      "word": "humid",
+      "phonetic": "[hjúːmid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "湿気が多い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「暑さについての不快感」を表すのに使う。",
+        "★ hum-[土]→「(土の周りには湿気がある)」",
+        "派生 humidity「湿度, 湿気の多さ」 参 humidifier「加湿器」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Kyoto is hot and humid in summer.",
+          "ja": "京都は夏は蒸し暑い。"
+        }
+      ]
+    },
+    {
+      "id": "725",
+      "word": "tropical",
+      "phonetic": "[trápikəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "熱帯の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 tropical rainforests [fish]「熱帯雨林[魚]」",
+        "反 frigid「冷帯の」 参 subtropical「亜熱帯の」, cárbon dióxide「二酸化炭素」, acid rain「酸性雨」, the temperate zone「温帯」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "tropical rainforests",
+          "ja": "熱帯雨林"
+        }
+      ]
+    },
+    {
+      "id": "726",
+      "word": "solar",
+      "phonetic": "[sóulər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "太陽の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「太陽の熱や光線を利用する」",
+        "頻出 a solar battery「太陽電池」, the [our] solar system「太陽系」",
+        "参 a solar eclipse「日食」(ec-[=ex 外に]+-lip-[=leave 去る])",
+        "★ sun「太陽」の形容詞形。日本語でも「ソーラーパネル(←太陽光で発電を行うためのパネル)」などで使われる。参 lúnar「月の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "install solar panels on the roof",
+          "ja": "屋根にソーラーパネルを取り付ける"
+        }
+      ]
+    }
+  ]
+}

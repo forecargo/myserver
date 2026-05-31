@@ -1,0 +1,319 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1131",
+      "word": "devastate",
+      "phonetic": "[dévəstèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (町など)を壊滅させる",
+            "② (人)を打ちのめす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷「破壊の強さ」destróy > devastate > dámage",
+        "語源 de-[強意] + -va-[空っぽの]から「空っぽにする」→「〜を壊滅させる」",
+        "派生 形 devastating「壊滅的な, ひどい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The city was devastated by a big earthquake.",
+          "ja": "その都市は大地震で壊滅した(壊滅させられた)."
+        },
+        {
+          "en": "He was devastated by the news of her death.",
+          "ja": "彼は彼女の死の知らせに打ちのめされた."
+        }
+      ]
+    },
+    {
+      "id": "1132",
+      "word": "crash",
+      "phonetic": "[kræʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 激突する",
+            "② (飛行機が)墜落する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 激突, 墜落"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷「すごい勢いでぶつかる」",
+        "▶日本語でも「クラッシュ(激突)する」などの形で使われる.",
+        "比較 crush「〜を粉々にする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "crash into the barrier",
+          "ja": "ガードレールに激突する"
+        },
+        {
+          "en": "The plane crashed and caught fire.",
+          "ja": "その飛行機は墜落し, 炎上した."
+        },
+        {
+          "en": "the site of the plane crash",
+          "ja": "飛行機の墜落現場"
+        }
+      ]
+    },
+    {
+      "id": "1133",
+      "word": "hazard",
+      "phonetic": "[hæzərd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "危険(になり得るもの) ‹可算›"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶予期せぬ, 偶発的な危険, 本来危険でないものが危険になりうる",
+        "派生 形 hazardous「危険な」",
+        "語法 a hazard map「被害予測地図」",
+        "派生 形 haphazard「無計画の, でたらめの」(hap-[偶然] + -hazard [危険])",
+        "派生 名 biohazard「生物災害(生物学研究に起因する人体や環境への危険性)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Steep stairs can be a hazard for elderly people.",
+          "ja": "急な階段は高齢者にとって危険(なもの)になり得る."
+        }
+      ]
+    },
+    {
+      "id": "1134",
+      "word": "debris",
+      "phonetic": "[dǝbríː]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "破片, 残骸"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(事故や爆発などで破壊されて)粉々になったもの」",
+        "語源 de-[down 強意] + -bris[=break]→「すっかり壊されたもの」",
+        "類義 rubble「(英)瓦礫」",
+        "類義 wreckage「(車, 飛行機の)残骸」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "clear space debris",
+          "ja": "宇宙ゴミを片付ける"
+        }
+      ]
+    },
+    {
+      "id": "1135",
+      "word": "orphan",
+      "phonetic": "[ɔ́ːrfən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "孤児"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「両親のいない(時に片親の)子」",
+        "派生 名 orphanage (=a home for orphans)「孤児院」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a war orphan",
+          "ja": "戦争孤児"
+        }
+      ]
+    },
+    {
+      "id": "1136",
+      "word": "slave",
+      "phonetic": "[sléiv]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 奴隷",
+            "② (to 〜) (比喩的に) (〜の)奴隷"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶中世に多数のスラブ人(Slav)が奴隷にされていたことに由来.",
+        "派生 名 slavery「奴隷制度」",
+        "派生 他 whip「(人, 動物)をむち打つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "free the slaves",
+          "ja": "奴隷を解放する"
+        },
+        {
+          "en": "a slave to work",
+          "ja": "仕事の奴隷"
+        }
+      ]
+    },
+    {
+      "id": "1137",
+      "word": "acquaintance",
+      "phonetic": "[əkwéintəns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 知人",
+            "② 面識, (ちょっとした)知識"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「友人ほど親しくはなく、名前や顔を知っている程度の関係」",
+        "語源 ac-[=ad 方向] + -quaint-[=know]",
+        "語法 be acquainted (with 〜)「(〜を)知っている」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an old acquaintance",
+          "ja": "昔からの知り合い"
+        },
+        {
+          "en": "have some acquaintance with Latin",
+          "ja": "ラテン語を多少知っている(少し知識がある)"
+        }
+      ]
+    },
+    {
+      "id": "1138",
+      "word": "merchant",
+      "phonetic": "[mә́ːrʧənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "商人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(名詞)merchantで「〜を扱う商店主」の意味.",
+        "語源 merch-[商売する] + -ant[人] (*フリマアプリ「メルカリ」の名前もこれに由来.)",
+        "類義 market「市場」",
+        "類義 commerce「商業」",
+        "派生 名 merchandise「(集合的に)商品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a wine merchant",
+          "ja": "ワイン店を営む人"
+        }
+      ]
+    },
+    {
+      "id": "1139",
+      "word": "resident",
+      "phonetic": "[rézədənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 住人, 居住者",
+            "② 滞在者"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ 住んでいる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 re-[後ろ] + -sid-[=sit 座る]",
+        "比較 président「大統領(〜人の前に座る)」",
+        "派生 名 residence「住宅」",
+        "派生 形 residential「住宅の」",
+        "派生 自 reside「住む, ある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Parking spaces are for residents only.",
+          "ja": "駐車スペースは居住者専用です."
+        },
+        {
+          "en": "a foreign resident of Japan",
+          "ja": "在日外国人(外国人の日本滞在者)"
+        },
+        {
+          "en": "be resident in Tokyo",
+          "ja": "東京に住んでいる"
+        }
+      ]
+    },
+    {
+      "id": "1140",
+      "word": "crew",
+      "phonetic": "[krúː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (集合的に)乗組員",
+            "② (取材などの)チーム"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(乗客以外の)乗組員(全体)」",
+        "語法「(1人の)乗組員」は a crew member と表現."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "passengers and crew on the plane",
+          "ja": "飛行機の乗客と乗組員"
+        },
+        {
+          "en": "a camera crew",
+          "ja": "テレビカメラ班"
+        }
+      ]
+    }
+  ]
+}

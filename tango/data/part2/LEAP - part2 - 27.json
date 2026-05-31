@@ -1,0 +1,221 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "598",
+      "word": "ban",
+      "phonetic": "[bæn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 禁止 (可算)",
+            "② 〜の禁止"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を禁止する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (公式に) (よくない行為)を禁止する",
+        "解説 ① a ban on 〜「〜の禁止」(*新聞の見出しでよく見る表現.)",
+        "impose a ban on 〜「〜を(公式に)禁じる」",
+        "lift a ban「解禁する」",
+        "② ban doing「〜することを禁じる」",
+        "派生 bánish「〜を追放する(←出ていけと叫ぶ)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "impose a total ban on smoking in public places",
+          "ja": "公共の場所での喫煙を全面的に禁止する"
+        },
+        {
+          "en": "ban the illegal downloading of music",
+          "ja": "音楽の違法ダウンロードを禁止する"
+        }
+      ]
+    },
+    {
+      "id": "599",
+      "word": "refuse",
+      "phonetic": "[rifjúːz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (to do) 〜するのを拒む",
+            "② 〜を断る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (申し出や, 申し出されたもの)をきっぱりと断る",
+        "注意 (日常では turn down のほうが使われる.)",
+        "解説 ② refuse an offer [an invitation]「申し出[招待]を断る」",
+        "注意 「意見」などは目的語にとらない.",
+        "語源 re-[再び] + -fuse[注ぐ] →「注ぎ返す」",
+        "類義 confúse「〜を困惑させる(←全部)」",
+        "派生 refusal「拒否, 拒絶」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -fuse[注ぐ] -> 「注ぎ返す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "refuse to listen to him",
+          "ja": "彼の話を聞くことを拒む"
+        },
+        {
+          "en": "flatly refuse the offer",
+          "ja": "きっぱりとその申し出を断る"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "word": "reject",
+      "phonetic": "[ridʒékt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を拒絶する",
+            "② (人)を拒む, 除け者にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (要求, 提案などを)激しく拒絶する, はねつける",
+        "(=flatly refuse to accept or agree with something)",
+        "解説 ① reject an idea [a proposal]「考え[提案]を拒絶する」",
+        "語源 re-[再び] + -ject[投げる] →「投げ返す」",
+        "類義 próject「計画(←前へ投げる)」",
+        "派生 rejection「拒絶, 拒否」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -ject[投げる] -> 「投げ返す」",
+        "description": "próject「計画(←前へ投げる)」"
+      },
+      "examples": [
+        {
+          "en": "reject the idea",
+          "ja": "その考えを拒絶する"
+        },
+        {
+          "en": "People in the village rejected him.",
+          "ja": "村の人々は彼を除け者にした."
+        }
+      ]
+    },
+    {
+      "id": "601",
+      "word": "persuade",
+      "phonetic": "[pərsweíd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A to do) (A)を説得して〜させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「説得に成功する」",
+        "注意 「説得したがだめだった」のような場合は try to persuade と表現する.",
+        "▶ バスしたほうがええとと「説得する」",
+        "派生 persuásion「説得」",
+        "派生 persuásive「説得力のある」",
+        "反 dissuáde (A from doing)「(A)に〜しないよう説得する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It is no use trying to persuade him to eat carrots.",
+          "ja": "ニンジンを食べるよう彼を説得するのは無駄だ."
+        }
+      ]
+    },
+    {
+      "id": "602",
+      "word": "convince",
+      "phonetic": "[kənvíns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A of B) (A)に(Bを)確信させる, (A that SV) (A)に(〜を)確信させる",
+            "② (A to do) (A)を説得して〜させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (相手を追い詰めて)説き伏せる, 思い込ませる",
+        "頻出 be convinced「確信している」",
+        "語源 con-[すっかり] + -vince[=vict 征服する] →「勝利」",
+        "派生 convincing「説得力のある」",
+        "派生 convincing evidence「説得力のある証拠」",
+        "派生 conviction「(事実に基づく)確信」"
+      ],
+      "word_origin": {
+        "formula": "con-[すっかり] + -vince[=vict 征服する] -> 「勝利」",
+        "description": "víctory「勝利」"
+      },
+      "examples": [
+        {
+          "en": "convince him that I am right",
+          "ja": "私が正しいことを彼に確信させる"
+        },
+        {
+          "en": "convince him to study hard",
+          "ja": "彼を説得して熱心に勉強させる"
+        }
+      ]
+    },
+    {
+      "id": "603",
+      "word": "inspire",
+      "phonetic": "[inspáiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を奮起させる, かき立てる",
+            "② (作品)に創作のヒントを与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「やる気にさせる, (ある感情や考えを)吹き込む」",
+        "頻出 ① inspire (人) to do「(人)を奮起させて〜させる」",
+        "語源 in-[中に] + -spire[息] →「息を吹き込む」",
+        "類義 aspíre「熱望する」 (a-[=ad 方 向] + -spire[息])",
+        "派生 inspirátion「霊感, インスピレーション」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -spire[息] -> 「息を吹き込む」",
+        "description": "aspíre「熱望する」 (a-[=ad 方 向] + -spire[息])"
+      },
+      "examples": [
+        {
+          "en": "His remark inspired me to study.",
+          "ja": "彼の発言で私の勉強のスイッチが入った(彼の発言が私を奮起させた)."
+        },
+        {
+          "en": "This novel was inspired by real events.",
+          "ja": "この小説は実話をヒントにしている(実話からヒントを与えられた)."
+        }
+      ]
+    }
+  ]
+}

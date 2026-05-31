@@ -1,0 +1,235 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "917",
+      "word": "script",
+      "phonetic": "[skrípt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 台本, 脚本",
+            "② (ある言語の) 文字",
+            "③ (手書きの) 文字"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(劇, 映画, 放送などの)台本」の意味になることが多い。",
+        "▶ ①の「〜のせりふ(〜の担当の台本)」は one's lines と表現する。",
+        "memorize one's lines 「台本(自分のせりふ)を覚える」",
+        "派生: scrip- [書く] describe「〜を描く」 scribble「落書きする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a film script",
+          "ja": "① 映画の台本"
+        },
+        {
+          "en": "in Arabic script",
+          "ja": "② アラビア文字で"
+        },
+        {
+          "en": "try to read his badly written scripts",
+          "ja": "③ 彼の下手な文字を読もうとする"
+        }
+      ]
+    },
+    {
+      "id": "918",
+      "word": "tale",
+      "phonetic": "[téil]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "話"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(架空, 伝説上の)話」だけでなく「(実際の)話」も指すが、「(脚色された)作り話」を指すことが多い。",
+        "◇ fable「寓話(←動物などを擬人化した教訓的な話)」",
+        "頻出: a fairy tale「おとぎ話」 a folk tale「民話」 The Tale of Genji「源氏物語」",
+        "派生: tell「〜を話す」と同語源。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a Japanese folk tale",
+          "ja": "日本の民話"
+        }
+      ]
+    },
+    {
+      "id": "919",
+      "word": "literature",
+      "phonetic": "[lítərətʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 文学",
+            "② 文献"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①②ともに〈不可算〉",
+        "▶「書かれたもの」",
+        "頻出: popular literature「大衆文学」",
+        "注意: ふつう①の意味だが, 学術的な論文では②の意味。",
+        "派生: literary「文学の」 literary works「文学作品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Nobel Prize in Literature",
+          "ja": "① ノーベル文学賞"
+        },
+        {
+          "en": "the medical literature",
+          "ja": "② 医学に関わる文献"
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "word": "tragedy",
+      "phonetic": "[trǽdʒədi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "悲劇"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(劇のジャンルの)悲劇」から「悲劇的な出来事」まで。",
+        "頻出: end in tragedy「悲しい結末で終わる」 (*この場合は〈不可算〉。)",
+        "派生: tragic「悲劇的な」 comic「喜劇的な」",
+        "反: comedy「喜劇」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "9/11 was a terrible tragedy.",
+          "ja": "9/11(の同時多発テロ)は本当に悲劇だった。"
+        }
+      ]
+    },
+    {
+      "id": "921",
+      "word": "poetry",
+      "phonetic": "[póuitri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "詩"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶〈不可算〉",
+        "▶「(集合的に)詩」",
+        "◇ poem「(個々の)詩」",
+        "注意: -(r)yの形の名は〈不可算〉が多い。(*[例外]dictionary「辞書」)",
+        "派生: poet-[詩] + -ry[集合]",
+        "派生語例: scenery「(美しい自然の)風景」 greenery「緑(の草木)」 photography「写真, 撮影(術)」 jewelry「(集合的に)宝石」 machinery「(集合的に)機械(類)」",
+        "◇ prose「散文」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "learn a lot of poetry by heart",
+          "ja": "多くの詩を暗記する"
+        },
+        {
+          "en": "learn a poem by heart",
+          "ja": "◇ 1つの詩を暗記する"
+        }
+      ]
+    },
+    {
+      "id": "922",
+      "word": "biography",
+      "phonetic": "[baiágrəfi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "伝記"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「個人の生涯を記録したもの」(*bioと略すこともある。)",
+        "注意: autobiography「自伝」と区別。",
+        "派生: bio-[命] + -graphy[描く] から「生涯を描いたもの」→「伝記」",
+        "派生語例: biology「生物学」 demography「人口統計学(←人々について書くこと)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a biography of Helen Keller",
+          "ja": "ヘレン・ケラーの伝記"
+        }
+      ]
+    },
+    {
+      "id": "923",
+      "word": "term",
+      "phonetic": "[tə́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 用語, 言葉",
+            "② (long[short]などを伴い) 期間, 学期, 任期",
+            "③ (be on 〜 -s) (〜の) 間柄である",
+            "④ (-s) (契約などの) 条件"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(限られた)枠」→①「(意味の枠→)用語」②「(時間の枠→)期間」③「(相手との関係の枠→)間柄」④「(取り決めの枠→)条件」",
+        "(*①以外は, 上記の「語の意味」の( )のように使用条件が限られる。)",
+        "頻出: come to terms with 〜「(悲しいこと)を受け入れる(←現実の枠に入る)」",
+        "頻出: in terms of 〜「〜の観点から(←〜の枠の中で)」",
+        "頻出: be on good terms with 〜「〜と良好な関係にある」(*特に「仲がよい」という意味では。)",
+        "頻出: on 〜 terms「〜な条件で」",
+        "注意: 他 term (O C)「Oを(Cと)称する」",
+        "派生: term[限界, 境界]→「枠」 terminal「(鉄道などの)終着駅」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the term [×word] “digital native”",
+          "ja": "①『デジタルネイティブ』という言葉"
+        },
+        {
+          "en": "the autumn term",
+          "ja": "② 秋学期"
+        },
+        {
+          "en": "I am on good terms with her after our divorce.",
+          "ja": "③ 離婚後も彼女と良好な関係にある。"
+        },
+        {
+          "en": "I'll only take the job on my own terms.",
+          "ja": "④ 私の条件を受け入れていただけないなら, その仕事はやりません。"
+        }
+      ]
+    }
+  ]
+}

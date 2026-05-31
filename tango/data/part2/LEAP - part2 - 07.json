@@ -1,0 +1,241 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "444",
+      "word": "dizzy",
+      "phonetic": "[dízi]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "めまいがして"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(体調不良や興奮, 高所などで)頭がくらくらする」「目がくらむような, 当惑した」の意味にも使われる。",
+        "頻出 be [feel] dizzy with [from] ~ 「〜でくらくらする」",
+        "feel dizzy after staying in the bath too long 「長湯でのぼせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I felt dizzy when I stood up.",
+          "ja": "立ち上がったときにめまいがした。"
+        }
+      ]
+    },
+    {
+      "id": "445",
+      "word": "appetite",
+      "phonetic": "[ǽpətàit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "食欲"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ = a desire for food",
+        "頻出 lose [control] one's appetite 「食欲をなくす[抑える]」",
+        "☆competition 「競争(←一緒に同じものを求める)」 派生 appetizer 「〈米〉前菜, 食前酒」"
+      ],
+      "word_origin": {
+        "formula": "ap- [=ad 方向] + -petite [=pet 求める]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have a hearty appetite",
+          "ja": "食欲が旺盛だ"
+        }
+      ]
+    },
+    {
+      "id": "446",
+      "word": "starve",
+      "phonetic": "[stάːrv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 餓死する",
+            "② (be -ing) とてもお腹が空いている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① starve to death 「飢え死ぬ」 (*「死ぬ」を強調した表現。)",
+        "語源 sta- [じっとした] →「死んでじっとする」 ☆star 「星(←じっとしているもの)」",
+        "stay 「とどまる」 派生 starvation 「飢餓, 餓死」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① A lot of people are starving to death in Africa.",
+          "ja": "① アフリカでは多くの人が飢死している。"
+        },
+        {
+          "en": "② I'm starving. What's for dinner?",
+          "ja": "② お腹がぺこぺこだ。夕食は何?"
+        }
+      ]
+    },
+    {
+      "id": "447",
+      "word": "mental",
+      "phonetic": "[méntl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 精神の",
+            "② 知力の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「頭脳(心理, 知性)に関わる」",
+        "頻出 ① mental illness 「精神病」 mental health 「心の健康」",
+        "注意 日本語の「メンタル」は名詞扱いだが, 英語では形。",
+        "派生 mentally 「精神的に」 反 physical 「肉体的な, 物理的な(←形のある物)」 類 mind 「精神, 知力」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① mental and physical health",
+          "ja": "① 心身の健康"
+        },
+        {
+          "en": "② mental labor (⇔manual labor)",
+          "ja": "② 知的労働 (⇔肉体労働)"
+        }
+      ]
+    },
+    {
+      "id": "448",
+      "word": "rest",
+      "phonetic": "[rést]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 休憩",
+            "② (the -) 残り"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (横になったりして)休む",
+            "④ (on ~) (〜)次第だ"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "⑤ 〜を休ませる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③ take a rest 「ちょっと休憩する」より長い時間「休む」の意味。",
+        "④ depend on ~ より堅い表現。",
+        "注意 ② for the rest of my life「一生涯」など「残り」と訳さないことも多い。",
+        "派生 restless 「落ち着かない」 類 restroom 「(デパートなどの)トイレ, 洗面所」 語法 have [take] two days off 「2日休む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① take a rest",
+          "ja": "① (ちょっと)休憩する"
+        },
+        {
+          "en": "② the rest of the day",
+          "ja": "② その日の残り (の時間)"
+        },
+        {
+          "en": "③ You need to rest for a while.",
+          "ja": "③ 君はしばらく休憩する必要があるよ。"
+        },
+        {
+          "en": "④ Our success rests on his ability.",
+          "ja": "④ 私たちの成功は彼の能力次第だ。"
+        },
+        {
+          "en": "⑤ rest my eyes",
+          "ja": "⑤ 目を休ませる"
+        }
+      ]
+    },
+    {
+      "id": "449",
+      "word": "surgery",
+      "phonetic": "[sə́ːrdʒəri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 手術",
+            "② 外科"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① ② ともに〈不可算〉",
+        "頻出 ① have [undergo] surgery on ~ 「〜の手術を受ける」",
+        "major [minor] surgery 「大[小]手術」",
+        "派生 surgeon 「外科医」 類 surgical 「外科の」 語法 clinical 「臨床の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have heart bypass surgery",
+          "ja": "① 心臓バイパス手術を受ける"
+        },
+        {
+          "en": "② dental surgery",
+          "ja": "② 口腔外科"
+        }
+      ]
+    },
+    {
+      "id": "450",
+      "word": "disease",
+      "phonetic": "[dizíːz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "病気"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(病名が明確な)病気」 ⇔ Alzheimer's disease [× illness]",
+        "「アルツハイマー病」(＊disease によって引き起こされる状態が illness)",
+        "頻出 get a disease 「病気にかかる」 catch a disease 「(感染症の)病気にかかる」 have [suffer from] a disease 「病気にかかっている」 a lifestyle(-related) disease 「生活習慣病」",
+        "注意 「(漠然とした)病気」は〈不可算〉の扱いで, 「(種類などを意識した場合の)病気」は〈可算〉の扱いとなる。"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -ease [簡単] →「簡単ではないもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the risk of heart disease",
+          "ja": "心臓病のリスク"
+        }
+      ]
+    }
+  ]
+}

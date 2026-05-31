@@ -1,0 +1,336 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1966",
+      "word": "furious",
+      "phonetic": "[fjúəriəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "激怒した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ = extremely angry",
+        "★ fire「火」→ furious「烈火のごとく怒る」と関連づけて覚えよう。",
+        "派 fury「激怒」",
+        "他 infuriate「〜を激怒させる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was furious with him for leaving the baby alone in the car.",
+          "ja": "彼が赤ちゃんを車の中に放置したことに対して激怒した。"
+        }
+      ]
+    },
+    {
+      "id": "1967",
+      "word": "intimate",
+      "phonetic": "[íntəmət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 親密な",
+            "② (知識などが)深い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「性的な関係」を示唆するので、日常では close を使うのが無難。",
+        "名 intimacy「親密さ」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -timate[最も] →「最も内部の」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① an intimate conversation",
+          "ja": "① 親密な会話"
+        },
+        {
+          "en": "② his intimate knowledge of Japan",
+          "ja": "② 彼の日本に関する深い知識"
+        }
+      ]
+    },
+    {
+      "id": "1968",
+      "word": "aesthetic",
+      "phonetic": "[esθétik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 美的な",
+            "② 審美眼がある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「美に関わる」",
+        "〈米〉では esthetic.",
+        "副 aesthetically「美的に」",
+        "名 aesthetics「美学」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① from an aesthetic point of view",
+          "ja": "① 美的観点から"
+        },
+        {
+          "en": "② develop an aesthetic sense",
+          "ja": "② 審美眼を磨く"
+        }
+      ]
+    },
+    {
+      "id": "1969",
+      "word": "conscience",
+      "phonetic": "[kánʃəns]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "良心"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 conscientious「(人, 言動が)良心的な」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -science[知識] →「知識の集合」",
+        "description": "＊知識をつければ、善悪の判断がつくようになる。"
+      },
+      "examples": [
+        {
+          "en": "follow my conscience",
+          "ja": "良心に従う"
+        }
+      ]
+    },
+    {
+      "id": "1970",
+      "word": "mercy",
+      "phonetic": "[mǽːrsi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 慈悲, 情け",
+            "② 幸運"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(神様や仏様などの)慈悲」",
+        "形 merciful「慈悲深い, 寛大な」",
+        "〈仏〉 Merci.「ありがとう」",
+        "熟 at the mercy of 〜「〜のなすがままに」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① beg for mercy",
+          "ja": "① 慈悲を乞う"
+        },
+        {
+          "en": "② It was a mercy that we had seat belts.",
+          "ja": "② シートベルトをしていたのは幸いだった。"
+        }
+      ]
+    },
+    {
+      "id": "1971",
+      "word": "compassion",
+      "phonetic": "[kəmpǽʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "同情, 思いやり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ sympathy「同情」より強く, 「助けたい」という気持ちを含む。",
+        "☆patient「患者(←苦しむ人)」",
+        "passion「情熱(←元は十字架の苦しみから)」"
+      ],
+      "word_origin": {
+        "formula": "com-[=con 共に] + -passion[苦しむこと]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have compassion for the victims of the crime",
+          "ja": "その犯罪の犠牲者たちに同情する"
+        }
+      ]
+    },
+    {
+      "id": "1972",
+      "word": "impulse",
+      "phonetic": "[ímpʌls]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "衝動"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(分別なく, 結果を考えずに, 突然襲われる)強い欲求」",
+        "☆propel「〜を前進させる(←前に押す)」",
+        "形 impulsive「衝動的な」",
+        "熟 make an impulse buy [purchase]「衝動買いをする」"
+      ],
+      "word_origin": {
+        "formula": "im-[=in 中に] + -pul-[=pel 押しつける] →「心の中に押しつけられた」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "buy a ring on impulse",
+          "ja": "指輪を衝動買いする"
+        }
+      ]
+    },
+    {
+      "id": "1973",
+      "word": "aspiration",
+      "phonetic": "[æspəréiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "熱望"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(主に社会全体の)望み」",
+        "☆inspiration「ひらめき(←アイデアを吸い込む)」",
+        "他 aspire「〜を望む」"
+      ],
+      "word_origin": {
+        "formula": "a-[=ad 方向] + -spira-[呼吸する] →「希望に胸を膨らませること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "aspirations for peace",
+          "ja": "平和への望み"
+        }
+      ]
+    },
+    {
+      "id": "1974",
+      "word": "grief",
+      "phonetic": "[gríːf]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(人の死などに対する)深い悲しみ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "自 grieve「悲しむ」",
+        "☆gravity「重力」"
+      ],
+      "word_origin": {
+        "formula": "gr-[重い]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Greg is in deep grief over her death.",
+          "ja": "グレッグは彼女の死に対して深い悲しみに暮れている。"
+        }
+      ]
+    },
+    {
+      "id": "1975",
+      "word": "contempt",
+      "phonetic": "[kəntémpt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "軽蔑"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「尊敬や注目などに値するものが一切ないと考える」",
+        "語源 寒天？プッと笑う「軽蔑」",
+        "熟 show contempt「軽蔑を示す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "feel contempt for people obsessed with designer clothes",
+          "ja": "ブランドの服に夢中になっている人々を軽蔑している"
+        }
+      ]
+    },
+    {
+      "id": "1976",
+      "word": "insult",
+      "phonetic": "名[ínsʌlt] 動[insʌ́lt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 侮辱"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を侮辱する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「相手に対して失礼な言動をとる(こと)」",
+        "語源 イヌ！サル！と「侮辱する」",
+        "☆somersault「宙返り(←逆さに跳ぶ)」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -sult[跳びかかる] から「心の中に跳びかかる」→「〜を侮辱する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① take her attitude as an insult",
+          "ja": "① 彼女の態度を侮辱と受け取る"
+        },
+        {
+          "en": "② I felt insulted when nobody agreed with me.",
+          "ja": "② 誰も賛同してくれなかったので侮辱されたと感じた。"
+        }
+      ]
+    }
+  ]
+}

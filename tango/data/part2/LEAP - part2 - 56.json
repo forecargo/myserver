@@ -1,0 +1,291 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "808",
+      "word": "sharp",
+      "phonetic": "[ʃɑ́ːrp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (変化、方向転換などが)急激な",
+            "② (言葉が)きつい",
+            "③ (刃物、感覚、人などが)鋭い"
+          ]
+        },
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "④ (時刻が)きっちりで"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「鋭い、急激な、とがった」",
+        "他 sharpen「〜を鋭くする」",
+        "副 sharply「厳しく、急激に、はっきりと」",
+        "a mechanical pencil「シャープペンシル」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a sharp increase in prices",
+          "ja": "① 急激な物価の上昇"
+        },
+        {
+          "en": "his sharp tongue",
+          "ja": "② 彼の毒舌(きつい言葉)"
+        },
+        {
+          "en": "a sharp knife",
+          "ja": "③ 鋭いナイフ"
+        },
+        {
+          "en": "at ten (o'clock) sharp",
+          "ja": "④ 10時きっかりに"
+        }
+      ]
+    },
+    {
+      "id": "809",
+      "word": "calm",
+      "phonetic": "[kɑ́ːm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 落ち着いた"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 落ち着く"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を落ち着かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「穏やかで波風のない海のような状態」",
+        "頻出 ① Keep calm.「落ち着け.」",
+        "② calm down「落ち着く」",
+        "③ calm ~ down「〜を落ち着かせる」",
+        "反 upset「気が動転した; 〜を動揺させる」",
+        "▶ガムをかむと「落ち着く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The supporters stayed calm.",
+          "ja": "① サポーターたちは落ち着いていた."
+        },
+        {
+          "en": "Try and calm down.",
+          "ja": "② 落ち着きなさい."
+        },
+        {
+          "en": "The doctor used medicine to calm him down.",
+          "ja": "③ 医者は彼を落ち着かせるために薬を使った."
+        }
+      ]
+    },
+    {
+      "id": "810",
+      "word": "naked",
+      "phonetic": "[néikid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(人が)裸の、むき出しの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(体の全体、または一部が)露出している状態」",
+        "頻出 with the naked eye「裸眼で」",
+        "語源 nak-(=nude 裸) + -ed[形容詞語尾]",
+        "類 nude「(芸術的)裸の」"
+      ],
+      "word_origin": {
+        "formula": "nak-(=nude 裸) + -ed[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "swim naked in the river",
+          "ja": "川で裸で(裸の状態で)泳ぐ"
+        }
+      ]
+    },
+    {
+      "id": "811",
+      "word": "independent",
+      "phonetic": "[ìndipéndənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 独立した、無所属の"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 無所属の人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「依存していない」→「独立した、無所属の」",
+        "頻出 ① be independent of ~「〜から独立している」",
+        "注意「国から独立している」場合に限り be independent from ~と表現する。",
+        "名 independence「独立」",
+        "Independence Day「アメリカ独立記念日(7月4日)」",
+        "反 dependent「依存した」",
+        "be dependent on ~「〜に依存している」",
+        "名 dependence「依存」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am independent of my parents.",
+          "ja": "① 私は両親の世話になっていない(両親から独立している)."
+        },
+        {
+          "en": "run as an independent",
+          "ja": "② 無所属で立候補する"
+        }
+      ]
+    },
+    {
+      "id": "812",
+      "word": "tense",
+      "phonetic": "[téns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 張り詰めた",
+            "② (人が)緊張した"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 時制"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(神経や筋肉が)張りつめ、(人が)緊張した」",
+        "(* ③は別語源.)",
+        "注意 ②は nervous と同じ意味だが, nervous に①の意味はない.",
+        "語源 tens-[伸びていく]から「引き伸ばされた」→「張り詰めた」",
+        "名 tension「緊張, 張り詰めていること」",
+        "反 relaxed「くつろいで」"
+      ],
+      "word_origin": {
+        "formula": "tens-[伸びていく]から「引き伸ばされた」→「張り詰めた」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a tense atmosphere in the waiting room",
+          "ja": "① 待合室の張りつめた雰囲気"
+        },
+        {
+          "en": "The examinees looked tense.",
+          "ja": "② 受験者たちは緊張しているようだった."
+        },
+        {
+          "en": "the present tense",
+          "ja": "③ 現在時制"
+        }
+      ]
+    },
+    {
+      "id": "813",
+      "word": "narrow",
+      "phonetic": "[nǽrou]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 狭い"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を狭くする、細める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(面積が)狭い」",
+        "頻出 ① a narrow escape「かろうじて逃れること」",
+        "注意「狭い部屋」は a small room(◇a narrow room「細い部屋」), 「世間は狭いね」は It's a small world. と表現する.",
+        "副 narrowly「かろうじて」",
+        "反 spacious「広々とした(←space「空間」から)」",
+        "▶「①(幅が)狭い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a narrow mountain path",
+          "ja": "① 狭い山道"
+        },
+        {
+          "en": "narrow my eyes",
+          "ja": "② 目を細める"
+        }
+      ]
+    },
+    {
+      "id": "814",
+      "word": "vacant",
+      "phonetic": "[véikənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "空いている、使用されていない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(席や部屋などが)空いている」",
+        "◇ an empty house「空き家」",
+        "頻出 a vacant room [lot]「空き部屋[地]」",
+        "注意 航空機などのトイレの表示は“occupied / vacant”「使用中/空き」が多い.",
+        "語源 vac-[空っぽ] + -ant[性質]→「空いている」",
+        "類 vacuum「真空」",
+        "名 vacancy「空室, 空席」",
+        "副 vacantly「ぼんやりと」"
+      ],
+      "word_origin": {
+        "formula": "vac-[空っぽ] + -ant[性質]→「空いている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The seat next to mine was vacant.",
+          "ja": "私の隣の席は空いていた."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1664",
+      "word": "embed",
+      "phonetic": "[imbéd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(in ...) 〜を埋め込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (物や組織、気持ちなどの中に)何かを埋め込む",
+        "＊em-[動詞化] + -bed [床] →「床に入れる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "become deeply embedded in the organization",
+          "ja": "その組織の中に深く埋め込まれる"
+        }
+      ]
+    },
+    {
+      "id": "1665",
+      "word": "allocate",
+      "phonetic": "[æləkèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を割り当てる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (権威のある人が、仕事などを)割り当てる、(お金などを)配分する",
+        "＊al-[〜の方向] + -locate [置く] →「〜に置く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "allocate him a suite [swíːt]",
+          "ja": "彼にスイートルームを割り当てる"
+        }
+      ]
+    },
+    {
+      "id": "1666",
+      "word": "coordinate",
+      "phonetic": "[kouɔ́ːrdənèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(活動などを)うまく調整する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (効率よく働けるように)まとめる",
+        "＊co-[共に] + -ordinate [きちんと並べる] →「一緒に並べて整理する」",
+        "派 order「秩序」",
+        "名 coordination「調整、共同」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "coordinate volunteers",
+          "ja": "ボランティアを統率する (活動をうまく調整する)"
+        }
+      ]
+    },
+    {
+      "id": "1667",
+      "word": "blink",
+      "phonetic": "[blíŋk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "まばたきする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 目を素早く閉じたり、開けたりする",
+        "＊blinker は「(自動車の)ウィンカー、方向指示器」のこと。",
+        "▷ before you could blink, in a blink of an eye「瞬く間に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "gaze at a screen without blinking",
+          "ja": "まばたき一つせず画面に見入る"
+        }
+      ]
+    },
+    {
+      "id": "1668",
+      "word": "spin",
+      "phonetic": "[spín]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ぐるぐる回る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を回す",
+            "③ 〜を紡ぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ とても速く回転する[させる]",
+        "名 spin「回転」の意味もある。",
+        "派 spin-off「副産物、続編」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① My head is spinning with a fever.",
+          "ja": "① 熱で頭がくらくらする."
+        },
+        {
+          "en": "② spin a top",
+          "ja": "② こまを回す"
+        },
+        {
+          "en": "③ spin cotton into threads",
+          "ja": "③ 綿を紡いで糸にする"
+        }
+      ]
+    },
+    {
+      "id": "1669",
+      "word": "rotate",
+      "phonetic": "[róuteit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 回転する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を回転させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (惑星などが)回転する、(仕事などを)交替する、(季節などが)巡る",
+        "名 rotation「回転、交替」 ⇔「ローテーション」は日本語でもよく使われる。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The earth rotates on its axis.",
+          "ja": "① 地球は地軸を中心に自転する."
+        },
+        {
+          "en": "② rotate crops",
+          "ja": "② 作物を輪作する (回転させる)"
+        }
+      ]
+    },
+    {
+      "id": "1670",
+      "word": "scramble",
+      "phonetic": "[skrǽmbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "急いで動く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (急いでいて)落ち着きなくバタバタと動く",
+        "＊スクランブルエッグ (scrambled eggs) は「慌ててかき混ぜた卵料理」、スクランブル交差点 (pedestrian scramble) は「歩行者が複数の方向に入り乱れて横断する交差点」のこと。",
+        "派 scramble「(迎撃機などの)緊急発進」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "scramble into a car",
+          "ja": "急いで車に乗り込む"
+        }
+      ]
+    },
+    {
+      "id": "1671",
+      "word": "vanish",
+      "phonetic": "[vǽniʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "消える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (突然、不明確な理由で)消える",
+        "＊日常では disappear のほうが使われる。",
+        "＊va-[空っぽの] + -ish [動詞語尾] から「空っぽになる」→「消える」",
+        "派 vacation「休暇、休日 (←家を空っぽ (留守)にすること)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The magician vanished without trace.",
+          "ja": "そのマジシャンは跡形もなく消えた."
+        }
+      ]
+    },
+    {
+      "id": "1672",
+      "word": "snap",
+      "phonetic": "[snǽp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ポキンと折れる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜をポキンと折る、パチンと鳴らす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「鋭い音を鳴らして壊す」",
+        "＊「スナップ写真」は a snapshot と表現する。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The branch snapped in two.",
+          "ja": "① その枝が2つに折れた."
+        },
+        {
+          "en": "② snap my fingers",
+          "ja": "② 指をパチンと鳴らす"
+        }
+      ]
+    },
+    {
+      "id": "1673",
+      "word": "rattle",
+      "phonetic": "[rǽtl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① ガタガタ鳴る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を鳴らす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ ガラガラ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ③「赤ん坊の音の鳴る玩具」",
+        "＊金属や陶器などがぶつかるような音」を表す擬音語。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a rattling old bus",
+          "ja": "① ガタガタ音がする古いバス"
+        },
+        {
+          "en": "② rattle some change",
+          "ja": "② (チャリンチャリンと)小銭を鳴らす"
+        },
+        {
+          "en": "③ a baby's rattle",
+          "ja": "③ 赤ん坊のガラガラ"
+        }
+      ]
+    },
+    {
+      "id": "1674",
+      "word": "cease",
+      "phonetic": "[síːs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(to do [doing])〜しなくなる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「それまで続いていたことが、スーッとなくなる」",
+        "派 incessant「絶え間のない」(in-[否定] + -cease [止む])",
+        "名 cessation「中止、停止」",
+        "熟 cease-fire「停戦」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "East Germany ceased to exist in 1990.",
+          "ja": "東ドイツは1990年に存在しなくなった."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "889",
+      "word": "appointment",
+      "phonetic": "[əpɔ́ɪntmənt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (病院などの)予約, (面会の)約束",
+            "② (役職などの)任命, 指名"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(日時等の)指定」◇promise「(何かを行う)約束」",
+        "頻出 ① make [have] an appointment「予約をする[している]」",
+        "語源 ap-(=ad 方向)+-point-[指さす]から「(日時や人物を指すこと)→予約, 約束, 任命」",
+        "派生 appoint「〜を任命する, (時間や場所を)指定する」",
+        "派生 appointed「任命[指定]された」◇the appointed time「約束の時間」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I have an appointment to see the dentist at five.",
+          "ja": "5時に歯医者の予約を入れている."
+        },
+        {
+          "en": "the appointment of new ministers",
+          "ja": "新たな大臣の任命"
+        }
+      ]
+    },
+    {
+      "id": "890",
+      "word": "consult",
+      "phonetic": "[kənsʌ́lt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜に相談する",
+            "② (辞書を)引く"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (with 〜)(〜に)相談する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① consult a doctor [lawyer]「医者に診てもらう[弁護士に相談する]」",
+        "注意 相談相手が「専門家や権威のある人」の場合は①他となり,「対等な関係の人」の場合は③自となる.",
+        "派生 consultant「コンサルタント(←ある分野において専門的な知識を持ち, 相談に応じたり, 助言を提供したりする人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "You'd better consult your doctor.",
+          "ja": "医者に診てもらいなさい."
+        },
+        {
+          "en": "consult a dictionary",
+          "ja": "辞書を引く"
+        },
+        {
+          "en": "consult with a friend about study methods",
+          "ja": "勉強の仕方について友だちに相談する"
+        }
+      ]
+    },
+    {
+      "id": "891",
+      "word": "register",
+      "phonetic": "[rédʒɪstər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を登録する, 記録する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② (for 〜)(授業などに)登録する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (ホテルなどで)記帳する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "④ 登録(票), 登録簿"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「名前を公式リストなどに載せる」",
+        "頻出 ① register one's marriage「婚姻届を出す」",
+        "語源 re-[後ろ]+-gister(=gest 運ぶ)から「後ろに運んで留めておく」→「登録する」",
+        "派生 digest「〜を消化する(←離して運ぶ)」",
+        "派生 registration「登録」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Koyasan is registered as a World Heritage Site.",
+          "ja": "高野山は世界遺産に登録されている."
+        },
+        {
+          "en": "register for the first semester",
+          "ja": "前期の履修を登録する"
+        },
+        {
+          "en": "register at the reception desk",
+          "ja": "フロントで記帳する"
+        },
+        {
+          "en": "a class register",
+          "ja": "クラス名簿"
+        }
+      ]
+    },
+    {
+      "id": "892",
+      "word": "dye",
+      "phonetic": "[dáɪ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を染める"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 染料"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① have one's hair dyed「(美容院などで)髪を染めてもらう」",
+        "注意 die「死ぬ」と同じ発音.",
+        "派生 blond-haired [gray-haired]「金髪[白髪]の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "dye my hair brown",
+          "ja": "髪を茶色に染める"
+        },
+        {
+          "en": "an acid dye",
+          "ja": "酸性染料"
+        }
+      ]
+    },
+    {
+      "id": "893",
+      "word": "subscribe",
+      "phonetic": "[səbskrάɪb]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (to 〜)(〜を)定期購読する, 加入している"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (主に否定文で)(to 〜)(考えなどを)支持する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 sub-[下]+-scribe[書く]から「(契約書の下にサインする)→「加入する」",
+        "派生 describe「〜を描く」",
+        "派生 subscriber「購読者, 加入者」",
+        "派生 subscription「定期購読, サブスク(サブスクリプションの略)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "subscribe to the magazine",
+          "ja": "雑誌を定期購読する"
+        },
+        {
+          "en": "cannot subscribe to that opinion",
+          "ja": "その意見には賛成できない"
+        }
+      ]
+    },
+    {
+      "id": "894",
+      "word": "guarantee",
+      "phonetic": "[gæ̀rəntíː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を保証する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 保証(期間)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(商品, 権利などの)保証」",
+        "頻出 ① guarantee that SV/to do「〜ということ/〜することを確約する」",
+        "頻出 ② under guarantee「保証期間中で」",
+        "語源 guard「〜を守る」と同様に「守ってあげる」イメージで覚えよう.",
+        "派生 a guaranteed fee「ギャラ, 出演契約金」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Freedom of speech is guaranteed under the Constitution of Japan.",
+          "ja": "言論の自由は日本国憲法で保障されている."
+        },
+        {
+          "en": "a PC with a one-year guarantee",
+          "ja": "1年間の保証つきパソコン"
+        }
+      ]
+    },
+    {
+      "id": "895",
+      "word": "wipe",
+      "phonetic": "[wáɪp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を拭く",
+            "② 〜を一掃する, 壊滅させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(タオルなどを使って)物の表面を拭く」",
+        "◇rub「(ゴシゴシこすって汚れなどを消す)」",
+        "頻出 ② wipe 〜 out「〜を一掃する, 壊滅させる」",
+        "派生 wiper「(車の)ワイパー(←車の前面の窓ガラスにかかる雨滴や汚れをぬぐい取る装置)」",
+        "派生 a dish towel「(食器を拭く)布巾」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "wipe the table",
+          "ja": "テーブルを拭く"
+        },
+        {
+          "en": "The entire village was wiped out by the tornado.",
+          "ja": "村全体が竜巻によって壊滅させられた."
+        }
+      ]
+    }
+  ]
+}

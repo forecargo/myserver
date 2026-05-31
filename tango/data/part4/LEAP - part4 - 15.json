@@ -1,0 +1,308 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1548",
+      "word": "contradict",
+      "phonetic": "[kὰntrədíkt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜と矛盾する",
+            "② 〜に反論する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 contradictory「矛盾した」 名 contradiction「矛盾」"
+      ],
+      "word_origin": {
+        "formula": "contra-[逆]+dict[言う]",
+        "description": "*predict「〜を予測する」(pre-[前に]+dict[言う])"
+      },
+      "examples": [
+        {
+          "en": "The two statements contradict each other.",
+          "ja": "その2つの供述は互いに矛盾している。"
+        },
+        {
+          "en": "Ted hates to be contradicted.",
+          "ja": "テッドは反論されるのが嫌いだ。"
+        }
+      ]
+    },
+    {
+      "id": "1549",
+      "word": "consensus",
+      "phonetic": "[kənsénsəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "意見や証言などの)合意, 総意"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある集団の)全員が賛成する意見」",
+        "*sentiment「感情」 consent「合意」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に]+-sens-[感情]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "reach a consensus",
+          "ja": "合意に達する"
+        }
+      ]
+    },
+    {
+      "id": "1550",
+      "word": "converse",
+      "phonetic": "[kάnvəːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 正反対",
+            "② 正反対のもの"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 正反対の"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (with 〜)(〜と)会話する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではtalkのほうが使われる。(＊堅い表現。)",
+        "名 conversation「会話」 副 conversely「逆に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The converse is also true.",
+          "ja": "逆もまた真なり。"
+        },
+        {
+          "en": "the converse point of view",
+          "ja": "逆の見方"
+        },
+        {
+          "en": "converse with a Spanish person",
+          "ja": "スペイン人と会話する"
+        }
+      ]
+    },
+    {
+      "id": "1551",
+      "word": "inequality",
+      "phonetic": "[ìnɪkwάləṭi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "不平等"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 unequal「不平等な, 等しくない」 反 equality「平等」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "redress gender inequalities",
+          "ja": "ジェンダー(性的)不平等を是正する"
+        }
+      ]
+    },
+    {
+      "id": "1552",
+      "word": "equivalent",
+      "phonetic": "[ɪkwívələnt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 等しい"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 同等のもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数量, 価値, 意味などが)同じである, 〜に相当する」",
+        "equivocal「両義にとれる」 equilibrium「平衡, 均衡」"
+      ],
+      "word_origin": {
+        "formula": "equi-[等しい]+-val-[価値]→「同じ価値」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a bonus equivalent to 3 months' salary",
+          "ja": "月給3か月分の(3か月分に等しい)ボーナス"
+        },
+        {
+          "en": "What is the English equivalent of “wakame”?",
+          "ja": "「ワカメ」に当たる英語(英語で相当するもの)は何ですか。"
+        }
+      ]
+    },
+    {
+      "id": "1553",
+      "word": "compatible",
+      "phonetic": "[kəmpǽtəbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(with 〜)(〜と)適合する, 互換性がある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(〜と)共存できる」",
+        "▶ 互換性のあるコンピューターソフトを「コンパティブル」という。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His blood type is not compatible with hers.",
+          "ja": "彼の血液型は彼女の血液型と適合しない。"
+        }
+      ]
+    },
+    {
+      "id": "1554",
+      "word": "identical",
+      "phonetic": "[aɪdéntɪkəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "同一の, うり二つの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =exactly the same in every way",
+        "派 identify「〜を特定する, 同一視する」の形容詞形。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "identical twins",
+          "ja": "一卵性双生児(うり二つの双子)"
+        }
+      ]
+    },
+    {
+      "id": "1555",
+      "word": "correspond",
+      "phonetic": "[kɔ̀ːrəspάnd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (to [with] 〜)(〜と)一致する",
+            "② (with 〜)(〜と)(メールや手紙で)やりとりをする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 correspondence「一致, やりとり」 名 correspondent「特派員, 通信員」"
+      ],
+      "word_origin": {
+        "formula": "cor-[=con 共に]+-respond[反応する]→「同じ反応をする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The letters of the alphabet do not correspond exactly to their sounds.",
+          "ja": "アルファベットの文字は厳密には音に一致していない。"
+        },
+        {
+          "en": "correspond with her by email",
+          "ja": "彼女とEメールでやりとりする"
+        }
+      ]
+    },
+    {
+      "id": "1556",
+      "word": "random",
+      "phonetic": "[rǽndəm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "無作為の, でたらめの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「思いつくままの」",
+        "▶ 日本語でも「ランダム(無作為に)」などと使われる。",
+        "熟 at random「無作為に」 a random number table「乱数表」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a random choice",
+          "ja": "無作為な選択"
+        }
+      ]
+    },
+    {
+      "id": "1557",
+      "word": "warrior",
+      "phonetic": "[wɔ́ːriər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "戦士"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主に過去において勇敢に戦った人」",
+        "類 soldier「兵士」"
+      ],
+      "word_origin": {
+        "formula": "warri-[=war 戦争]+-or[する人]→「戦士」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "A warrior fights for glory, while a soldier fights for justice.",
+          "ja": "戦士は栄光のために戦い, 一方, 兵士は正義のために戦う。"
+        }
+      ]
+    }
+  ]
+}

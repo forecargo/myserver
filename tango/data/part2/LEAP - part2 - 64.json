@@ -1,0 +1,248 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "862",
+      "word": "replace",
+      "phonetic": "[ripléis]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に取って代わる",
+            "② (A with [by] B) (A) を (B に) 取り替える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「古い物と新しい物を取り替える」",
+        "注意 ②は①の主語に(人)が入り込み、元の主語を with 〜で補った形。",
+        "*A be done[finished].「Aが終わる。」→(人) be done[finished] with A.「(人)がAを終える。」と同様の変化。",
+        "re-[再び]+-place[置く]から「元の場所に置く」→「(古い物)を引退させる、ほかの物と取り替える」",
+        "名 replacement「取り替え, 代用品」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "AI has replaced humans in many fields.",
+          "ja": "人工知能が多くの分野で人間に取って代わった."
+        },
+        {
+          "en": "replace[×exchange] the worn tire with a new one",
+          "ja": "すり減ったタイヤを新しいタイヤに交換する"
+        }
+      ]
+    },
+    {
+      "id": "863",
+      "word": "exchange",
+      "phonetic": "[ikstʃéindʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を交換する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 交換"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(等価の物)の交換」から「(意見の)交換」まで。",
+        "頻出 ① exchange A for B「AをBと交換する」",
+        "exchange emails, business cards, ideas「メール[名刺, 考え]を交換する」",
+        "注意 「(電池や電球など)を交換する」は replace を使う。",
+        "ex-[外に]+-change[変える]→「(外に)出して交換する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "exchange Japanese yen for U.S. dollars",
+          "ja": "日本円を米ドルと交換する"
+        },
+        {
+          "en": "go abroad on a student exchange program",
+          "ja": "学生交換プログラムで留学する"
+        }
+      ]
+    },
+    {
+      "id": "864",
+      "word": "substitute",
+      "phonetic": "[sʌ́bstətjùːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A for B) (B の) 代わりに (A) を用いる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (for 〜) (〜の) 代わりになる, 代わりをする"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 代わりの"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ (for 〜) (〜の) 代用品, 代理人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「本来の物がなくて代わりに用いる」",
+        "*サッカーなどの「サブ(補欠選手)」は a substitute player の略。",
+        "sub-[下]+-stitute[=stand 立つ]→「(控えとして)下にいる」",
+        "名 subway「地下鉄」",
+        "名 substitution「代理, 交替」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "substitute honey for sugar",
+          "ja": "砂糖の代わりににはちみつを使う"
+        },
+        {
+          "en": "substitute for her",
+          "ja": "彼女の代役をする"
+        },
+        {
+          "en": "a substitute national holiday",
+          "ja": "振替休日"
+        },
+        {
+          "en": "There is no substitute for experience.",
+          "ja": "経験に代わるものはない."
+        }
+      ]
+    },
+    {
+      "id": "865",
+      "word": "submit",
+      "phonetic": "[səbmít]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (願書, 辞表など) を提出する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (to 〜) (〜に) 服従する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 日常では hand[turn] 〜 in のほうがよく使われる。",
+        "注意 ② submit oneself to 〜から oneself が脱落した形と覚えよう。",
+        "sub-[下]+-mit[送る]から「(机の)下からそっと渡す」→「提出する」",
+        "名 submission「提出, 服従」",
+        "形 submissive「従順な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "submit an application form",
+          "ja": "申込用紙を提出する"
+        },
+        {
+          "en": "submit to authority",
+          "ja": "権力に従う"
+        }
+      ]
+    },
+    {
+      "id": "866",
+      "word": "alternative",
+      "phonetic": "[ɔːltə́ːrnətiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (to 〜) (〜の) 代わりのもの",
+            "② 選択肢"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 代わりの, 既存のものとは違う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある方法がダメな場合に取る別の方法」",
+        "頻出 ② have no alternative but to do「〜のほかには手段がない」",
+        "alter-[変える]→「ほかのものにする」",
+        "自動詞 alternate「交互に起きる」",
+        "他動詞 〜を交互にする"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an alternative to nuclear power",
+          "ja": "原子力の代わりになるもの"
+        },
+        {
+          "en": "There is no other alternative.",
+          "ja": "ほかの選択肢がない."
+        },
+        {
+          "en": "alternative energy sources",
+          "ja": "代替エネルギー源"
+        }
+      ]
+    },
+    {
+      "id": "867",
+      "word": "deliver",
+      "phonetic": "[dilívər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を配達する",
+            "② (演説など) をする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(近隣の)相手に届ける」→対象は①「小包, 品物など」②「演説, 講義など」(*②日常では give を使うことが多い。)",
+        "注意 「〜を分娩させる」の意味でも使う。",
+        "▶「(列車, トラックなどで遠くまで)〜を配送する」は ship を使う。",
+        "de-[分離]+-liver[=liberty 自由]→「離して自由にする」",
+        "名 delivery「配達」",
+        "熟 send 〜 by courier service「宅配便で〜を送る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "deliver pizzas",
+          "ja": "ピザを配達する"
+        },
+        {
+          "en": "deliver his inaugural[inɔ́ːgjərəl] address",
+          "ja": "(彼の)就任演説をする"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1944",
+      "word": "delight",
+      "phonetic": "[diláit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を喜ばせる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (大)喜び"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大きな喜びを与える」",
+        "＊light(光)を当ててる)→「喜ばせる」と覚えよう。",
+        "形 delighted「(人が)喜んで」",
+        "形 delightful「((事柄が)楽しませる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was delighted to hear the news.",
+          "ja": "(私は)その知らせを聞いて喜んだ."
+        },
+        {
+          "en": "to his delight",
+          "ja": "彼が喜んだことに"
+        }
+      ]
+    },
+    {
+      "id": "1945",
+      "word": "astonish",
+      "phonetic": "[əstániʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(とても)驚かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「驚きのあまり信じられない気持ちにさせる」",
+        "＊as-[強意]＋-ton-[雷の音]",
+        "名 astonishment「驚がく」",
+        "形 astonishing「驚くべき」",
+        "参 thunder「雷」",
+        "lightning「稲妻」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We were astonished at the unexpected news.",
+          "ja": "私たちはその予期せぬ知らせに仰天した."
+        }
+      ]
+    },
+    {
+      "id": "1946",
+      "word": "dread",
+      "phonetic": "[dréd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を恐れる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 恐怖"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主にこの先必ず起こりうること)を恐れる, ひどく心配する」",
+        "形 dreadful「恐ろしい」",
+        "反 look forward to 〜「〜を楽しみにして待つ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "dread going to the dentist",
+          "ja": "① 歯医者に行くことを恐れる"
+        },
+        {
+          "en": "a deep sense of dread",
+          "ja": "② 深い恐怖心"
+        }
+      ]
+    },
+    {
+      "id": "1947",
+      "word": "attribute",
+      "phonetic": "動[ətríbjuːt] 名[ǽtrəbjùːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A to B) (A)を(B)のせいだとす",
+            "② (結果を)〜に押し付ける"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 特性, 属性"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「結果を〜に押し付ける」 ②「特性(←ある結果がそれ自体に起因する)」",
+        "＊at-[方向]＋-tribute[与える]→「〜に押し付ける」",
+        "参 contribute「〜に貢献する」",
+        "名 attribution「起因」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "attribute his longevity to a glass of wine every day",
+          "ja": "① 彼の長生きは毎日1杯のワインのおかげだと考える"
+        },
+        {
+          "en": "have the attributes of a great leader",
+          "ja": "② 偉大な指導者の特性を備えている"
+        }
+      ]
+    },
+    {
+      "id": "1948",
+      "word": "console",
+      "phonetic": "[kənsóul]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を慰める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇comfort「(言葉や行為で)〜を慰める」",
+        "▶落ち込んでいる人に「大したことないよ」と言うイメージ.",
+        "＊con-[共に]＋-sole[1つ]→「君と私で1つだ」",
+        "名 consolation「慰め」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "console a grieving friend",
+          "ja": "嘆き悲しんでいる友だちを慰める"
+        }
+      ]
+    },
+    {
+      "id": "1949",
+      "word": "arouse",
+      "phonetic": "[əráuz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を呼び起こす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(興味などを)をかき立てる」から「(感情などを)刺激する」まで",
+        "＊a-[強意]＋-rouse[目を覚まさせる]",
+        "参 raise「〜を上げる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The title aroused our interest.",
+          "ja": "そのタイトルが私たちの興味をかき立てた."
+        }
+      ]
+    },
+    {
+      "id": "1950",
+      "word": "distract",
+      "phonetic": "[distrǽkt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (注意, 意識など)をそらす",
+            "② 〜の気を紛らす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶プラスイメージとマイナスイメージの両方で使用可.",
+        "＊dis-[バラバラ]＋-tract[引く]→「引き離す」",
+        "名 distraction「気を散らすこと, 気晴らし」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was distracted by someone calling my name.",
+          "ja": "① 誰かが私の名前を呼ぶ声に気をそらされた."
+        },
+        {
+          "en": "distract me from my worries",
+          "ja": "② 私の悩みを紛らす"
+        }
+      ]
+    },
+    {
+      "id": "1951",
+      "word": "startle",
+      "phonetic": "[stάːrtl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を驚かす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ぎくっとさせるぐらいに)〜を驚かせる」",
+        "＊start-[始める]から「突然動かされる」→「驚かせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was startled by his voice.",
+          "ja": "私は彼の声で驚いた."
+        }
+      ]
+    },
+    {
+      "id": "1952",
+      "word": "thrill",
+      "phonetic": "[θríl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をぞくぞく[わくわく]させる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② スリル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊thrilled「(人が)ぞくぞく[わくわく]して」",
+        "⇨ I was thrilled by the movie.「その映画にわくわくした.」",
+        "形 thrilling「(人を)ぞくぞく[わくわく]させる」",
+        "⇨ The movie was thrilling.「その映画はわくわくした.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Her performance thrilled me.",
+          "ja": "① 彼女の演奏は私をぞくぞくさせた."
+        },
+        {
+          "en": "His birthday surprise gave him a thrill.",
+          "ja": "② 誕生日のサプライズに彼はわくわくした."
+        }
+      ]
+    },
+    {
+      "id": "1953",
+      "word": "humiliate",
+      "phonetic": "[hjuːmíliéit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に恥をかかせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人前で恥ずかしい思いをさせる」",
+        "＊hum-[土]→「顔に泥を塗る」",
+        "＊human「人間(←土の上を歩く者)」",
+        "形 humiliating「屈辱的な」",
+        "名 humiliation「恥をかかせること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He humiliated me in front of my friends.",
+          "ja": "彼は友人の前で私に恥をかかせた."
+        }
+      ]
+    },
+    {
+      "id": "1954",
+      "word": "adore",
+      "phonetic": "[ədɔ́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を熱愛している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を愛していて誇りに思っている」",
+        "＊ad-[方向]＋-ore[口]から「神に話しかける」→「〜を敬愛する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Matt adores his grandchildren.",
+          "ja": "マットは孫を溺愛している."
+        }
+      ]
+    }
+  ]
+}

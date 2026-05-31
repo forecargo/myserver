@@ -1,0 +1,202 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "763",
+      "word": "fundamental",
+      "phonetic": "[fʌ̀ndəmɛ́ntl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 根本的な, 基本的な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (-s) 基本事項"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「すべての基礎となる、根本的な」→「不可欠な」",
+        "頻出 ① fundamental human rights 「基本的な人権」"
+      ],
+      "word_origin": {
+        "formula": "fund-[基礎]",
+        "description": "派生 fundamentalism 「(宗教の)原理主義, (キリスト教の)根本主義」, 反 application 「応用」"
+      },
+      "examples": [
+        {
+          "en": "make a fundamental change",
+          "ja": "① 根本的な改革を行う"
+        },
+        {
+          "en": "advance from the fundamentals to the applications",
+          "ja": "② 基礎から応用へと進む"
+        }
+      ]
+    },
+    {
+      "id": "764",
+      "word": "outweigh",
+      "phonetic": "[àutwéi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(価値・重要性・影響力で)〜に勝る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ be more important or valuable than 〜",
+        "派生 outnumber「(数で)〜に勝る」, outperform「(性能で)〜に勝る」, outsmart「〜を出し抜く」, outgrow「〜より成長する」"
+      ],
+      "word_origin": {
+        "formula": "out-[〜の外へ] + -weigh[重さがある] →「重さが〜に勝る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The advantages outweigh the disadvantages.",
+          "ja": "メリットがデメリットを上回る(デメリットより勝る)."
+        }
+      ]
+    },
+    {
+      "id": "765",
+      "word": "critical",
+      "phonetic": "[krítikəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 重大な, 危機的な状況の",
+            "② 批判的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(運命を決定するような)重要な」 ②「同意できない」",
+        "頻出 ① be of critical importance「とても重要である」, be critical to 〜「〜にとって重大である」, ② a critical remark「批判的な意見」, be critical of 〜「〜に批判的である」",
+        "注意 ①は crisis「危機」の, ②は criticism「批判」のそれぞれ形容詞形で, 文中では①の意味で使われる。 副 critically「批判的に, 決定的に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "in a critical condition",
+          "ja": "① 危篤状態(危機的な体調)で"
+        },
+        {
+          "en": "be critical of the policy",
+          "ja": "② その政策に批判的だ"
+        }
+      ]
+    },
+    {
+      "id": "766",
+      "word": "serious",
+      "phonetic": "[síəriəs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 深刻な",
+            "② (人が)真剣な, 本気の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(問題, 状況など)深刻な, (けが, 病気などが)重い」",
+        "頻出 ① a serious[×an important] problem「重大な(=深刻な)問題」, ② be[get] serious about 〜「〜について真剣だ[になる]」",
+        "派生 seriously ill[injured]「重病[重傷]だ」 ⇔ take 〜 seriously「〜を深刻に受け取る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "do serious damage to the environment",
+          "ja": "① 環境に深刻な打撃を与える"
+        },
+        {
+          "en": "be serious about finding a job",
+          "ja": "② 職探しに真剣だ"
+        }
+      ]
+    },
+    {
+      "id": "767",
+      "word": "complex",
+      "phonetic": "[kɑ́mplɛks]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 複雑な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 複合体(の建物)",
+            "③ 強迫観念(まれ)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(さまざまな要素が組み上がって)複雑な」(*プラスイメージでも可.)",
+        "注意 ③ have an inferiority[superiority] complex about 〜「〜に対して劣等[優越]感を持っている」",
+        "(*日本語のように complex だけで「劣等感」の意味はもたない.)",
+        "派生 名 complexity「複雑さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a highly complex process",
+          "ja": "① 非常に複雑な過程"
+        },
+        {
+          "en": "a leisure complex",
+          "ja": "② 総合レジャーセンター(複合施設)"
+        },
+        {
+          "en": "an inferiority complex",
+          "ja": "③ 劣等感(劣っているという強迫観念)"
+        }
+      ]
+    },
+    {
+      "id": "768",
+      "word": "complicated",
+      "phonetic": "[kɑ́mpləkèitid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "複雑な, ややこしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(理解や扱いが難しく)複雑な」(*マイナスイメージで話し言葉でも可。書き言葉では complex のほうが使われる.)",
+        "頻出 a complicated issue[device, situation, system]「(理解ができないくらい)複雑な問題[装置, 状況, システム]」"
+      ],
+      "word_origin": {
+        "formula": "com-[共に] + -pli-[折る] →「(重なり合って)複雑な」",
+        "description": "反 simple「単純な」"
+      },
+      "examples": [
+        {
+          "en": "make things complicated[×complex]",
+          "ja": "事態を複雑にする"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "569",
+      "word": "invade",
+      "phonetic": "[invéid]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (プライバシーなどを)侵害する",
+            "② (国などに)侵入する、〜を侵略する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "侵出 invade one's privacy 「〜のプライバシーを侵害する」",
+        "語源 in-[中に] + -vade[行く] → 「中に入っていく」",
+        "類 evade「〜から逃れる」",
+        "名 invasion「侵略, 侵入」, invader「侵略者, 侵入者」",
+        "反 respect「〜を尊重する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "invade our privacy",
+          "ja": "① 私たちのプライバシーを侵害する"
+        },
+        {
+          "en": "invade a neighboring country",
+          "ja": "② 隣接する国に侵攻する"
+        }
+      ]
+    },
+    {
+      "id": "570",
+      "word": "endanger",
+      "phonetic": "[indéindʒər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を危険にさらす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「危険な状態にする」",
+        "語源 en-[動詞化] + -danger[危険]",
+        "形 endangered「絶滅の危機に瀕した」",
+        "用例 an endangered species「絶滅危惧種」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "endanger the lives of the passengers",
+          "ja": "乗客の命を危険にさらす"
+        }
+      ]
+    },
+    {
+      "id": "571",
+      "word": "interrupt",
+      "phonetic": "[intərʌ́pt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を中断する",
+            "② 〜を遮る"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 人の話を遮る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「間に割って入る」→「(人の話や仕事などを)短時間中断させる」",
+        "用例 Excuse me for interrupting you.「お話し中すみません。」",
+        "語源 inter-[間] + -rupt[破壊] → 「間に入って破壊する」",
+        "類 bankrupt「倒産する」",
+        "類 disrupt「(運行などを)乱す」",
+        "名 interruption「中断, 邪魔」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The meeting was temporarily interrupted by a blackout.",
+          "ja": "① 停電のため会議は一時中断した (中断された)."
+        },
+        {
+          "en": "interrupt a speech with questions",
+          "ja": "② 質問して講演を遮る"
+        },
+        {
+          "en": "Don't interrupt.",
+          "ja": "③ 話を遮らないでください."
+        }
+      ]
+    },
+    {
+      "id": "572",
+      "word": "spoil",
+      "phonetic": "[spɔ́il]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を台無しにする",
+            "② (子どもを)甘やかす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(景観や無形物の)価値や美しさを損ねる」→②「子どもをダメにする」",
+        "類 damage「(有形物)を台無しにする」",
+        "熟 spoil one's fun [one's appetite, one's plans, a party] 「楽しみ[食欲, 計画, パーティー]を台無しにする[損なう]」",
+        "名 spoiler「ネタをばらす人, 台無しにする人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Ben's sudden arrival spoiled our plans.",
+          "ja": "① ベンが突然来たので私たちの計画が台無しになった(私たちの計画を台無しにした)."
+        },
+        {
+          "en": "spoil the child",
+          "ja": "② 子どもを甘やかす"
+        }
+      ]
+    },
+    {
+      "id": "573",
+      "word": "spectator",
+      "phonetic": "[spéktèitər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "観客"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (可算) 「(スポーツや催しなどの)観客」",
+        "比較 audience「(コンサートやスピーチ, 映画などの)聴衆, 観衆」",
+        "比較 bystander「傍観者」",
+        "語源 spect-[見る] + -or[人]",
+        "派生 aspect「側面, 外観」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The football match attracted more than 10,000 spectators.",
+          "ja": "そのサッカーの試合には1万人以上の観客が押し寄せた."
+        }
+      ]
+    },
+    {
+      "id": "574",
+      "word": "relative",
+      "phonetic": "[rélətiv]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (家族も含めて)親戚"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 相対的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟 a close relative「親, 兄弟など」",
+        "熟 a distant relative「遠い親類」",
+        "▶ ①「親戚」を示す。",
+        "▶ ② relative to 〜「〜と関連する, 〜と比べて」",
+        "派生 relate「〜を関連づける」",
+        "派生 relatively「比較的」",
+        "名 relativity「相対性」",
+        "反 absolute「絶対的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "one of my relatives",
+          "ja": "① 親戚の1人"
+        },
+        {
+          "en": "relative merits",
+          "ja": "② 相対的な利点"
+        }
+      ]
+    },
+    {
+      "id": "575",
+      "word": "departure",
+      "phonetic": "[dipάːrtʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 出発",
+            "② 逸脱"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(飛行機, 電車, 旅などの)出発」",
+        "熟 a departure lounge「(空港の)出発ロビー」",
+        "熟 a departure board「出発時刻の掲示板」",
+        "動 depart「出発する」",
+        "反 arrival「到着」",
+        "用例 I am off (to school / to work).「行ってきます。」 (*ただし, 日本語ほど固定表現ではない。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the flight's departure",
+          "ja": "① 飛行機の出発"
+        },
+        {
+          "en": "a departure from the norm",
+          "ja": "② 常軌を逸したもの"
+        }
+      ]
+    }
+  ]
+}

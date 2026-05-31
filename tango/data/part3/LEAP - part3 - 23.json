@@ -1,0 +1,318 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1218",
+      "word": "evaluate",
+      "phonetic": "[ɪvǽljuèɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を(正しく)評価する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(仕事ぶりや能力, 価値など)を評価する」",
+        "名 evaluation「評価, 査定」",
+        "類 appreciate「〜の価値(よさ)を認める」"
+      ],
+      "word_origin": {
+        "formula": "e-[外に] + -valu-[価値] -> 「価値を表(外)に出す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "evaluate the employees' performances",
+          "ja": "従業員の仕事ぶりを(正しく)評価する"
+        }
+      ]
+    },
+    {
+      "id": "1219",
+      "word": "cultivate",
+      "phonetic": "[kʌ́ltəvèɪt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を耕す",
+            "② 〜を育む",
+            "③ 〜を磨く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(土地を)耕作する」 ②「(人間関係を)育む」 ③「(能力などを)磨く」",
+        "名 cultivation「耕作」",
+        "形 cultivated「教養のある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cultivate the land",
+          "ja": "① 土地を耕す"
+        },
+        {
+          "en": "cultivate a relationship with her",
+          "ja": "② 彼女との人間関係を育む"
+        },
+        {
+          "en": "cultivate a sense of beauty",
+          "ja": "③ 美的感覚を磨く"
+        }
+      ]
+    },
+    {
+      "id": "1220",
+      "word": "shade",
+      "phonetic": "[ʃéɪd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 日陰, (絵画, 写真の)陰の部分, ブラインド",
+            "② (-s) (意味などの)わずかな違い"
+          ]
+        },
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "a shade 少し"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「光線が当たらない所」→②「はっきりしない違い」",
+        "類 shadow「影」と同様に「暗がり」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sit in the shade",
+          "ja": "① 日陰に座る"
+        },
+        {
+          "en": "\"Shade\" has several shades of meaning.",
+          "ja": "② \"Shade\" にはいくつかの微妙に違う意味(意味の微妙な違い)がある。"
+        }
+      ]
+    },
+    {
+      "id": "1221",
+      "word": "breeze",
+      "phonetic": "[bríːz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "そよ風"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(心地よい)そよ風」(*一般的な「風」は wind で表現。)",
+        "類 draft「(不快な)すき間風」",
+        "類 gust「突風」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "feel a sea breeze",
+          "ja": "海のそよ風を感じる"
+        }
+      ]
+    },
+    {
+      "id": "1222",
+      "word": "desert",
+      "phonetic": "名 [dézərt] 他 [dɪzə́ːrt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 砂漠"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を見捨てる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「砂, 岩石からなる荒地」",
+        "名 desertification「砂漠化」",
+        "形 deserted「人がいない, ひっそりした」",
+        "比較 dessert「(食事の)デザート」",
+        "参考 the Suez Canal「スエズ運河」",
+        "参考 the Kansas Plains「カンザス平原」(=the Plains of Kansas)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the Sahara Desert",
+          "ja": "① サハラ砂漠"
+        },
+        {
+          "en": "② She deserted her children.",
+          "ja": "② 彼女は子どもたちを見捨てた。"
+        }
+      ]
+    },
+    {
+      "id": "1223",
+      "word": "fog",
+      "phonetic": "[fɔ́ːg]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "霧"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶《濃度》fog > mist「薄い霧」 > haze「もや」",
+        "形 foggy「霧の立ちこめた」",
+        "類 a dense fog「濃い霧」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The dense fog cleared.",
+          "ja": "濃い霧が晴れた。"
+        }
+      ]
+    },
+    {
+      "id": "1224",
+      "word": "moisture",
+      "phonetic": "[mɔ́ɪstʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "湿気, 水分"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(空気, 物質に含まれる)少量の水分」",
+        "注意 日本語でも化粧品などで「モイスチャー」はよく使われる。",
+        "形 moist「(ほど)湿った」",
+        "類 fresh and youthful skin「みずみずしい肌」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Moisture is essential for keeping your skin youthful.",
+          "ja": "湿り気は皮膚を若々しく保つのに不可欠だ。"
+        }
+      ]
+    },
+    {
+      "id": "1225",
+      "word": "damp",
+      "phonetic": "[dǽmp]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "湿った, じめじめした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(冷たさを感じるほどに)じめじめした」",
+        "他 dampen「〜を湿らす」",
+        "コロケーション dampen a cloth「布を湿らす」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My shirt is still damp.",
+          "ja": "シャツがまだ湿っている。"
+        }
+      ]
+    },
+    {
+      "id": "1226",
+      "word": "path",
+      "phonetic": "[pǽθ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(小)道"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人が通る)道」から「(抽象的な)道」まで(pathway とも表現)。",
+        "▶「(たくさんの人が歩いたためにできた自然の)小道」が元の意味。",
+        "比較 street「(街の)通り」",
+        "比較 highway「(高速道路ではない)幹線道路」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "follow a path to the mountaintop",
+          "ja": "山頂への道をたどる"
+        },
+        {
+          "en": "a path to success",
+          "ja": "成功への道"
+        }
+      ]
+    },
+    {
+      "id": "1227",
+      "word": "trail",
+      "phonetic": "[tréɪl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 山道",
+            "② 跡",
+            "③ (a - of destruction) (破壊の)爪跡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 trailer「トレーラー(←引っ張るトラック)」",
+        "コロケーション a vapor trail「飛行機雲(=水蒸気の跡)」"
+      ],
+      "word_origin": {
+        "formula": "tra-[引っ張る] -> 「(引っ張った)跡」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a hiking trail[×course]",
+          "ja": "① ハイキングコース(山道)"
+        },
+        {
+          "en": "② be on the trail of a bear",
+          "ja": "② クマを追跡している(クマの跡にいる)"
+        },
+        {
+          "en": "③ Hurricane Noel left a trail of destruction behind it.",
+          "ja": "③ ハリケーン・ノエルは被害の爪跡を残した。"
+        }
+      ]
+    }
+  ]
+}

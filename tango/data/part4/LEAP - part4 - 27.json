@@ -1,0 +1,315 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1675",
+      "word": "haste",
+      "phonetic": "[héist]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "急ぐこと <不可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ =great speed",
+        "◇ rush「(慌ただしく)急いで行く, 突進」",
+        "形 hasty「急いだ」",
+        "他 hasten「〜を早める」",
+        "熟 in haste「急いで」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Haste makes waste.",
+          "ja": "急いては事を仕損じる (急ぐと損をする)。"
+        }
+      ]
+    },
+    {
+      "id": "1676",
+      "word": "conceal",
+      "phonetic": "[kənsíːl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を隠す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では hide「〜を隠す」のほうが使われる。",
+        "★ 語源は異なるが“シール (seal) を貼って「隠す」と覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The students concealed the facts from the teacher.",
+          "ja": "生徒たちは先生にその事実を隠した。"
+        }
+      ]
+    },
+    {
+      "id": "1677",
+      "word": "disguise",
+      "phonetic": "[disgáiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を(偽装して)隠す",
+            "② (oneself as 〜)〜に変装する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 変装"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(普段とは別の物に見えるように)隠す」(*① 日常では hide のほうが使われる)",
+        "語源 dis-[否定] + -guise[服装] から「ふだんの服装ではない」→「変装する」",
+        "形 disguised「変装した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① disguise my sorrow with a smile",
+          "ja": "① 笑顔で悲しみを隠す"
+        },
+        {
+          "en": "② disguise myself as a pirate",
+          "ja": "② 海賊に変装する"
+        },
+        {
+          "en": "③ a princess in disguise",
+          "ja": "③ 変装している王女"
+        }
+      ]
+    },
+    {
+      "id": "1678",
+      "word": "deceive",
+      "phonetic": "[disíːv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜をだます"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では trick のほうが使われる。",
+        "語源 de-[分離] + -ceive[=take 取る]→「(真実から)離れたことを取らせる」",
+        "名 deception「だますこと」",
+        "名 deceit「詐欺」",
+        "副 deceptively「見た目には〜だが、実は〜」",
+        "▷ deceptively slow「(本当は速いのを隠して)ゆっくりと見えるように」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was deceived into believing that Kathy was a woman.",
+          "ja": "私はだまされて, キャシーは女性だと信じていた。"
+        }
+      ]
+    },
+    {
+      "id": "1679",
+      "word": "neglect",
+      "phonetic": "[niglèkt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を怠る, 放置する",
+            "② (子どもの)世話をしない"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 放置"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 neg-[否定] + -lect[拾い上げる] * colléct「〜を集める(←すべて拾う)」",
+        "形 negligible「無視できるほどの, 取るに足らない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① neglect my duty",
+          "ja": "① 義務を怠る"
+        },
+        {
+          "en": "② neglect a child",
+          "ja": "② 子どもの世話をしない"
+        },
+        {
+          "en": "③ child abuse and neglect",
+          "ja": "③ 児童の虐待と放置"
+        }
+      ]
+    },
+    {
+      "id": "1680",
+      "word": "evacuate",
+      "phonetic": "[ivǽkjuèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(しばしば受動態で)〜を避難させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険な場所から安全な場所へと)人々を移す」",
+        "語源 e-[=ex- 外に] + -vac-[空っぽの] + -ate[動詞語尾]→「外に出して空っぽにする」",
+        "★ vácant「空の」",
+        "vacátion「休暇(←家を空っぽにする)」",
+        "名 evacuátion「避難」",
+        "⇨ an evacuation drill「避難訓練」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We were evacuated to the roof.",
+          "ja": "私たちは屋上に避難した。"
+        }
+      ]
+    },
+    {
+      "id": "1681",
+      "word": "coincide",
+      "phonetic": "[kòuinsáid]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (with 〜)〜と同時に起きる",
+            "② (with 〜)〜と一致する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 co-[con 共に] + -incide[=incident 出来事]→「出来事が共に起きる」",
+        "名 coincidence「偶然の一致」",
+        "⇨ What a coincidence!「なんて偶然なんだ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① That day coincided with my birthday.",
+          "ja": "① その日は私の誕生日と重なった (同時に起きた)。"
+        },
+        {
+          "en": "② Her views coincided with ours.",
+          "ja": "② 彼女と我々の見解は一致していた。"
+        }
+      ]
+    },
+    {
+      "id": "1682",
+      "word": "prevail",
+      "phonetic": "[privéil]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (考え, 習慣などが)普及している",
+            "② (最後に人, 考えが)優勢になる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「力をもち、広く行き渡る」→①「普及している」→②「優勢となる」",
+        "語源 pre-[前に] + -vail[=value 力]→「ほかより先に力をもつ」",
+        "形 prevailing「流行している」(=cúrrent)",
+        "形 prevalent「普及している」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Buddhism prevails[×is prevailing] throughout the country.",
+          "ja": "① その国では仏教が隅々にまで普及している。"
+        },
+        {
+          "en": "② I considered lying, but common sense prevailed.",
+          "ja": "② うそをつこうと思ったが, 良識が勝った。"
+        }
+      ]
+    },
+    {
+      "id": "1683",
+      "word": "sustain",
+      "phonetic": "[səstéin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(生命などを)維持する, 支える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 sus-[=sub 下] + -tain[保持する]→「下から支える」",
+        "形 sustainable「持続可能な(←環境, 資源を保全することが可能な)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sustain[×support] life on Earth",
+          "ja": "地球上の生命を支える"
+        }
+      ]
+    },
+    {
+      "id": "1684",
+      "word": "linger",
+      "phonetic": "[líŋgər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (いつまでも)残る",
+            "② (on)長居する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ぐずぐず長引く」(* on は「継続」を示す副詞。)",
+        "語源 ling-[long 長い] + -er[反復]",
+        "形 lingering「いつまでも残る, 長びく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① A strong smell lingered in the elevator.",
+          "ja": "① エレベーターの中に強烈な臭いが残っていた。"
+        },
+        {
+          "en": "② A lot of fans lingered (on) in the hall.",
+          "ja": "② 多くのファンがホールに残っていた。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2293",
+      "word": "robust",
+      "phonetic": "[roubʌ́st]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "がっしりした",
+            "頑丈な",
+            "(人や動物が)強健な",
+            "(経済が)活発な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人間や動植物が)強健な」から「(経済が)活発な」まで。",
+        "＊「硬い木材」がデフォのイメージ。語源は異なるが、発音の似ているrobot[róubɑt]と関連づけて覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a mountain bike with a robust frame",
+          "ja": "「がっしりしたフレームのマウンテンバイク」"
+        }
+      ]
+    },
+    {
+      "id": "2294",
+      "word": "tangible",
+      "phonetic": "[tǽndʒəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "触れられる",
+            "明白な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的に)手で触れられる」から「(目に見えて)明確な」まで。",
+        "＊tang-[touch 触れる]+-ble[可能]",
+        "☆tángent「タンジェント, 正接」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a UNESCO Intangible Cultural Heritage",
+          "ja": "「ユネスコ無形文化遺産」"
+        }
+      ]
+    },
+    {
+      "id": "2295",
+      "word": "superficial",
+      "phonetic": "[sùːpərfíʃəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "表面的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「慎重に見たり, 研究したりしていない」",
+        "＊super-[上]+-fic-[作る]+-ial[形容詞語尾]",
+        "☆fiction「小説(←作った話)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a superficial knowledge of Japanese history",
+          "ja": "「日本史に関する表面的な知識」"
+        }
+      ]
+    },
+    {
+      "id": "2296",
+      "word": "spatial",
+      "phonetic": "[spéiʃəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "空間の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ space「空間」の形容詞形(＊c→tへのつづりの変化に注意。[ex]influence→influential).",
+        "類義 名 spacious「広々とした」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "spatial awareness",
+          "ja": "「空間認識(能力)」"
+        }
+      ]
+    },
+    {
+      "id": "2297",
+      "word": "hollow",
+      "phonetic": "[hálou]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 空洞の",
+            "② (物の表面が)くぼんだ",
+            "③ うわべだけの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「中身がない」",
+        "＊hóle「穴」と同語系。",
+        "反義 solid「固体の, ぎっしり詰まった」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a hollow tree",
+          "ja": "「中が空洞の木」"
+        },
+        {
+          "en": "hollow cheeks",
+          "ja": "「こけた頬」"
+        },
+        {
+          "en": "a hollow promise",
+          "ja": "「うわべだけの約束」"
+        }
+      ]
+    },
+    {
+      "id": "2298",
+      "word": "homogeneous",
+      "phonetic": "[hòumədʒíːniəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "均質の",
+            "同種の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(集団や物質などが)一様に同じ性質を持っている」",
+        "＊homo-[同じ]+-gene-[生む→種族]+-ous[の特徴を持つ]→「同じ種類の特徴を持つ」",
+        "☆homosexual「同性愛の」",
+        "反義 heterogeneous「異種の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a homogeneous society",
+          "ja": "「均質な社会」"
+        }
+      ]
+    },
+    {
+      "id": "2299",
+      "word": "feasible",
+      "phonetic": "[fíːzəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(計画・方法などが)実現[実行]可能な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「現実的に実行することが可能だと判断できる」(＝possible)",
+        "＊feas-[行う]+-ble[可能]→「行うことができる」",
+        "☆féat「偉業(←作り上げられたもの)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "technically feasible",
+          "ja": "「技術的に実現可能な」"
+        }
+      ]
+    },
+    {
+      "id": "2300",
+      "word": "viable",
+      "phonetic": "[váɪəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(計画などが)実行可能な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「実行可能で, 間違いなくうまくいくと考えられる」",
+        "＊vi-[生命]+-able[可能]→「生きることができる」",
+        "☆vitamin[váɪtəmɪn]「ビタミン←生命+アミノ酸)」",
+        "survive「生き残る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a viable alternative",
+          "ja": "「実行可能な代替案」"
+        }
+      ]
+    }
+  ]
+}

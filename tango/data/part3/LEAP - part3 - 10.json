@@ -1,0 +1,354 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1094",
+      "word": "fortune",
+      "phonetic": "[fɔ́ːrtʃən]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 財産",
+            "② 運、運勢"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "幸運な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「財産」②「幸運」→①「(幸運によって得られる)財産, 富」",
+        "(*① make[lose, pay] a fortune「一財産を作る[財産を失う, 大金をはたく]」などの表現に限られる。)",
+        "派 fortunate「幸運な」 副 fortunately「幸運にも」(⇔ unfortunately「不運にも」) 名 fortune-teller「占い師」 名 misfortune「不運, 不幸」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make a fortune in real estate",
+          "ja": "不動産で一財産を作る"
+        },
+        {
+          "en": "tell his fortune with playing cards",
+          "ja": "トランプで彼の運勢を占う"
+        }
+      ]
+    },
+    {
+      "id": "1095",
+      "word": "property",
+      "phonetic": "[prάpərti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (主に集合的)財産, 資産",
+            "② (物質の)特性",
+            "③ (建物を含む)所有地"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「所有しているもの」",
+        "★コンピュータ用語の「プロパティ(property)」は、「(ファイルやフォルダなどの)属性, 特性」の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "intellectual property",
+          "ja": "知的財産"
+        },
+        {
+          "en": "the property of dissolving in water",
+          "ja": "水に溶ける特性"
+        },
+        {
+          "en": "a fence marking the property's boundaries",
+          "ja": "所有地の境界を示す柵"
+        }
+      ]
+    },
+    {
+      "id": "1096",
+      "word": "fund",
+      "phonetic": "[fʌnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (-s)資金",
+            "② 基金"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜に資金を出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(具体的な)お金」→〈複数形〉 ②「(財団の)基金」→〈単数形〉",
+        "派 refund「払い戻し」 他 refund「〜を払い戻す」 熟 fund-raising「資金集め(の)」 reimburse「(経費などを)払い戻す(←財布の中に戻す)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "manage funds effectively",
+          "ja": "資金を有効に活用する"
+        },
+        {
+          "en": "the International Monetary Fund (IMF)",
+          "ja": "国際通貨基金"
+        },
+        {
+          "en": "The museum is funded by local people.",
+          "ja": "その博物館は地元民が資金を出し合って(運営している)."
+        }
+      ]
+    },
+    {
+      "id": "1097",
+      "word": "stock",
+      "phonetic": "[stάk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 株(式)",
+            "② 在庫品, 蓄え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(個々の)株」は share.",
+        "★日本語でも「ストック(stock)がある[ない]」など②の意味で使われる。",
+        "熟 out of stock「在庫切れで」 名 stockholder「株主」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make money on the stock market",
+          "ja": "株(式市場)でもうける"
+        },
+        {
+          "en": "goods in stock",
+          "ja": "在庫品"
+        }
+      ]
+    },
+    {
+      "id": "1098",
+      "word": "labor",
+      "phonetic": "[léibər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 労働",
+            "② (集合的に)労働者",
+            "③ 努力, 陣痛"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 働く"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を達成する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「肉体労働」や「(肉体的, 精神的に)つらい仕事」(〈英〉labour)",
+        "派 laborious「骨の折れる」 ★collaboration「共同作業, コラボ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "manual labor",
+          "ja": "肉体労働"
+        },
+        {
+          "en": "skilled labor",
+          "ja": "熟練した労働者"
+        },
+        {
+          "en": "go into labor",
+          "ja": "陣痛が始まる"
+        }
+      ]
+    },
+    {
+      "id": "1099",
+      "word": "overwork",
+      "phonetic": "[òuvərwə́ːrk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① 働きすぎる"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を働かせすぎる, 酷使する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 過労"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "派 over- [越えて] + -work [働く] ★oversleep「寝過ごす」 overhear「(無意識に)〜を立ち聞きする」 overnight「ひと晩中, 一夜にして」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stop overworking",
+          "ja": "働きすぎをやめる"
+        },
+        {
+          "en": "overwork the employees",
+          "ja": "従業員を働かせすぎる"
+        },
+        {
+          "en": "Overwork made him ill.",
+          "ja": "彼は過労で病気になった."
+        }
+      ]
+    },
+    {
+      "id": "1100",
+      "word": "firm",
+      "phonetic": "[fə́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 会社"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② (土台, 信念などが)固い",
+            "③ (体が)引き締まった"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(主に製造をしない小規模の)会社, 事務所」◇company「(規模に関係なく製造したり売買したりする)会社」 business「(小規模の一般の)会社」",
+        "派 副 firmly「固く, きっぱりと」 ⇨ firmly believe 〜「〜を強く信じる」 他 affirm「〜を断言する(←〜を確固たるものにする)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a law firm",
+          "ja": "法律事務所"
+        },
+        {
+          "en": "I am a firm believer in fate.",
+          "ja": "私は運命をとても強く信じている."
+        },
+        {
+          "en": "firm muscles",
+          "ja": "引き締まった筋肉"
+        }
+      ]
+    },
+    {
+      "id": "1101",
+      "word": "union",
+      "phonetic": "[júːnjən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 労働組合",
+            "② 合併",
+            "③ 連邦"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "派 un- [1つ] + -ion [行為] →「(2つ以上のものを)1つにすること」→「合併」 名 reunion「同窓会, 再会(←再び1つになる)」"
+      ],
+      "word_origin": {
+        "formula": "un- [1つ] + -ion [行為] -> 「(2つ以上のものを)1つにすること」",
+        "description": "reunion「同窓会, 再会(←再び1つになる)」"
+      },
+      "examples": [
+        {
+          "en": "a union member",
+          "ja": "労働組合員"
+        },
+        {
+          "en": "a union of two cities",
+          "ja": "2都市の合併"
+        },
+        {
+          "en": "the former Soviet Union",
+          "ja": "旧ソビエト連邦"
+        }
+      ]
+    },
+    {
+      "id": "1102",
+      "word": "administration",
+      "phonetic": "[ədmìnəstréɪʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 経営, 運営",
+            "② 行政",
+            "③ 政権"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(企業や組織などの)運営」",
+        "(*③ 固有名詞と共に使う。)",
+        "派 ad- [方向] + -ministr- [大臣=仕える] から「〜に仕えること」→「運営, 行政」"
+      ],
+      "word_origin": {
+        "formula": "ad- [方向] + -ministr- [大臣=仕える] -> 「〜に仕えること」",
+        "description": "「運営, 行政」"
+      },
+      "examples": [
+        {
+          "en": "school administration",
+          "ja": "学校運営"
+        },
+        {
+          "en": "municipal administration",
+          "ja": "市政(市の行政)"
+        },
+        {
+          "en": "the Trump administration",
+          "ja": "トランプ政権"
+        }
+      ]
+    }
+  ]
+}

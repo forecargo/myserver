@@ -1,0 +1,333 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1738",
+      "word": "spectacle",
+      "phonetic": "[spéktəkl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (きわめて印象的な)光景",
+            "② (大がかりな)見せ物"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "spect-[見る] -> 「見る対象」",
+        "形 spectacular「壮観な, 見ごたえのある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The sunset was quite a spectacle.",
+          "ja": "夕日は実にすばらしい眺めだった."
+        },
+        {
+          "en": "The opening ceremony was a magnificent spectacle.",
+          "ja": "その開会式は壮大な見せ物だった."
+        }
+      ]
+    },
+    {
+      "id": "1739",
+      "word": "altitude",
+      "phonetic": "[ǽltətjùːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "標高, 高度"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「海面, 地表面からの高さ」",
+        "alti-[高い]",
+        "alto「アルト(歌手)」",
+        "緯度 latitude",
+        "経度 longitude",
+        "高山植物 alpine plants"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "at an altitude of 10,000 meters",
+          "ja": "高度 10,000メートルで"
+        },
+        {
+          "en": "a depth of ~ meters",
+          "ja": "水深〜メートル"
+        }
+      ]
+    },
+    {
+      "id": "1740",
+      "word": "catastrophe",
+      "phonetic": "[kətǽstrəfi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "大災害, 災難"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「広範囲にわたり大きな被害が及ぶ disaster(災害)」",
+        "形 catastrophic「壊滅的な」",
+        "副 catastrophically「壊滅的に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "natural catastrophes such as earthquakes, floods, and droughts",
+          "ja": "地震, 洪水, 干ばつのような自然の大災害"
+        }
+      ]
+    },
+    {
+      "id": "1741",
+      "word": "wilderness",
+      "phonetic": "[wíldərnis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "荒野, 原野"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(開発されたり, 農地にされたりしていない)広範囲の土地」",
+        "wild-[野生] + -ness[名詞語尾]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Hokkaido's wilderness",
+          "ja": "北海道の原野"
+        }
+      ]
+    },
+    {
+      "id": "1742",
+      "word": "decay",
+      "phonetic": "[dikéi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 腐敗"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 腐敗する, 衰える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物が)腐る」から「(建物が)老朽化する」「(社会, 制度が)荒廃する」まで",
+        "de-[下] + -cay[落ちる]",
+        "cascade「小滝」",
+        "自 rot「(食べ物が)腐る」",
+        "形 rotten「(食べ物が)腐った」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "develop tooth decay",
+          "ja": "虫歯(歯の腐敗)になる"
+        },
+        {
+          "en": "The queen's authority is decaying.",
+          "ja": "女王の権威は衰えてきている."
+        }
+      ]
+    },
+    {
+      "id": "1743",
+      "word": "erosion",
+      "phonetic": "[iróʊʒən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "侵食"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(岩や海岸の)侵食」から「(力や権力の)衰え」まで.",
+        "rodent「ネズミなどの齧歯動物(←かじる動物)」",
+        "他 erode「〜を侵食する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the erosion of the coastline",
+          "ja": "その海岸線の侵食"
+        }
+      ]
+    },
+    {
+      "id": "1744",
+      "word": "flame",
+      "phonetic": "[fléim]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "炎"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ bláze は fláme より勢いのある炎のこと.",
+        "▶「赤い鳥」の flamingo「フラミンゴ」からイメージして覚えよう.",
+        "形 flammable [flǽməbl]「可燃性の」",
+        "形 flamboyant「(人, 行動が)華やかな」",
+        "a flamboyant costume「けばけばしい衣装」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a candle flame",
+          "ja": "ろうそくの火"
+        }
+      ]
+    },
+    {
+      "id": "1745",
+      "word": "galaxy",
+      "phonetic": "[gǽləksi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "銀河"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(太陽が属する)銀河系」は the Galaxy と表記.",
+        "asteroid「小惑星」",
+        "comet「彗星」",
+        "constellation「星座」",
+        "(-stell-[星])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Andromeda Galaxy",
+          "ja": "アンドロメダ銀河"
+        }
+      ]
+    },
+    {
+      "id": "1746",
+      "word": "chill",
+      "phonetic": "[tʃíl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 寒気"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を冷やす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① =a feeling of coldness(*「本当に冷たいか」は無関係.)",
+        "cold「冷たい」",
+        "cool「涼しい」",
+        "形 chilly「冷たい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I got a chill from standing outside.",
+          "ja": "外に立っていたので, 冷えた."
+        },
+        {
+          "en": "chill a can of orange juice",
+          "ja": "オレンジジュースの缶を冷やす"
+        }
+      ]
+    },
+    {
+      "id": "1747",
+      "word": "thermal",
+      "phonetic": "[θə́ːrməl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "熱の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的な観点における)熱の」",
+        "therm-[熱]",
+        "thermostat「サーモスタット(←温度(熱)を調整する装置)」",
+        "名 thermometer「温度計」",
+        "geothermal「地熱の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "thermal energy",
+          "ja": "熱エネルギー"
+        }
+      ]
+    },
+    {
+      "id": "1748",
+      "word": "fertile",
+      "phonetic": "[fə́ːrtl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "肥沃な, 肥えた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「土地が肥沃な」(*比喩的な意味にも使える.)",
+        "fer-[運ぶ]",
+        "「恵みを運んでくる」→「肥沃な」",
+        "prefer「〜のほうを好む」",
+        "(-前[運ぶ])",
+        "反 barren「不毛な」",
+        "名 fertilizer「肥料」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fertile soil",
+          "ja": "肥沃な土壌"
+        }
+      ]
+    }
+  ]
+}

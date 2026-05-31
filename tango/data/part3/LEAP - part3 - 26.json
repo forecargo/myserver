@@ -1,0 +1,330 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1248",
+      "word": "earnest",
+      "phonetic": "[ə́ːrnist]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 真面目な",
+            "② (in -)真面目に"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (特に若者や新人などの態度や行為が)真剣な、誠実な、熱心な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "副 earnestly「真面目に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "make an earnest effort",
+          "ja": "真面目に努力する"
+        },
+        {
+          "en": "work in earnest",
+          "ja": "真面目に働く"
+        },
+        {
+          "en": "listen earnestly",
+          "ja": "真剣に聴く"
+        }
+      ]
+    },
+    {
+      "id": "1249",
+      "word": "diligent",
+      "phonetic": "[dílədʒənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "勤勉な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「よく働く[学ぶ]」(*日常ではhardworking「勤勉な」, earnest「熱心な」を使うことが多い。)",
+        "副 diligently「勤勉に, 精を出して」",
+        "反 lazy [léizi]「怠惰な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a diligent student",
+          "ja": "勤勉な学生"
+        }
+      ]
+    },
+    {
+      "id": "1250",
+      "word": "principal",
+      "phonetic": "[prínsəpəl]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 主要な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (米)校長"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ② 〈英〉headmasterなど。",
+        "比較 principle「原理, 原則」と同じ発音。"
+      ],
+      "word_origin": {
+        "formula": "princip-[第1位]+-al[形容詞語尾] -> 「第1の」",
+        "description": "prince「王子」, local「その土地の, 地方の」"
+      },
+      "examples": [
+        {
+          "en": "the country's principal exports",
+          "ja": "その国の主な輸出品"
+        },
+        {
+          "en": "the principal's office",
+          "ja": "校長室"
+        }
+      ]
+    },
+    {
+      "id": "1251",
+      "word": "prime",
+      "phonetic": "[práim]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (目標, 容疑者などが)最重要",
+            "② 素数"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 最盛期",
+            "② 素数"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「もっとも重要な」→ ②「素数」"
+      ],
+      "word_origin": {
+        "formula": "prim-[第1位] -> 「リーダー的存在の」",
+        "description": "primary「主な, 第1の」"
+      },
+      "examples": [
+        {
+          "en": "the prime minister of Japan",
+          "ja": "日本の首相"
+        },
+        {
+          "en": "1 is not a prime number.",
+          "ja": "1は素数ではない。"
+        }
+      ]
+    },
+    {
+      "id": "1252",
+      "word": "definite",
+      "phonetic": "[défənit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "明確な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(輪郭が)はっきりした」→「はっきりわかる」",
+        "派生 define「〜を定義する, 規定する」の形容詞形。",
+        "副 definitely「絶対的に, 明らかに」",
+        "▷ Definitely!「(相づち)その通り。」",
+        "反 indefinite「不明瞭な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a definite answer",
+          "ja": "明確な答え"
+        }
+      ]
+    },
+    {
+      "id": "1253",
+      "word": "evident",
+      "phonetic": "[évədənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "明らかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(見て, または状況から判断して)はっきりした」(書き言葉)",
+        "副 evidently「明らかに」"
+      ],
+      "word_origin": {
+        "formula": "e-(=ex外に)+-vide-[見る] -> 「外に見えてくる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "It was evident that he was not telling the truth.",
+          "ja": "彼が真実を言っていないのは明らかだった。"
+        }
+      ]
+    },
+    {
+      "id": "1254",
+      "word": "prominent",
+      "phonetic": "[prɑ́mənənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (物が)目立った",
+            "② (人が)著名な, 重要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 prominence「目立っていること, 重要」",
+        "副 prominently「目立って, 著しく」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方]+-minent[突き出る]",
+        "description": "eminent「著名な」, mouth「口」, mountain「山」(*ともに「突き出たもの」)"
+      },
+      "examples": [
+        {
+          "en": "The statue stood in a prominent position.",
+          "ja": "その像は目立った場所にあった。"
+        },
+        {
+          "en": "a prominent Japanese scientist",
+          "ja": "著名な日本人科学者"
+        }
+      ]
+    },
+    {
+      "id": "1255",
+      "word": "marked",
+      "phonetic": "[mɑ́ːrkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(名詞の前で)際立った, 著しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「目につく」",
+        "副 markedly [mɑ́ːrkədli]「目立って」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a marked change in his behavior",
+          "ja": "彼の行動の際立った変化"
+        }
+      ]
+    },
+    {
+      "id": "1256",
+      "word": "grace",
+      "phonetic": "[gréis]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 優美さ",
+            "② (say -) (食事の前後)の感謝の祈り(をささげる)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(気持ちよくするような)優美さ」→ ②「感謝」",
+        "反 disgrace「不名誉」"
+      ],
+      "word_origin": {
+        "formula": "gra-[感謝]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the grace of the dancer",
+          "ja": "そのダンサーの優美さ"
+        },
+        {
+          "en": "say grace before meals",
+          "ja": "食事の前にお祈りをささげる"
+        }
+      ]
+    },
+    {
+      "id": "1257",
+      "word": "charm",
+      "phonetic": "[tʃɑ́ːrm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 魅力",
+            "② (a good-luck -)お守り, まじない"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を魅了する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(魔法がかかったようにうっとりしてしまう)魅力」",
+        "派生 charming「魅力的な」",
+        "類 enchant「〜を魅了する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have enormous charm",
+          "ja": "大きな魅力がある"
+        },
+        {
+          "en": "wear a good-luck charm",
+          "ja": "お守りを身につけている"
+        }
+      ]
+    }
+  ]
+}

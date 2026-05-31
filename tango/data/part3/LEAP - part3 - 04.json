@@ -1,0 +1,317 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1031",
+      "word": "pain",
+      "phonetic": "[péin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 苦痛",
+            "② (-s) 苦労"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(突き刺すような)肉体的, 精神的痛み」",
+        "▶「苦痛」が元の意味。",
+        "★ penalty「罰則」",
+        "形 painful「(身体が)痛い」",
+        "副 painfully「痛いほど」",
+        "名 painkiller「鎮痛剤」",
+        "▷ 口語では「やっかいな人[こと, もの]」の意味でも使用。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Do you feel any pain?",
+          "ja": "① 〈医者の発言〉痛みはありますか."
+        },
+        {
+          "en": "take pains to improve my image",
+          "ja": "② イメージアップに苦心する"
+        },
+        {
+          "en": "Writing by hand is a real pain.",
+          "ja": "手書きはうんざりだ。"
+        }
+      ]
+    },
+    {
+      "id": "1032",
+      "word": "strain",
+      "phonetic": "[stréin]",
+      "level_tag": "B1, B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (心身の)負担, 無理"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (目や筋肉など)を痛める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長期にわたって stress を感じ続けている状態」",
+        "★ stra-[ぴんと張る]→「負担」",
+        "★ string「ひも」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "work under a lot of strain",
+          "ja": "① 過度の負担の下で働く"
+        },
+        {
+          "en": "strain a muscle in my leg",
+          "ja": "② 足の筋肉を痛める"
+        }
+      ]
+    },
+    {
+      "id": "1033",
+      "word": "remedy",
+      "phonetic": "[rémədi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 治療法, 治療薬",
+            "② 改善策, 対策"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ちょっとした病気の)治療法, 治療薬」",
+        "◇ cure「(重い病の)治療法」",
+        "★ re-[再び]+-medy[=medicine 治す]→「治療法」",
+        "★ medicine「薬」",
+        "他 ①②いずれも〈可算〉"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a remedy for colds",
+          "ja": "① かぜの治療法"
+        },
+        {
+          "en": "a remedy for unemployment",
+          "ja": "② 失業対策"
+        }
+      ]
+    },
+    {
+      "id": "1034",
+      "word": "pharmacy",
+      "phonetic": "[fáːrməsi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(調剤)薬局"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ drugstore「薬局」は「化粧品や日用雑貨も扱う店」を表す。",
+        "★ pharma-[薬]",
+        "名 pharmacist「薬剤師」",
+        "〈英〉chemist",
+        "形 pharmaceutical「薬学の, 調剤の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "buy medicine at a nearby pharmacy",
+          "ja": "近くの薬局で薬を買う"
+        }
+      ]
+    },
+    {
+      "id": "1035",
+      "word": "physician",
+      "phonetic": "[fɪzɪʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 〈米〉医師",
+            "② 〈英〉内科医"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①論文などでは「博士(doctor)」と区別するために使用。",
+        "★ surgeon「外科医」",
+        "internist「〈米〉内科医」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "emergency physicians",
+          "ja": "① 救急医"
+        },
+        {
+          "en": "the Royal college of Physicians",
+          "ja": "② 英国王立内科医協会"
+        }
+      ]
+    },
+    {
+      "id": "1036",
+      "word": "disorder",
+      "phonetic": "[dɪsɔ́ːrdər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(心身の)不調"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「精神疾患や消化不良など」",
+        "★ dis-[バラバラ]+-order[秩序]",
+        "参 PTSD(=post-traumatic stress disorder)「心的外傷後ストレス障害」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "eating disorders",
+          "ja": "摂食障害"
+        }
+      ]
+    },
+    {
+      "id": "1037",
+      "word": "pregnant",
+      "phonetic": "[prégnənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "妊娠した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では be expecting「おめでたである」がふつう。",
+        "★ pre-[前に]+-gnant[=gen 生む] ☆ generate「〜を発生させる」",
+        "名 pregnancy「妊娠」",
+        "参 midwife「助産師」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Terry is three-months pregnant.",
+          "ja": "テリーは妊娠3か月だ。"
+        }
+      ]
+    },
+    {
+      "id": "1038",
+      "word": "clinical",
+      "phonetic": "[klínɪkəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "臨床の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「病気の人々の治療・検査に関わる」",
+        "★ clinic「診療所, 医院」",
+        "参 practitioner「開業医」",
+        "clinical laboratory technologist「臨床検査技師」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a clinical test",
+          "ja": "臨床試験"
+        }
+      ]
+    },
+    {
+      "id": "1039",
+      "word": "heal",
+      "phonetic": "[híːl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を治す"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 治る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(患者自らの力で)傷を治す, いやす」",
+        "名 healing「治療, いやし」",
+        "⇨ healing music「いやしてくれる音楽」",
+        "名 healer「治療する人」",
+        "⇨ Time is a great healer.「時は偉大な治療者だ。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "heal people by laying my hands on their bodies",
+          "ja": "① 体に手を当てて人々を治す"
+        },
+        {
+          "en": "The injury will heal quickly.",
+          "ja": "② 傷はすぐに治るだろう。"
+        }
+      ]
+    },
+    {
+      "id": "1040",
+      "word": "infect",
+      "phonetic": "[ɪnfɛ́kt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(人, 動物, 地域)に感染させる, 伝染する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★ in-[中に]+-fect[作る]→「体の中で作る」",
+        "名 infection「(人, 空気, 水などによる)感染」",
+        "⇨ hospital infection「院内感染」",
+        "形 infectious「感染性の」",
+        "参 contagion「(接触による)伝染」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "My dog was infected with a virus [váirəs].",
+          "ja": "うちのイヌはウイルスに感染した (感染させられた)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "924",
+      "word": "proverb",
+      "phonetic": "[próvəːrb]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "諺"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ことわざ、言い回し」(*a proverb=a well-known saying)",
+        "(*)goesは表現をそのまま引用するときに使われる。)"
+      ],
+      "word_origin": {
+        "formula": "pro-[前] + -verb[言葉] -> 「前に出てきた言葉」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "As the proverb goes[says], time flies.",
+          "ja": "諺にもあるように、光陰矢の如しだ。"
+        }
+      ]
+    },
+    {
+      "id": "925",
+      "word": "dialect",
+      "phonetic": "[dáiəlèkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "ある地方の言葉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "反 the standard language「標準語」"
+      ],
+      "word_origin": {
+        "formula": "dia-[横切って] + -lect[話す] -> 「向かい合って話す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "speak in the Kansai dialect",
+          "ja": "関西弁で話す"
+        }
+      ]
+    },
+    {
+      "id": "926",
+      "word": "fluent",
+      "phonetic": "[flúːənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "流暢な",
+            "流れるような, (流れるように)よどみない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "派生 flu-[=flow 流れ] + -ent[性質]から「流れるように」→「流暢な」",
+        "派生 influénza「インフルエンザ(←流れ入ってくる病気)」, áffluent「裕福な(←お金が流れ込んでくる)」",
+        "派生 fluently「流暢に」",
+        "派生 fluency「流暢さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He speaks fluent Spanish. (=He is fluent in Spanish.)",
+          "ja": "彼はスペイン語が流暢だ。"
+        }
+      ]
+    },
+    {
+      "id": "927",
+      "word": "translate",
+      "phonetic": "[trænsˈléit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を翻訳する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (into 〜) (結果として)〜に変わる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(文章などを)ある言語から別の言語に翻訳する」から「(ある行為などが)変化する」まで。(*①は自もある。)",
+        "派生 trans-[越えて] + -late[運ぶ]",
+        "派生 translation「大ざっぱな訳[直訳]」",
+        "派生 translator「翻訳者」"
+      ],
+      "word_origin": {
+        "formula": "trans-[越えて] + -late[運ぶ]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① translate a sentence literally",
+          "ja": "① 文を直訳する (文字どおりに文を訳す)"
+        },
+        {
+          "en": "② Anger can translate into violence.",
+          "ja": "② 怒りは暴力に変わり得る。"
+        }
+      ]
+    },
+    {
+      "id": "928",
+      "word": "define",
+      "phonetic": "[difáin]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を定義する",
+            "② 〜を規定する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(境界(輪郭)を)はっきり定める」",
+        "派生 de-[強意] + -fin-[限界, 境界] -> 「境界をはっきり定める」",
+        "派生 finish「終える」",
+        "派生 definition「定義, 規定」",
+        "派生 by definition「自明なこととして, 定義上」",
+        "派生 definite「明確な(←境界が明確な)」",
+        "(*BMI=body mass index「体格指数」)"
+      ],
+      "word_origin": {
+        "formula": "de-[強意] + -fin-[限界, 境界] -> 「境界をはっきり定める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① Obesity is defined as a BMI of 30 or above.",
+          "ja": "① 肥満はBMI30以上と定義されている。"
+        },
+        {
+          "en": "② define our duties",
+          "ja": "② 私たちの任務を規定する"
+        }
+      ]
+    },
+    {
+      "id": "929",
+      "word": "interpret",
+      "phonetic": "[intə́ːrprit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を解釈する",
+            "② 〜を通訳する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ 通訳する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「仲介する」",
+        "派生 inter-[間] + -pret[つかむ] -> 「間に入ってつかむ」",
+        "派生 compréhend「〜を理解している」",
+        "派生 interpretación「解釈, 通訳」",
+        "派生 intérpreter「通訳者」"
+      ],
+      "word_origin": {
+        "formula": "inter-[間] + -pret[つかむ] -> 「間に入ってつかむ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① interpret his silence as a refusal",
+          "ja": "① 彼の沈黙を拒否と解釈する"
+        },
+        {
+          "en": "② interpret foreign languages",
+          "ja": "② 外国語を通訳する"
+        },
+        {
+          "en": "③ I'll interpret for you.",
+          "ja": "③ 僕が君のために通訳をします。"
+        }
+      ]
+    },
+    {
+      "id": "930",
+      "word": "quote",
+      "phonetic": "[kwóut]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を引用する",
+            "② 〜に価格を提示する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 引用文",
+            "④ 提示価格, 見積り"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人の発言, 文献)を(そのままの形で)引用する」",
+        "注意「(本, 音楽, 映画から)〜を引用する」はexcértで表現する。",
+        "派生 quotation「引用」",
+        "派生 “ ” のことをquotation marks「引用符」という。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① quote a passage from the Bible",
+          "ja": "① 聖書の一節を引用する"
+        },
+        {
+          "en": "② quote $100 for this table",
+          "ja": "② このテーブルに 100 ドルの価格を提示する"
+        },
+        {
+          "en": "③ a quote from a paper",
+          "ja": "③ 論文からの引用"
+        },
+        {
+          "en": "④ the original quote",
+          "ja": "④ 最初の提示価格"
+        }
+      ]
+    }
+  ]
+}

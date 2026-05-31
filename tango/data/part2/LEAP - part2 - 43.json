@@ -1,0 +1,289 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "711",
+      "word": "environment",
+      "phonetic": "[inváiərənəmənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 環境, 周囲 (の状況)",
+            "② (人を取り巻く)自然[社会]的環境, 状況"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "surroundings「周囲」は「場所」を表す場合が多い。",
+        "「地球の自然環境」を表す場合には必ず the がつく。",
+        "形 environmental「環境の」",
+        "副 environmentally「環境に」",
+        "environmentally friendly products「環境に優しい製品」",
+        "environmentalist「環境保護論者」",
+        "参 green「環境にやさしい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the natural environment",
+          "ja": "自然環境"
+        }
+      ]
+    },
+    {
+      "id": "712",
+      "word": "horizon",
+      "phonetic": "[həráizn]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 水平線, 地平線",
+            "② (-s) 視野"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "①「空と海[大地]を分ける線」",
+        "②「視野」",
+        "頻出 broaden one's horizons「視野を広げる」(*主語は「事柄」がふつう。)",
+        "形 horizontal「水平の」",
+        "a horizontal bar「(体操の)鉄棒」",
+        "副 horizontally「水平に」",
+        "⇔ vertically「垂直に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The sun appeared on the horizon.",
+          "ja": "太陽が水平線上に現れた."
+        },
+        {
+          "en": "Traveling broadens your horizons.",
+          "ja": "旅は視野を広げる."
+        }
+      ]
+    },
+    {
+      "id": "713",
+      "word": "layer",
+      "phonetic": "[léiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(大気や地面などの)層〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(ケーキなどの)層」の意味もある",
+        "頻出 wear layers of clothes「重ね着をする」",
+        "派 lay-[置く] + -er[もの]",
+        "他 lay「〜を横たえる」",
+        "⇔ 自 lie「横になる」[活用] lie-lay-lain",
+        "wear many layers of clothes「重ね着をする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the ozone layer",
+          "ja": "オゾン層"
+        }
+      ]
+    },
+    {
+      "id": "714",
+      "word": "agriculture",
+      "phonetic": "[ǽgrikʌltʃər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "農業〈不可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「農業」だけでなく「農学」の意味もある。(*比較的、堅い語)",
+        "注意 日常では farming「農業」を使うことが多い。",
+        "形 agricultural「農業の」",
+        "参 irrigation「灌漑」",
+        "farmland「農地」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "organic agriculture",
+          "ja": "有機農業"
+        }
+      ]
+    },
+    {
+      "id": "715",
+      "word": "crop",
+      "phonetic": "[krɔ́p]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 作物",
+            "② 収穫(高)"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (up) 生じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "①「(穀物、野菜、果物などの)収穫物」",
+        "②「(一地方[一季節、一作物]の)全収穫高」",
+        "③「(問題などが)不意に現れる」",
+        "頻出 crop yields「収穫量」",
+        "an abundant[a poor] crop「豊[凶]作」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the main crops in this area",
+          "ja": "この地域の主要な農産物"
+        },
+        {
+          "en": "this region's rice crop",
+          "ja": "この地域の米の収穫(高)"
+        },
+        {
+          "en": "A new problem cropped up.",
+          "ja": "新たな問題が突然生じた."
+        }
+      ]
+    },
+    {
+      "id": "716",
+      "word": "soil",
+      "phonetic": "[sɔ́il]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "土, 土壌"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「(植物が育つために必要な)土、土壌」",
+        "頻出 fertile[poor] soil「肥沃な[やせた]土地」",
+        "派 soil[=seat]から「(植物が)座る場所」→「土」",
+        "参 sand「砂」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cultivate the soil",
+          "ja": "土を耕す"
+        }
+      ]
+    },
+    {
+      "id": "717",
+      "word": "weed",
+      "phonetic": "[wiːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 雑草, 海草"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜の雑草を抜く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「望まれない草」",
+        "注意 日本語の「ワカメ、昆布」に対応する英語はなく, seaweeds「海草」と表現するのがふつう。",
+        "派 weeding「草刈り, 除草」",
+        "参 weedkiller「除草剤」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pull up weeds",
+          "ja": "雑草を抜く"
+        },
+        {
+          "en": "weed the garden",
+          "ja": "庭の雑草を抜く"
+        }
+      ]
+    },
+    {
+      "id": "718",
+      "word": "pollen",
+      "phonetic": "[pɑ́lən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "花粉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "「種子植物の雄性の生殖細胞」",
+        "頻出 have a pollen allergy「花粉症である」",
+        "他 pollinate「〜に授粉する」",
+        "参 nectar「蜜」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Pollen levels are high today.",
+          "ja": "今日は花粉の量が多い."
+        }
+      ]
+    },
+    {
+      "id": "719",
+      "word": "drown",
+      "phonetic": "[dráun]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "溺れ死ぬ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 単に「溺れる」ではなく「溺れ死ぬ」ことを表す。",
+        "「溺れる」と表現するときは almost や nearly を伴う。",
+        "派 drink[飲む]",
+        "a drowning person「溺れて(死にかけている)人」",
+        "(⇔ a drowned person「溺れ死んだ人」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He almost drowned, but luckily he was saved.",
+          "ja": "彼は溺れかけたが, 幸い救助された."
+        }
+      ]
+    }
+  ]
+}

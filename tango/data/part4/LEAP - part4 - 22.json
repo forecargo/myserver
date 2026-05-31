@@ -1,0 +1,368 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1621",
+      "word": "stimulate",
+      "phonetic": "[stímjulèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を刺激する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かの行動に駆り立てるように)刺激する」",
+        "▷stimulation「刺激」",
+        "▷stimulant「刺激するもの、興奮剤」"
+      ],
+      "word_origin": {
+        "formula": "sti-[=stick 棒] + -mul-[押す (棒で突いて)刺激する]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Light stimulates plant growth.",
+          "ja": "光に刺激されて植物は育つ(光が植物の成長を刺激する)."
+        }
+      ]
+    },
+    {
+      "id": "1622",
+      "word": "animate",
+      "phonetic": "[ǽnəmèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を活気づける",
+            "② 〜をアニメ化する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「生命を吹き込む」",
+        "▷anime「アニメ(←キャラクターに生命を吹き込んで動かす)」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "animal「動物(←生命を吹き込まれたもの)」"
+      },
+      "examples": [
+        {
+          "en": "① animate the discussion",
+          "ja": "① 議論を活気づける"
+        },
+        {
+          "en": "② an animated Disney film",
+          "ja": "② ディズニーのアニメ映画 (アニメ化された映画)"
+        }
+      ]
+    },
+    {
+      "id": "1623",
+      "word": "spur",
+      "phonetic": "[spə́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を駆り立てる, 促す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 拍車, 刺激, 動機"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷spurt「噴出, スパート」は日本語でも「ラストスパート(ゴール間近で全速力を出すこと)」などで使われる。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「足で蹴る」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "① spur economic growth",
+          "ja": "① 経済成長を促す"
+        },
+        {
+          "en": "② on the spur of the moment",
+          "ja": "② その場の勢いで"
+        }
+      ]
+    },
+    {
+      "id": "1624",
+      "word": "urge",
+      "phonetic": "[ə́ːrdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をせき立てる, 〜に強く勧める"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (何かがしたい)衝動"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「アーシ(鯵)を食べろと「せき立てる」",
+        "★energy「活力, エネルギー」",
+        "▷urgent「緊急の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① urge him to rest",
+          "ja": "① 彼に休むよう強く勧める"
+        },
+        {
+          "en": "② have an urge to eat some fish",
+          "ja": "② 魚が食べたくて仕方ない (魚を食べたい衝動を持つ)"
+        }
+      ]
+    },
+    {
+      "id": "1625",
+      "word": "compel",
+      "phonetic": "[kəmpél]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A to do) (Aに(~することを)強制する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(法的, 道徳的に)追い込む」",
+        "▷propeller「(飛行機の)プロペラ」",
+        "▷compelling「(理由などが)説得力のある」",
+        "▷compulsion「強制」"
+      ],
+      "word_origin": {
+        "formula": "com-[=con 強意] + -pel-[押す]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "feel compelled to resign because of the scandal",
+          "ja": "スキャンダルのため辞職せざるを得ない(辞職を強いられている)と感じる"
+        }
+      ]
+    },
+    {
+      "id": "1626",
+      "word": "blur",
+      "phonetic": "[blə́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をぼやかす"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② ぼやける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「輪郭を不鮮明にする」",
+        "★blind「目の見えない」",
+        "▷blurred「ぼやけた」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Tears blurred my vision.",
+          "ja": "① 涙で視界がぼやけた(視界をぼやかした)."
+        },
+        {
+          "en": "② My vision has blurred.",
+          "ja": "② 視界がぼやけた."
+        }
+      ]
+    },
+    {
+      "id": "1627",
+      "word": "divert",
+      "phonetic": "[divə́ːrt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (川などの)方向を変える",
+            "② (注意などを)そらす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(流れを)変える」から「(注意, 批判)をそらす」まで。",
+        "▷diversion「方向転換, 気分転換」"
+      ],
+      "word_origin": {
+        "formula": "di-[=dis バラバラ] + -vert-[回る]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① divert the course of a stream",
+          "ja": "① 川の流れ(の進路)を変える"
+        },
+        {
+          "en": "② divert his attention",
+          "ja": "② 彼の注意をそらす"
+        }
+      ]
+    },
+    {
+      "id": "1628",
+      "word": "reverse",
+      "phonetic": "[rivə́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を逆転する, 覆す"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 逆"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 逆の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▷reversal「逆転」",
+        "▷reversible「裏返しても使える」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -verse-[回る] →「逆回転する」",
+        "description": "universe「宇宙(←たった1つのものが回転する)」"
+      },
+      "examples": [
+        {
+          "en": "① reverse the decision",
+          "ja": "① その決定を覆す"
+        },
+        {
+          "en": "② The reverse is the case.",
+          "ja": "② その逆が正しい."
+        },
+        {
+          "en": "③ in reverse order",
+          "ja": "③ 逆の順番で"
+        }
+      ]
+    },
+    {
+      "id": "1629",
+      "word": "overshadow",
+      "phonetic": "[òuvərʃǽdou]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜の影を薄くさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物)を重要でないように見せる」"
+      ],
+      "word_origin": {
+        "formula": "over-[覆う] + -shadow-[影] →「上から影で覆う」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "His performance was overshadowed by his sister's.",
+          "ja": "彼の成績は姉の影に隠れてしまった."
+        }
+      ]
+    },
+    {
+      "id": "1630",
+      "word": "worsen",
+      "phonetic": "[wə́ːrsn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を悪化させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「自」として「悪化する」でも使用可。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "badの比較級 worse に -en[動詞化]がついた語。"
+      },
+      "examples": [
+        {
+          "en": "worsen the problem",
+          "ja": "その問題を悪化させる"
+        }
+      ]
+    },
+    {
+      "id": "1631",
+      "word": "jeopardize",
+      "phonetic": "[dʒépərdàiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "生命, 財産, 制度などを)危険にさらす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常では put ~ at risk と表現するのがふつう。",
+        "▷jeopardy「危険」"
+      ],
+      "word_origin": {
+        "formula": "jeo-[試合] + -par-[等しい] から「(どちらに転んでもよいような)五分五分の危険な状況」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "jeopardize the country's economic future",
+          "ja": "その国の経済の将来を危険にさらす"
+        }
+      ]
+    }
+  ]
+}

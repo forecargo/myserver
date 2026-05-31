@@ -1,0 +1,515 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2072",
+      "word": "mentor",
+      "phonetic": "[méntɔːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を指導する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (会社、大学などでの)指導者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「面と向かって指導する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a mentoring program",
+          "ja": "メンター制度"
+        }
+      ]
+    },
+    {
+      "id": "2073",
+      "word": "contemplate",
+      "phonetic": "[kάntəmplèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を熟考する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(主に将来のこと)をじっくりと真剣に考える」",
+        "＊昔, temple は「占いの場所」だった。"
+      ],
+      "word_origin": {
+        "formula": "con-[強意] + -template[=temple 占いの場所]から「占いの場所でじっくりと観察する」→「じっくり考える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "contemplate marrying her",
+          "ja": "彼女との結婚をじっくり考える"
+        }
+      ]
+    },
+    {
+      "id": "2074",
+      "word": "conjecture",
+      "phonetic": "[kəndʒéktʃər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を推測する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「不完全な情報を元にして推測する」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に] + -ject-[投げる]から「考えをまとめて出す」→「〜を推測する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "conjecture he will get promoted",
+          "ja": "彼は出世すると推測する"
+        }
+      ]
+    },
+    {
+      "id": "2075",
+      "word": "presume",
+      "phonetic": "[prizúːm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人が主語)〜と推定する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (計画などが主語)〜を前提とする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(確信をもって)推定する」",
+        "名 presumption「推定, 推論, 厚かましさ」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -sume[=take 取る]→「事前に〜と考える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "presume that he was drunk",
+          "ja": "彼は酒に酔っていたと推定する"
+        },
+        {
+          "en": "This course presumes some knowledge of Latin.",
+          "ja": "この授業はある程度のラテン語の知識を前提とします。"
+        }
+      ]
+    },
+    {
+      "id": "2076",
+      "word": "gauge",
+      "phonetic": "[géidʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を(慎重に)判断する, 評価する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(計器で測るように)慎重に人の気持ち・行動・状況などを判断する」",
+        "「計器 (gauge) で正確に測る」から派生した語。"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "「計器 (gauge) で正確に測る」から派生した語。"
+      },
+      "examples": [
+        {
+          "en": "gauge others by your own standards",
+          "ja": "自分自身の尺度で他者を評価する"
+        }
+      ]
+    },
+    {
+      "id": "2077",
+      "word": "verify",
+      "phonetic": "[vérəfài]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(事実かどうか)を確かめる, 検証する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 verdict「(陪審員の)評決」",
+        "名 verification「検証, 立証」"
+      ],
+      "word_origin": {
+        "formula": "ver-[=very 真の] + -ify[動詞語尾]から「真のものにする」→「立証する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "verify the test results",
+          "ja": "実験結果を検証する"
+        }
+      ]
+    },
+    {
+      "id": "2078",
+      "word": "pledge",
+      "phonetic": "[plédʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を誓う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(公式に, あるいは, 人前で)約束する」",
+        "▶「プレジデントが「誓う」「保証, 担保物件」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The prime minister pledged to curb inflation.",
+          "ja": "首相はインフレを抑制することを誓った。"
+        }
+      ]
+    },
+    {
+      "id": "2079",
+      "word": "dismay",
+      "phonetic": "[disméi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を狼狽させる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 狼狽"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きなショックを与えて)落ち込ませる」",
+        "形 mighty「強力な」"
+      ],
+      "word_origin": {
+        "formula": "dis-[バラバラ] + -may[=might 力]→「力が抜ける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "to my dismay",
+          "ja": "私が狼狽したことに"
+        }
+      ]
+    },
+    {
+      "id": "2080",
+      "word": "lament",
+      "phonetic": "[ləmént]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を深く悲しむ, 嘆く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「強く惜しむ」",
+        "形 lamentable「嘆かわしい」(←ラーメン食べるは「嘆かわしい」?)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "lament the death of the leader",
+          "ja": "指導者の死を深く悲しむ"
+        }
+      ]
+    },
+    {
+      "id": "2081",
+      "word": "perplex",
+      "phonetic": "[pərpkéks]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を困惑させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では confuse のほうが使われる。",
+        "形 perplexing「困惑させるような」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して, ずっと] + -plex[折り曲げる]から「すべて曲がる」→「完全に混乱させる」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2082",
+      "word": "disgust",
+      "phonetic": "[disgʌ́st]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に嫌悪を抱かせる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 嫌悪"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人)をむかつかせる」",
+        "▶「極めて不快な気分にさせる」",
+        "形 disgusting「不快な, (人を)むかつかせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That smell is really disgusting.",
+          "ja": "その臭いは本当に不快だ。"
+        }
+      ]
+    },
+    {
+      "id": "2083",
+      "word": "evoke",
+      "phonetic": "[ivóuk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を呼び起こす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「強い感情や思い出を呼び起こす」",
+        "＊日常では bring 〜 back のほうが使われる。",
+        "名 vocal「発声の」",
+        "名 evocation「呼び起こすこと, 喚起」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 外に] + -voke[=voice 声→呼ぶ]→「呼んで, 外に引き出す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "evoke memories of my childhood",
+          "ja": "子どものころの記憶を呼び起こす"
+        }
+      ]
+    },
+    {
+      "id": "2084",
+      "word": "harbor",
+      "phonetic": "[hɑ́ːrbər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (悪意・疑いなど)を心に抱く"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (菌など)を住まわせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(港の中にいれる (かくまう))→「心に抱く」",
+        "名 port「(町を含む)商港」"
+      ],
+      "word_origin": {
+        "formula": "hárbor「港」から「港の中にいれる (かくまう)」→「心に抱く」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "harbor deep resentment against him",
+          "ja": "彼に深い憤りを抱く"
+        },
+        {
+          "en": "Dirty towels can harbor dangerous germs.",
+          "ja": "汚れたタオルは危険なばい菌の住処になりうる((ばい菌を住まわせる)。)"
+        }
+      ]
+    },
+    {
+      "id": "2085",
+      "word": "friction",
+      "phonetic": "[fríkʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "摩擦"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物と物の)摩擦」から「(国と国の)不和」まで。",
+        "形 frictional「摩擦の」",
+        "形 frictional heat「摩擦熱」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "trade friction between the two countries",
+          "ja": "両国間の貿易摩擦"
+        }
+      ]
+    },
+    {
+      "id": "2086",
+      "word": "mutation",
+      "phonetic": "[mjuːtéiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "突然変異"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 生物用語",
+        "動 commute「通勤する(←場所を変える)」"
+      ],
+      "word_origin": {
+        "formula": "mut-[変化する] + -tion[こと]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Mutations occurred in fruit flies.",
+          "ja": "ミバエに突然変異が生じた。"
+        }
+      ]
+    },
+    {
+      "id": "2087",
+      "word": "heredity",
+      "phonetic": "[hərédəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "遺伝"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「代々伝わるもの」",
+        "形 hereditary「遺伝の」",
+        "動 adhere (to 〜)「((〜に)固執する)」"
+      ],
+      "word_origin": {
+        "formula": "here-[くっつく] + -ity[名詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Mendel's laws of heredity",
+          "ja": "メンデルの遺伝の法則"
+        }
+      ]
+    },
+    {
+      "id": "2088",
+      "word": "synthesis",
+      "phonetic": "[sínθəsis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "合成, 統合"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「さまざまな物を組み合わせること」",
+        "名 synthesizer「シンセサイザー」は「電子回路を用いた音の合成装置」のこと。",
+        "他 synthesize「〜を合成する」",
+        "形 synthetic「総合の, 合成の」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2089",
+      "word": "veterinarian",
+      "phonetic": "[vètərənέəriən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "獣医"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "動 vét と略すこともある。",
+        "名 veteran「退役軍人」"
+      ],
+      "word_origin": null,
+      "examples": []
+    }
+  ]
+}

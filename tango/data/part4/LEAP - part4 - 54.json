@@ -1,0 +1,337 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1955",
+      "word": "utter",
+      "phonetic": "[ʌ́tər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (叫び声などを)発する"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② まったくの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "utt-(=out 外) + -er[比較] → ① (外へ出す→)発する ② (完全に出来上がったもの→)まったくの",
+        "名 utterance「発すること, 発話」",
+        "副 utterly「まったく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "utter a cry of shock",
+          "ja": "① びっくりして叫び声を発する"
+        },
+        {
+          "en": "in an utter panic",
+          "ja": "② まったくのパニック状態で"
+        }
+      ]
+    },
+    {
+      "id": "1956",
+      "word": "exclaim",
+      "phonetic": "[ikskléim]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(驚き, 怒りなどで)叫ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(興奮して突然)叫ぶ」",
+        "名 exclamation「感嘆(驚き, 喜び)の声[叫び]」",
+        "名 exclamation mark「感嘆符(“!”)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "\"Oh my God!\" she exclaimed.",
+          "ja": "「なんてことなの！」と彼女は叫んだ."
+        }
+      ]
+    },
+    {
+      "id": "1957",
+      "word": "shed",
+      "phonetic": "[ʃéd]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (涙などを)流す",
+            "② (光)を当てる",
+            "③ (不要なもの)を取り除く",
+            "④ (ヘビなどが)皮を脱ぐ, (木が葉っぱを)落とす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「切り離す」が元の意味.",
+        "☆shredder「シュレッダー, 裁断機」",
+        "名 bloodshed「流血の惨事」",
+        "名 watershed「分水嶺, 分岐点」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "shed tears[blood]",
+          "ja": "① 涙[血]を流す"
+        },
+        {
+          "en": "shed light on the problem",
+          "ja": "② 問題を解明する(問題に光を当てる)"
+        },
+        {
+          "en": "shed a bad image",
+          "ja": "③ 悪い印象を払拭する"
+        },
+        {
+          "en": "A snake regularly sheds its skin.",
+          "ja": "④ ヘビは定期的に脱皮する(皮を脱ぐ)."
+        }
+      ]
+    },
+    {
+      "id": "1958",
+      "word": "resent",
+      "phonetic": "[rizént]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜に憤慨する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「やり場のない憤りを感じる」",
+        "re-「再び→強意」 + -sent[感じる] →「(憤りを)強く感じる」",
+        "☆sentiment「感情」, consent「同意」",
+        "名 resentment「憤慨」",
+        "形 resentful「憤慨した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "resent my boss's rude behavior",
+          "ja": "上司の無礼なるまいに憤慨する"
+        }
+      ]
+    },
+    {
+      "id": "1959",
+      "word": "plead",
+      "phonetic": "[plíːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (with 〜)(〜に)懇願する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を申し立てる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 plea「懇願, 申し立て」",
+        "他 please「〜を喜ばせる」",
+        "▶ ② 法廷の用語"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "plead with him to stay",
+          "ja": "① 彼に留まるように懇願する"
+        },
+        {
+          "en": "I plead not guilty.",
+          "ja": "② 無罪を主張します."
+        }
+      ]
+    },
+    {
+      "id": "1960",
+      "word": "yearn",
+      "phonetic": "[jə́ːrn]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 切望する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を切望する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(入手困難なものが)欲しくてたまらない, なくて悲しい」",
+        "▶「くれなきゃヤーンと『切望する』」",
+        "名 yearning「あこがれ, 切望」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "yearn for freedom",
+          "ja": "① 自由を切望する"
+        },
+        {
+          "en": "yearn to be a pilot",
+          "ja": "② パイロットになりたくて仕方ない (パイロットになることを切望する)"
+        }
+      ]
+    },
+    {
+      "id": "1961",
+      "word": "long",
+      "phonetic": "[lɔ́ːŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(for 〜)(〜を)切望する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「長期間(long)にわたって思い続ける」",
+        "名 longing「あこがれ」",
+        "参 prolong「(時間, 期間)を長くする」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "long for peace",
+          "ja": "平和を切望する"
+        }
+      ]
+    },
+    {
+      "id": "1962",
+      "word": "immerse",
+      "phonetic": "[imə́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A in B) BにAを没頭させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(語学や思考など)にすべての時間を捧げる」",
+        "im-(=in- 中に) + -mer-[水] →「〜を水の中ににつける」",
+        "☆emerge「出現する(←水の中から出る)」, mermaid「人魚」",
+        "名 immersion「(言語などへの)没頭, (水などに)浸すこと」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "be immersed[immerse oneself] in English",
+          "ja": "英語漬けになる(英語に没頭させられる[自らを没頭させる])"
+        }
+      ]
+    },
+    {
+      "id": "1963",
+      "word": "bewilder",
+      "phonetic": "[biwíldər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(通例, 受け身)〜を当惑させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ confuseより強い意味.",
+        "be- [強意] + -wild-[野生]から「突然, 野に放つ」→「〜を当惑させる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was bewildered by endless paperwork.",
+          "ja": "終わりのない事務処理に当惑した(当惑させられた)."
+        }
+      ]
+    },
+    {
+      "id": "1964",
+      "word": "despise",
+      "phonetic": "[dispáiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を軽蔑する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人, 物)をひどく嫌って見下す」(☆hate「〜を嫌う」より強い意味)",
+        "de-(=down 下に) + -spi-(=spect 見る)から「下に見てる」→「軽蔑する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "despise the neighbors because they are always gossiping",
+          "ja": "うわさ話ばかりしているため, 近所の人たちを軽蔑する"
+        }
+      ]
+    },
+    {
+      "id": "1965",
+      "word": "willing",
+      "phonetic": "[wíliŋ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(be - to do)嫌がらずに〜する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(必要に応じて)〜しても構わない」",
+        "名 willingness (to do)「嫌がらずに(〜すること)」",
+        "副 willingly「進んで」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He was willing to help me.",
+          "ja": "彼は嫌がらずに私を助けてくれた."
+        }
+      ]
+    }
+  ]
+}

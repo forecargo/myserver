@@ -1,0 +1,278 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "944",
+      "word": "absorb",
+      "phonetic": "[əbzɔ́ːrb]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (be -ed in ~) 〜に没頭する",
+            "② 〜を吸収する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 be absorbed in ~ 「〜に(一時的に)没頭する(←気持ちが吸い込まれる)」",
+        "◇ be into ~ 「〜に(ずっと)熱中している」",
+        "語源 ab-[away]+-sorb[吸い込む]→「吸収する」",
+        "名 absorption「吸収, 熱中」"
+      ],
+      "word_origin": {
+        "formula": "ab-[away] + -sorb[吸い込む] -> 「吸収する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I was absorbed in a book.",
+          "ja": "私は本に夢中になっていた。"
+        },
+        {
+          "en": "absorb water",
+          "ja": "水を吸収する"
+        }
+      ]
+    },
+    {
+      "id": "945",
+      "word": "fond",
+      "phonetic": "[fάnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (be ~ of ~) 〜が好きだ",
+            "② 懐かしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① likeよりも感情が強い。",
+        "頻出 fond memories 「懐かしい思い出」",
+        "副 fondly 「懐かしく」",
+        "◇ fondly remember ~ 「〜を懐かしく思い出す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am very fond of ramen.",
+          "ja": "私はラーメンが大好きだ。"
+        },
+        {
+          "en": "bring back fond memories",
+          "ja": "懐かしい思い出をよみがえらせる"
+        }
+      ]
+    },
+    {
+      "id": "946",
+      "word": "scare",
+      "phonetic": "[skέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を怯えさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では frighten「〜を怖がらせる」より使われる。",
+        "頻出 scare ~ away 「〜を怯えさせて追い払う」",
+        "派生 scarecrow「案山子(←カラスを怯えさせる物)」で覚えよう。",
+        "形 scared「(人が)怖がって」",
+        "◇ be scared of ~ 「〜を怖がる」",
+        "形 scary「(人を)怖がらせる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Oh! You scared me!",
+          "ja": "もう, びっくりしたじゃない(あなたは私を怯えさせた)。"
+        }
+      ]
+    },
+    {
+      "id": "947",
+      "word": "alarm",
+      "phonetic": "[əlάːrm]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をぎょっとさせる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 恐怖, 不安"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(危険に突然気づいて)恐れさせる」",
+        "頻出 in alarm 「不安を感じて, 心配して」",
+        "◇ an alarm bell「非常ベル」",
+        "派生 alarming「驚くべき」",
+        "参 an alarm (clock)「目覚まし時計」",
+        "◇ a fire alarm「火災報知器」",
+        "◇ a car alarm「自動車の盗難警報装置」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① I was alarmed to hear a man shout.",
+          "ja": "男が叫ぶのを聞いて, ぎょっとした。"
+        },
+        {
+          "en": "② cry out in alarm",
+          "ja": "恐怖を感じて叫ぶ"
+        }
+      ]
+    },
+    {
+      "id": "948",
+      "word": "amaze",
+      "phonetic": "[əméiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を驚かせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(主にプラスイメージのことで)とても驚かせる」",
+        "頻出 That's amazing! 「それはすごいね!」",
+        "形 amazed「びっくりした」",
+        "◇ (人が主語) A is amazed to do / at ~ 「Aが〜して驚く / 〜に驚く」",
+        "形 amazing「びっくりするような」",
+        "◇ (物が主語) A is amazing. 「Aは驚きである(驚くほどすごい)。」",
+        "参 maze「迷路」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Sam amazed me with his cooking skills.",
+          "ja": "サムはその料理の腕で私を驚かせた。"
+        }
+      ]
+    },
+    {
+      "id": "949",
+      "word": "irritate",
+      "phonetic": "[írətèit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(長期にわたって)〜をいらいらさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「何度も繰り返してannoyする」",
+        "頻出 be irritated with (人) / by [at] (物事) 「〜にいらいらする」",
+        "▶ 「いらいらさせる」と音が似ている。",
+        "名 irritation「いらだち」",
+        "形 irritating「いらつかせるような」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Her habit of biting her nails irritates me.",
+          "ja": "彼女の爪をかむ癖は私をいらいらさせる。"
+        }
+      ]
+    },
+    {
+      "id": "950",
+      "word": "upset",
+      "phonetic": "[ʌpsét]",
+      "level_tag": "B2, A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を動揺させる",
+            "② (均衡などを)乱す"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 動揺して, 腹を立てて"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(怒りや悲しみなどが入り交じった感情で)冷静さを失わせる」",
+        "頻出 be upset about ~ 「〜に動揺している, 腹を立てている」",
+        "▶ 元々は set ~ up 「〜を打ち立てる」だったが, 語順も意味も逆転した。",
+        "形 upsetting「(人を)動揺させる, 悩ませる」",
+        "活用 upset-upset-upset"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The news upset her.",
+          "ja": "その知らせは彼女を動揺させた。"
+        },
+        {
+          "en": "② upset the environmental balance",
+          "ja": "環境のバランスを乱す"
+        },
+        {
+          "en": "③ be upset about a friend's death",
+          "ja": "友だちの死に動揺する"
+        }
+      ]
+    },
+    {
+      "id": "951",
+      "word": "puzzle",
+      "phonetic": "[pʌ́zl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を当惑させる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 難問, パズル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(難問などで)困らせる」→②「難題, 難問」",
+        "頻出 be puzzled (about) ~ 「〜に戸惑う」",
+        "形 puzzling「当惑させるような」",
+        "▶ 難しいパズルは人を「当惑させる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① What puzzles me is why she can't understand me.",
+          "ja": "私を当惑させるのは, なぜ彼女は私の言うことが理解できないかだ。"
+        },
+        {
+          "en": "② a 2,000-piece jigsaw puzzle",
+          "ja": "2,000ピースのジグソーパズル"
+        }
+      ]
+    }
+  ]
+}

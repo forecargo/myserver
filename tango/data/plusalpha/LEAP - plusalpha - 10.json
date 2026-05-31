@@ -1,0 +1,581 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "2174",
+      "word": "plight",
+      "phonetic": "[pláit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "窮状",
+            "苦境"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ あまりにひどく、同情を買うような状況",
+        "pli-[曲げる]→「曲がった状態」",
+        "☆ plier「ペンチ(←曲げたりする道具)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the plight of children living in poverty",
+          "ja": "貧困に生きる子どもの窮状"
+        }
+      ]
+    },
+    {
+      "id": "2175",
+      "word": "turmoil",
+      "phonetic": "[tə́ːrmɔil]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "混乱"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(政治・経済的な)混乱」から「情緒不安定」まで。",
+        "tur-[=turn 回す→かき乱す]",
+        "☆ disturb「〜に迷惑をかける、〜を乱す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "be thrown into turmoil",
+          "ja": "混乱に陥る"
+        }
+      ]
+    },
+    {
+      "id": "2176",
+      "word": "fallacy",
+      "phonetic": "[fǽləsi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "誤謬"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(多くの人が持ちやすい)誤解、(論理的な)誤り」",
+        "☆ false「偽の」",
+        "infállible「絶対に正しい」"
+      ],
+      "word_origin": {
+        "formula": "fallac-[偽り]+-y[集合]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The notion that the camera never lies is a fallacy.",
+          "ja": "カメラは決して嘘をつかないという考えは誤謬だ。"
+        }
+      ]
+    },
+    {
+      "id": "2177",
+      "word": "loophole",
+      "phonetic": "[lúːphoul]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "抜け穴"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(法律や税制などから)うまく逃れるための手段」"
+      ],
+      "word_origin": {
+        "formula": "loop-[輪]+-hole[穴]",
+        "description": "*軍事用語の「銃眼(城壁などの内部から銃などを発射するために備え付けられた小さな窓)」が元の意味。"
+      },
+      "examples": [
+        {
+          "en": "a loophole in the law",
+          "ja": "法の抜け穴"
+        }
+      ]
+    },
+    {
+      "id": "2178",
+      "word": "congestion",
+      "phonetic": "[kəndʒéstʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "混雑",
+            "充血"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人、物、血などが)過剰に集まること」",
+        "☆ digest「〜を消化する」(di-[分離])"
+      ],
+      "word_origin": {
+        "formula": "con-[共に]+-gest-[運ぶ]から「一緒に運んで、詰め込むこと」→「混雑」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "traffic congestion",
+          "ja": "交通渋滞"
+        }
+      ]
+    },
+    {
+      "id": "2179",
+      "word": "vacuum",
+      "phonetic": "[vǽkjuəm]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 真空(状態)",
+            "(政治などの)空白"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に掃除機をかける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(文字通りの)真空」から「(比喩的な)空白」まで。",
+        "a vacuum cleaner「(電気)掃除機」は「真空の原理を利用してゴミやホコリを吸い取る掃除機」のこと。"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2180",
+      "word": "digit",
+      "phonetic": "[dídʒit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "数字の桁"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "digital「デジタルの」は「データを有限桁の数値で表現する」が元の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a seven-digit salary",
+          "ja": "7桁の給料"
+        },
+        {
+          "en": "the thousands digit",
+          "ja": "千の位"
+        }
+      ]
+    },
+    {
+      "id": "2181",
+      "word": "bulk",
+      "phonetic": "[bʌ́lk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(the ~ of ~)大半"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では most of ~のほうがふつう。(*可算)でも(不可算)でも使用可。",
+        "bulky「かさばる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a bulky package",
+          "ja": "かさばる包み"
+        }
+      ]
+    },
+    {
+      "id": "2182",
+      "word": "longevity",
+      "phonetic": "[lɑndʒévəti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "長寿",
+            "(在職期間などが)長いこと"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「長生きすること」"
+      ],
+      "word_origin": {
+        "formula": "long-[長い]+-evi-[=âge 歳]+-ty[名詞語尾]→「長い期間(歳)生きる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Longevity runs in her family.",
+          "ja": "長寿は彼女の家系だ。"
+        }
+      ]
+    },
+    {
+      "id": "2183",
+      "word": "detour",
+      "phonetic": "[díːtuər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "回り道"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(人生などにおいて)〜まで遠回りする、紆余曲折する」",
+        "☆ contour line「等高線」",
+        "shortcut「近道」"
+      ],
+      "word_origin": {
+        "formula": "de-[分離]+-tour[回る]→「(直接的な道から)離れた、曲がっている道」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "have a lot of twists and turns before ~",
+          "ja": "〜などと表現する"
+        },
+        {
+          "en": "make a detour",
+          "ja": "回り道をする"
+        }
+      ]
+    },
+    {
+      "id": "2184",
+      "word": "sewage",
+      "phonetic": "[súːidʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "下水",
+            "(下水の)汚物",
+            "汚水"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「使用済みの汚れた水」",
+        "☆ shower「シャワー」",
+        "sewer「下水管」",
+        "drain「排水溝」"
+      ],
+      "word_origin": {
+        "formula": "sew-[排水]+-age[名詞語尾]→「下水(←出された水)」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2185",
+      "word": "landfill",
+      "phonetic": "[lǽndfìl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "埋め立て(地)〈不可算〉",
+            "埋め立て地〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ごみなどを)地中に埋める行為[場所]」"
+      ],
+      "word_origin": {
+        "formula": "land-[土地]+-fill[満たす]→「(ごみなどで)土地を満たすこと」",
+        "description": null
+      },
+      "examples": []
+    },
+    {
+      "id": "2186",
+      "word": "appliance",
+      "phonetic": "[əpláiəns]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(家庭用)器具"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(洗濯機やアイロンなどの)電化製品」"
+      ],
+      "word_origin": {
+        "formula": "appl-[=apply 適用する]+-ance[もの]→「特定の目的に適用されたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "household appliances",
+          "ja": "家庭用電化製品"
+        }
+      ]
+    },
+    {
+      "id": "2187",
+      "word": "cuisine",
+      "phonetic": "[kwizíːn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(独特の)料理(法)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(ある地域における)独特の料理(法)」",
+        "cook「(火を使って)料理する」と同語源。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Spanish cuisine",
+          "ja": "スペイン料理"
+        }
+      ]
+    },
+    {
+      "id": "2188",
+      "word": "beverage",
+      "phonetic": "[bévaridʒ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(通例-s)飲料"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「通例、水以外の飲料のこと」",
+        "☆ bib「よだれ掛け(←よだれを飲む布)」"
+      ],
+      "word_origin": {
+        "formula": "beve-[飲む]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "soft drink",
+          "ja": "清涼飲料水"
+        }
+      ]
+    },
+    {
+      "id": "2189",
+      "word": "staple",
+      "phonetic": "[stéiplt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 必需食料品",
+            "主要産物"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 主要な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「① (小麦などの)必需食料品」から「(ある地域における)主要産物」まで。"
+      ],
+      "word_origin": {
+        "formula": "sta-[じっとして→固定]から「基本(柱)となる食品・食料」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Our staple food is rice.",
+          "ja": "私たちの主食は米だ。"
+        }
+      ]
+    },
+    {
+      "id": "2190",
+      "word": "scenario",
+      "phonetic": "[sinéəriòu]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(予想される)筋書き",
+            "事態",
+            "科学的モデル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「脚本」の意味もあるが、一般には「事態」の意味で使うことが多い。",
+        "scène「(劇・小説・映画などの)舞台」と同語源で、「劇の筋書き」から。"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2191",
+      "word": "autograph",
+      "phonetic": "[ɔ́ːtəgræf]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(有名人などの)サイン",
+            "署名"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ signature「(書類の)署名」",
+        "☆ autonomy「自治(←自分で統治すること)」",
+        "autobiography「自伝」"
+      ],
+      "word_origin": {
+        "formula": "auto-[自己]+-graph[描く]→「自分で書いたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a ball with Otani's autograph",
+          "ja": "大谷のサイン入りボール"
+        }
+      ]
+    },
+    {
+      "id": "2192",
+      "word": "archive",
+      "phonetic": "[ɑ́ːrkaiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (-s) (集合的に)記録文書",
+            "公文書"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 公文書保管庫"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「① (保管された)古い公的な記録」",
+        "「(単一の)記録」は document, record を用いる。"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2193",
+      "word": "rhetoric",
+      "phonetic": "[rétərik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 美辞麗句",
+            "修辞(法)"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 修辞的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「言葉を飾り立て、うわべを美しく飾った文句」",
+        "rhetorical「修辞上の、美辞麗句を並べた」"
+      ],
+      "word_origin": null,
+      "examples": []
+    },
+    {
+      "id": "2194",
+      "word": "connotation",
+      "phonetic": "[kɑ̀nətéiʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "言外の意味",
+            "含意"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(文字どおりの意味に加えられる)言外の意味」"
+      ],
+      "word_origin": {
+        "formula": "con-[共に]+-note[印]→「(言葉と共に)表示する意味」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a negative connotation",
+          "ja": "否定的な含意"
+        }
+      ]
+    }
+  ]
+}

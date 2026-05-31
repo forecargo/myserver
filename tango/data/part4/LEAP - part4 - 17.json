@@ -1,0 +1,301 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1569",
+      "word": "surrender",
+      "phonetic": "[səréndər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to 〜) (〜に)降伏する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を引き渡す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① surrender oneself to 〜「〜に自身を引き渡す」から。",
+        "sur-[下] + -render[=give] から「(相手の)下に渡す」→「引き渡す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "surrender to the enemy",
+          "ja": "① 敵に降伏する"
+        },
+        {
+          "en": "surrender our castle to the enemy",
+          "ja": "② 敵に城を明け渡す"
+        }
+      ]
+    },
+    {
+      "id": "1570",
+      "word": "hostile",
+      "phonetic": "[hóstl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 敵意のある",
+            "② 敵の",
+            "③ (環境などが)厳しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②日常では enemy のほうが使われる。",
+        "host-[人質・敵] ☆hostage「人質」 名hostility「敵意」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She is hostile to[toward] me.",
+          "ja": "① 彼女は私に対して敵対的だ。"
+        },
+        {
+          "en": "a hostile spy",
+          "ja": "② 敵のスパイ"
+        },
+        {
+          "en": "the hostile environment of space",
+          "ja": "③ 宇宙の厳しい環境"
+        }
+      ]
+    },
+    {
+      "id": "1571",
+      "word": "wreck",
+      "phonetic": "[rék]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (乗り物, 家の)残骸",
+            "② (健康を損ね)ボロボロの人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ レッカー(wrecker)車は「故障した車(車の残骸)を運ぶ車」",
+        "wr-[ねじる] ☆wrinkle「しわ」 形wrecked「難破した」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the wreck of the Titanic",
+          "ja": "① タイタニック号の残骸"
+        },
+        {
+          "en": "a nervous wreck",
+          "ja": "② 神経のまいった人"
+        }
+      ]
+    },
+    {
+      "id": "1572",
+      "word": "toll",
+      "phonetic": "[tóul]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 犠牲[死傷]者(数), 被害",
+            "② (高速道路などの)通行料",
+            "③ 通話料"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 元の意味の「税金」から①「(税金のように払うべき犠牲→)被害」",
+        "▶ ②③「(税金のように払うべき料金→)通行(話)料」 ☆tax「税金」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the death toll from the earthquake",
+          "ja": "① その地震の死者数"
+        },
+        {
+          "en": "pay a toll to use the expressway",
+          "ja": "② 高速道路を使うために通行料を払う"
+        },
+        {
+          "en": "a toll-free number",
+          "ja": "③ フリー(通話料無料の)ダイヤル"
+        }
+      ]
+    },
+    {
+      "id": "1573",
+      "word": "disrupt",
+      "phonetic": "[disrʌ́pt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(活動の進行などを)かき乱す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(いつもの状態)を乱す」",
+        "dis-[バラバラ] + -rupt[壊す] ☆corrupt「堕落[腐敗]した」 bankrupt「破産した」 名disruption「中断, 混乱」 形disruptive behavior「迷惑行為」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "disrupt the train schedule",
+          "ja": "鉄道のダイヤを乱す"
+        }
+      ]
+    },
+    {
+      "id": "1574",
+      "word": "interfere",
+      "phonetic": "[ìntərfíər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(with 〜) 〜を邪魔する, 干渉する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(間に入って)邪魔をする」",
+        "inter-[間] + -fere[運ぶ]→「自分を間に運んで妨げる」 ☆prefer「〜のほうが好きだ(→優先順位を前に持っていく)」 名interference「邪魔, 干渉」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The music interfered with my studies.",
+          "ja": "その音楽は私の勉強の邪魔になった。"
+        }
+      ]
+    },
+    {
+      "id": "1575",
+      "word": "confront",
+      "phonetic": "[kənfrʌ́nt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (困難などが人)に立ちふさがる",
+            "② (人が困難など)に直面する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「〜に向けてしっかり顔を向ける」",
+        "con-[共に] + -front[正面]→「正面を向く」 名confrontation「対立, 直面」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "We were confronted with hardships.",
+          "ja": "① 私たちは試練に直面した。"
+        },
+        {
+          "en": "We confronted the problems.",
+          "ja": "② 私たちはその問題に直面した。"
+        }
+      ]
+    },
+    {
+      "id": "1576",
+      "word": "explode",
+      "phonetic": "[iksplóud]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 爆発する",
+            "② 爆発的に増加する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①日常では go off や blow up のほうが使われる。",
+        "ex-[外へ] + -plode[拍手する]→「外へ拍手する」",
+        "名explosión「爆発, 増加」 形explosive「爆発的な」 名explosive「爆発物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A bomb exploded in the warehouse.",
+          "ja": "① 倉庫で爆弾が爆発した。"
+        },
+        {
+          "en": "This town's population exploded.",
+          "ja": "② この都市の人口は爆発的に増えた。"
+        }
+      ]
+    },
+    {
+      "id": "1577",
+      "word": "collide",
+      "phonetic": "[kəláid]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "(with 〜) (〜と)衝突する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(車両や人同士が)激しくぶつかる」",
+        "co-[共に] + -lide[ぶつかる] ☆lid「ふた(←覆う物)」",
+        "名collision「衝突」 ⇔ a collision between A and B「AとBの衝突」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "A bus collided (head-on) with a truck.",
+          "ja": "バスがトラックと(正面)衝突した。"
+        }
+      ]
+    },
+    {
+      "id": "1578",
+      "word": "nephew",
+      "phonetic": "[néfjuː]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "甥"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「兄弟姉妹の息子」",
+        "☆niece「姪」 cousin「いとこ」 nepotism「身内びいき」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I gave my nephew 5,000 yen as a New Year's present.",
+          "ja": "甥にお年玉として5,000円をあげた。"
+        }
+      ]
+    }
+  ]
+}

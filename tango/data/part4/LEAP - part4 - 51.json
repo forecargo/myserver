@@ -1,0 +1,312 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1923",
+      "word": "confess",
+      "phonetic": "[kənfés]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~) (~を)白状する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を認める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(罪や自分にとって不利益となることを)白状する」(*② 日常では admit のほうが使われる。)",
+        "派生 名 confession「告白」"
+      ],
+      "word_origin": {
+        "formula": "con-[すべて] + -fes-[言う]",
+        "description": "infant「幼児(←ものを言えぬ者)」, prophet「予言者」(-phe- = -fe-)"
+      },
+      "examples": [
+        {
+          "en": "confess to the crime",
+          "ja": "① 犯罪を白状する"
+        },
+        {
+          "en": "confess my ignorance",
+          "ja": "② 無知を認める"
+        }
+      ]
+    },
+    {
+      "id": "1924",
+      "word": "carve",
+      "phonetic": "[kάːrv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を彫る, 刻む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある形を作るために石や木)を彫る」",
+        "派生 名 carving「(木や石などの)彫刻」",
+        "類義 curve [kə́ːrv]「〜を曲げる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "carve her initials into a tree",
+          "ja": "木に彼女のイニシャルを刻む"
+        }
+      ]
+    },
+    {
+      "id": "1925",
+      "word": "murmur",
+      "phonetic": "[mάːrmər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "つぶやく"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「周りにはわからないほどの声で何かを言う」(≒mumble)",
+        "語源 マアマアと「つぶやく」-er や -ur で終わる語は「繰り返し」のニュアンスが多い(wander「さまよう(←行ったり来たりする)」)など。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "murmur in her ear",
+          "ja": "彼女の耳元でささやく"
+        }
+      ]
+    },
+    {
+      "id": "1926",
+      "word": "verbal",
+      "phonetic": "[və́ːrbəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "言葉による"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ verb「動詞(←元の意味は「言葉」)」の形容詞形。文法用語では「準動詞」の意味になる。",
+        "反 non-verbal「言葉を用いない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "verbal communication",
+          "ja": "言葉による意思の疎通"
+        }
+      ]
+    },
+    {
+      "id": "1927",
+      "word": "oral",
+      "phonetic": "[ɔ́ːrəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 口述の",
+            "② 口の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ or-[丸い]",
+        "類義 an oral exam「口述試験」(↔ a written exam「筆記試験」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a 15-minute oral exam",
+          "ja": "① 15分間の口述試験"
+        },
+        {
+          "en": "② oral surgery",
+          "ja": "② 口腔(口の)外科"
+        }
+      ]
+    },
+    {
+      "id": "1928",
+      "word": "eloquent",
+      "phonetic": "[éləkwənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "雄弁な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人の心を動かすような(話し方)」(*堅い語)",
+        "派生 副 eloquently「雄弁に」"
+      ],
+      "word_origin": {
+        "formula": "e-[ex 外に]+-loque-[loque 話す]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "make an eloquent speech",
+          "ja": "雄弁な演説をする"
+        }
+      ]
+    },
+    {
+      "id": "1929",
+      "word": "linguistic",
+      "phonetic": "[lɪŋgwístɪk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "言語の, 言語学の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "派生 名 linguistics「言語学」",
+        "類義 bilingual「2か国語使用(の; 者)」",
+        "用例 a lingua franca「(第2言語としての)国際語」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a child's linguistic ability",
+          "ja": "子どもの言語能力"
+        }
+      ]
+    },
+    {
+      "id": "1930",
+      "word": "metaphor",
+      "phonetic": "[métəfɔ̀ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "隠喩, 比喩"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜のような」という表現を用いない比喩",
+        "反 simile「直喩」"
+      ],
+      "word_origin": {
+        "formula": "meta-[変化] + -phor-[運ぶ] -> 「(表現を)変えて運んだもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The rose is a metaphor for love in the West.",
+          "ja": "西洋ではバラは愛の比喩表現だ。"
+        }
+      ]
+    },
+    {
+      "id": "1931",
+      "word": "prose",
+      "phonetic": "[próuz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "散文"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「脚韻(句末・行末に同音の語を置くこと)などのないふつうの文」",
+        "語源 「飾らない率直で適切な言葉」が元の意味。",
+        "類義 style「文体」, verse「韻文」, poetry「詩」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a book written in prose",
+          "ja": "散文で書かれた本"
+        }
+      ]
+    },
+    {
+      "id": "1932",
+      "word": "narrative",
+      "phonetic": "[nǽrətɪv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "語り, 物語"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「小説の中の出来事の描写」",
+        "派生 他 narrate「〜を語る」, 名 narration「語ること」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a first-person narrative",
+          "ja": "一人称の語り"
+        }
+      ]
+    },
+    {
+      "id": "1933",
+      "word": "plot",
+      "phonetic": "[plάt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (小説, 演劇などの)筋",
+            "② 悪だくみ, 陰謀"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① ≒ story",
+        "語法 ポロッと映画の「筋」を漏らす",
+        "語源 complot「共謀」から com-が脱落した形。(日本語の「(こんに)ちわ」と同様)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the plot of the movie",
+          "ja": "① その映画の筋"
+        },
+        {
+          "en": "② He was involved in the plot.",
+          "ja": "② 彼はその陰謀に荷担していた。"
+        }
+      ]
+    }
+  ]
+}

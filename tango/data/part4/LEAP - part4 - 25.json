@@ -1,0 +1,343 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1653",
+      "word": "soak",
+      "phonetic": "[sóuk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を浸す",
+            "② (up) (日光, 考えなど)を吸収する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(水)を吸う」が元の意味。",
+        "☆sóup「スープ」 súck「(汁などを)吸う」 síp「〜をすする」",
+        "形soaked「びしょ濡れの」",
+        "形-soaked「〜まみれの」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "get soaked in the rain",
+          "ja": "① 雨でびしょ濡れになる"
+        },
+        {
+          "en": "soak up new ideas",
+          "ja": "② 新しい考えを吸収する"
+        }
+      ]
+    },
+    {
+      "id": "1654",
+      "word": "dip",
+      "phonetic": "[díp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を(ちょっと)つける, 浸す",
+            "② 〜を少し下げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「チョコレートディップ」は「チョコレートソースにつけたデザート」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "dip sashimi in soy sauce",
+          "ja": "① 刺身をしょう油につける"
+        },
+        {
+          "en": "dip my head and speak into the microphone",
+          "ja": "② 頭を少し下げて, マイクに向かって話をする"
+        }
+      ]
+    },
+    {
+      "id": "1655",
+      "word": "suspend",
+      "phonetic": "[səspénd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を吊るす",
+            "② 〜を中断する",
+            "③ 〜を停職[停学]にする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆sus-[=sub 下]+-pend[吊るす]",
+        "☆depénd「〜を頼る(←すっかりぶら下がる)」",
+        "名suspénsión「一時的[中断]」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a lamp suspended from the ceiling",
+          "ja": "① 天井から吊るされているランプ"
+        },
+        {
+          "en": "suspend the ferry service",
+          "ja": "② フェリーの運行を中断する"
+        },
+        {
+          "en": "be suspended from school",
+          "ja": "③ 停学になる(停学にさせられる)"
+        }
+      ]
+    },
+    {
+      "id": "1656",
+      "word": "extract",
+      "phonetic": "[íkstrækt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を取り出す, 抽出する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 抽出したもの, 抜粋"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(果汁)を搾る」から「(遺伝物質)を抽出する」「(言葉)を引っ張り出す」まで",
+        "☆ex-[外に]+-tract[引っ張る]→「外に引っ張り出す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "extract oil from olives [áliv]",
+          "ja": "① オリーブの実から油を抽出する"
+        },
+        {
+          "en": "extracts from the novel",
+          "ja": "② その小説の抜粋"
+        }
+      ]
+    },
+    {
+      "id": "1657",
+      "word": "slap",
+      "phonetic": "[slæp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を平手打ちする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を(平手で)びしゃりとたたく, (平たい物)をたたきつける」",
+        "擬音語。",
+        "☆tap (人) on the 〜「((人)の〜を軽くたたく)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "slap him in the face",
+          "ja": "彼の顔を平手打ちする"
+        }
+      ]
+    },
+    {
+      "id": "1658",
+      "word": "embrace",
+      "phonetic": "[imbréis]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を抱擁する",
+            "② (思想など)を受け入れる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「抱きしめる, 包み込む」",
+        "(*① 日常ではhúgのほうが使われる)",
+        "☆em-[中に]+-brace[腕]→「腕の中に入れる」",
+        "☆brácelet「ブレスレット」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "embrace his daughter",
+          "ja": "① 彼の娘を抱擁する"
+        },
+        {
+          "en": "embrace many different values",
+          "ja": "② 多くのさまざまな価値観を受け入れる"
+        }
+      ]
+    },
+    {
+      "id": "1659",
+      "word": "embark",
+      "phonetic": "[imbáːrk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(on 〜) (〜に)着手する, 乗り込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(船などに)乗り込む」→「新しく(困難な事業, 計画に)乗り出す」",
+        "☆em-[=in 中に]+-bark[船]→「船の中に乗り込む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "embark on a huge project",
+          "ja": "巨大なプロジェクトに着手する"
+        }
+      ]
+    },
+    {
+      "id": "1660",
+      "word": "intervene",
+      "phonetic": "[ìntərvíːn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(in 〜) (〜に)介入する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(争いや困難な状況など)を改善するために関わる」",
+        "☆inter-[間]+-vene[来る]→「争いなどの間に来る」",
+        "☆ádvent「到来」",
+        "☆invent「〜を発明する」",
+        "名intervéntion「介入」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "intervene in disputes between husbands and wives",
+          "ja": "夫婦間の争いに介入する"
+        }
+      ]
+    },
+    {
+      "id": "1661",
+      "word": "penetrate",
+      "phonetic": "[pénətrèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜に入り込む",
+            "② 〜を貫通する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 貫通する, 入る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇píerce「(きりなどのとがった物で)〜に穴を開ける」",
+        "☆penetr-[奥に]+-ate[動詞語尾]",
+        "☆péncil「鉛筆(←奥まで伸びた小さな物)」",
+        "名penetrátion「貫通, 浸透」",
+        "反impénetrable「突き通せない」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "penetrate new markets",
+          "ja": "① 新たな市場に入り込む"
+        },
+        {
+          "en": "The bullet penetrated his leg.",
+          "ja": "② 弾丸が彼の足を貫通した."
+        },
+        {
+          "en": "penetrate deep into the ground",
+          "ja": "③ 地中深くに入り込む"
+        }
+      ]
+    },
+    {
+      "id": "1662",
+      "word": "intrude",
+      "phonetic": "[intrúːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "(on 〜) (〜に)立ち入る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「他者の領域へ土足で入り込む」",
+        "☆in-[中に]+-trude[ぐいと押す]→「〜の中にぐいと押し入る」",
+        "☆thrúst「〜を強く押しつける」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Don't intrude on her privacy.",
+          "ja": "彼女のプライバシーに立ち入るな."
+        }
+      ]
+    },
+    {
+      "id": "1663",
+      "word": "utilize",
+      "phonetic": "[júːtəlàiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を利用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常ではúseのほうが使われる。",
+        "☆uti-[=use]+-lize[動詞語尾]→「〜を利用する」",
+        "名utilizátion「利用」",
+        "名útility「役立つこと, (ガスや電気などの)公共サービス, 光熱費」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Solar energy can be utilized for various purposes.",
+          "ja": "太陽エネルギーはさまざまな目的で利用できる(利用され得る)."
+        }
+      ]
+    }
+  ]
+}

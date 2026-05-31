@@ -1,0 +1,146 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "997",
+      "word": "regardless",
+      "phonetic": "[rigάːrdlis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副",
+          "meanings": [
+            "(of 〜) (~とは)無関係に"
+          ]
+        },
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "(of age[gender]) [年齢[性別]]とは無関係に",
+            "regardless of whether you are rich or poor 「貧富に関係なく」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ irrespective of 〜と同じ意味.",
+        "頻出 regardless of A or B 「AであろうとBであろうと」",
+        "注意 〜にはwh-節が置かれることもある",
+        "▶ regard-[見る]+-less[否定]→「〜を見ないで」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "regardless of gender, race, or nationality",
+          "ja": "性別, 民族, 国籍とは無関係に"
+        }
+      ]
+    },
+    {
+      "id": "998",
+      "word": "worth",
+      "phonetic": "[wə́ːrθ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① 〜の価値がある",
+            "② (-doing) (~する)価値がある"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 価値, (~に)相当"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 (well) worth the trouble 「骨を折ってする価値が(十分にある)」",
+        "注意 ② This is worth doing. 「これは〜する価値がある.」はdo this 「これを〜する」の関係になっている.",
+        "(*see the filmの関係)",
+        "派生 形 worthy [wə́ːrθi] 「価値がある」 ⇨ be worthy of 〜「〜の価値がある」 (*〜にはimitation「まね」など動詞の名詞形がくることが多い.)",
+        "形 worthless 「価値のない」",
+        "形 worthwhile 「やりがいがある」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This ring is worth over two million dollars.",
+          "ja": "① この指輪は200万ドル以上の価値がある."
+        },
+        {
+          "en": "② The film is worth seeing.",
+          "ja": "② その映画は見る価値がある."
+        },
+        {
+          "en": "③ $100,000 worth of damage",
+          "ja": "③ 10万ドル相当の被害"
+        }
+      ]
+    },
+    {
+      "id": "999",
+      "word": "according to",
+      "phonetic": "[əkɔ́ːrdiŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "① (調査, 人の話など)によれば",
+            "② (能力など)に応じて"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①は「情報源」を, ②は「変化, 分割の基準など」を示す.",
+        "頻出 ① according to legend [local lore, the Bible, the weather forecast]「伝説[その土地の言い伝え, 聖書, 天気予報]によれば」",
+        "頻出 ② proceed according to plan 「計画どおりに進む」",
+        "注意 「私の意見では」は in my opinion [×according to me]と表現する.",
+        "派生 副 accordingly 「したがって, それに応じて」",
+        "派生 名 accord 「一致」 ⇨ in accord with 〜「〜と一致して」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad方向]+-cord-[心=中心]から「〜の中心に向かう」→「〜によれば」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① according to a public poll",
+          "ja": "① 世論調査によると"
+        },
+        {
+          "en": "② Charges vary according to size.",
+          "ja": "② 料金は大きさによって変わります."
+        }
+      ]
+    },
+    {
+      "id": "1000",
+      "word": "despite",
+      "phonetic": "[dispáit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "前",
+          "meanings": [
+            "〜にもかかわらず"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ in spite of 〜「〜にもかかわらず」の堅い表現.",
+        "頻出 despite the fact that SV 「SVという事実にもかかわらず」",
+        "注意 前置詞のため, [×] despite SV の形は不可で, [○] despite the fact (that) SV 「SVにもかかわらず」の形を用いる.",
+        "比較 接続詞 although [(even though)] SV 「〜だが」 ⇨ Although [Even though], it was raining heavily, the soccer match was held. 「大雨にもかかわらず, そのサッカーの試合は行われた.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The soccer match was held, despite the heavy rain.",
+          "ja": "大雨にもかかわらず, そのサッカーの試合は行われた."
+        }
+      ]
+    }
+  ]
+}

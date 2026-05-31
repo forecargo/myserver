@@ -1,0 +1,266 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "401",
+      "word": "debate",
+      "phonetic": "[dibéit]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 討論"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を討論する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「公開の場で(賛成, 反対に分かれて)議論する」",
+        "◇ discuss「(ある問題)について意見を交換する」",
+        "頻出 ① have[hold, conduct] a debate「討論会を開く」",
+        "語法 専門的な話題は(on ~), 一般的な話題は(over[about] ~)",
+        "☆battle「戦い」"
+      ],
+      "word_origin": {
+        "formula": "de-[強意] + -bat-[=bat たたく] -> 「たたき合い」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the debate on whaling",
+          "ja": "捕鯨に関する討論"
+        },
+        {
+          "en": "debate the pros and cons of this",
+          "ja": "この是非について話し合う"
+        }
+      ]
+    },
+    {
+      "id": "402",
+      "word": "criticize",
+      "phonetic": "[krítəsàiz]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を批判する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人や物)が気に食わないと言う」",
+        "頻出 criticize A for B「AをBの理由で批判する」",
+        "criticize severely[sharply, strongly]「〜を激しく批判する」",
+        "注意 [×]criticize that SVの形は不可。",
+        "名criticism「批判」"
+      ],
+      "word_origin": {
+        "formula": "cri-[判定]",
+        "description": "critic「評論家, 批判者」, critérion「基準」"
+      },
+      "examples": [
+        {
+          "en": "Stop criticizing my cooking!",
+          "ja": "私の料理を批判するのをやめて。"
+        }
+      ]
+    },
+    {
+      "id": "403",
+      "word": "accuse",
+      "phonetic": "[əkjúːz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を非難する",
+            "② 〜を告訴する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常で「(人)を責める」から, 犯罪に関して「(人)を告訴する」まで幅広く用いる。",
+        "頻出 accuse A of B「AをBの理由で非難[告訴]する」",
+        "比較 excuse「〜を許す(←弁明の外に置く)」",
+        "名 accusation「罪, 告発」 ⇔ a false accusation「えん罪」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad 方向] + -cuse[=cause 原因, 弁明] -> 「〜に原因を問う」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "accuse her of[×for] lying",
+          "ja": "うそをついたことで彼女を非難する"
+        },
+        {
+          "en": "accuse him of murder",
+          "ja": "殺人で彼を告訴する"
+        }
+      ]
+    },
+    {
+      "id": "404",
+      "word": "insist",
+      "phonetic": "[insíst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (on ~)〜と言い張る, (強く)主張する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜と主張する",
+            "③ 〜を求める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 主に「(反対を押し切って)強く主張する, 言い張る」",
+        "頻出 ① I insist.「是非, そうさせてください。」",
+        "② insist that S (should) do「Sが〜するように求める」",
+        "比較 resist「〜に抵抗する(←反対に立つ)」 名insistence「主張」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -sist[立つ]から「(自分の意見の)中に立つ」→「言い張る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "insist on returning home",
+          "ja": "家に帰ると言い張る"
+        },
+        {
+          "en": "I insisted that she wait.",
+          "ja": "私は彼女が待つように求めた。"
+        }
+      ]
+    },
+    {
+      "id": "405",
+      "word": "object",
+      "phonetic": "動[əbdʒékt] 名[ábdʒikt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (to ~)〜に反対する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 物",
+            "③ 目的",
+            "④ (嘲笑, 欲望などの)対象"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(〜を)嫌だと思い, 口に出して反対する」",
+        "頻出 object that SV「〜と言って反対する」",
+        "注意 日常では, ②はthing ③はpurposeのほうが使われる。",
+        "比較 project「〜を投影する(←前方に投げる)」 名objection (to ~)「(〜への)反対」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して] + -ject[投げる] -> 「反対, 対象, 目的」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "object to my studying abroad",
+          "ja": "私の留学に反対する"
+        },
+        {
+          "en": "a solid object",
+          "ja": "硬い物"
+        },
+        {
+          "en": "The object of this game is to develop children's vocabulary.",
+          "ja": "このゲームの目的は子どもの語彙を増やすことだ。"
+        },
+        {
+          "en": "an object of pity",
+          "ja": "哀れみの対象"
+        }
+      ]
+    },
+    {
+      "id": "406",
+      "word": "protest",
+      "phonetic": "動[prətést] 名[próutest]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (against ~)〜に(対して)抗議する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 抗議"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ② in protest against ~「〜に抗議して」",
+        "派生 Protestant「(キリスト教)プロテスタント」は「異議を唱える人」の意味。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "protest against nuclear tests",
+          "ja": "核実験に抗議する"
+        },
+        {
+          "en": "non-violent protest",
+          "ja": "非暴力の抗議"
+        }
+      ]
+    },
+    {
+      "id": "407",
+      "word": "controversial",
+      "phonetic": "[kὰntrəvə́ːrʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "論争を招く, 物議をかもす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「意見が衝突する」",
+        "頻出 highly controversial「非常に議論を呼ぶ」",
+        "名 controversy「(長期間にわたる)論争」 ⇔ provoke controversy about[over] human cloning「ヒトクローンに関する論争を引き起こす」"
+      ],
+      "word_origin": {
+        "formula": "contr-[逆に] + -vers-[回る] -> 「(意見が)衝突する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a highly controversial issue",
+          "ja": "非常に論争になっている問題"
+        }
+      ]
+    }
+  ]
+}

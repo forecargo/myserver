@@ -1,0 +1,340 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1443",
+      "word": "mortality",
+      "phonetic": "[mɔːrtǽləti]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 死亡率",
+            "② 死すべき運命"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ mor-[死] murder「殺人」 反 immortality「不死, 不滅」",
+        "mortal「死すべき運命の」(↔ immortal「不死の」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the infant mortality rate",
+          "ja": "幼児死亡率"
+        },
+        {
+          "en": "We all have to face our mortality.",
+          "ja": "私たちは皆死すべき運命に直面しなければならない。"
+        }
+      ]
+    },
+    {
+      "id": "1444",
+      "word": "nursing",
+      "phonetic": "[nə́ːrsin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "看護"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「保育」から「看護, 介護」まで。",
+        "▶ nur-[乳をやる] 参 nursery「託児所, 保育所, 養殖場」 ⇨ nursery school「保育所」 参 a nursing home「療養所, 老人ホーム」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "round-the-clock nursing care",
+          "ja": "24時間体制の看護"
+        }
+      ]
+    },
+    {
+      "id": "1445",
+      "word": "chronic",
+      "phonetic": "[krɑ́nik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "慢性的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(病気や悪い状況が)長く続いて, 改善しづらい」",
+        "▶ chron-[時間] synchronize「同時に起こる」 反 acute「急性の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "chronic back pain",
+          "ja": "慢性の腰痛"
+        }
+      ]
+    },
+    {
+      "id": "1446",
+      "word": "immune",
+      "phonetic": "[imjúːn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "免疫の(ある)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(感染症に対して)抵抗力がある」",
+        "参 immunity「免疫」 参 the immune system「(人の)免疫システム」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Most adults are immune to measles.",
+          "ja": "たいていの大人ははしかに免疫がある。"
+        }
+      ]
+    },
+    {
+      "id": "1447",
+      "word": "terminal",
+      "phonetic": "[tə́ːrmənl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (病気が)末期の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 終着[始発]駅(の建物), ターミナルビル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ term-[枠] + -inal[形容詞語尾] →「限界にまでできた」",
+        "▶ terminate「〜を終わらせる」 ① 反 early「初期の」"
+      ],
+      "word_origin": {
+        "formula": "term-[枠] + -inal[形容詞語尾] -> 「限界にまでできた」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "terminal cancer",
+          "ja": "末期がん"
+        },
+        {
+          "en": "a bus terminal",
+          "ja": "バスターミナル"
+        }
+      ]
+    },
+    {
+      "id": "1448",
+      "word": "sound",
+      "phonetic": "[sáund]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (身体・精神が)健全な",
+            "② (土台・理解などが)堅実な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「よい結果につながる, しっかりした」",
+        "▶ sound「音; 〜に聞こえる」は別語源。",
+        "参 get a sound sleep「ぐっすり寝る」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a sound mind in a sound body",
+          "ja": "健全な肉体に健全な精神"
+        },
+        {
+          "en": "sound investment advice",
+          "ja": "堅実な投資のアドバイス"
+        }
+      ]
+    },
+    {
+      "id": "1449",
+      "word": "respiratory",
+      "phonetic": "[réspərətɔ̀ːri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "呼吸の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「呼吸や肺に関わる」",
+        "▶ re-[再び→強調] + -spirat-(=spire 呼吸する) + -ory[ような] inspire「〜を奮起させる」 参 respirator「人工呼吸器」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び→強調] + -spirat-(=spire 呼吸する) + -ory[ような]",
+        "description": "inspire「〜を奮起させる」 参 respirator「人工呼吸器」"
+      },
+      "examples": [
+        {
+          "en": "people with respiratory diseases",
+          "ja": "呼吸器系疾患のある人々"
+        }
+      ]
+    },
+    {
+      "id": "1450",
+      "word": "choke",
+      "phonetic": "[tʃóuk]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (on 〜)(〜で)息が詰まる, 窒息する"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を窒息させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「息を止めるさせる」",
+        "参 suffocate「窒息死する(←のどの下に詰まる)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "choke on a rice cake",
+          "ja": "もちをのどに詰まらせる"
+        },
+        {
+          "en": "choke him in judo practice",
+          "ja": "柔道の練習で, 彼の首を締める"
+        }
+      ]
+    },
+    {
+      "id": "1451",
+      "word": "paralyze",
+      "phonetic": "[pǽrəlàiz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を麻痺させる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(体)を麻痺させる」から「(政治, 経済, 交通など)を麻痺させる」まで。",
+        "参 paralysis「麻痺」 参 anesthesia [æ̀nəsθíːʒə]「麻酔」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Snow paralyzed public transportation.",
+          "ja": "雪のため交通機関は麻痺した(雪が交通機関を麻痺させた)。"
+        }
+      ]
+    },
+    {
+      "id": "1452",
+      "word": "prescribe",
+      "phonetic": "[priskráib]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (薬など)を処方する",
+            "② (行為など)を指示する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ pre-[前] + -scribe[書く] →「薬を出す前に書く」",
+        "describe「〜を説明する」 参 prescription「処方箋, 指示」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "prescribe some sleeping pills",
+          "ja": "睡眠薬を処方する"
+        },
+        {
+          "en": "do things in the prescribed manner",
+          "ja": "指示されたように物事を行う"
+        }
+      ]
+    },
+    {
+      "id": "1453",
+      "word": "digest",
+      "phonetic": "動*[daidʒést] 名[dáidʒest]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "動",
+          "meanings": [
+            "① 〜を消化する",
+            "② 〜を理解する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 要約"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(食べ物)を消化する」から「(話や情報)を理解する」まで。",
+        "▶ di-[分離] + -gest[運ぶ]から「分解して運ぶ」→「消化する」",
+        "参 congested「混雑して(←一斉に運ばれる)」 参 digestion「消化」"
+      ],
+      "word_origin": {
+        "formula": "di-[分離] + -gest[運ぶ]から「分解して運ぶ」→「消化する」",
+        "description": "参 congested「混雑して(←一斉に運ばれる)」 参 digestion「消化」"
+      },
+      "examples": [
+        {
+          "en": "something easy to digest",
+          "ja": "消化によい(食べ)物"
+        },
+        {
+          "en": "digest a lot of information",
+          "ja": "多くの情報を理解する"
+        },
+        {
+          "en": "read the digest of the report",
+          "ja": "そのレポートの要約を読む"
+        }
+      ]
+    }
+  ]
+}

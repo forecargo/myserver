@@ -1,0 +1,316 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1527",
+      "word": "subsidy",
+      "phonetic": "[sʌ́bsədi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "補助金"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 助成金, 奨励金など名称はさまざま。",
+        "語源: sub-[下] + -sidy [=sit 座っている] から「下に座って(支えている)」→「補助」",
+        "派生: subsidiary「子会社」 président「社長(←前に座る人)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive subsidies from the government",
+          "ja": "政府から補助金を受け取る"
+        }
+      ]
+    },
+    {
+      "id": "1528",
+      "word": "transaction",
+      "phonetic": "[trænzǽkʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "取り引き"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(銀行や店, 会社との)取り引き」",
+        "語源: trans-[越えて] + -act[行動する] →「両者の垣根を越えて行動する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "conduct online banking transactions",
+          "ja": "オンライン銀行取り引きを行う"
+        }
+      ]
+    },
+    {
+      "id": "1529",
+      "word": "bankrupt",
+      "phonetic": "[bǽŋkrʌpt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "倒産した",
+            "破産した"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(会社, 個人が)借金を返せない状態」",
+        "語源: 「破綻寸前の銀行にあったベンチ(bank)を債権者たちが破壊(rupt)したことに由来。」",
+        "比較: corrupt「堕落[腐敗]した」",
+        "派生: 名 bankruptcy「倒産, 破産」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "go bankrupt owing one billion yen (*1,000,000,000) billion million thousand",
+          "ja": "10億円の負債を抱えて倒産する"
+        }
+      ]
+    },
+    {
+      "id": "1530",
+      "word": "monetary",
+      "phonetic": "[mɑ́nətèri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 貨幣の",
+            "② 金銭的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある国に関すること)でお金に関わる」",
+        "語源: money「お金」の形容詞形。",
+        "参考: mint「造幣局」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the monetary system",
+          "ja": "① 貨幣制度"
+        },
+        {
+          "en": "② items of no monetary value",
+          "ja": "② 金銭的な価値のない品物"
+        }
+      ]
+    },
+    {
+      "id": "1531",
+      "word": "corporation",
+      "phonetic": "[kɔ̀ːrpəréiʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "企業",
+            "法人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「大規模な民間企業, 政府の団体」",
+        "派生: 形 corporate「企業の, 会社の」 他 incorporate「〜を組み入れる」",
+        "参考: BBC (=British Broadcasting Corporation)「英国放送協会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a corporation with 2,000 employees",
+          "ja": "従業員2,000人を抱える企業"
+        }
+      ]
+    },
+    {
+      "id": "1532",
+      "word": "enterprise",
+      "phonetic": "[éntərpràiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 企業",
+            "② (冒険的な)事業"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「活動, 事業内容」に重点。",
+        "派生: 形 enterprising「商魂たくましい」",
+        "用例: an enterprising businessperson「商魂たくましい実業家」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① a large enterprise",
+          "ja": "① 大企業"
+        },
+        {
+          "en": "② a joint enterprise between Japanese and Thai companies",
+          "ja": "② 日本とタイの会社の共同事業"
+        }
+      ]
+    },
+    {
+      "id": "1533",
+      "word": "venture",
+      "phonetic": "[véntʃər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (ベンチャー)事業"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 危険を冒して行く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: adventure「冒険」から ad- が脱落した形。",
+        "参考: start-up「立ち上げたばかりで急速な成長を目指している)新会社」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① embark on a joint venture",
+          "ja": "① 合弁事業に乗り出す"
+        },
+        {
+          "en": "② venture into the unknown",
+          "ja": "② 未知の世界へ踏みこむ"
+        }
+      ]
+    },
+    {
+      "id": "1534",
+      "word": "headquarters",
+      "phonetic": "[hédkwɔ̀ːrtərz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "本社",
+            "本部"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(警察, 軍隊, 会社などの)本部」",
+        "語源: head-[上] + -quarters[地区]",
+        "参考: branch「支部」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the United Nations Headquarters",
+          "ja": "国連本部"
+        }
+      ]
+    },
+    {
+      "id": "1535",
+      "word": "personnel",
+      "phonetic": "[pə̀ːrsənél]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (官庁, 会社などの)全職員 (複数扱い)",
+            "② 人事"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源: person「人」から派生した形が, 名に変化した語。",
+        "比較: 形 personal「個人的な」 名 personality「(人間味という意味での)個性」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① medical personnel",
+          "ja": "① 医療関係職員"
+        },
+        {
+          "en": "② the personnel department",
+          "ja": "② 人事部"
+        }
+      ]
+    },
+    {
+      "id": "1536",
+      "word": "entrepreneur",
+      "phonetic": "[ὰːntrəprənə́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "起業家"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(危険を抱えながらも金儲けのために)新たな事業を始める人」",
+        "類義: enterprise「企業, 事業」と同系語。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "young entrepreneurs in the IT field",
+          "ja": "IT分野の若い起業家"
+        }
+      ]
+    },
+    {
+      "id": "1537",
+      "word": "predecessor",
+      "phonetic": "[prédəsèsər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "前任者",
+            "以前あったもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「前にその任についていた人」",
+        "語源: pre-[前] + -decess-[引退] + -or[〜する人・物]",
+        "反義: successor「後継者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "my predecessor as manager",
+          "ja": "私の前の支配人(支配人としての前任者)"
+        }
+      ]
+    }
+  ]
+}

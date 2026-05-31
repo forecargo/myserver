@@ -1,0 +1,342 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1208",
+      "word": "will",
+      "phonetic": "[wil]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 意志",
+            "② 遺書"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 助動詞 will (~するつもりだ) と同系語。",
+        "「意志」が元の意味で「(強い)願望」→「意志、遺書(←死後にこうしてほしいという意志)」",
+        "at will「思いのままに」",
+        "goodwill「善意」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "against my will",
+          "ja": "① 意志に反して"
+        },
+        {
+          "en": "make a will",
+          "ja": "② 遺書を作成する"
+        }
+      ]
+    },
+    {
+      "id": "1209",
+      "word": "option",
+      "phonetic": "[ápʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "選択肢, 選択(の自由)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ choice より堅い語。",
+        "派 optional「(自由に)選択できる」",
+        "派 an optional tour「自由に選べる追加の旅」",
+        "自 opt「選ぶ」",
+        "自 opt to do「~することを選ぶ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "consider other options",
+          "ja": "ほかの選択肢を考える"
+        }
+      ]
+    },
+    {
+      "id": "1210",
+      "word": "prospect",
+      "phonetic": "[práspekt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "見通し"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(将来の)主観的な見通し」(*マイナスイメージも可。)",
+        "語 pro-[前方] + -spect[見る] →「前方を見ること」",
+        "派 inspect「~を調査する」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -spect[見る] →「前方を見ること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I was both excited and worried at the prospect of becoming a father.",
+          "ja": "自分が父親になることを考える(見通す)と、わくわくすると同時に不安だった。"
+        }
+      ]
+    },
+    {
+      "id": "1211",
+      "word": "cherish",
+      "phonetic": "[tʃérɪʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を大切にする, 胸に抱く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(子どもなど)を愛情をこめて世話をする、(物)を大切に保管する」",
+        "語 cher-[親愛な] + -ish[動詞語尾]",
+        "派 charity「慈悲」"
+      ],
+      "word_origin": {
+        "formula": "cher-[親愛な] + -ish[動詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "cherish the memories of that day",
+          "ja": "その日の思い出を大切にする"
+        }
+      ]
+    },
+    {
+      "id": "1212",
+      "word": "intend",
+      "phonetic": "[ɪnténd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(to do)〜するつもりだ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常では mean to do を使うことが多い。",
+        "語 in-[中に] + -tend[伸びていく] →「~の中へ(心が)伸びていく」",
+        "派 intention「意図」",
+        "派 intentionally「意図的に」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -tend[伸びていく] →「~の中へ(心が)伸びていく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "intend to see the movie",
+          "ja": "その映画を見るつもりだ"
+        }
+      ]
+    },
+    {
+      "id": "1213",
+      "word": "suspect",
+      "phonetic": "動 [səspékt] 名 [sʌ́spekt]",
+      "level_tag": "動 B2 名 B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (that SV)〜ではないかと思う",
+            "② 〜に嫌疑をかける"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 容疑者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "〈suspect that SV ≒ think that SV〉〈doubt that SV ≒ do not think that SV〉と覚えよう。",
+        "派 suspicion「容疑, 疑い」",
+        "派 suspicious「疑わしい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① The police suspect that she stole the money.",
+          "ja": "① 警察は彼女がそのお金を盗んだのではないかと思っている。"
+        },
+        {
+          "en": "② We suspect that man.",
+          "ja": "② あの男が怪しいと思っている。"
+        },
+        {
+          "en": "③ the prime suspect",
+          "ja": "③ 有力な容疑者"
+        }
+      ]
+    },
+    {
+      "id": "1214",
+      "word": "identify",
+      "phonetic": "[aɪdéntəfaɪ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を特定する, 《生物》〜を同定する",
+            "② (A with B) (A)を(Bと)同一視する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ (with ~) (~と)一体感をもつ, (~に)なりきる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 2つの物が同じであると確認する",
+        "派 identity「アイデンティティ, 身元(←自分が何者であるかということを確認すること)」",
+        "派 unidentified「未確認の」",
+        "派 UFO (Unidentified Flying Object)「未確認飛行物体」",
+        "派 identification「同一」",
+        "派 identification card「IDカード, 身分証明」",
+        "派 PIN (Personal Identification Number)「暗証番号」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① identify the fingerprints",
+          "ja": "① その指紋を特定する"
+        },
+        {
+          "en": "② Never identify happiness with money.",
+          "ja": "② 幸福を金と同一視するな。"
+        },
+        {
+          "en": "③ identify with that character",
+          "ja": "③ そのキャラクターになりきる"
+        }
+      ]
+    },
+    {
+      "id": "1215",
+      "word": "permit",
+      "phonetic": "動 [pərmít] 名 [pə́ːrmɪt]",
+      "level_tag": "動 B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を許可する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 許可証"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (permit (人) to do「(人)が~するのを許可する」の形も頻出。)",
+        "▶ (学校や当局が公式に)許可する書類",
+        "語 per-[through 通して] + -mit[送る] →「通るように送る」→「~を許可する」",
+        "派 permission「許可」",
+        "参 (文語) weather permitting「天気がよければ」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して] + -mit[送る] →「通るように送る」→「~を許可する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① Parking is not permitted here.",
+          "ja": "① ここでは駐車は許可されていません。"
+        },
+        {
+          "en": "② a work permit",
+          "ja": "② 就業許可証"
+        }
+      ]
+    },
+    {
+      "id": "1216",
+      "word": "acknowledge",
+      "phonetic": "[əknálɪdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を認める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(自分の過失や物事の重要性など)を(しぶしぶ)認める」",
+        "語 ac-[=ad 方向] + -knowledge[=know] →「~を知る」→「~を認める」",
+        "派 acknowledgement「認識, 謝辞」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad 方向] + -knowledge[=know] →「~を知る」→「~を認める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "acknowledge the need for change",
+          "ja": "変化の必要性を認める"
+        }
+      ]
+    },
+    {
+      "id": "1217",
+      "word": "perceive",
+      "phonetic": "[pərsíːv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A as B) (A)を(Bだと)認識する",
+            "② 〜を知覚する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語 per-[through 通して] + -ceive[受け取る] →「(五感を通して)気づく」",
+        "派 perception「認識, 知覚」",
+        "派 perceptive「知覚の」"
+      ],
+      "word_origin": {
+        "formula": "per-[through 通して] + -ceive[受け取る] →「(五感を通して)気づく」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① perceive the discovery as a major breakthrough",
+          "ja": "① その発見を飛躍的進歩と認識する"
+        },
+        {
+          "en": "② perceive a change in his expression",
+          "ja": "② 彼の表情の変化に気づく"
+        }
+      ]
+    }
+  ]
+}

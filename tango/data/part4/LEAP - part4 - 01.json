@@ -1,0 +1,342 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1401",
+      "word": "assert",
+      "phonetic": "[əsə́ːrt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜と断定する",
+            "〜を主張する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意見や主義)を証拠はなくとも自信たっぷりに明言する」",
+        "▶「断定する」",
+        "形 assertive「自己主張が強い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "assert that French cuisine is the world's best",
+          "ja": "フランス料理は世界で一番だと主張する"
+        }
+      ]
+    },
+    {
+      "id": "1402",
+      "word": "defy",
+      "phonetic": "[difái]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に逆らう",
+            "② 〜を拒む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(教師などに)反抗する」から「(理解などが)できない」まで。",
+        "語源 de-[否定] + -fy[信頼] -> 「(信頼しないで)逆らう」",
+        "★confidence「自信」",
+        "形 defiant「反抗的な」",
+        "熟 defy the odds「(不利な)状況を覆す」"
+      ],
+      "word_origin": {
+        "formula": "de-[否定] + -fy[信頼] -> 「(信頼しないで)逆らう」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① defy the teacher",
+          "ja": "① 教師に反抗する"
+        },
+        {
+          "en": "② His behavior defied understanding.",
+          "ja": "② 彼の行動は理解不可能だった(理解を拒んだ)."
+        }
+      ]
+    },
+    {
+      "id": "1403",
+      "word": "condemn",
+      "phonetic": "[kəndém]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を非難する",
+            "② 〜に(刑の)宣告をする",
+            "③ 〜を強いる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人、言動を)非難する」から「(法廷で)判決を下す」まで。",
+        "語源 con-[強意] + -demn[非難]",
+        "★God damn it!「ちくしょう。」"
+      ],
+      "word_origin": {
+        "formula": "con-[強意] + -demn[非難]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① condemn racial discrimination",
+          "ja": "① 人種差別を非難する"
+        },
+        {
+          "en": "② be condemned to death",
+          "ja": "② 死刑判決が下される"
+        },
+        {
+          "en": "③ be condemned to a life of poverty",
+          "ja": "③ 貧乏生活を強いられる"
+        }
+      ]
+    },
+    {
+      "id": "1404",
+      "word": "cite",
+      "phonetic": "[sáit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を引き合いに出す",
+            "引用する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(何かを立証するために具体例を)引き合いに出す」",
+        "★recite「〜を暗唱する」",
+        "語源 re-[再び] + -cite[呼び起こす]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cite the example of Sweden",
+          "ja": "スウェーデンの例を引き合いに出す"
+        }
+      ]
+    },
+    {
+      "id": "1405",
+      "word": "illustrate",
+      "phonetic": "[íləstrèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (例で)〜を説明する",
+            "例証する",
+            "② 〜に挿絵を入れる",
+            "〜を図解する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「光を当てて明るくする」",
+        "名 illustration「例証, 挿絵を入れること, イラスト」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① use several examples to illustrate my point",
+          "ja": "① 私の主張を説明するためにいくつかの例を用いる"
+        },
+        {
+          "en": "② an illustrated calendar",
+          "ja": "② 挿絵入りのカレンダー"
+        }
+      ]
+    },
+    {
+      "id": "1406",
+      "word": "refute",
+      "phonetic": "[rifjúːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を論駁する",
+            "〜に反論する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主張や理論などの誤りを証明する, 間違っていると言う」",
+        "語源 re-[再び] + -fute[注ぐ] -> 「注ぎ返す」",
+        "形 refutable「論破できる」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び] + -fute[注ぐ] -> 「注ぎ返す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "refute his theory",
+          "ja": "彼の理論を論駁する"
+        }
+      ]
+    },
+    {
+      "id": "1407",
+      "word": "sue",
+      "phonetic": "[súː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を訴える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(損害賠償訴訟などの)裁判沙汰にする」",
+        "語源ラテン語の sequi「追う」が語源。",
+        "★pursue「〜を追求する」",
+        "名 sequence「連続」"
+      ],
+      "word_origin": {
+        "formula": null,
+        "description": "ラテン語の sequi「追う」が語源。"
+      },
+      "examples": [
+        {
+          "en": "sue the magazine for libel [láibəl]",
+          "ja": "名誉毀損でその雑誌を訴える"
+        }
+      ]
+    },
+    {
+      "id": "1408",
+      "word": "articulate",
+      "phonetic": "[動 ərtíkjulèit] [形 ərtíkjulət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (考えなど)をはっきり述べる",
+            "② 考えを明確に表現できる"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "(言葉を用いて考えや気持ち)を表現する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(言葉を用いて考えや気持ち)を表現する」",
+        "語源 art-[つなぐ] -> 「(語や音などを)つなぐ」(*元は「調音器官を動かして発音する」の意昧。)",
+        "★article「記事(〜小さくつないだもの)」"
+      ],
+      "word_origin": {
+        "formula": "art-[つなぐ] -> 「(語や音などを)つなぐ」",
+        "description": "*元は「調音器官を動かして発音する」の意昧。"
+      },
+      "examples": [
+        {
+          "en": "① articulate my ideas to the boss",
+          "ja": "① 上司に自分の考えをはっきり述べる"
+        },
+        {
+          "en": "② a bright, articulate 12-year-old girl",
+          "ja": "② 聡明ではっきりものを言う12歳の少女"
+        }
+      ]
+    },
+    {
+      "id": "1409",
+      "word": "version",
+      "phonetic": "[və́ːrʒən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① (個人的な)解釈",
+            "意見",
+            "② (製品などの)〜版"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "語源 vers-[回る] -> 「回転して向きを変える(転換する)こと」",
+        "★universe「宇宙(←たった1つのものが回転する)」",
+        "▶日本語でも②「〜バージョン(版)」はよく使われる。"
+      ],
+      "word_origin": {
+        "formula": "vers-[回る] -> 「回転して向きを変える(転換する)こと」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① his own version of the episode",
+          "ja": "① その出来事についての彼自身の解釈"
+        },
+        {
+          "en": "② the latest version of the software",
+          "ja": "② そのソフトウェアの最新版"
+        }
+      ]
+    },
+    {
+      "id": "1410",
+      "word": "advocate",
+      "phonetic": "[名 ǽdvəkət] [動 ǽdvəkèit]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 提唱者",
+            "支持者"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を主張する",
+            "支持する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(公の場で自分の主義や支持などを)はっきり言う」",
+        "語源 ad-[方向] + -voc-[声] から「〜に向かって声を出す」",
+        "★vocal「ヴォーカル」",
+        "★provoke「(反応などを)引き起こす(←前に出るよう声を出す)」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向] + -voc-[声] から「〜に向かって声を出す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① an advocate of disarmament",
+          "ja": "① 軍縮提唱者"
+        },
+        {
+          "en": "② advocate tax reform",
+          "ja": "② 税制改革を主張する"
+        }
+      ]
+    }
+  ]
+}

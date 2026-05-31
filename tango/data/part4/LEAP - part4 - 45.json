@@ -1,0 +1,357 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1862",
+      "word": "ample",
+      "phonetic": "[æmpl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "豊富な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「十分な、たっぷりの」(*a lot of ~の堅い語.)",
+        "☆compléte「完成させる(←完全に満たす)」",
+        "🈔amplifier「増幅器, アンプ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "give him ample opportunity to succeed",
+          "ja": "成功する十分な機会を彼に与える"
+        }
+      ]
+    },
+    {
+      "id": "1863",
+      "word": "gross",
+      "phonetic": "[gróus]🈖",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 総計の",
+            "② (食べ物, 行動などが)ひどい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ざっくり」",
+        "🈖1グロス=12ダース(=144個)から「多い, すべて」→「総計の, 合計(金額なら税などを含んだ額)の」",
+        "🈔nét「(税などを含まない)正味の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the gross national product (GNP)",
+          "ja": "① 国民総生産"
+        },
+        {
+          "en": "② His behavior was really gross.",
+          "ja": "② 彼の行動は本当にひどかった."
+        }
+      ]
+    },
+    {
+      "id": "1864",
+      "word": "infinite",
+      "phonetic": "[ínfənət]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "無限の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数量, 時間, 空間などが)限りない」",
+        "🈔finish「〜を終える」",
+        "🈔infinity「無限」",
+        "🈔infinitive「不定詞(←時制や人称によって定められない動詞)」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定]+-fin-[限界]+-ite[性質]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an infinite number of stars",
+          "ja": "無数の星"
+        }
+      ]
+    },
+    {
+      "id": "1865",
+      "word": "sole",
+      "phonetic": "[sóul]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 唯一の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 足の裏, 靴底"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①日常ではonlyのほうが使われる",
+        "🈖sólo「ソロ, 独唱; 単独で」と同語源。(＊②は別語源.)",
+        "🈔副solely「単に, 〜だけで」",
+        "🈔形solitary「孤高の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the sole survivor of the accident",
+          "ja": "① その事故の唯一の生存者"
+        },
+        {
+          "en": "② a shoe with a rubber sole",
+          "ja": "② ゴム底の靴"
+        }
+      ]
+    },
+    {
+      "id": "1866",
+      "word": "heap",
+      "phonetic": "[híːp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (積み重ねられたものの)山",
+            "② (a ~ of ~)たくさんの〜"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(雑然とした)積み重ね」",
+        "☆stack「(きちんと積み重ねられた)山」",
+        "🈖hip「(腰の左右の張り出し)」と同様に「盛り上がっている」イメージ."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① gather fallen leaves into a heap",
+          "ja": "① 落ち葉を集めて山にする"
+        },
+        {
+          "en": "② a heap of French fries",
+          "ja": "② 大盛りのフライドポテト"
+        }
+      ]
+    },
+    {
+      "id": "1867",
+      "word": "fraction",
+      "phonetic": "[frǽkʃən]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 少量",
+            "② 分数, 端数"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「破片, 断片」→①「少量」",
+        "☆fragment「破片, 断片」"
+      ],
+      "word_origin": {
+        "formula": "frac-[破壊された]+-tion[名詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① only a fraction of the cost",
+          "ja": "① その費用のほんの一部"
+        },
+        {
+          "en": "② round off a fraction",
+          "ja": "② 端数を切り捨てる"
+        }
+      ]
+    },
+    {
+      "id": "1868",
+      "word": "simultaneous",
+      "phonetic": "[sàiməltéiniəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "同時の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶=happening at the same time",
+        "🈔副simultaneously「同時に」"
+      ],
+      "word_origin": {
+        "formula": "sim-(=same 同じ)+-taneous[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "work as a simultaneous interpreter",
+          "ja": "同時通訳を務める"
+        }
+      ]
+    },
+    {
+      "id": "1869",
+      "word": "medieval",
+      "phonetic": "[mìːdíːvəl]🈖",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "中世の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「一般に4〜5世紀から15世紀ごろまで.」"
+      ],
+      "word_origin": {
+        "formula": "medi-[中間の]+-ev-[=era 時代]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "in medieval times",
+          "ja": "中世(の時代)に"
+        }
+      ]
+    },
+    {
+      "id": "1870",
+      "word": "dawn",
+      "phonetic": "[dɔ́ːn]🈖",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 夜明け"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 夜が明ける",
+            "③ (on ~) (~に)わかり始める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①②「だんだん外が明るくなっていく」→③「わかり始める」",
+        "🈖ドーンと「夜が明ける」",
+        "🈔dusk「夕暮れ」",
+        "a false dawn「誤った期待感(←夜明け前の微光)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① We left home at dawn.",
+          "ja": "① 私たちは夜明けに家を出た."
+        },
+        {
+          "en": "② The day began to dawn.",
+          "ja": "② 夜が明け始めた."
+        },
+        {
+          "en": "③ The truth dawned on me.",
+          "ja": "③ 真相が(私に)わかり始めてきた."
+        }
+      ]
+    },
+    {
+      "id": "1871",
+      "word": "span",
+      "phonetic": "[spǽn]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (継続した)期間",
+            "② (集中力, 注意力, 機械の)持続"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人間の)寿命, 余命」はone's life expectancyと表現するのがふつう.",
+        "🈖「手のひらの幅(親指から小指までの距離)」から意味が発展した."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① over a span of five years",
+          "ja": "① 5年という期間に"
+        },
+        {
+          "en": "② the average life span of elephants",
+          "ja": "② ゾウの平均寿命(生きている期間)"
+        }
+      ]
+    },
+    {
+      "id": "1872",
+      "word": "adolescent",
+      "phonetic": "[ædəlésnt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 思春期の若者"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 思春期の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "🈔adolescence「思春期(の期間)」",
+        "🈔púberty「思春期(の始まり)」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向]+-ole-[=old]+-scent[-期の]→「老いに向かって変化する時期(の)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a shy adolescent",
+          "ja": "① 内気な思春期の若者"
+        },
+        {
+          "en": "② adolescent boys",
+          "ja": "② 思春期の少年"
+        }
+      ]
+    }
+  ]
+}

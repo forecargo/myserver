@@ -1,0 +1,294 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "521",
+      "word": "consume",
+      "phonetic": "[kənsúːm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を消費する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「燃料, 食べ物, 時間など」を消費する",
+        "★consommé「コンソメ(←肉を煮出してエキスを取ったスープ)」",
+        "名consumption「消費」",
+        "名consumer「消費者」",
+        "名consumer goods「消費財」",
+        "名time-consuming「時間のかかる」",
+        "名a time-consuming process「時間のかかる過程」",
+        "名consumerism「消費者主義」"
+      ],
+      "word_origin": {
+        "formula": "con-[完全に] + -sume[取る] -> 「消費する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "consume a large amount of electricity",
+          "ja": "大量の電気を消費する"
+        }
+      ]
+    },
+    {
+      "id": "522",
+      "word": "waste",
+      "phonetic": "[wéist]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を浪費する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 浪費, 無駄",
+            "③ 廃棄物(不可算)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(時間, 金, 努力)を無駄に使う」",
+        "派生① waste (お金) on 〜「(お金)を〜に浪費する」",
+        "waste (時間) doing「(時間)を〜するのに浪費する」",
+        "② a waste of 〜「〜の無駄」",
+        "派生vacant「空いている」",
+        "派生want「不足; 〜が欲しい(←欠けている)」"
+      ],
+      "word_origin": {
+        "formula": "wa-[=va 空っぽの]から「空っぽにする」→「無駄にする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① Don't waste so much time on video games.",
+          "ja": "① テレビゲームにそんなに多くの時間を浪費してはいけません."
+        },
+        {
+          "en": "② It is a waste of time and money.",
+          "ja": "② そんなの時間と金の無駄だ."
+        },
+        {
+          "en": "③ industrial waste",
+          "ja": "③ 産業廃棄物"
+        }
+      ]
+    },
+    {
+      "id": "523",
+      "word": "invest",
+      "phonetic": "[invést]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (A in B) (A)を(Bに)投資する",
+            "② (A with B) (A)に(B)を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(お金, 時間など)を投資する」",
+        "▶②「〜に(力や雰囲気などを)与える」",
+        "派生ベスト, チョッキ",
+        "名investment「投資, 賦与」"
+      ],
+      "word_origin": {
+        "formula": "in-[中] + -vest[服] -> 「(投資で金をもうけて)よい服を着る」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① invest one million yen in stocks",
+          "ja": "① 株に 100 万円を投資する"
+        },
+        {
+          "en": "② He is invested with absolute authority.",
+          "ja": "② 彼には絶対的権限が与えられている."
+        }
+      ]
+    },
+    {
+      "id": "524",
+      "word": "import",
+      "phonetic": "[impɔ́ːrt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を輸入する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 輸入, 輸入品"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "★pórter「ポーター, 運搬人」",
+        "反① éxport「〜を輸出する」",
+        "反② éxport「輸出, 輸出品」"
+      ],
+      "word_origin": {
+        "formula": "im-[=in 中に] + -port[運ぶ] -> 「の中に運び込む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① import beef from the U.S.",
+          "ja": "① アメリカから牛肉を輸入する"
+        },
+        {
+          "en": "② Imports slightly exceeded exports.",
+          "ja": "② 輸入が輸出を少し上回った."
+        }
+      ]
+    },
+    {
+      "id": "525",
+      "word": "financial",
+      "phonetic": "[finǽnʃəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "財政的な, 金銭的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「お金およびその運用に関わる」",
+        "派生fine「罰金」",
+        "名finance「財政, 資金」",
+        "派生fiscal「会計の」",
+        "派生a fiscal year「会計年度(←国および地方公共団体の歳入, 歳出を整理区分するための期間)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "receive financial support",
+          "ja": "経済的支援を受ける"
+        }
+      ]
+    },
+    {
+      "id": "526",
+      "word": "hire",
+      "phonetic": "[háiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を(一時的に)雇う",
+            "② (金を払って短期間)〜を借りる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇employ「(正規に)〜を雇う」",
+        "反fire「〜をクビにする」とセットで覚えよう.",
+        "(*) (米)では rent も可."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① hire movers to do all the work",
+          "ja": "① 引っ越し業者を雇って全部任せる"
+        },
+        {
+          "en": "② hire a car",
+          "ja": "② 車を借りる"
+        }
+      ]
+    },
+    {
+      "id": "527",
+      "word": "employ",
+      "phonetic": "[implɔ́i]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (人)を雇う",
+            "② (物, 事)を用いる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①「(人)を雇用する, 雇い入れる」",
+        "▶②「(道具など)を使う」",
+        "▶(*)② 日常では use を使うことが多い.",
+        "注意 日本語の「用いる」と同様, 目的語には「人」も「物, 事」もとる.",
+        "名employment「雇用」",
+        "名employer「雇い主」",
+        "名employee「従業員」",
+        "派生recruit「(従業員, 学生など)を新しく入れる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① employ minors",
+          "ja": "① 未成年者を雇う"
+        },
+        {
+          "en": "② employ new technology",
+          "ja": "② 新しい技術を用いる"
+        }
+      ]
+    },
+    {
+      "id": "528",
+      "word": "resign",
+      "phonetic": "[rizáin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (as 〜) (〜へ)辞職する"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (地位など)を辞める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(地位のある人が途中で公的に)辞職する」",
+        "(*)職名なので a は不要.",
+        "注意 resign oneself to 〜は「〜をあきらめて受け入れる」の意味.",
+        "名resignation「辞職」"
+      ],
+      "word_origin": {
+        "formula": "re-[後ろ] + -sign[署名] -> 「署名を撤回する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① resign as coach[×a coach]",
+          "ja": "① コーチを辞める"
+        },
+        {
+          "en": "② resign my post",
+          "ja": "② ポストを辞する"
+        }
+      ]
+    }
+  ]
+}

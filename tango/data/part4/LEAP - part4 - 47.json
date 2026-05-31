@@ -1,0 +1,290 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1882",
+      "word": "equip",
+      "phonetic": "[ikwíp]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を装備させる, 備え付ける",
+            "② (人)に(知識や能力などを)身につけさせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「必要なものを与える[持たせる]」",
+        "★元は「船に備品を入れる」の意。☆ship「〜を発送する」",
+        "名 equipment「装備, 設備, 用品, 知識, 才能」〈不可算〉"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "These LED lights are equipped with artificial intelligence.",
+          "ja": "これらのLED照明には人工知能が搭載されている。"
+        },
+        {
+          "en": "equip my son with good education",
+          "ja": "息子に十分な教育を与える"
+        }
+      ]
+    },
+    {
+      "id": "1883",
+      "word": "transmit",
+      "phonetic": "*[trænsmít]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を送る, 伝える",
+            "② (病気など)をうつす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物理的に)遠くに送る」から「(知識や文化を)伝える」「(病気を)うつす」まで。",
+        "語源 trans-[越えて] + -mit[送る] →「遠くに伝える」",
+        "名 transmission「送信」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "transmit news all around the world",
+          "ja": "世界中にニュースを伝える"
+        },
+        {
+          "en": "transmit a disease",
+          "ja": "病気をうつす"
+        }
+      ]
+    },
+    {
+      "id": "1884",
+      "word": "endow",
+      "phonetic": "[indáu]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を授ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(資産を与える)」から「(才能, 力を)与える」まで。",
+        "語源 -do-[与える]",
+        "☆dónor「ドナー」",
+        "名 endowment「寄付, (生来の)才能」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is endowed with a sense of humor.",
+          "ja": "彼にはユーモアのセンスがある(彼はユーモアのセンスを授けられている)。"
+        }
+      ]
+    },
+    {
+      "id": "1885",
+      "word": "inherit",
+      "phonetic": "[inhérit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を受け継ぐ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(財産などを)相続する」から「(遺伝的に性質, 体質などを)受け継ぐ」「(事や問題などを)引き継ぐ」まで。",
+        "語源 in-[中に] + -her-[くっつく] →「中にかくっついている」",
+        "☆herédity「遺伝」",
+        "形 inhérent「本来備わっている, 固有の」",
+        "名 inhérítance「相続, 遺産」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "inherit the land from my grandfather",
+          "ja": "祖父からその土地を受け継ぐ"
+        }
+      ]
+    },
+    {
+      "id": "1886",
+      "word": "retrieve",
+      "phonetic": "[ritríːv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を回収する, 取り戻す",
+            "② (ファイルなど)を検索する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶retriever「(ゴールデン・ラブラドール)レトリーバー」という犬種は元来, 獲物を回収する(retrieve)ように訓練された猟犬のこと。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "retrieve the flight recorder",
+          "ja": "フライトレコーダーを回収する"
+        },
+        {
+          "en": "retrieve a file",
+          "ja": "ファイルを検索する"
+        }
+      ]
+    },
+    {
+      "id": "1887",
+      "word": "displace",
+      "phonetic": "[displéis]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に取って代わる",
+            "② (戦争, 災害などで)〜を故郷などから追い出す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「無理やり, ほかの場所に移す」",
+        "語源 dis-[バラバラ] + -place[場所] →「本来の場所から移す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Natural gas has displaced coal.",
+          "ja": "天然ガスが石炭に取って代わった。"
+        },
+        {
+          "en": "be displaced by the civil war",
+          "ja": "内戦によって故郷を追われる (追い出される)"
+        }
+      ]
+    },
+    {
+      "id": "1888",
+      "word": "bond",
+      "phonetic": "[bάnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① きずな",
+            "② 公債, 社債",
+            "〈①②ともに〈可算〉〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「結びつき」(*tie「つながり」)よりも強い「一体感」がある。",
+        "語源 bónd「(接着剤の)ボンド」もこの意味からつけられた。",
+        "動 bóndage「束縛」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the bond between mother and child",
+          "ja": "母と子のきずな"
+        },
+        {
+          "en": "buy government bonds",
+          "ja": "国債を買う"
+        }
+      ]
+    },
+    {
+      "id": "1889",
+      "word": "hospitality",
+      "phonetic": "[hὰspətǽləti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "もてなし, 歓迎"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶hospitable「親切にもてなす」(*hóspital「病院」は本来「もてなす場所」という意味。動 be hospitalized「入院する」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Thank you for your kind hospitality.",
+          "ja": "親切なおもてなしに感謝します。"
+        }
+      ]
+    },
+    {
+      "id": "1890",
+      "word": "certificate",
+      "phonetic": "[sərtífikət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "証明書, 免許状, 鑑定書"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「事実を証明する書類」",
+        "語源 cértain「確かな」と同語源で「(事実を)確かなものにするもの」→「証明書」",
+        "形 certified「認定された」",
+        "a certified public accountant「公認会計士」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a birth[death, marriage] certificate",
+          "ja": "出生[死亡, 結婚]証明書"
+        }
+      ]
+    },
+    {
+      "id": "1891",
+      "word": "brochure",
+      "phonetic": "*[brouʃúər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "パンフレット"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(宣伝用や映画などの)小冊子」",
+        "(*pámphet [pæmflət] より一般的な語。)",
+        "類 leaflet「(広告の)ちらし」",
+        "flyer「(街で配られる)ちらし」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "look over a travel brochure",
+          "ja": "旅行のパンフレットに目を通す"
+        }
+      ]
+    }
+  ]
+}

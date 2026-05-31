@@ -1,0 +1,254 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "408",
+      "word": "bound",
+      "phonetic": "[báund]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (to do) きっと〜する (〜する[である]に違いない)",
+            "② (for 〜) 〜行きで"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「縛られた」から「身動きが取れない」→①「きっと〜(するに決まっている)」②「〜行き(と決まっている)」",
+        "頻出 ①〈口語〉be bound to do「きっと〜する」",
+        "② be bound for 〜「〜行きで」",
+        "注意 ①類義語の must「〜に違いない」は「未来の推量」には使えない。",
+        "★元は bind「〜を縛る」の過去分詞。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is bound to be in the classroom now.",
+          "ja": "今彼はきっと教室にいるはずだ."
+        },
+        {
+          "en": "the Nozomi Superexpress bound for Tokyo",
+          "ja": "東京行きののぞみ号"
+        }
+      ]
+    },
+    {
+      "id": "409",
+      "word": "bet",
+      "phonetic": "[bét]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (that SV) きっと〜だと思う",
+            "② 〜を賭ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「賭けてもよいほどに自信がある」",
+        "頻出 ① I'll bet (that) SV.「きっと〜だと思う。」",
+        "You bet!「(人からの誘いに対して賛同を示し)もちろんさ。」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I'll bet (that) he's coming.",
+          "ja": "きっと彼は来ると思う."
+        },
+        {
+          "en": "bet 500 yen on a horse",
+          "ja": "馬に500円を賭ける"
+        }
+      ]
+    },
+    {
+      "id": "410",
+      "word": "demand",
+      "phonetic": "[dimǽnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を(強く)要求する"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (for 〜) (〜への)要求, 需要"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(強い口調で)要求する」(*非常に強い意味.)",
+        "頻出 ① demand that S (should) do「Sが〜するように要求する」",
+        "② make [withdraw, meet, reject] a demand for 〜「〜の要求をする[引き下げる, 満たす, 退ける]」",
+        "形 demanding「努力を要する」⇨ a demanding job「大変な仕事」",
+        "*語順に注意."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "demand an apology",
+          "ja": "謝罪を要求する"
+        },
+        {
+          "en": "supply and demand",
+          "ja": "需要と供給"
+        }
+      ]
+    },
+    {
+      "id": "411",
+      "word": "desire",
+      "phonetic": "[dizáiər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① ② 〜を強く望む"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① ② 願望, 欲望"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常では want のほうが使われる.",
+        "頻出 ① have a strong desire to do「〜したいと強く望む」",
+        "② leave nothing to be desired「まったく申し分ない」",
+        "形 desirable「望ましい」⇨ It is desirable that SV.「〜は望ましい.」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a strong desire to study in the U.K.",
+          "ja": "イギリスに留学したいという強い願望をもつ"
+        },
+        {
+          "en": "desire to marry her",
+          "ja": "彼女と結婚したいと強く望む"
+        }
+      ]
+    },
+    {
+      "id": "412",
+      "word": "praise",
+      "phonetic": "[préiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① (A for B) (Aのこと)を褒める, 称える"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 賞賛"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(作品や功績)を評価する」",
+        "◇ flatter「〜を(お世辞で)褒める」",
+        "他 appraise「(正確に能力, 土地など)を評価する」",
+        "★ raise「〜を上げる」に p- が付いた形と覚えよう."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "praise the man for his diligence",
+          "ja": "その男の勤勉さを(その男性を勤勉さで)褒める"
+        },
+        {
+          "en": "His novel won high praise.",
+          "ja": "彼の小説は絶賛された(高い賞賛を得た)."
+        }
+      ]
+    },
+    {
+      "id": "413",
+      "word": "honor",
+      "phonetic": "[ánər]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 名誉, 栄誉"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を敬う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① in honor of 〜「〜に敬意を表して, 〜のために」",
+        "graduate with honors「優秀な成績で卒業する」",
+        "a People's Honor Award「国民栄誉賞」",
+        "★ hon-[高位] ⇨ hónorable「栄誉ある」",
+        "形 honest「正直な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "It's an honor to be here.",
+          "ja": "お招き頂きありがとうございます(ここにいることは名誉です)."
+        },
+        {
+          "en": "honor my parents",
+          "ja": "両親を敬う"
+        }
+      ]
+    },
+    {
+      "id": "414",
+      "word": "chat",
+      "phonetic": "[tʃǽt]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① おしゃべりする"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② おしゃべり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「軽い雑談をする」",
+        "頻出 ② have a chat with 〜「〜とおしゃべりする」",
+        "★ chátter「(くだらないことを)ぺらぺらと話す」の短縮語."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "chat over tea",
+          "ja": "お茶を飲みながらおしゃべりする"
+        },
+        {
+          "en": "enjoy a chat with neighbors",
+          "ja": "井戸端会議(近所の人たちとのおしゃべり)を楽しむ"
+        }
+      ]
+    }
+  ]
+}

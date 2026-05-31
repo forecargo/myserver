@@ -1,0 +1,337 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1819",
+      "word": "idle",
+      "phonetic": "[áidl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (仕事がなく)何もしないでいる",
+            "② 怠惰な"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ (away) (~を)何もしないでいる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②日常ではlazyのほうが使われる.",
+        "反 busy「忙しい」",
+        "a pop idol「アイドル歌手」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "sit idle in the morning",
+          "ja": "午前中何もしないで座っている"
+        },
+        {
+          "en": "idle workers",
+          "ja": "怠惰な労働者たち"
+        },
+        {
+          "en": "idle away the afternoon",
+          "ja": "午後を何もしないで過ごす"
+        }
+      ]
+    },
+    {
+      "id": "1820",
+      "word": "adverse",
+      "phonetic": "[ædvə́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(何かを行うのに)不都合な, 悪い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではunfavorableやbadのほうがふつう.",
+        "名 adversity「逆境」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向]+-verse-[回る]から「逆方向に回っている」→「不都合な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "adverse weather conditions",
+          "ja": "悪(不都合な)天候"
+        }
+      ]
+    },
+    {
+      "id": "1821",
+      "word": "tiresome",
+      "phonetic": "[táiərsəm]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "退屈な, うんざりする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 日常ではboring「退屈な」のほうが使われる.",
+        "troublesome「やっかいな(←トラブルを起こしやすい)」"
+      ],
+      "word_origin": {
+        "formula": "tire-[疲れる]+-some[しやすい]→「(疲れてしまうくらいに)退屈な」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a tiresome lecture",
+          "ja": "退屈な講義"
+        }
+      ]
+    },
+    {
+      "id": "1822",
+      "word": "clumsy",
+      "phonetic": "[klʌ́mzi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "無器用な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(体の動きや行動が)ぎこちない」",
+        "「寒さで手がかじかむ」が元の意味.",
+        "clám「ハマグリ, 無口な人」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am clumsy with my hands.",
+          "ja": "手先が無器用だ."
+        }
+      ]
+    },
+    {
+      "id": "1823",
+      "word": "foul",
+      "phonetic": "[fául]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (味, 臭いなどが)不快な"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② (スポーツなどの)違反, ファウル"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①も②も「不快な(もの)」というのが共通している.",
+        "(*日本語の「ファウル」は②の意味のみ.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a foul smell",
+          "ja": "① 不快な臭い"
+        },
+        {
+          "en": "A red card was given for the foul.",
+          "ja": "② その反則に対してレッドカードが出された."
+        }
+      ]
+    },
+    {
+      "id": "1824",
+      "word": "shabby",
+      "phonetic": "[ʃǽbi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "みすぼらしい, おんぼろの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ (服, 建物などが)使い込まれてボロボロの",
+        "反 brand-new「新品の」",
+        "scab「かさぶた」",
+        "scabby「かさぶたのできた」"
+      ],
+      "word_origin": {
+        "formula": "shabb-[=scab かさぶた]+-y[形容詞語尾]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a shabby jacket",
+          "ja": "みすぼらしい上着"
+        }
+      ]
+    },
+    {
+      "id": "1825",
+      "word": "outrageous",
+      "phonetic": "[autréidʒəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "常軌を逸した, 奇想天外な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ outrage「激怒」とは異なり, プラスの意味でも使う."
+      ],
+      "word_origin": {
+        "formula": "outr-[度を超えて]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "his outrageous hairstyle",
+          "ja": "彼の常軌を逸した髪型"
+        }
+      ]
+    },
+    {
+      "id": "1826",
+      "word": "absurd",
+      "phonetic": "[æbsə́ːrd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "ばかげた"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「常識や理屈に合わずにばかげている」",
+        "(*stupid「愚かな」より堅い語.)",
+        "(昆虫の)アブが(野球の)サードを守っている!そんな「ばかな」!"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an absurd idea",
+          "ja": "ばかげた考え"
+        }
+      ]
+    },
+    {
+      "id": "1827",
+      "word": "fragile",
+      "phonetic": "[frǽdʒail]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "壊れやすい, もろい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(物理的に)弱い」",
+        "fragment「破片, 断片」",
+        "fracture「骨折」",
+        "(表記)\"Fragile - handle with care!\"「壊れ物 - 取り扱い注意!」"
+      ],
+      "word_origin": {
+        "formula": "frag-[破壊された]+-ile[しやすい]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "fragile china",
+          "ja": "壊れやすい陶磁器"
+        }
+      ]
+    },
+    {
+      "id": "1828",
+      "word": "vulnerable",
+      "phonetic": "[vʌ́lnərəbl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 傷つきやすい, 弱い",
+            "② (非難, 攻撃を)受けやすい",
+            "(病気にかかりやすい)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 「(危害を加えるものが)集まって来やすい」"
+      ],
+      "word_origin": {
+        "formula": "vulner-[傷つける]+-able[可能]→「傷つけられる(傷つけがちな)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Paper is vulnerable to moisture.",
+          "ja": "① 紙は湿気に弱い."
+        },
+        {
+          "en": "People with high blood pressure are vulnerable to heart disease.",
+          "ja": "② 高血圧の人は心臓病にかかりやすい."
+        }
+      ]
+    },
+    {
+      "id": "1829",
+      "word": "static",
+      "phonetic": "[stǽtik]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "静的な, (経済などで)変化のない, 活気のない"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "a static economy「活気のない経済」(＊マイナスイメージ)",
+        "a stable economy「安定した経済」(＊プラスイメージ)",
+        "反 dynamic「動的な」"
+      ],
+      "word_origin": {
+        "formula": "sta-[じっとして]+-tic[状態]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I got a shock from static electricity.",
+          "ja": "静電気がピリッときた."
+        }
+      ]
+    }
+  ]
+}

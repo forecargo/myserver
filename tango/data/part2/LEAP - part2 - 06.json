@@ -1,0 +1,270 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "436",
+      "word": "accomplish",
+      "phonetic": "[əkámpliʃ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜をやり遂げる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(全力を尽くして, 目的や仕事を)成し遂げる」",
+        "頻出 目的語には a task「仕事」や a purpose「目的」などがくることが多い。",
+        "派生 形 accomplished「熟練した」 名 accomplishment「やり遂げること, 業績」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad 方向]+-complish[満たす] -> 「やり遂げる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "accomplish this task",
+          "ja": "この仕事をやり遂げる"
+        }
+      ]
+    },
+    {
+      "id": "437",
+      "word": "overcome",
+      "phonetic": "[òuvərkʌ́m]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を克服する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(困難, 欠点)を克服する」(*日常では get over 〜)",
+        "頻出 目的語には a problem「問題」, a difficulty「困難」, a disease「病気」, one's weaknesses「弱点」などがくることが多い。",
+        "活用 overcome-overcame-overcome"
+      ],
+      "word_origin": {
+        "formula": "over-[越えて]+-come[来る] -> 「〜を乗り越える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "overcome my shyness",
+          "ja": "私の内気なところを克服する"
+        }
+      ]
+    },
+    {
+      "id": "438",
+      "word": "fulfill",
+      "phonetic": "[fulfíl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (義務, 願望など)を果たす",
+            "② (必要など)を満たす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① 目的語には a(n)/one'sなどを伴い, duty「義務, 責務」や hope, wish「望み」, ambition「野心」などがくることが多い。",
+        "派生 形 fulfilling「充実した, 達成感を与える」"
+      ],
+      "word_origin": {
+        "formula": "ful-[一杯]+-fill[満たす] -> 「満たす」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① fulfill a childhood dream",
+          "ja": "① 子どものころの夢を果たす"
+        },
+        {
+          "en": "② fulfill our requirements",
+          "ja": "② 私たちの要求を満たす"
+        }
+      ]
+    },
+    {
+      "id": "439",
+      "word": "devote",
+      "phonetic": "[divóut]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A to B) (A)を(Bに)ささげる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「すべてをささげる(と宣言する)」(*マイナスイメージにも使える。)",
+        "頻出 devote A to B「A(時間, 人生)をBにささげる」(*Bは名詞[動名詞]。) 目的語には上記以外に money, attention, energyなどがくることも多い。",
+        "派生 名 devotion「献身, 愛情」 形 devoted「献身的な, 専念して, 専門の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "devote my life to helping others",
+          "ja": "人助けに人生をささげる"
+        }
+      ]
+    },
+    {
+      "id": "440",
+      "word": "strive",
+      "phonetic": "[stráiv]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "努力する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(困難を乗り越え, 目的に向かって懸命に)努力する」",
+        "頻出 strive to do「〜しようと努力する」(=make a great effort to do)",
+        "strive for 〜「〜を求めて努力する」",
+        "派生 stride「大またで歩く」"
+      ],
+      "word_origin": {
+        "formula": "stri-[広げる] -> 「前へ前へと進む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "strive to cut costs",
+          "ja": "経費削減に努力する"
+        }
+      ]
+    },
+    {
+      "id": "441",
+      "word": "aim",
+      "phonetic": "[éim]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 狙う"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② (〜ed at 〜)〜向けだ"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 狙い, 目的"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「明確な目的を定め, その達成のために努力する」",
+        "頻出 ① aim at 〜「〜を狙う」 aim to do「〜しようと志す」 (*ビジネスでは try to do より aim to do のほうが好まれる。)",
+        "派生 形 aimless「目的のない」 副 aimlessly「目的もなく」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① aim to finish by Wednesday",
+          "ja": "① 水曜日までに終わらせるつもりだ"
+        },
+        {
+          "en": "② This book is aimed at teenagers.",
+          "ja": "② この本は 10 代の若者向けです。"
+        },
+        {
+          "en": "③ the aim of this course",
+          "ja": "③ この講座の狙い"
+        }
+      ]
+    },
+    {
+      "id": "442",
+      "word": "challenge",
+      "phonetic": "[tʃǽlɪndʒ]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 難問, 課題<可算>"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に異議を唱える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「解決してみろ!」と挑んでくるような(やりがいのある)難問」",
+        "注意 日本語でよく使われる「(強敵など)に挑む, 挑戦する」の意味はまれ。 「(料理などを)をやってみる(挑戦する)」は try to do と表現する。",
+        "派生 形 challenging「(大変だが)やりがいのある, 困難な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① face a big challenge",
+          "ja": "① 大きな課題に直面する"
+        },
+        {
+          "en": "② challenge the decision",
+          "ja": "② その決定に異議を唱える"
+        }
+      ]
+    },
+    {
+      "id": "443",
+      "word": "trial",
+      "phonetic": "[tráiəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 試み",
+            "② 裁判",
+            "③ 試練"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「試してみる」→「裁判にかける」",
+        "頻出 ① by [through] trial and error「試行錯誤で」 a trial kit「試供品」",
+        "② stand trial for 〜「〜で裁判を受ける」 be on trial for 〜「〜で公判中だ」 trial by jury「陪審裁判」",
+        "派生 動 try「試みる」の名詞形。 類 court「裁判所」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① by trial and error",
+          "ja": "① 試行錯誤で"
+        },
+        {
+          "en": "② stand trial for murder",
+          "ja": "② 殺人罪で裁判を受ける"
+        },
+        {
+          "en": "③ go through a bitter trial",
+          "ja": "③ 苦しい試練を受ける"
+        }
+      ]
+    }
+  ]
+}

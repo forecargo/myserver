@@ -1,0 +1,276 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "635",
+      "word": "sneeze",
+      "phonetic": "[snìːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "くしゃみをする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇cough「(病気などで)咳をする」",
+        "頻出 keep back a sneeze「くしゃみを抑える」",
+        "sn-で始まる単語は、「鼻」関連の語が多い。☆sniff「くんくん嗅ぐ」",
+        "類 sneeze「くしゃみ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Cover your mouth when you sneeze.",
+          "ja": "くしゃみをする時には口を覆いなさい。"
+        }
+      ]
+    },
+    {
+      "id": "636",
+      "word": "bury",
+      "phonetic": "[béri]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を埋める",
+            "② 〜を埋葬する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① be buried under ~「〜に埋もれている」",
+        "bury oneself in ~「〜に没頭する」",
+        "☆bury berries「イチゴを埋める」と覚えよう。(＊búry と bérry は同じ発音。)",
+        "類 burial [bérial]「埋めること, 埋葬」",
+        "反 dig ~ up「〜を掘り返す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① bury a time capsule at the foot of the cherry tree",
+          "ja": "① 桜の木の根元にタイムカプセルを埋める"
+        },
+        {
+          "en": "② bury a dead cat in the garden",
+          "ja": "② 庭に死んだネコを埋葬する"
+        }
+      ]
+    },
+    {
+      "id": "637",
+      "word": "perform",
+      "phonetic": "[pərfɔ́ːrm]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を遂行する",
+            "② 〜を演じる, 演奏する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (副詞を伴い)やる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「きちんと遂行する」(＊① 日常では carry out を使う。③ wéll, bádly などを伴う。) ◇②pláy「(役を)演じる」",
+        "頻出 ① 目的語には an operation「手術」, a ceremony「儀式」, a feat「偉業」などをとる。",
+        "派生 performance「遂行, 演技, 演奏, 実績」⇨an employee's performance「従業員の成績」",
+        "派生 performer「演技者, 演奏者, 実行者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① perform difficult tasks",
+          "ja": "① 困難な仕事を遂行する"
+        },
+        {
+          "en": "② perform three plays",
+          "ja": "② 3つの劇を演じる"
+        },
+        {
+          "en": "③ The star player performed well.",
+          "ja": "③ そのスター選手は活躍した(うまくやった)。"
+        }
+      ]
+    },
+    {
+      "id": "638",
+      "word": "adopt",
+      "phonetic": "[ədɑ́pt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を採用する",
+            "② 〜を養子にする, (動物などを)引き取る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(計画や提案などを)採用する」②「(法的に)〜を養子にする」",
+        "頻出 ① 目的語には a plan「計画」, a proposal「提案」, an approach「取り組み方」などをとることが多い。",
+        "類 adoption「採用, 養子縁組」"
+      ],
+      "word_origin": {
+        "formula": "ad-[方向]+-opt[選ぶ]",
+        "description": "option「選択肢」"
+      },
+      "examples": [
+        {
+          "en": "① adopt his plan",
+          "ja": "① 彼らの計画を採用する"
+        },
+        {
+          "en": "② adopt a dog from an animal shelter",
+          "ja": "② 動物保護施設からイヌを引き取る"
+        }
+      ]
+    },
+    {
+      "id": "639",
+      "word": "escape",
+      "phonetic": "[iskéip]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (from ~)(〜から)逃れる"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を避ける"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 逃亡"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「束縛されている外套(cape)を脱ぐ(es)」→「束縛から逃れる」",
+        "頻出 ③ have a narrow escape「九死に一生を得る」",
+        "注意 ①「(今ある現実から)逃げる」と②「(これからくる災難)を避ける」を区別。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① escape from the burning house",
+          "ja": "① 燃え盛る家から逃げる"
+        },
+        {
+          "en": "② escape injury [being injured]",
+          "ja": "② けがをせずに済む(けがを避ける)"
+        },
+        {
+          "en": "③ look for an escape route",
+          "ja": "③ 逃げ道を探す"
+        }
+      ]
+    },
+    {
+      "id": "640",
+      "word": "scatter",
+      "phonetic": "[skǽtər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜をまき散らす"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (群衆などが)散る"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "比較 stutter「どもる」",
+        "類 scattered「散乱した, 点在した」",
+        "類 sprinkle「(水, 粉)をまき散らす」"
+      ],
+      "word_origin": {
+        "formula": "scat-[粉砕する]+-er[反復]",
+        "description": "「(繰り返して粉砕して)まき散らす」"
+      },
+      "examples": [
+        {
+          "en": "① His clothes were scattered all over the floor.",
+          "ja": "① 彼の服が床中に脱ぎ散らかされていた。"
+        },
+        {
+          "en": "② scatter in all directions",
+          "ja": "② 四方八方に散る"
+        }
+      ]
+    },
+    {
+      "id": "641",
+      "word": "fold",
+      "phonetic": "[fóuld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を折る",
+            "② (up)〜を折りたたむ",
+            "③ (腕)を組む"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "④ 折りたためる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「曲げて重ねる」",
+        "頻出 ① fold ~ in half「〜を半分に折る」",
+        "頻出 ③ fold one's arms「腕を組む」",
+        "▶「(＊足を組む)は主に cross one's legs と表現する。」",
+        "注意「(足, 枝, 鉛筆の芯など)を折る」は bréak を用いる。",
+        "反 unfold「展開する」",
+        "類 folding「折りたたみ式の」",
+        "類 a folding umbrella「折りたたみ傘」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① fold the paper along the dotted line",
+          "ja": "① 点線に添って紙を折る"
+        },
+        {
+          "en": "② fold up my clothes",
+          "ja": "② 服をたたむ"
+        },
+        {
+          "en": "③ with my arms folded",
+          "ja": "③ 腕組みをして"
+        },
+        {
+          "en": "④ This chair folds flat.",
+          "ja": "④ このいすは平たく折りたためる。"
+        }
+      ]
+    }
+  ]
+}

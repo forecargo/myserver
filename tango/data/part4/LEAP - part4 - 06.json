@@ -1,0 +1,324 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1454",
+      "word": "weary",
+      "phonetic": "[wíəri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (極度に)疲れている",
+            "② うんざり[飽き飽き]している"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "wear [wɛər]「すり切れる」と関連づけて覚えよう。(ただし、発音は異なる)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "weary hostages",
+          "ja": "疲労した人質たち"
+        },
+        {
+          "en": "be weary of his lies",
+          "ja": "彼のうそにうんざりしている"
+        }
+      ]
+    },
+    {
+      "id": "1455",
+      "word": "nourish",
+      "phonetic": "[nə́ːrɪʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜に栄養を与える",
+            "② (考えなど)を抱く"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "nourishing「栄養のある」"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "nourishment「栄養(のある食べ物)」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "nourse[乳を与える] nurse「看護師(←元は乳母の意味だった。)」",
+        "nutrition「栄養(摂取)」",
+        "malnutrition「栄養失調」(mal-[悪い, 不十分な])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "nourish the skin",
+          "ja": "皮膚に栄養を与える"
+        },
+        {
+          "en": "nourish my hopes",
+          "ja": "希望を抱く"
+        }
+      ]
+    },
+    {
+      "id": "1456",
+      "word": "appalling",
+      "phonetic": "[əpɔ́ːlɪŋ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "ぞっとするような"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ショックを受けるほどひどい」"
+      ],
+      "word_origin": {
+        "formula": "ap-[=ad 方向] + -pal-[=pale 青白い]",
+        "description": "pale「(顔色が)青白い」"
+      },
+      "examples": [
+        {
+          "en": "appalling living conditions in the refugee camp",
+          "ja": "難民キャンプのぞっとするような生活状態"
+        }
+      ]
+    },
+    {
+      "id": "1457",
+      "word": "flesh",
+      "phonetic": "[fléʃ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(人, 動物の皮, 骨に対する)肉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◊méat「(食用の)肉」",
+        "frésh「新鮮な」と区別。",
+        "in the flesh「(映像などではなく)実物で」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the flesh of animals",
+          "ja": "動物の肉"
+        }
+      ]
+    },
+    {
+      "id": "1458",
+      "word": "limb",
+      "phonetic": "[lím]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "手足(の1本)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「四肢(両手, 両足)のうちの1本」",
+        "リムジンで「手足」を伸ばす。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have long limbs",
+          "ja": "手足が長い"
+        }
+      ]
+    },
+    {
+      "id": "1459",
+      "word": "erect",
+      "phonetic": "[ɪrékt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 直立した"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を建てる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "eréction「建設, 直立」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(細長いもの)をまっすぐに立てる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "walk erect",
+          "ja": "直立歩行する"
+        },
+        {
+          "en": "The Statue of Liberty was erected in 1886.",
+          "ja": "自由の女神像は1886年に建てられた。"
+        }
+      ]
+    },
+    {
+      "id": "1460",
+      "word": "spinal",
+      "phonetic": "[spáɪnl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "脊椎の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「脊椎(spine)」は「脊髄(the spinal cord)」を守る骨のこと。",
+        "▶ 骨の突起が「棘(ラテン語でspina)」に似ていることからできた語。",
+        "脊柱(背中を構成する骨の柱)」",
+        "vértəbra「椎骨(脊柱を構成する個々の骨)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "suffer a spinal injury",
+          "ja": "脊椎を損傷する"
+        }
+      ]
+    },
+    {
+      "id": "1461",
+      "word": "suck",
+      "phonetic": "[sʌ́k]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を吸う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「液体・気体を吸い込む」",
+        "sóup「スープ」",
+        "síp「〜をちびちび飲む」",
+        "suck ~ up「〜を吸い上げる」",
+        "suck ~ in「〜を吸い込む」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Leeches suck blood.",
+          "ja": "ヒルは血を吸う。"
+        }
+      ]
+    },
+    {
+      "id": "1462",
+      "word": "shrug",
+      "phonetic": "[ʃrʌ́g]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (肩)をすくめる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 肩をすくめる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「あきらめ, 困惑, 軽蔑」などを示すしぐさ。",
+        "「曲がる」が元の意味。",
+        "shrink「縮む」",
+        "shrimp「エビ(←体が曲がっている生物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "shrug my shoulders",
+          "ja": "肩をすくめる"
+        },
+        {
+          "en": "shrug and walk away",
+          "ja": "肩をすくめて歩き去る"
+        }
+      ]
+    },
+    {
+      "id": "1463",
+      "word": "compensate",
+      "phonetic": "[kάmpənsèɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(A for B) (A)に(Bを)補償する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "compensátion「賠償金, 補償金, 補償すること, (仕事の)報酬」"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "offset「((費用など)を埋め合わせる, 相殺する)」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(損害など)相当額の弁償をする」",
+        "「(天秤ばかりで)釣り合いがとれる」が元の意味。",
+        "péndant「ペンダント」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The airline compensated us for our lost baggage.",
+          "ja": "航空会社は紛失した私たちの手荷物に対して(私たちに)補償をした。"
+        }
+      ]
+    }
+  ]
+}

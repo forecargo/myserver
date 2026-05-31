@@ -1,0 +1,321 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1799",
+      "word": "acute",
+      "phonetic": "[əkjúːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 深刻な",
+            "② (知能, 知覚などが)鋭い",
+            "③ 急性の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「鋭い」(*プラスイメージとマイナスイメージの両方に使用可。)「とがった」が元の意味。",
+        "☆acid「酸性の(←とがった味の)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an acute problem",
+          "ja": "深刻な問題"
+        },
+        {
+          "en": "an acute sense of smell",
+          "ja": "鋭い嗅覚"
+        },
+        {
+          "en": "acute alcohol poisoning",
+          "ja": "急性アルコール中毒"
+        }
+      ]
+    },
+    {
+      "id": "1800",
+      "word": "ambiguous",
+      "phonetic": "[æmbíɡjuəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "曖昧な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(意味が2つ以上にとれて)わかりにくい」",
+        "反 plain「明白な」"
+      ],
+      "word_origin": {
+        "formula": "amb-[=around あちこち]+-igu-[行く]から「あちこち行く」→「定まらない」",
+        "description": "☆ambulance「救急車(←あちこち行く車)」, ambassador「大使(←あちこちに行く人)」, amphibian「両生類(←水生と陸生)」"
+      },
+      "examples": [
+        {
+          "en": "an ambiguous reply",
+          "ja": "(どっちともとれる)曖昧な返事"
+        }
+      ]
+    },
+    {
+      "id": "1801",
+      "word": "misleading",
+      "phonetic": "[mìslíːdɪŋ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "誤解を招く, 紛らわしい"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "mis-[間違って]+-lead-[導く]+-ing-[〜している]",
+        "description": "他 mislead「〜を誤った方向へ導く」"
+      },
+      "examples": [
+        {
+          "en": "a misleading article",
+          "ja": "誤解を招く記事"
+        }
+      ]
+    },
+    {
+      "id": "1802",
+      "word": "obscure",
+      "phonetic": "[əbskjúər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① ぼやけた, わかりにくい",
+            "② 無名の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(輪郭などが)不鮮明な」"
+      ],
+      "word_origin": {
+        "formula": "ob-[=against に対して]+-scure[覆い]→「覆われていてはっきりしない」",
+        "description": "☆sky「空」, skull「頭蓋骨」 名 obscurity「はっきりしないこと, 無名」"
+      },
+      "examples": [
+        {
+          "en": "an obscure explanation",
+          "ja": "わかりにくい説明"
+        },
+        {
+          "en": "an obscure band",
+          "ja": "無名のバンド"
+        }
+      ]
+    },
+    {
+      "id": "1803",
+      "word": "mature",
+      "phonetic": "[mətjúər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 成熟した, 熟成した"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 成熟する, 熟成する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(心身ともに)十分に成長した, 〈英〉(チーズなどが)熟成した」",
+        "▶「私, あなたが「成熟する」までまちゃ(待つ)わ。」",
+        "名 maturity「成熟」",
+        "反 immature「未成熟な, 子どもっぽい」",
+        "形 premature「時期尚早の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Ann is mature for her age.",
+          "ja": "アンは年の割には成熟している。"
+        },
+        {
+          "en": "mature into an adult",
+          "ja": "大人になる(成熟して大人になる)"
+        }
+      ]
+    },
+    {
+      "id": "1804",
+      "word": "neat",
+      "phonetic": "[níːt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "きちんとした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(部屋や庭などが)きっちりした」",
+        "▶お兄ととの「きちんとした」部屋",
+        "副 neatly「きちんと」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "neat piles of towels",
+          "ja": "きちんと積まれたタオル"
+        }
+      ]
+    },
+    {
+      "id": "1805",
+      "word": "decent",
+      "phonetic": "[díːsnt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "まともな, きちんとした"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(世間的に見て)最低基準は満たしている」",
+        "副 decently「きちんととして」",
+        "名 decency「礼儀正しさ, 品位」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am paid a decent salary.",
+          "ja": "私はまずまずの給料をもらっている。"
+        }
+      ]
+    },
+    {
+      "id": "1806",
+      "word": "straightforward",
+      "phonetic": "[strèɪtfɔ́ːrwərd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (方法などが)わかりやすい",
+            "② (人や行動が)率直な"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "straight-[まっすぐ]+-forward[前方へ]から「まっすぐ前に」→「わかりやすい」",
+        "description": "反 complicated「複雑な」"
+      },
+      "examples": [
+        {
+          "en": "Installing this program is quite straightforward.",
+          "ja": "このプログラムのインストールはかなりわかりやすい。"
+        },
+        {
+          "en": "He is always straightforward.",
+          "ja": "彼はいいつも率直だ。"
+        }
+      ]
+    },
+    {
+      "id": "1807",
+      "word": "sophisticated",
+      "phonetic": "[səfístəkèɪtɪd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (機械, システムが)高度な",
+            "② 洗練された, 教養のある"
+          ]
+        }
+      ],
+      "usages_and_notes": [],
+      "word_origin": {
+        "formula": "sophi-[知恵] ☆philosophy「哲学」(philo-[愛する]+-sophy[知恵])",
+        "description": "反 primitive「原始的な」"
+      },
+      "examples": [
+        {
+          "en": "a sophisticated alarm system",
+          "ja": "高度な警報システム"
+        },
+        {
+          "en": "a sophisticated restaurant",
+          "ja": "洗練されたレストラン"
+        }
+      ]
+    },
+    {
+      "id": "1808",
+      "word": "elaborate",
+      "phonetic": "形 [ɪlǽbərət] 動 [ɪlǽbəreɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 手の込んだ, 凝った"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を苦労して作り上げる"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (on 〜) (〜を)詳しく話す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(通常よりも)手間をかけて」"
+      ],
+      "word_origin": {
+        "formula": "e-[=ex 強意]+-labor-[労働]から「非常に努力(労働)する」→「手の込んだ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an elaborate meal",
+          "ja": "手の込んだ食事"
+        },
+        {
+          "en": "elaborate the plan",
+          "ja": "計画を練り上げる"
+        },
+        {
+          "en": "elaborate on the circumstances",
+          "ja": "状況を詳しく述べる"
+        }
+      ]
+    }
+  ]
+}

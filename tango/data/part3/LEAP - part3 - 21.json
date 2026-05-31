@@ -1,0 +1,331 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1198",
+      "word": "philosophy",
+      "phonetic": "[filάsəfi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (学問としての)哲学 <不可算>",
+            "② 人生哲学, 考え方 <可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "Sophia University「上智大学」",
+        "名 philosopher「哲学者」"
+      ],
+      "word_origin": {
+        "formula": "phil-[愛する] + -sophy[知] から「知恵を愛すること」→「哲学」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the philosophy of Aristotle",
+          "ja": "① アリストテレスの哲学"
+        },
+        {
+          "en": "my philosophy of life",
+          "ja": "② 私の人生哲学"
+        }
+      ]
+    },
+    {
+      "id": "1199",
+      "word": "geography",
+      "phonetic": "[dʒiάgrəfi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "地理(学)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ まれに「地形, 配置」の意味でも使う。",
+        "名 geology「地質(学)」(geo-[土] + -logy[論理])",
+        "形 geological「地質学的な」",
+        "名 geologist「地質学者」"
+      ],
+      "word_origin": {
+        "formula": "geo-[土] + -graphy[記述]",
+        "description": "*人名のGeorgeは「農耕者」の意"
+      },
+      "examples": [
+        {
+          "en": "a great discovery in geography",
+          "ja": "地理上の偉大な発見"
+        }
+      ]
+    },
+    {
+      "id": "1200",
+      "word": "institution",
+      "phonetic": "[ìnstətjúːʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (大学, 病院などの)機関",
+            "② (結婚などの)制度"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "名 institute「(ある特定の研究を行う)機関, 団体」",
+        "the National Institute for Astrophysics「(イタリア)国立天体物理学研究所」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -stitu-[立つ] から「(社会の)中に立てられたもの」",
+        "description": "(＊有形)→① (無形)→②の意味となる。"
+      },
+      "examples": [
+        {
+          "en": "educational institutions",
+          "ja": "① 教育機関"
+        },
+        {
+          "en": "social institutions such as marriage",
+          "ja": "② 結婚などの社会制度"
+        }
+      ]
+    },
+    {
+      "id": "1201",
+      "word": "faculty",
+      "phonetic": "[fǽkəlti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (生まれ持った)能力",
+            "② (大学の)学部",
+            "③ (大学の)全教員"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「能力」→②「(能力のある)分野」, ③「(能力のある)人々」",
+        "★ factory「工場」"
+      ],
+      "word_origin": {
+        "formula": "fac-[作る] から「神様に作られたもの」→「能力」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the faculty of hearing",
+          "ja": "① 聴力"
+        },
+        {
+          "en": "the Faculty of Engineering",
+          "ja": "② 工学部"
+        },
+        {
+          "en": "a faculty meeting",
+          "ja": "③ 教授会"
+        }
+      ]
+    },
+    {
+      "id": "1202",
+      "word": "intermediate",
+      "phonetic": "[ìntərmíːdiət]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (授業・教材が)中級の",
+            "② 中間の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇ elementary「初歩の」advanced「上級の」",
+        "★ mediocre「二流の, 並の」"
+      ],
+      "word_origin": {
+        "formula": "inter-[間に] + -mediate[真ん中]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an intermediate [×middle] course",
+          "ja": "① 中級の講座"
+        },
+        {
+          "en": "Gray is intermediate between black and white.",
+          "ja": "② 灰色は黒と白の中間だ。"
+        }
+      ]
+    },
+    {
+      "id": "1203",
+      "word": "notion",
+      "phonetic": "[nóʊʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "考え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(話し手が疑問に思っている, ばかげた)考え」(*ただし, 学術論文では「概念, 観念」の意味で使用。)"
+      ],
+      "word_origin": {
+        "formula": "no-[=know] + -tion[こと] →「知ること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "the notion that smoking is cool",
+          "ja": "タバコを吸うのは格好いいという考え"
+        }
+      ]
+    },
+    {
+      "id": "1204",
+      "word": "concept",
+      "phonetic": "[kάnsept]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "概念, 考え"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ idéaより抽象度が高い考え」",
+        "他 conceive「〜を思いつく」",
+        "名 conception「思い浮かべること, 妊娠」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the concept of time",
+          "ja": "時間の概念"
+        }
+      ]
+    },
+    {
+      "id": "1205",
+      "word": "meditation",
+      "phonetic": "[mèdətéiʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 瞑想",
+            "② 熟考"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(リラックスのための, あるいは宗教上の)瞑想」",
+        "名 dementia「認知症」",
+        "自 meditate (on ~)「(~について)熟考する」"
+      ],
+      "word_origin": {
+        "formula": "medit-[=mem 考える, 思い出す]",
+        "description": "★ remember「覚えている」"
+      },
+      "examples": [
+        {
+          "en": "sit in Zen meditation",
+          "ja": "① 座禅(座って行う瞑想)を組む"
+        },
+        {
+          "en": "meditation on my life",
+          "ja": "② 人生についての熟考"
+        }
+      ]
+    },
+    {
+      "id": "1206",
+      "word": "insight",
+      "phonetic": "[ínsàit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (into ~) (~に対する)洞察(力)",
+            "② 見識"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「物事の内面を見抜く(明確に理解すること)」(②はまれ。)"
+      ],
+      "word_origin": {
+        "formula": "in-[中に] + -sight[見る] から「中が見えていること」→「深い理解」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "an insight into human nature",
+          "ja": "① 人間性への洞察"
+        },
+        {
+          "en": "a woman of great insight",
+          "ja": "② 見識の高い女性"
+        }
+      ]
+    },
+    {
+      "id": "1207",
+      "word": "caution",
+      "phonetic": "[kɔ́ːʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 用心",
+            "② 警告"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "③ 〜に注意[警告]を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 説明書などに記載される“Caution”は「警告, 注意事項」の意味。",
+        "《危険の度合い》Danger(危険, 脅威) > Warning(警告, 注意) > Caution",
+        "名 precaution「用心, 警戒」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "act with caution",
+          "ja": "① 用心して行動する"
+        },
+        {
+          "en": "Caution! Roadworks!",
+          "ja": "② 注意！道路工事中！"
+        },
+        {
+          "en": "The coach cautioned all the players.",
+          "ja": "③ 監督は全選手に注意を与えた。"
+        }
+      ]
+    }
+  ]
+}

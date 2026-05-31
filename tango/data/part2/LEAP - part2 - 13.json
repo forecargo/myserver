@@ -1,0 +1,298 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "491",
+      "word": "crisis",
+      "phonetic": "[krάɪsɪs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 危機",
+            "(運命を決定するような)重大な局面, 分岐点"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 handle[avoid] a crisis「危機に対処する[を回避する]」",
+        "注意 in crisis「危機的状況で」以外は〈可算〉。(*複数形はcrises[krάɪsiːz])"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "face a serious economic crisis",
+          "ja": "深刻な経済危機に直面する"
+        }
+      ]
+    },
+    {
+      "id": "492",
+      "word": "prejudice",
+      "phonetic": "[prédʒʊdɪs]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 偏見, 先入観"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜に偏見をもたせる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「異なる民族, 宗教, 性をもつ人々に対して, 嫌悪感を抱くこと」",
+        "頻出 racial[religious] prejudice「人種[宗教]的偏見」",
+        "頻出 ふつうa preconceived ideaと表現する。"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に] + -judice[=judge 判断] →「見る前から判断すること」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① end racial prejudice",
+          "ja": "① 人種的偏見を終わらせる"
+        },
+        {
+          "en": "② Don't be prejudiced against Muslims.",
+          "ja": "② イスラム教徒に対して偏見をもつな。"
+        }
+      ]
+    },
+    {
+      "id": "493",
+      "word": "discrimination",
+      "phonetic": "[dɪskrɪmənέɪʃən]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 差別 (① ② ともに〈不可算〉)",
+            "② (「微妙な物の」)識別"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(民族, 男女の)差別」",
+        "頻出 discrimination against 〜「〜に対する差別」",
+        "派生 自 discriminate「識別する, 差別する」 ⇔ discriminate between A and B「AとBを区別する」 ⇔ discriminate against 〜「〜を差別する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① fight racial discrimination",
+          "ja": "① 人種差別と戦う"
+        },
+        {
+          "en": "② Discrimination between L sounds and R sounds is difficult.",
+          "ja": "② LとRの音の識別は難しい。"
+        }
+      ]
+    },
+    {
+      "id": "494",
+      "word": "charity",
+      "phonetic": "[tʃǽrəti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 慈善 (事業)〈不可算〉",
+            "② 慈善団体〈可算〉",
+            "③ (形容詞的に)慈善のための"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 Charity begins at home.「慈善は我が家から.」(*寄付を断るときの常套句)",
+        "頻出 raise money for charity「慈善事業のためにお金を集める」",
+        "派生 形 charitable「慈善の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① do a lot of work for charity",
+          "ja": "① 多くの慈善活動を行う"
+        },
+        {
+          "en": "② give money to several (different) charities",
+          "ja": "② いくつかの慈善団体に金を寄付する"
+        },
+        {
+          "en": "③ hold a charity concert",
+          "ja": "③ チャリティーコンサートを開く"
+        }
+      ]
+    },
+    {
+      "id": "495",
+      "word": "benefit",
+      "phonetic": "[bénəfɪt]",
+      "level_tag": "B1 B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 恩恵",
+            "② (-s)手当"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "③ (from 〜) (〜から)恩恵を得る"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "④ 〜に恩恵を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「個人や集団, 社会のためにになるもの」(*お金とは限らない.)",
+        "語源 bene-[よい] + -fit[行い] *benign「良性の」",
+        "派生 形 beneficial「有益な」"
+      ],
+      "word_origin": {
+        "formula": "bene-[よい] + -fit[行い]",
+        "description": "*benign「良性の」"
+      },
+      "examples": [
+        {
+          "en": "① Tourism has brought great benefits to this village.",
+          "ja": "① 観光がこの村に多大な恩恵をもたらした。"
+        },
+        {
+          "en": "② salary and other benefits",
+          "ja": "② 給与とほかの諸手当"
+        },
+        {
+          "en": "③ benefit from the new treatment",
+          "ja": "③ 新しい治療法から恩恵を受ける"
+        },
+        {
+          "en": "④ The fresh air will benefit you.",
+          "ja": "④ 新鮮な空気はあなたによいでしょう。"
+        }
+      ]
+    },
+    {
+      "id": "496",
+      "word": "welfare",
+      "phonetic": "[wélfɛər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 福祉",
+            "② (健康なども含めた)幸福",
+            "③ 生活保護"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「①②③いずれも〈不可算〉」",
+        "▶「〈健康＋幸福〉のイメージ。(*日本語の「福祉」とは若干意味が異なる.)」",
+        "頻出 a welfare policy「福祉政策」",
+        "頻出 on welfare「生活保護を受けて」",
+        "語源 *fare「運賃(←列車, バスなどに乗ってどこかに行く料金)」"
+      ],
+      "word_origin": {
+        "formula": "wel-[=well うまく] + -fare[行(く)] から「健康で幸せになること」→「福祉, 幸福」",
+        "description": "*fare「運賃(←列車, バスなどに乗ってどこかに行く料金)」"
+      },
+      "examples": [
+        {
+          "en": "① work for social welfare",
+          "ja": "① 社会福祉のために働く"
+        },
+        {
+          "en": "② Parents are always concerned about their children's welfare.",
+          "ja": "② 親は常に子どもの幸福を気ににかけている。"
+        },
+        {
+          "en": "③ welfare benefits",
+          "ja": "③ 生活保護受給金"
+        }
+      ]
+    },
+    {
+      "id": "497",
+      "word": "community",
+      "phonetic": "[kəmjúːnəti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(地域)社会, 共同体(の人々)〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(宗教, 文化, 価値観などを共有する比較的狭い地域の)社会」",
+        "頻出 the global community「国際社会(←全世界を1つの地域社会と捉える考え方)」",
+        "頻出 a local community「地域社会」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Polish community in the U.K.",
+          "ja": "イギリスのポーランド人社会"
+        }
+      ]
+    },
+    {
+      "id": "498",
+      "word": "individual",
+      "phonetic": "[ɪndəvídʒuəl]",
+      "level_tag": "B2 B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 個人, 個体"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "② 個人の, 個々の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(社会, 集団を意識した場合の)個人, 個体」",
+        "頻出 each individual「各個人」",
+        "注意 必ずしも「人間」を表しているとは限らない。",
+        "派生 名 individualism「個人主義」",
+        "派生 名 individuality「個性」"
+      ],
+      "word_origin": {
+        "formula": "in-[否定] + -divid-[分割] →「それ以上分けられない」",
+        "description": "*divide「〜を分割する」"
+      },
+      "examples": [
+        {
+          "en": "① each individual's right to privacy",
+          "ja": "① 各個人のプライバシーの権利"
+        },
+        {
+          "en": "② individual action",
+          "ja": "② 個人行動 (⇔ 団体行動)"
+        }
+      ]
+    }
+  ]
+}

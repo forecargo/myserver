@@ -1,0 +1,289 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1517",
+      "word": "reign",
+      "phonetic": "[rèin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (君主などの)統治(期間)"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 君臨する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「王や女王、君主になっている期間」",
+        "「正しい方向へ向ける」が元の意味で, right「正しい」と同系語.",
+        "◎ sovereign「主権を有する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "under the reign of Queen Elizabeth II",
+          "ja": "① エリザベス2世女王の統治の下で"
+        },
+        {
+          "en": "Elizabeth II reigned over the U.K. from 1952 to 2022.",
+          "ja": "② エリザベス2世は1952年から2022年までイギリスを統治した."
+        }
+      ]
+    },
+    {
+      "id": "1518",
+      "word": "federal",
+      "phonetic": "[fédərəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "連邦の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「独立した権限を持つ複数の支分国を統治した」",
+        "◎ the Federal Government「連邦政府」はアメリカ州政府(a state government)に対する「中央政府」の意味."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the Federal Bureau of Investigation (FBI)",
+          "ja": "(米国)連邦捜査局"
+        }
+      ]
+    },
+    {
+      "id": "1519",
+      "word": "communist",
+      "phonetic": "[kάmjunist]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 共産主義(者)の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "② 共産主義者"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◎ commu-[=common 共通の]+-ist[主義者]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① the Chinese Communist Party",
+          "ja": "① 中国共産党"
+        },
+        {
+          "en": "② Yang is a communist.",
+          "ja": "② ヤンは共産主義者だ."
+        }
+      ]
+    },
+    {
+      "id": "1520",
+      "word": "municipal",
+      "phonetic": "[mjuːnísəpəl]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "市(営)の, 地方自治の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「町営の, 町の」の意味も可.",
+        "◎ muni-[役割]+-cip-[取る] ＊immune「免疫のある(←役割がない)」",
+        "◎ mayor「市長, 町長」",
+        "◎ municipal hospital「市民病院[市職員]」 governor「知事」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a municipal parking lot[〈英〉car park]",
+          "ja": "市営駐車場"
+        }
+      ]
+    },
+    {
+      "id": "1521",
+      "word": "estate",
+      "phonetic": "[istéit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (全)財産",
+            "② 地所"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(すべての)財産」(*遺産相続などで使われる.)",
+        "▶「(家屋も含めた)土地」",
+        "◎ e-[強調]+-state[状態]から「ある人の所有物の状態」→「財産」→「地所」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① real estate",
+          "ja": "① 不動産"
+        },
+        {
+          "en": "② own a large estate",
+          "ja": "② 広大な家屋敷を所有している"
+        }
+      ]
+    },
+    {
+      "id": "1522",
+      "word": "asset",
+      "phonetic": "[ǽset]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "財産, 資産"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(比喩的な意味も含めて)価値となる財産」",
+        "＊青春時代の汗と涙は, 人生の「財産」だ."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "She is a great asset to the company.",
+          "ja": "彼女は会社にとって大きな財産だ."
+        }
+      ]
+    },
+    {
+      "id": "1523",
+      "word": "revenue",
+      "phonetic": "[révənjuː]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(国などの)歳入, (事業などの)収益"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◎ re-[再び]+-venue[来る]から「戻って来るもの」→「歳入」",
+        "☆avenue「大通り」(a-[~へ]+-venue[来る]) 反 expenditure「歳出」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an increase in tax revenues",
+          "ja": "税収の増加"
+        }
+      ]
+    },
+    {
+      "id": "1524",
+      "word": "deficit",
+      "phonetic": "[défəsit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(会社, 国の)赤字"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶日常では(in) the red「赤字(で)」と表現することが多い. (↔ (in) the black「黒字(で)」)",
+        "◎ de-[否定]+-fic-[作る] 反 surplus「黒字, 余剰」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "the USA trade deficit with Japan",
+          "ja": "アメリカの対日貿易赤字"
+        }
+      ]
+    },
+    {
+      "id": "1525",
+      "word": "commerce",
+      "phonetic": "[kάməːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "商業"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「商品やサービスの売買」",
+        "◎ com-[共に]+-merce[商品を扱う] ☆merchant「商人」",
+        "◎ commercial「商業の」",
+        "◎ e-commerce「電子商取引, eコマース」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "commerce and industry",
+          "ja": "商工業"
+        }
+      ]
+    },
+    {
+      "id": "1526",
+      "word": "output",
+      "phonetic": "[áutpùt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 生産高",
+            "② (エンジン, 発電機などの)出力"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◎ out-[外に]+-put[押す]→「外に押し出すこと(生産)」",
+        "◎ 反 input「入力」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Australian steel output",
+          "ja": "① オーストラリアの鋼鉄の生産高"
+        },
+        {
+          "en": "② an output of 100 kilowatts",
+          "ja": "② 100キロワットの出力"
+        }
+      ]
+    }
+  ]
+}

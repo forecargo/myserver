@@ -1,0 +1,248 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "591",
+      "word": "deal",
+      "phonetic": "[díːl]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① (with ~) (~を)扱う"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 取り引き"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(やっかいな問題, 人などを)扱う」(＊「解決を目指す」というイメージではない。) ②「(問題の処理→)取り引き」",
+        "頻出 a great [good] deal of ~ 「大量の〜(~大きな取り引き)」",
+        "It is no big deal. 「それは大したことではない。」",
+        "派生 dealer「販売人, 販売店」[活用]deal-dealt-dealt [delt]"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "deal with the drunk well",
+          "ja": "その酔っ払いをうまく扱う"
+        },
+        {
+          "en": "make a deal with the kidnapper",
+          "ja": "その誘拐犯と取り引きする"
+        }
+      ]
+    },
+    {
+      "id": "592",
+      "word": "handle",
+      "phonetic": "[hǽndl]",
+      "level_tag": "B1, A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を扱う",
+            "② (手で)〜を扱う, 触れる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 取っ手"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(責任をもって)うまく解決する, 収拾する」ことを示唆。",
+        "注意「ハンドル」は〈自動車〉→a steering wheel 〈自転車〉→a handlebar"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "handle stress well",
+          "ja": "ストレスにうまく対処する"
+        },
+        {
+          "en": "Please do not handle the exhibits.",
+          "ja": "展示品に手を触れないでください。"
+        },
+        {
+          "en": "the handle of a mug[×mug cup]",
+          "ja": "マグカップの取っ手"
+        }
+      ]
+    },
+    {
+      "id": "593",
+      "word": "treat",
+      "phonetic": "[tríːt]",
+      "level_tag": "B2, B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (副詞を伴って)〜を扱う",
+            "② (病人, 病気を)治療する",
+            "③ (A to B) (A)に(Bを)おごる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 楽しみ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「扱う」→②「治療する」 ③「もてなす」",
+        "頻出 ③ treat (人) to lunch [dinner] 「(人)に昼食[夕食]をおごる」(＊日常会話では, buy (人) ~と表現することが多い。)",
+        "注意 ① coldly「冷たく」, like a child「子どものように」などの副詞(句)を伴う。",
+        "派生 treatment「扱い, 治療」⇨ treatment for cancer「がんの治療」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "treat children fairly",
+          "ja": "公平に子どもを扱う"
+        },
+        {
+          "en": "treat patients",
+          "ja": "患者を治療する"
+        },
+        {
+          "en": "Let me treat you to dinner tonight.",
+          "ja": "今夜の食事は私におごらせてください。"
+        },
+        {
+          "en": "The trip was a real treat.",
+          "ja": "その旅は本当に楽しかった。"
+        }
+      ]
+    },
+    {
+      "id": "594",
+      "word": "clue",
+      "phonetic": "[klúː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "(to ~) (~の)手がかり"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(複雑な問題を解くための)糸口」",
+        "＊「手がかり」が狂う(クルー)。ⓐ a key to ~「〜の鍵」 cue「合図」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "find a clue to his whereabouts",
+          "ja": "彼の居所の手がかりを見つける"
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "word": "restrict",
+      "phonetic": "[ristríkt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を制限する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(自由を)制限する」から「(カロリー)を制限する」まで",
+        "頻出 restrict A to B 「AをBに制限する」⇨ restrict the expenses to one million yen「費用を100万円に抑える(制限する)」",
+        "派生 restriction「制限」⇨ dietary restrictions「食事制限」"
+      ],
+      "word_origin": {
+        "formula": "re-[再び→強意] + -strict[厳しい] -> 「とても厳しくする」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "restrict the amount of carbohydrate",
+          "ja": "炭水化物の量を制限する"
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "word": "limit",
+      "phonetic": "[límit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (数量, 範囲)を制限する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 制限"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「越えられない限界(を設ける)」",
+        "頻出 ② 〈掲示〉OFF LIMITS「立入禁止」 put a limit on ~「〜に制限を設ける」",
+        "注意「人間の命には限りがある」と表現する場合, Our lifetime[×life] is limited.「人間の命の時間には限りがある。」としなければならない。",
+        "派生 limited「限られた, 有限の」",
+        "名 limitation「制限(すること)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "limit class size to fifteen",
+          "ja": "クラスの人数を15名に制限する"
+        },
+        {
+          "en": "put a limit on the number of participants",
+          "ja": "参加者の数に制限を設ける"
+        }
+      ]
+    },
+    {
+      "id": "597",
+      "word": "forbid",
+      "phonetic": "[fərbíd]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を禁じる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(権威に基づいて親や教師などが)〜を禁じる」",
+        "◇ ban「(よくないこと)を禁止する」 prohibit「(公的に)〜を禁止する」",
+        "頻出 forbid (人) to do [from doing]「(人が)〜するのを禁じる」",
+        "注意「禁止, 妨げ」関連の動詞は通常, 〈SVO from ~〉の形になる。本来, forbidは例外だが, prohibit (人) from ~という表現も現在では使われている。",
+        "変異(ド)「を禁じる」[活用]forbid-forbade-forbidden"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "forbid employees to accept tips from customers",
+          "ja": "従業員が客からのチップを受け取ることを禁じる"
+        }
+      ]
+    }
+  ]
+}

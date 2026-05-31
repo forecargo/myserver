@@ -1,0 +1,242 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "506",
+      "word": "access",
+      "phonetic": "[ǽkses]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 利用する権利",
+            "② (場所への)接近方法"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「目標となる場所、物に近づく」",
+        "頻出 ① have access to 〜「〜を利用[入手]できる」",
+        "派生 accessible「利用(接近)可能な」",
+        "派生 accessory「付属品(←近くにある物)」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have free access to a computer",
+          "ja": "コンピュータを自由に利用できる(利用する権利を持つ)"
+        },
+        {
+          "en": "access to the restrooms",
+          "ja": "トイレへの行き方"
+        }
+      ]
+    },
+    {
+      "id": "507",
+      "word": "duty",
+      "phonetic": "[dʒúːti]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 義務",
+            "② 関税"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「法律的、道徳的に)果たさなければならないこと」",
+        "頻出 ① on[off] duty「(交代制の)勤務中[勤務時間外]で」",
+        "頻出 ② have a sense of duty toward 〜「〜に義務感を持つ」",
+        "頻出 ③ duty-free「免税の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "fulfill my duties",
+          "ja": "義務を果たす"
+        },
+        {
+          "en": "a 6 percent duty on imports",
+          "ja": "輸入品に対する6%の関税"
+        }
+      ]
+    },
+    {
+      "id": "508",
+      "word": "responsible",
+      "phonetic": "[rispánsəbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (人が主語)責任がある",
+            "② (物が主語)原因となっている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① be responsible for 〜「〜の責任がある[原因となる]」",
+        "頻出 ② hold (人) responsible for 〜「(人)に〜の責任を負わせる」",
+        "語源 responsibility「責任」",
+        "語源 ⇔ take[evade] responsibility for 〜「〜に対して責任をとる[〜に対する責任から逃れる]」",
+        "語源 It is the responsibility of A to do.「〜するのはAの責任だ。」",
+        "語源 accountability「説明責任」"
+      ],
+      "word_origin": {
+        "formula": "respons-[反応]+-ble[可能]から「(要求に)対応できる」→「責任がとれる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I am responsible for what happens at school.",
+          "ja": "私には学校で起きることに対して責任がある。"
+        },
+        {
+          "en": "The typhoon was responsible for over 100 deaths.",
+          "ja": "その台風のため100人以上の人が犠牲になった(その台風は100人以上の人の死の原因となった)。"
+        }
+      ]
+    },
+    {
+      "id": "509",
+      "word": "policy",
+      "phonetic": "[páləsi]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 政策",
+            "② 方針",
+            "③ 保険契約, 約款"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶③は別語源。",
+        "頻出 ① Japan's foreign policy「日本の外交政策」",
+        "語源 politics「政治」",
+        "語源 police「警察」"
+      ],
+      "word_origin": {
+        "formula": "①② poli-[(ギリシャの都市国家ポリスから→)政治, 管理]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "China's one-child policy",
+          "ja": "中国の一人っ子政策"
+        },
+        {
+          "en": "It is my policy not to say bad things about others.",
+          "ja": "他人の悪口を言わないというのが私のポリシー(方針)だ。"
+        },
+        {
+          "en": "renew an insurance policy",
+          "ja": "保険契約を更新する"
+        }
+      ]
+    },
+    {
+      "id": "510",
+      "word": "elect",
+      "phonetic": "[iléct]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を(選挙で)選ぶ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「選挙によって(公的な地位の人)を選ぶ」",
+        "頻出 elect A (as [to be]) B「AをBに選ぶ」(*Bがmayor「市長」やpresident「大統領」などの1名しかいない「役職」の場合, 冠詞は不要。)",
+        "派生 election「選挙」",
+        "派生 a general election「総選挙」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I was elected a class representative.",
+          "ja": "私はクラス委員に選ばれた。(*委員が複数いる場合はaが必要。)"
+        }
+      ]
+    },
+    {
+      "id": "511",
+      "word": "industry",
+      "phonetic": "[índəstri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 工業",
+            "② (the ~ industry)産業, 業界",
+            "③ 勤勉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶元は③の意味だったが, 産業革命のころに①②の意味に派生した。",
+        "注意 ふつうは①の意味だが, the tourist[film] industry「旅行[映画]業界」などの特殊な文脈では②の意味となる。(③はまれ。)",
+        "派生 industrial「工業の」",
+        "派生 the Industrial Revolution「産業革命」",
+        "派生 industrialized「工業化した」",
+        "派生 industrious「勤勉な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "commerce and industry",
+          "ja": "商工業"
+        },
+        {
+          "en": "the fashion industry",
+          "ja": "ファッション業界"
+        },
+        {
+          "en": "Industry is the mother of success.",
+          "ja": "勤勉は成功の母だ。"
+        }
+      ]
+    },
+    {
+      "id": "512",
+      "word": "income",
+      "phonetic": "[ínkʌm]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "収入"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(給与, 株のもうけ, 年金など)収入の合計」",
+        "頻出 a large[high] income「高収入」",
+        "頻出 a small[low] income「低収入」",
+        "頻出 live beyond[within] one's income「収入以上[以内]の暮らしをする」",
+        "反義 expense「費用」"
+      ],
+      "word_origin": {
+        "formula": "in-[中に]+-come[来る]→「中に入ってくるもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "my monthly income",
+          "ja": "私の月収"
+        }
+      ]
+    }
+  ]
+}

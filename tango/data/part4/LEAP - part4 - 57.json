@@ -1,0 +1,324 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1986",
+      "word": "ultimate",
+      "phonetic": "[ˈʌltəmət]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "究極の",
+            "最終の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「最も重要な, 最終的な」",
+        "☆ultraviolet rays「紫外線(←紫より波長が上の(超えた)線)」",
+        "副 ultimately「最終的に」"
+      ],
+      "word_origin": {
+        "formula": "ultim-[=ultra 最終の, 範囲を超えた]→「究極の」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "our ultimate goal",
+          "ja": "私たちの最終的な目標"
+        }
+      ]
+    },
+    {
+      "id": "1987",
+      "word": "genuine",
+      "phonetic": "[dʒénjuin]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (感情が)心からの",
+            "② (絵画などが)本物の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶②「(美術品や歴史資料などが)本物の」はauthenticのほうが使われる。",
+        "反 fake「偽の, 偽物」"
+      ],
+      "word_origin": {
+        "formula": "gen-[生まれる]→「生まれたままの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a genuine respect for Edison",
+          "ja": "① エジソンに対する心からの敬意"
+        },
+        {
+          "en": "② a genuine Picasso",
+          "ja": "② 本物のピカソ(の作品)"
+        }
+      ]
+    },
+    {
+      "id": "1988",
+      "word": "slight",
+      "phonetic": "[sláit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "わずかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(量, 程度が)わずかな」から「(重要度が)とるに足らない」まで"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have a slight fever",
+          "ja": "微熱(わずかな熱)がある"
+        },
+        {
+          "en": "do not have the slightest idea",
+          "ja": "さっぱりわからない"
+        }
+      ]
+    },
+    {
+      "id": "1989",
+      "word": "radical",
+      "phonetic": "[ˈrædɪkəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 根本的な, 抜本的な",
+            "② 過激な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「根底を揺るがすような」"
+      ],
+      "word_origin": {
+        "formula": "radi-[=root 根]から。",
+        "description": "(∗日本語訳の「根本的な」にも「根」が入っている。)"
+      },
+      "examples": [
+        {
+          "en": "① the need for radical reform",
+          "ja": "① 抜本的な改革の必要性"
+        },
+        {
+          "en": "② a radical magazine",
+          "ja": "② 過激な雑誌"
+        }
+      ]
+    },
+    {
+      "id": "1990",
+      "word": "trivial",
+      "phonetic": "[ˈtrɪviəl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "ささいな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「とるに足らない(事件, 事態, 詳細)」",
+        "☆the Trevi Fountain「トレヴィの泉(←三叉路にある泉)」"
+      ],
+      "word_origin": {
+        "formula": "tri-[3]+-via[道]から「三叉路(3つの道が交差する所)で行われる情報交換」→「つまらない」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Don't worry about such a trivial matter.",
+          "ja": "そんなささいなことで悩むな。"
+        }
+      ]
+    },
+    {
+      "id": "1991",
+      "word": "potent",
+      "phonetic": "[ˈpoʊtnt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "強力な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「影響がとても強い」(∗日常ではpowerfulと表現するのがふつう。)",
+        "反 impotent「力がない, 性的不能の」",
+        "名 omnipotent「全能の(omni-[すべて])」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a potent weapon for attracting customers",
+          "ja": "客を引き寄せる強力な武器"
+        }
+      ]
+    },
+    {
+      "id": "1992",
+      "word": "likewise",
+      "phonetic": "[ˈláikwàiz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "同様に, 同じように"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ similarly「同様に」よりも堅い表現。",
+        "☆clockwise「時計回りに」"
+      ],
+      "word_origin": {
+        "formula": "like-[似た]+-wise[=way 方法]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "I loved her, and she loved me likewise.",
+          "ja": "私は彼女を愛していたし, 同様に彼女も私を愛していた。"
+        }
+      ]
+    },
+    {
+      "id": "1993",
+      "word": "virtually",
+      "phonetic": "[ˈvə́ːrtʃuəli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "事実上, ほとんど"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ virtual「実質上の, 事実上の」⇨virtual reality(VR)「仮想現実」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "That is virtually impossible.",
+          "ja": "それは事実上不可能だ。"
+        }
+      ]
+    },
+    {
+      "id": "1994",
+      "word": "abruptly",
+      "phonetic": "[əbrʌ́ptli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "不意に, 突然"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「予測しないことが突然起こる」",
+        "☆bankrupt「倒産した」",
+        "corrupt「堕落[腐敗]した」"
+      ],
+      "word_origin": {
+        "formula": "ab-[away 離れて]+-rupt-[崩れる]+-ly[副詞語尾]→「突然崩れて」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The car in front stopped abruptly.",
+          "ja": "前の車が不意に止まった。"
+        }
+      ]
+    },
+    {
+      "id": "1995",
+      "word": "deliberately",
+      "phonetic": "[dɪlɪ́bərətli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "① 故意に",
+            "② 慎重に"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶①日常ではon purposeのほうが使われる。",
+        "☆Libra「天秤座」",
+        "形 deliberate「故意の, 慎重な」"
+      ],
+      "word_origin": {
+        "formula": "de-[強意]+-liberate-+-ly[副詞語尾](天秤にかける)→「慎重に(天秤にかける)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① leave the letter on the desk deliberately",
+          "ja": "① 手紙を故意に机の上に置く"
+        },
+        {
+          "en": "② speak slowly and deliberately",
+          "ja": "② ゆっくりと慎重に話す"
+        }
+      ]
+    },
+    {
+      "id": "1996",
+      "word": "exclusively",
+      "phonetic": "[ɪksklúːsɪvli]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "副詞",
+          "meanings": [
+            "もっぱら, 〜専用で"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ほかの者[物]を閉め出して」→「〜だけ」",
+        "他 exclude「〜を除外する」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に]+-clus-[=close 閉じる]→「外に追い出し閉める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "This room is exclusively for our staff.",
+          "ja": "この部屋は従業員専用です。"
+        }
+      ]
+    }
+  ]
+}

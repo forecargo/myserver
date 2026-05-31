@@ -1,0 +1,320 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1934",
+      "word": "draft",
+      "phonetic": "[dræft]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 下書き, 草稿"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② 〜を徴兵する"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "③ (― beer)生の(ビール)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「引き出したもの」が元の意味。draft beer「生ビール」は「樽から直接ジョッキに注いだ(引き出した)ビール」のこと。",
+        "派生 draw「〜を引く」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① write a draft of my speech",
+          "ja": "① スピーチの原稿を書く"
+        },
+        {
+          "en": "② be drafted into the army",
+          "ja": "② 陸軍に徴兵される"
+        },
+        {
+          "en": "③ drink draft beer",
+          "ja": "③ 生ビールを飲む"
+        }
+      ]
+    },
+    {
+      "id": "1935",
+      "word": "manuscript",
+      "phonetic": "[mænjuskript]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "手書きの原稿, 写本"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶印刷前の原稿"
+      ],
+      "word_origin": {
+        "formula": "manu-[手] + -script[書いたもの] -> 「手で書いたもの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a finished manuscript",
+          "ja": "完成原稿"
+        }
+      ]
+    },
+    {
+      "id": "1936",
+      "word": "paradox",
+      "phonetic": "[pærədɑks]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "逆説"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "paradoxical「逆説的な」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(負けるが勝ち」などの)一見矛盾しているが真理を含む説"
+      ],
+      "word_origin": {
+        "formula": "para-[並んで] + -dox[意見] -> 「相反する意見が並ぶ」",
+        "description": "parasite「寄生虫(←並んで食べるもの)」"
+      },
+      "examples": [
+        {
+          "en": "“Make haste slowly” is a kind of paradox.",
+          "ja": "「急がば回れ」は一種の逆説だ。"
+        }
+      ]
+    },
+    {
+      "id": "1937",
+      "word": "slang",
+      "phonetic": "[slæŋ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "(集合的に)俗語"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶若者などが好んで使うくだけた言葉",
+        "A is slang for B.「AはBの俗語だ。」",
+        "terminology「専門用語」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "“Cool” is slang for “nice.”",
+          "ja": "“cool” は “nice” の俗語だ。"
+        }
+      ]
+    },
+    {
+      "id": "1938",
+      "word": "riddle",
+      "phonetic": "[rɪdl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "なぞなぞ, 謎<可算>"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶“What letter of the alphabet has the most water?” — “C(⇔sea).”",
+        "try to solve a riddle「謎解きに挑戦する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Can you solve this riddle?",
+          "ja": "このなぞなぞがわかるかな。"
+        }
+      ]
+    },
+    {
+      "id": "1939",
+      "word": "exhibit",
+      "phonetic": "[ɪgzíbɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を展示する",
+            "② 〜を示す"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 展示物, 展覧会"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(作品, 品物)を展示する」から「(人物)の特徴を示す」まで。",
+        "派生 exhibition [èksəbíʃən]「展示(会)」",
+        "an art exhibition「美術展」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① posters exhibited in the hall",
+          "ja": "① ホールに展示されているポスター"
+        },
+        {
+          "en": "② exhibit a great talent for music",
+          "ja": "② 音楽の素晴らしい才能を見せる"
+        },
+        {
+          "en": "③ dinosaur exhibits",
+          "ja": "③ 恐竜の展示品"
+        }
+      ]
+    },
+    {
+      "id": "1940",
+      "word": "portray",
+      "phonetic": "[pɔːrtréi]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を描く"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "portrait「肖像画」"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「〜を(現実を曲げて)描く」",
+        "類義 depict「〜を(生き生きと)描く」(*picture より)",
+        "類義 profile [próufail]「横顔, 紹介」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "portray the character as a selfish person",
+          "ja": "利己的な人間としてその人物を描く"
+        }
+      ]
+    },
+    {
+      "id": "1941",
+      "word": "depict",
+      "phonetic": "[dɪpíkt]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "(主に文字や絵や彫刻などで)〜を描く"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主に口頭で)描写する, 説明する」"
+      ],
+      "word_origin": {
+        "formula": "de-[down 下] + -pict[=picture 絵] -> 「絵にする」",
+        "description": "派生 depiction「描写, 描くこと」"
+      },
+      "examples": [
+        {
+          "en": "a painting depicting a hunting scene",
+          "ja": "狩猟の場面を描いた絵画"
+        }
+      ]
+    },
+    {
+      "id": "1942",
+      "word": "landmark",
+      "phonetic": "[lǽndmɑːrk]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 目印, 名所",
+            "② 画期的な出来事"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(旅行者などが自分のいる場所を特定できる)誰もが知る高い建物など」",
+        "hallmark「品質証明, 特徴(←金などの刻印から)」"
+      ],
+      "word_origin": {
+        "formula": "land-[土地] + -mark[印]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① The Sagrada Familia is a landmark in Barcelona.",
+          "ja": "① サグラダ・ファミリアはバルセロナの名所だ。"
+        },
+        {
+          "en": "② a landmark in the history of medicine",
+          "ja": "② 医学の歴史における画期的な出来事"
+        }
+      ]
+    },
+    {
+      "id": "1943",
+      "word": "tease",
+      "phonetic": "[tiːz]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜をからかう, 冷やかす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「好意的な場合」と「悪意のある場合」の両方で使用可。",
+        "日常では make fun of 〜のほうが使われる。",
+        "類義 tear [tíər]「〜を引き裂く」",
+        "類義 bully「〜をいじめる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Stop teasing him!",
+          "ja": "彼をからかうのをやめて。"
+        }
+      ]
+    }
+  ]
+}

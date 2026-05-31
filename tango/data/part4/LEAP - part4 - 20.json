@@ -1,0 +1,324 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1601",
+      "word": "crack",
+      "phonetic": "[kræk]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 割れる, 砕ける",
+            "② (バンと)音を出す"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "③ 〜を割る, 砕く"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "④ 割れ目"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ②「鋭い音を立てる」→①③「(鋭い音を立てて)割れる, 砕く」",
+        "＊cracker「クラッカー, 爆竹」は「派手な音を出すおもちゃ(花火)」",
+        "◎crack down on 〜「(違法行為など)を取り締まる」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "The wall cracked in several places.",
+          "ja": "① 壁はいくつかの場所でひび割れていた."
+        },
+        {
+          "en": "A shot cracked across the ridge.",
+          "ja": "② 1発の銃声が尾根に鳴り響いた."
+        },
+        {
+          "en": "crack two eggs into the frying pan",
+          "ja": "③ 2つの卵を割ってフライパンに入れる"
+        },
+        {
+          "en": "cracks in a cup",
+          "ja": "④ カップのひび"
+        }
+      ]
+    },
+    {
+      "id": "1602",
+      "word": "transition",
+      "phonetic": "[trænzíʒən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "移り変わり, 推移"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある状態から別の状態に)移り変わること」",
+        "＊trans-[移す]+-it-[行く]+-ion[こと]→「移りゆくこと」",
+        "◎exit「出口(←外へ行く)」 名transit「輸送, 通過」 形transient「一時的な(←移り変わっていく)」 ⇨transient fashions「一時的な流行」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "seasonal transitions",
+          "ja": "季節の移り変わり"
+        }
+      ]
+    },
+    {
+      "id": "1603",
+      "word": "game-changer",
+      "phonetic": "[ɡéim-tʃéindʒər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "革命的なこと[人・物]"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(状況を一変させるような)劇的な出来事, 人, 考えなど」",
+        "◎game「試合〈可算〉, (狩猟の)獲物〈不可算〉」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This new marketing approach will be a game-changer.",
+          "ja": "この新しいマーケティング手法は革命をもたらすだろう."
+        }
+      ]
+    },
+    {
+      "id": "1604",
+      "word": "reinforce",
+      "phonetic": "[rìːinfɔ́ːrs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を補強する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(物)を補強する」から「(考えなど)を補強する」まで",
+        "＊re-[再び]+-enforce[強化する]→「強くする」",
+        "◎reinforcement「補強, 強化, (軍隊, 警察の)援軍」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "reinforce the elbows of a jacket with patches",
+          "ja": "当て布で上着のひじを補強する"
+        }
+      ]
+    },
+    {
+      "id": "1605",
+      "word": "foster",
+      "phonetic": "[fɔ́ːstər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (才能など)を育成する",
+            "② 〜の里親になる"
+          ]
+        },
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "③ 里親の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ① 堅い語.",
+        "▶ ②「(戸籍上の親にはならないが)〜を養育する」",
+        "＊「食べ物を与える」が元の意味. ☆food「食物」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "foster good community relationships",
+          "ja": "① 地域のよい関係を育てる"
+        },
+        {
+          "en": "foster an orphan",
+          "ja": "② 孤児の里親になる"
+        },
+        {
+          "en": "a foster parent",
+          "ja": "③ 里親"
+        }
+      ]
+    },
+    {
+      "id": "1606",
+      "word": "breakdown",
+      "phonetic": "[bréikdàun]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 崩壊",
+            "② 故障",
+            "③ 衰弱"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「人間関係やシステムがダメになること」",
+        "＊break down「故障する」の名詞化."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "experience a family breakdown",
+          "ja": "① 家庭の崩壊を経験する"
+        },
+        {
+          "en": "a system breakdown",
+          "ja": "② システム故障"
+        },
+        {
+          "en": "suffer a nervous breakdown",
+          "ja": "③ 神経衰弱(ノイローゼ)を患う"
+        }
+      ]
+    },
+    {
+      "id": "1607",
+      "word": "collapse",
+      "phonetic": "[kəlǽps]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "① 崩壊する, 倒れる"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 崩壊, 倒れること"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊co-[con共に]+-lapse[落ちる]→「一斉に崩れる」(＊アニメ映画『天空の城ラピュタ』は, ストーリーの最後に城が「崩壊」する.)",
+        "◎relapse「(病気の)再発, 逆戻り」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "collapse under the weight of the snow",
+          "ja": "① 雪の重みで倒壊する"
+        },
+        {
+          "en": "the collapse of the Berlin Wall",
+          "ja": "② ベルリンの壁の崩壊"
+        }
+      ]
+    },
+    {
+      "id": "1608",
+      "word": "render",
+      "phonetic": "[réndər]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (SVOC) Oを(C)にする",
+            "② (援助など)を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(悪い状況に)する」",
+        "▶ ②「(正式に義務として)与える」",
+        "＊ren-[元へ]+-der[=do与える]→「元へ戻す」 ☆dónor「ドナー」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "His remark rendered her speechless.",
+          "ja": "① 彼の発言に彼女は言葉を失った(彼女を話せない状態にした)."
+        },
+        {
+          "en": "render assistance",
+          "ja": "② 援助する(援助を与える)"
+        }
+      ]
+    },
+    {
+      "id": "1609",
+      "word": "impair",
+      "phonetic": "[impéər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "(人間の機能など)を低下させる, 損なう"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "＊im-[中に]+-pair[悪化](＊pain「苦痛」と関連させて覚えよう.)",
+        "◎impairment「低下, 障害」 ⇨cognitive impairment「認知障害」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Alcohol impairs your ability to think.",
+          "ja": "アルコールは思考力を低下させる."
+        }
+      ]
+    },
+    {
+      "id": "1610",
+      "word": "undermine",
+      "phonetic": "[ʌ̀ndərmáin]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を弱める, 揺るがす"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期にわたって発展していた組織, 基盤など)を徐々に弱体化させる」",
+        "＊under-[下]+-mine[掘る]から「下を掘る」→「足元を崩す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "undermine Japan's social welfare system",
+          "ja": "日本の社会福祉制度を揺るがす"
+        }
+      ]
+    }
+  ]
+}

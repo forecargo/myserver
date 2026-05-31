@@ -1,0 +1,318 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "513",
+      "word": "profit",
+      "phonetic": "[práfɪt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "利益",
+            "利潤"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜に利益を与える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「何かをして得たお金」",
+        "熟 make [generate] a profit 「利益を得る[生み出す]」",
+        "語源 pro-[前方] + -fit [=fic 作る] →「利益」",
+        "派生 propéller「プロペラ」",
+        "派生 prófitable「利益が出る, 有益な」",
+        "派生 nonprofit「非営利の」 ⇔ nonprofit organization (NPO)「非営利組織」"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -fit [=fic 作る] →「利益」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "The restaurant's daily profit is about $1,000.",
+          "ja": "そのレストランの1日の利益はおよそ1,000ドルだ。"
+        }
+      ]
+    },
+    {
+      "id": "514",
+      "word": "tax",
+      "phonetic": "[tæks]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "税金"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜に税金を課す"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "熟 tax increases [cuts] 「増[減]税」",
+        "熟 raise [increase] taxes 「増税する」",
+        "熟 reduce [cut, lower] taxes 「減税する」",
+        "熟 tax break 「優遇税制」",
+        "熟 tax collector 「税務署員」",
+        "派生 táx-free「免税の」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "pay taxes on my income",
+          "ja": "収入に課された税金を払う"
+        }
+      ]
+    },
+    {
+      "id": "515",
+      "word": "expense",
+      "phonetic": "[ɪkspéns]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 費用, 経費",
+            "② (at the - of ~) (~を)犠牲(にして)"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(比較的多額の)出費, 犠牲」",
+        "熟 ① medical [school, living] expenses 「医療[学, 生活]費」",
+        "熟 at great expense 「多額の費用をかけて」 (*〈不可算〉扱い)",
+        "派生 expénd「〜を費やす」",
+        "派生 expénsive「高価な」 (⇔ inexpénsive「安価な」)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① This money will cover all your expenses.",
+          "ja": "① このお金があなたのすべての費用をまかなうだろう。"
+        },
+        {
+          "en": "② at the expense of my health",
+          "ja": "② 健康を犠牲にして"
+        }
+      ]
+    },
+    {
+      "id": "516",
+      "word": "debt",
+      "phonetic": "[dét]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "借金"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "◇「借金をする」はbórrowを使う。",
+        "熟 be in debt (to ~) 「((〜に)借金している)」",
+        "語源 de- [=down マイナス] + -bt [=have 持っている] →「負債を抱える」"
+      ],
+      "word_origin": {
+        "formula": "de- [=down マイナス] + -bt [=have 持っている] →「負債を抱える」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "pay back a debt of 100 dollars",
+          "ja": "100ドルの借金を返す"
+        }
+      ]
+    },
+    {
+      "id": "517",
+      "word": "deposit",
+      "phonetic": "[dɪpάzɪt]",
+      "level_tag": "B1B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 預金",
+            "② 頭金, 保証金",
+            "③ 埋蔵物, 堆積物"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ 〜を預ける"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「下に置かれたもの」→①「銀行口座の預金」②「地面などの下」",
+        "熟 ④ deposit (お金) in [×to] a bank 「銀行に(お金)を預ける」",
+        "熟 a bank balance「預金残高」",
+        "反 withdraw「〜を引き出す」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① have a large deposit in the bank",
+          "ja": "① 銀行に多額の預金がある"
+        },
+        {
+          "en": "② pay a deposit on a house",
+          "ja": "② 家の手付金を払う"
+        },
+        {
+          "en": "③ a rich deposit of oil",
+          "ja": "③ 豊富な石油の埋蔵"
+        },
+        {
+          "en": "④ deposit ¥10,000 in a bank",
+          "ja": "④ 銀行口座に10,000円を預金する"
+        }
+      ]
+    },
+    {
+      "id": "518",
+      "word": "charge",
+      "phonetic": "[tʃάɚdʒ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 料金",
+            "② (主に in ~)責任, 管理",
+            "③ (against ~) (~に対する)非難, 告訴"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "④ 〜を請求する",
+            "⑤ 〜を告訴する",
+            "⑥ 〜を充電する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「荷物を積む」が元の意味で, 「負担をかける」から①「(支払いを課す→)料金」②③「(責任を課す→)管理, 非難」",
+        "熟 ① free of charge 「無料」 (=for free)",
+        "熟 ② be in charge of ~ 「〜の責任者である」",
+        "熟 ④ charge A for B 「Bの代金としてAを請求する」",
+        "熟 ⑤ be charged with accepting bribes",
+        "熟 ⑥ charge my smartphone"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① Goods are delivered free of charge.",
+          "ja": "① 商品は無料でお届けします。"
+        },
+        {
+          "en": "② Who is in charge of this shop?",
+          "ja": "② この店の責任者はどなたですか。"
+        },
+        {
+          "en": "③ a charge against the company",
+          "ja": "③ 会社に対する告発"
+        },
+        {
+          "en": "④ charge 5,000 yen for a half-hour class",
+          "ja": "④ 30分の授業で5,000円を請求する"
+        },
+        {
+          "en": "⑤ be charged with accepting bribes",
+          "ja": "⑤ 賄賂を受け取ったとして告発される"
+        },
+        {
+          "en": "⑥ charge my smartphone",
+          "ja": "⑥ スマートフォンを充電する"
+        }
+      ]
+    },
+    {
+      "id": "519",
+      "word": "wage",
+      "phonetic": "[wéɪdʒ]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 賃金"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (闘争, 運動など)を行う"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「①(主に肉体労働の)賃金」",
+        "◇ a salary「(正社員の)固定給」",
+        "熟 ① a weekly [daily] wage 「週[日]給」",
+        "熟 a minimum wage「最低賃金」",
+        "熟 「(労働の)契約」が元の意味。",
+        "熟 wedding「結婚(←夫婦の契約)」",
+        "熟 blue-collar [white-collar] workers 「肉体[頭脳]労働者」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① get a daily wage of $100",
+          "ja": "① 日給100ドルを得る"
+        },
+        {
+          "en": "② wage a campaign",
+          "ja": "② キャンペーンを行う"
+        }
+      ]
+    },
+    {
+      "id": "520",
+      "word": "recession",
+      "phonetic": "[rɪsésʃən]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "不況",
+            "不景気"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(一時的な)不況」",
+        "◇ depression「(長期にわたる深刻な)不況」",
+        "熟 an economic recession 「不況(←経済の後退)」",
+        "語源 re-[後ろに] + -ces- [=ceed 進む] →「後ろに進む」",
+        "派生 procéed「進む」"
+      ],
+      "word_origin": {
+        "formula": "re-[後ろに] + -ces- [=ceed 進む] →「後ろに進む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "close down my inn because of the continuing recession",
+          "ja": "長引く不況のため旅館を閉める"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1769",
+      "word": "competent",
+      "phonetic": "[kάmpətənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "有能な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「ある専門的な技能や知識を備えた」"
+      ],
+      "word_origin": {
+        "formula": "compet-[競争する] + -ent[形容詞語尾] →「(競争できるほどの)力を持つ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a competent translator",
+          "ja": "有能な翻訳者"
+        }
+      ]
+    },
+    {
+      "id": "1770",
+      "word": "optimistic",
+      "phonetic": "[ὰptəmístik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "楽観的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「よいことが起こると信じている」",
+        "名 optimism「楽観的なこと」",
+        "名 optimist「楽観家」",
+        "形 optimal「最適の」",
+        "⇨ the optimal solution「最適な解決策」",
+        "反 pessimistic「悲観的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "have an optimistic view of his future",
+          "ja": "彼の将来を楽観する (楽観的な考えをもつ)"
+        }
+      ]
+    },
+    {
+      "id": "1771",
+      "word": "patriotic",
+      "phonetic": "[pèitriάtik]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(人, 言動などが)愛国的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆ patron「後援者(←父のように支援する人)」",
+        "名 patriot「愛国者」",
+        "名 patriotism「愛国心, 愛国主義」",
+        "名 expat(riate)「国外居住者」"
+      ],
+      "word_origin": {
+        "formula": "patri-[父の]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "People feel more patriotic when they are abroad.",
+          "ja": "人は海外に出ると愛国的になるものだ."
+        }
+      ]
+    },
+    {
+      "id": "1772",
+      "word": "noble",
+      "phonetic": "[nóubl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 高潔な",
+            "② 貴族の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 貴族〈可算〉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶称賛されるほど, 道徳的に優れていて寛容な",
+        "名 aristocracy「(集合的に)貴族, 貴族政治」"
+      ],
+      "word_origin": {
+        "formula": "no-[=know] + -ble[可能]から「物知り」→「偉い」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① his noble character",
+          "ja": "① 彼の高潔な人格"
+        },
+        {
+          "en": "② one of Scotland's noble families",
+          "ja": "② スコットランドの貴族の家柄の1つ"
+        },
+        {
+          "en": "③ a daughter of a noble",
+          "ja": "③ 貴族の娘"
+        }
+      ]
+    },
+    {
+      "id": "1773",
+      "word": "naughty",
+      "phonetic": "[nɔ́ːti]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "いたずらな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大人の言うことを聞かず)悪さをする」",
+        "類 haughty「傲慢な」(haugh-[=high 高い])"
+      ],
+      "word_origin": {
+        "formula": "naught-[=nothing ゼロ]から「何ももたない」→「無知でよこしまな」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Sam is really naughty, but at the same time he is so cute.",
+          "ja": "サムは本当にいたずらだけど, 同時 にかわいいんだ."
+        }
+      ]
+    },
+    {
+      "id": "1774",
+      "word": "arrogant",
+      "phonetic": "[ǽrəgənt]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "傲慢な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「周囲に気遣いせず, 自分の能力や重要性を誇張する様子」",
+        "(* 日常では stuck-up を使うことが多い.)",
+        "アロ(ホ)が!と「傲慢な」奴.",
+        "名 arrogance「傲慢」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Society's elite tend to be arrogant.",
+          "ja": "(社会の)エリートは傲慢になりがちだ."
+        }
+      ]
+    },
+    {
+      "id": "1775",
+      "word": "vigorous",
+      "phonetic": "[vígərəs]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① (人, 活動が)精力的な",
+            "② 活発な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「元気一杯に動きまわる」",
+        "☆ vital「不可欠な(←命にかかわるくらい重要 な)」",
+        "名 vigor「活力」",
+        "他 invigorate「(会社などを)活性化する」"
+      ],
+      "word_origin": {
+        "formula": "vi-[命]→「命にあふれている」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a vigorous supporter",
+          "ja": "① 精力的な支持者"
+        },
+        {
+          "en": "② get vigorous exercise",
+          "ja": "② 激しい(活発な)運動をする"
+        }
+      ]
+    },
+    {
+      "id": "1776",
+      "word": "humble",
+      "phonetic": "[hʌ́mbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 控えめな",
+            "② 卑しい, 貧しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「自分には力がないと思っている」(* やや卑屈な感じ.)",
+        "☆ humid「湿気が多い(←土の周りには湿気がある)」",
+        "húman「人間(←土 の上を歩く者)」",
+        "húmor「ユーモア(←会話に湿り気を与えるもの)」"
+      ],
+      "word_origin": {
+        "formula": "hum-[土] + -ble[可能]から「土に接近できる」→「控えめな」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① a humble character",
+          "ja": "① 控えめな性格の人"
+        },
+        {
+          "en": "② children of humble backgrounds",
+          "ja": "② 貧しい家の子どもたち"
+        }
+      ]
+    },
+    {
+      "id": "1777",
+      "word": "eligible",
+      "phonetic": "[élidʒəbl]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "資格のある"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(ある年齢に達したので)やることを許される」",
+        "☆ elite「エリート(←選ばれた人)」"
+      ],
+      "word_origin": {
+        "formula": "eligi-[選ぶ] + -ble[可能]から",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "become eligible to vote",
+          "ja": "選挙で投票する資格を持つ"
+        }
+      ]
+    },
+    {
+      "id": "1778",
+      "word": "courtesy",
+      "phonetic": "[kə́ːrtəsi]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "礼儀正しさ"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「言動が極めて丁寧であること」で, 日常では politeness のほうがふつう.",
+        "☆ court「宮廷」で働く者のような「礼儀正しさ」と覚えよう.",
+        "名 court「宮廷, 裁判所」",
+        "形 courteous「礼儀正しい」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "common courtesy",
+          "ja": "当たりの前の礼儀"
+        }
+      ]
+    }
+  ]
+}

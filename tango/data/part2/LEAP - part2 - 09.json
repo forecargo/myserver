@@ -1,0 +1,273 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "460",
+      "word": "faint",
+      "phonetic": "[féint]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (色、光などが)かすかな",
+            "② 気絶しそうな"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② 気絶する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 気絶"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① I do not have the faintest idea.「さっぱりわからない.」",
+        "注意 スポーツでよく使われる féint 「フェイント(見せかけの攻撃)」は同語源で同じ発音だが別の単語."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "faint pencil lines",
+          "ja": "① かすかな鉛筆の跡"
+        },
+        {
+          "en": "faint in the extreme heat",
+          "ja": "② 猛暑の中で気絶する"
+        },
+        {
+          "en": "fall down in a faint",
+          "ja": "③ 気絶して倒れる"
+        }
+      ]
+    },
+    {
+      "id": "461",
+      "word": "exhaust",
+      "phonetic": "[igzɔ́ːst]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を疲れ果てさせる",
+            "② 〜を使い果たす"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "③ 排出, 排気ガス"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「すべてを出し尽くす」",
+        "頻出 ① be exhausted from [by]〜「〜で疲れ切っている」",
+        "派生 exhaustion「(極度の)疲労, 枯渇」",
+        "形 exhaustive「徹底的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "I am exhausted from walking all day.",
+          "ja": "① 1日中歩いてくたくただ."
+        },
+        {
+          "en": "I have exhausted my savings.",
+          "ja": "② 貯金を使い果たした."
+        },
+        {
+          "en": "automobile exhaust fumes[gas]",
+          "ja": "③ 自動車の排気ガス"
+        }
+      ]
+    },
+    {
+      "id": "462",
+      "word": "cure",
+      "phonetic": "[kjúər]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を治療する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 治療法"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(病気, 病人など)を完全に治す」",
+        "◊ tréat「〜を治療(病気の処置)する」(*完治するかは不明.)",
+        "頻出 ① cure A of B「AのB(病気)を(完全に)治す」",
+        "＊manicure「マニキュア(←手の世話)」",
+        "形 incurable「不治の」",
+        "◊ cure-all「万能薬」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "cure you of your disease",
+          "ja": "① あなたの病気を治す"
+        },
+        {
+          "en": "a cure for a headache",
+          "ja": "② 頭痛の治療法"
+        }
+      ]
+    },
+    {
+      "id": "463",
+      "word": "disabled",
+      "phonetic": "[diséibld]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 障がいのある"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (the 〜) (集合的に)障がいのある人"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "注意 「障がい者」を表現する際, handicapped people は差別的な響きがあるので注意が必要がある.",
+        "＊dis-[否定] + -able-[可能]",
+        "派生 disability「障がい」",
+        "◊ blind「目が見えない」",
+        "◊ deaf[déf]「耳が聞こえない」",
+        "◊ dúmb[dʌ́m]「口がきけない」(＊現在では a person with a visual[hearing, speech] impairment「視覚[聴覚, 発話]障がい者」と表現することが多い.)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "He is physically disabled.",
+          "ja": "① 彼は身体に障がいがある."
+        },
+        {
+          "en": "a toilet for the disabled",
+          "ja": "② 障がい者用(のための)トイレ"
+        }
+      ]
+    },
+    {
+      "id": "464",
+      "word": "stiff",
+      "phonetic": "[stíf]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (筋肉などが)凝った, (動かすと)痛い",
+            "② 堅い"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「こわばった」",
+        "注意 ①「寝違い」のように筋肉が痛くて, 動かしづらい状態で, 日本語の「凝る」よりも症状が重いイメージ.",
+        "＊st-[じっとして]→「血流が滞る」",
+        "☆stár「星(←じっとしているもの)」",
+        "◊ get a massage「マッサージをしてもらう」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "Desk work gives me a stiff back.",
+          "ja": "① デスクワークで腰が痛い."
+        },
+        {
+          "en": "behave in a stiff manner",
+          "ja": "② 堅苦しい感じにふるまう"
+        }
+      ]
+    },
+    {
+      "id": "465",
+      "word": "muscle",
+      "phonetic": "[mʌ́sl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "筋肉"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「筋肉」の意味は〈可算〉, 「筋肉組織」の意味は〈不可算〉.",
+        "頻出 develop[strengthen] one's muscles「〜の筋肉を鍛える」",
+        "派生 múscular「筋肉の」",
+        "◊ fat「脂肪」"
+      ],
+      "word_origin": {
+        "formula": "mus-[=mouse ネズミ] + -cle[小さな] -> 「筋肉(←力こぶがネズミに見えることから)」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "develop my arm muscles",
+          "ja": "腕の筋肉をつける"
+        }
+      ]
+    },
+    {
+      "id": "466",
+      "word": "tongue",
+      "phonetic": "[tʌ́ŋ]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 舌",
+            "② 言語, 言葉",
+            "③ (have a 〜 tongue)話し方"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「舌」→②「(舌を使って発する)言葉」→③「話し方」",
+        "(*lánguage「言語」の語源 lingua も「舌」の意味.)",
+        "頻出 ① stick one's tongue out「舌を出す」",
+        "◊ click one's tongue「舌打ちする」",
+        "② one's mother[native] tongue「母(国)語」",
+        "◊ watch one's tongue「言葉に気をつける」",
+        "◊ 焼き肉の「牛タン」は①の意味."
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "stick my tongue out at him",
+          "ja": "① 彼にあかんべえをする(舌を出す)"
+        },
+        {
+          "en": "Watch your tongue.",
+          "ja": "② 言葉遣いに気をつけなさい."
+        },
+        {
+          "en": "have a sharp tongue",
+          "ja": "③ 口が悪い(辛辣な話し方をする)"
+        }
+      ]
+    }
+  ]
+}

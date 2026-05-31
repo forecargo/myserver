@@ -1,0 +1,333 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1852",
+      "word": "preliminary",
+      "phonetic": "[prìlimənèri]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "① 予備的な、事前の",
+            "② 予選の"
+          ]
+        },
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "③ 予選"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「本番前(の)」"
+      ],
+      "word_origin": {
+        "formula": "pre-[前に]+-limin-[=limit 制限]+-ary[形容詞語尾]→「ある一線の前の」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "preliminary market research",
+          "ja": "① 事前の市場調査"
+        },
+        {
+          "en": "a preliminary round",
+          "ja": "② 予選"
+        },
+        {
+          "en": "be eliminated in the preliminaries",
+          "ja": "③ 予選で敗退する"
+        }
+      ]
+    },
+    {
+      "id": "1853",
+      "word": "mandatory",
+      "phonetic": "[mǽndətɔ̀ːri]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "義務的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(法によって)行われなければならない」",
+        "類 compulsory「(規則や法によって)行われなければならない」",
+        "他 mándate「〜に命令する、〜の統治の委任をする」"
+      ],
+      "word_origin": {
+        "formula": "mand-[命令]+-atory[形容詞語尾]",
+        "description": "*command「命令」"
+      },
+      "examples": [
+        {
+          "en": "Wearing helmets is mandatory for all cyclists.",
+          "ja": "ヘルメット着用が自転車に乗る人すべてに義務づけられている。"
+        }
+      ]
+    },
+    {
+      "id": "1854",
+      "word": "indigenous",
+      "phonetic": "[indídʒənəs]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "(動植物、民族が)固有の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ nativeのほうが用途が広い。"
+      ],
+      "word_origin": {
+        "formula": "indi-[土地の中]+-gen-[生まれる]+-ous[形容詞語尾]→「〜の中で生まれた」",
+        "description": "*generate「〜を生み出す」"
+      },
+      "examples": [
+        {
+          "en": "a people indigenous to Australia",
+          "ja": "オーストラリア固有の民族"
+        },
+        {
+          "en": "a people",
+          "ja": "「民族、国民」"
+        }
+      ]
+    },
+    {
+      "id": "1855",
+      "word": "respective",
+      "phonetic": "[rispéktiv]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "それぞれの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 通例、名詞の複数形を伴う。",
+        "副 respectively「それぞれ」",
+        "反 irrespective of「〜とは無関係に」"
+      ],
+      "word_origin": {
+        "formula": "respect-[見るところ→点]+-ive[性質]→「それぞれの」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Go back to your respective rooms.",
+          "ja": "それぞれの部屋に戻りなさい。"
+        }
+      ]
+    },
+    {
+      "id": "1856",
+      "word": "multiply",
+      "phonetic": "[mʌ́ltəplài]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を増やす",
+            "② (A by B) (A) に (B) を掛ける"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "③ 増える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 múltiple「複合的な」",
+        "名 multiplicación「増加」",
+        "名 múltitude「多数、群衆」"
+      ],
+      "word_origin": {
+        "formula": "multi-[多くに]+-ply[折る]",
+        "description": "*apply「〜を適用する(←〜のほうに折る)」"
+      },
+      "examples": [
+        {
+          "en": "multiply our profits",
+          "ja": "① 私たちの利益を増やす"
+        },
+        {
+          "en": "8 multiplied by 6 is 48.",
+          "ja": "② 8×6=48"
+        },
+        {
+          "en": "Insects multiply in summer.",
+          "ja": "③ 昆虫は夏に増殖する。"
+        }
+      ]
+    },
+    {
+      "id": "1857",
+      "word": "soar",
+      "phonetic": "[sɔ́ːr]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "① (価格、温度が)急上昇する",
+            "② (鳥が)舞い上がる"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "形 sóaring「急上昇」"
+      ],
+      "word_origin": {
+        "formula": "s-[=es 外]+-oar[=air]→「大気の外へ」",
+        "description": "(*sóre「痛い」と同じ発音。) *sóber「酔っていない(←ビールから離れて)」"
+      },
+      "examples": [
+        {
+          "en": "Land prices have soared in the last few years.",
+          "ja": "① ここ数年で地価が急騰した。"
+        },
+        {
+          "en": "An eagle soared in the sky.",
+          "ja": "② ワシが空高く舞い上がった。"
+        }
+      ]
+    },
+    {
+      "id": "1858",
+      "word": "diminish",
+      "phonetic": "[dimíniʃ]",
+      "level_tag": null,
+      "definitions": [
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "減少する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(大きさ、程度、重要性などが)徐々に減っていく」",
+        "他 diminish「〜を減らす」"
+      ],
+      "word_origin": {
+        "formula": "di-[=de- 強意]+-mini-[小さい]→「とても小さくなる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "His influence diminished with time.",
+          "ja": "彼の影響力は時間と共に減少した。"
+        }
+      ]
+    },
+    {
+      "id": "1859",
+      "word": "accumulate",
+      "phonetic": "[əkjúːmjulèit]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を蓄積する"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 蓄積する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(長期間にわたって徐々に)積み重ねる」",
+        "名 accumulátion「蓄積」"
+      ],
+      "word_origin": {
+        "formula": "ac-[=ad 方向]+-cumulate[積み重ねた]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "accumulate knowledge",
+          "ja": "① 知識を蓄積する"
+        },
+        {
+          "en": "Fat tends to accumulate around the hips.",
+          "ja": "② 脂肪は腰回りに蓄積しがちだ。"
+        }
+      ]
+    },
+    {
+      "id": "1860",
+      "word": "exceed",
+      "phonetic": "[iksíːd]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "〜を越える"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(数量、能力)を上回る」から「(程度、範囲)を越える」まで。"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に]+-ceed[進む]→「越えて行く」",
+        "description": "*procéd「進む」"
+      },
+      "examples": [
+        {
+          "en": "exceed the speed limit",
+          "ja": "制限速度を上回る"
+        }
+      ]
+    },
+    {
+      "id": "1861",
+      "word": "abundant",
+      "phonetic": "[əbʌ́ndənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "豊富な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ rich「豊かな」の堅い語。",
+        "反 redundant「余剰な、冗長な」",
+        "自 abound「いっぱいいる[ある]」"
+      ],
+      "word_origin": {
+        "formula": "ab-[=away]+-unda-[流れる]→「(流れ出るほどに)豊富だ」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Canada is abundant in natural resources.",
+          "ja": "カナダは天然資源が豊富だ(天然資源において豊かだ)。"
+        }
+      ]
+    }
+  ]
+}

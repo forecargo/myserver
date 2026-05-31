@@ -1,0 +1,263 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "800",
+      "word": "available",
+      "phonetic": "[əvéiləbl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 手に入る、利用できる",
+            "② (人の予定が)空いている"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「入手可能」な（訳語は文脈で考える。）",
+        "頻出 ① readily [easily] available 「容易に手に入る」",
+        "注意 〈最上級 + available〉は「入手[利用]可能な中で最も〜」という意味。",
+        "語源 a-[=ad 方向] + -vail[=value 価値] + -able[可能] →「〜(の価値)を利用できる」",
+        "名 availability「利用できること、有効性」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "This T-shirt is available in all sizes.",
+          "ja": "このTシャツはすべてのサイズでご用意できます(手に入る)."
+        },
+        {
+          "en": "Mr. Rogers is available today.",
+          "ja": "ロジャース氏は本日時間がとれます."
+        }
+      ]
+    },
+    {
+      "id": "801",
+      "word": "practical",
+      "phonetic": "[prǽktikəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① (人, 知識が)現実的な, 実際の",
+            "② (発明, 道具などが)実用的な, 実践的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(理論的ではなく)実際にやってみると」",
+        "反 theoretical「理論上の」",
+        "副 practically「事実上, 実際的に」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "gain practical experience",
+          "ja": "実践経験を積む"
+        },
+        {
+          "en": "a practical training system",
+          "ja": "実践的な練習法"
+        }
+      ]
+    },
+    {
+      "id": "802",
+      "word": "abstract",
+      "phonetic": "[ǽbstrækt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 抽象的な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (論文などの)要旨"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「主要素だけを抽出したもの」",
+        "頻出 ① abstract art 「抽象芸術」 an abstract concept 「抽象的な概念」 think in abstract terms 「抽象的観点から考える」",
+        "語源 abs-[=away] + -tract「引っ張る」→「抽出する」",
+        "反 concrete「具体的な」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "an abstract work of art",
+          "ja": "抽象的な芸術作品"
+        },
+        {
+          "en": "an abstract of this paper",
+          "ja": "この論文の要旨"
+        }
+      ]
+    },
+    {
+      "id": "803",
+      "word": "brand-new",
+      "phonetic": "[brǽndnjúː]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "新品の, 真新しい"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「手に入れたばかりで未使用の」(= very new)",
+        "頻出 new よりも brand-new のほうが「新品」という意味が強い。",
+        "語源 「火から出したばかりの」が元の意味。☆brand「銘柄」(←「焼き印を押される」から))」 「ブランドのバック」は a designer bag と表現する。",
+        "類義 newly「新たに」 ⇒ a newly married couple「新婚夫婦」",
+        "renew「〜を一新する」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "brand-new climbing boots",
+          "ja": "新品の登山靴"
+        }
+      ]
+    },
+    {
+      "id": "804",
+      "word": "secondhand",
+      "phonetic": "[sékəndhǽnd]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 中古の",
+            "② 間接的な"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ a second hand は「(時計の)秒針」",
+        "頻出 ① a secondhand bookstore「古本屋」",
+        "② secondhand information [knowledge] 「又聞きの情報[受け売りの知識]」",
+        "注意 secondhand は「(新品同様でも)以前にほかの人に所有されていたもの」だが, old は「時間の経過によって古くなったもの」を指す。",
+        "語源 second-[2番目の] + -hand[手] →「2人目の持ち主の」",
+        "反 ① brand-new「新品の」",
+        "反 ② firsthand「直接体験によって得た」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "buy secondhand clothes cheaply",
+          "ja": "古着を安く買う"
+        },
+        {
+          "en": "secondhand news",
+          "ja": "又聞きのニュース"
+        }
+      ]
+    },
+    {
+      "id": "805",
+      "word": "rapid",
+      "phonetic": "[rǽpid]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 急速な"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② (−s)急流"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ fast よりも「急激な速さ」を表す。",
+        "語源 rap-[強奪する, 運び去る] →「さっと(奪い去る)」",
+        "副 rapidly「急速に」(=with rapidity)",
+        "名 rapidity「急速さ」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "rapid economic growth",
+          "ja": "急速な経済成長"
+        },
+        {
+          "en": "shoot the rapids in our canoe",
+          "ja": "急流をカヌーで下る"
+        }
+      ]
+    },
+    {
+      "id": "806",
+      "word": "urgent",
+      "phonetic": "[ə́ːrdʒənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "緊急の, 差し迫った"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(とても重要なので)急を要する」",
+        "頻出 an urgent problem of 〜「〜という緊急の課題」 on urgent business「急な用事で」",
+        "語源 urge「〜をせきたてる, 〜に強く迫る」の形容詞形(「強く迫られた」→「緊急の」)。",
+        "名 urgency「緊急性」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "There is an urgent need for more nursery schools.",
+          "ja": "もっと多くの保育所が緊急に必要だ(もっと多くの保育所に対する緊急の必要性がある)."
+        }
+      ]
+    },
+    {
+      "id": "807",
+      "word": "shallow",
+      "phonetic": "[ʃǽlou]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形容詞",
+          "meanings": [
+            "① 浅い",
+            "② (人, 言動などが)浅はかな"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ ①「(川, 池や容器などの深さが)浅い」→②「(考えや言動などが)浅はかな」",
+        "語源 つづりの似ている swallow「ツバメ」や sparrow「スズメ」とセットで覚えよう。",
+        "反 deep「深い」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a shallow bathtub",
+          "ja": "浅い浴槽"
+        },
+        {
+          "en": "a shallow speech",
+          "ja": "中身のない演説"
+        }
+      ]
+    }
+  ]
+}

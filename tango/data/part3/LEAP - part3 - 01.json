@@ -1,0 +1,313 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "1001",
+      "word": "propose",
+      "phonetic": "[prəpóuz]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を提案する"
+          ]
+        },
+        {
+          "part_of_speech": "自動詞",
+          "meanings": [
+            "② (to 〜)(〜に)結婚を申し込む"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(十分に練って)申し出る」(※suggestよりも堅い。)",
+        "名 proposal「提案」",
+        "名 proponent「支持者」(⇔opponent「反対者」)"
+      ],
+      "word_origin": {
+        "formula": "pro-[前方] + -pose[置く] から「差し出す」→「提案する」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① propose a new program",
+          "ja": "① 新しい計画を提案する"
+        },
+        {
+          "en": "② get down on my knee to propose to her",
+          "ja": "② 片膝ついて彼女にプロポーズする"
+        }
+      ]
+    },
+    {
+      "id": "1002",
+      "word": "dismiss",
+      "phonetic": "[dismís]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① (意見や考えなど)を退ける",
+            "② 〜を解雇する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆missile「ミサイル」",
+        "名 dismissal「却下, 解雇」"
+      ],
+      "word_origin": {
+        "formula": "dis-[分離]+-miss[送る] から「離れた所に送る」→「〜を退ける」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① dismiss his proposal as unrealistic",
+          "ja": "① 非現実的だとして彼の提案を退ける"
+        },
+        {
+          "en": "② dismiss the employees",
+          "ja": "② 従業員を解雇する"
+        }
+      ]
+    },
+    {
+      "id": "1003",
+      "word": "bless",
+      "phonetic": "[blés]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜を祝福する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「神の祝福があるように祈る」",
+        "名 blessing「恵み, 承認」",
+        "形 blessed「恵まれた」",
+        "⇔ be blessed with talent for music「音楽の才能に恵まれる」",
+        "(*英語圏では, くしゃみをした人に対してこのように声をかける習慣がある。)"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "(God) bless you!",
+          "ja": "お大事に(神があなたを祝福しますように)."
+        }
+      ]
+    },
+    {
+      "id": "1004",
+      "word": "glory",
+      "phonetic": "[glɔ́ːri]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "栄光"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(人々から与えられる)栄誉, 賛辞」",
+        "形 glorious「すばらしい, 栄光のある」",
+        "参 morning glory「朝顔」"
+      ],
+      "word_origin": {
+        "formula": "gl-[光る]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "his glory days as a college basketball star",
+          "ja": "大学バスケットボールのスター選手としての彼の栄光の日々"
+        }
+      ]
+    },
+    {
+      "id": "1005",
+      "word": "compliment",
+      "phonetic": "[kámpləmənt]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 褒め言葉, 賛辞"
+          ]
+        },
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "② 〜を褒める"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(髪型, 服装のセンス), 演技などを)(よい意味で)褒める」",
+        "☆supplement「サプリメント, 栄養補助食品」",
+        "形 complimentary「(好意により)無料の」",
+        "参 flattery「お世辞」",
+        "名 complement「補語」(*つづりは似ているが, 意味が異なるので注意。)"
+      ],
+      "word_origin": {
+        "formula": "-pli-[満たす] から「(相手の気持ちを)満たす」→「〜を褒める」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① compliments on his shoes",
+          "ja": "① 彼の靴への褒め言葉"
+        },
+        {
+          "en": "② compliment her on her new hairstyle",
+          "ja": "② 新しい髪型について, 彼女を褒める"
+        }
+      ]
+    },
+    {
+      "id": "1006",
+      "word": "feast",
+      "phonetic": "[fíːst]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "① 宴会, 祝宴"
+          ]
+        },
+        {
+          "part_of_speech": "動詞",
+          "meanings": [
+            "② とても楽しいこと, 喜ばせるもの"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(おいしい)ものやたくさんのあること」",
+        "☆festival「祭り」",
+        "参 banquet「(公式な)宴会」"
+      ],
+      "word_origin": {
+        "formula": "feast[祭]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① the wedding feast",
+          "ja": "① 結婚式の宴席"
+        },
+        {
+          "en": "② This movie festival is a feast for cinema-goers.",
+          "ja": "② この映画祭は映画好きにはたまらない。"
+        }
+      ]
+    },
+    {
+      "id": "1007",
+      "word": "declare",
+      "phonetic": "[diklέər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "① 〜を宣言する",
+            "② (税関や税務署で)〜を申告する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(公に)はっきりと述べる」(※「愛を告白する」はdeclare one's loveと表現。)",
+        "名 declaration「宣言, 布告, 申告」"
+      ],
+      "word_origin": {
+        "formula": "de-[強調]+-clare[=clear]→「はっきりさせる」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① He declared that he was innocent.",
+          "ja": "① 彼は無実だとはっきりと述べた。"
+        },
+        {
+          "en": "② Do you have anything to declare?",
+          "ja": "② 申告するものはありますか。"
+        }
+      ]
+    },
+    {
+      "id": "1008",
+      "word": "highlight",
+      "phonetic": "[háilàit]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "動詞",
+          "meanings": [
+            "① 〜を強調する"
+          ]
+        },
+        {
+          "part_of_speech": "名詞",
+          "meanings": [
+            "② 呼び物, 目玉商品, ハイライト"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆highlighter「蛍光ペン」",
+        "☆eraser「消しゴム」",
+        "☆glue「のり」",
+        "☆ruler「定規」",
+        "☆stapler「ホッチキス」",
+        "☆white-out「修正液」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① highlight the issue of global warming",
+          "ja": "① 地球温暖化の問題を強調する"
+        },
+        {
+          "en": "② the highlight of the show",
+          "ja": "② そのショーの見所"
+        }
+      ]
+    },
+    {
+      "id": "1009",
+      "word": "imply",
+      "phonetic": "[implái]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "他動詞",
+          "meanings": [
+            "〜をほのめかす, (暗に)〜を意味する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "☆apply「適用する」(ap-[〜の方向])",
+        "名 implication「(-s)影響, (隠れた)意味」"
+      ],
+      "word_origin": {
+        "formula": "im-[中に] + -ply[折る] →「中に折り込む」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "Alex implied that he would resign.",
+          "ja": "アレックスは辞意をほのめかした。"
+        }
+      ]
+    }
+  ]
+}

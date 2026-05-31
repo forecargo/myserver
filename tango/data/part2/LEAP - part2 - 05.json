@@ -1,0 +1,253 @@
+{
+  "vocabulary_list": [
+    {
+      "id": "429",
+      "word": "device",
+      "phonetic": "[diváis]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 装置",
+            "《可算》"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「(測定、記録、操作などのための)工夫満載の装置」",
+        "IT用語の「デバイス」は「コンピュータを構成する部品や装置、さまざまな周辺機器」のこと。",
+        "類義 devise [diváiz]「(新たな方法などを)考案する」",
+        "類義 appliances「電気、ガス器具」",
+        "類義 gadget「(気のきいた)装置」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "a drone with a GPS device",
+          "ja": "GPS 装置を搭載したドローン"
+        }
+      ]
+    },
+    {
+      "id": "430",
+      "word": "experiment",
+      "phonetic": "[ikspérəmənt]",
+      "level_tag": "B1 B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 実験"
+          ]
+        },
+        {
+          "part_of_speech": "自",
+          "meanings": [
+            "② 実験する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① do [carry out, conduct] an experiment on ~「〜に対する実験をする」",
+        "an experiment with ~「〜を用いた実験」",
+        "a control experiment「対照実験」",
+        "注意 「核実験」は a nuclear test と表現する。",
+        "語源 ex-[外に]＋-peri-[危険]から「(外に出して危険を冒す)→試す」",
+        "派生 experimental「実験的な, 実験に基づく」"
+      ],
+      "word_origin": {
+        "formula": "ex-[外に]＋-peri-[危険] -> 「(外に出して危険を冒す)→試す」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① carry out a chemical experiment",
+          "ja": "① 化学の実験をする"
+        },
+        {
+          "en": "② experiment with a new medicine",
+          "ja": "② 新薬で実験する"
+        }
+      ]
+    },
+    {
+      "id": "431",
+      "word": "chemical",
+      "phonetic": "[kémikəl]",
+      "level_tag": "B1 A2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① (通例-s) 化学物質"
+          ]
+        },
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "② 化学の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① toxic chemicals「有毒な化学物質」(*toxic [táksik]「有毒の」)",
+        "派生 chemistry「化学(的性質)」",
+        "派生 chemist「化学者, 〈英〉薬剤師」"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① chemicals that are harmful to the environment",
+          "ja": "① 環境に有害な化学物質"
+        },
+        {
+          "en": "② a chemical symbol [factory, reaction, formula]",
+          "ja": "② 化学記号 [工場, 反応, 式]"
+        }
+      ]
+    },
+    {
+      "id": "432",
+      "word": "fuel",
+      "phonetic": "[fjúːəl]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 燃料"
+          ]
+        },
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "② (感情など)を大きくする"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶「燃料を注ぐ」→「〜を焚きつける, (不安や怒りなど)をあおる」",
+        "頻出 ① add fuel to ~「〜を激化させる」",
+        "run out of fuel「燃料が切れる」",
+        "▶ fossil fuels「化石燃料」というフレーズで覚えよう。"
+      ],
+      "word_origin": null,
+      "examples": [
+        {
+          "en": "① burn fossil fuels",
+          "ja": "① 化石燃料を燃やす"
+        },
+        {
+          "en": "② fuel her fear",
+          "ja": "② 彼女の恐怖を増大させる"
+        }
+      ]
+    },
+    {
+      "id": "433",
+      "word": "nuclear",
+      "phonetic": "[njúːkliər]",
+      "level_tag": "B1",
+      "definitions": [
+        {
+          "part_of_speech": "形",
+          "meanings": [
+            "原子力の, 核の"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 a nuclear bomb [weapon, test]「核爆弾[兵器, 実験]」",
+        "(*「核兵器」は a núke も可。) ",
+        "a nuclear family「核家族」",
+        "語源 nucle-[原子核]＋-ar[の]",
+        "派生 denuclearization「非核化」"
+      ],
+      "word_origin": {
+        "formula": "nucle-[原子核]＋-ar[の]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "a nuclear power plant",
+          "ja": "原子力発電所"
+        }
+      ]
+    },
+    {
+      "id": "434",
+      "word": "statistics",
+      "phonetic": "[stətístiks]",
+      "level_tag": "B2",
+      "definitions": [
+        {
+          "part_of_speech": "名",
+          "meanings": [
+            "① 統計(値) 《複数数扱い》",
+            "② 統計学《不可算》"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "頻出 ① Statistics show [suggest] that S V.「統計によると〜だ。統計が〜を示している。」",
+        "according to statistics「統計によると」",
+        "注意 「1つの統計値」は a statistic と表現する。",
+        "語源 statis-[=state 状態]＋-tics[学問]から「ある状態を研究すること」→「統計学」",
+        "派生 statistically「統計的に」"
+      ],
+      "word_origin": {
+        "formula": "statis-[=state 状態]＋-tics[学問] -> 「ある状態を研究すること」→「統計学」",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① Statistics show that younger people prefer football to baseball.",
+          "ja": "① 統計によると, 若年層は野球よりサッカーを好むようだ。"
+        },
+        {
+          "en": "② mathematical statistics",
+          "ja": "② 数理統計学"
+        }
+      ]
+    },
+    {
+      "id": "435",
+      "word": "pursue",
+      "phonetic": "[pərsúː]",
+      "level_tag": "A2",
+      "definitions": [
+        {
+          "part_of_speech": "他",
+          "meanings": [
+            "① 〜を追求する, 続ける",
+            "② 〜を追跡する"
+          ]
+        }
+      ],
+      "usages_and_notes": [
+        "▶ 単に「後を追う」は follow で表現できるが, pursue は②「(長期間にわたり)〜を追跡する」や①「(学問や研究などの目標)を追求する」",
+        "頻出 ① pursue fame [happiness, pleasure, a goal]「名声[幸福, 喜び, 目標]を追い求める」",
+        "語源 pur-[=pro 前方]＋-sue[ついていく]",
+        "派生 purpose「目的」",
+        "派生 pursuit「追跡, 追求」",
+        "熟語 in pursuit of ~「〜を追跡して」",
+        "類義 groupie「追っかけ」"
+      ],
+      "word_origin": {
+        "formula": "pur-[=pro 前方]＋-sue[ついていく]",
+        "description": null
+      },
+      "examples": [
+        {
+          "en": "① pursue a career in journalism",
+          "ja": "① 報道関係の道に進む"
+        },
+        {
+          "en": "② pursue a criminal",
+          "ja": "② 犯人を追いかける"
+        }
+      ]
+    }
+  ]
+}
