@@ -1,6 +1,8 @@
 import email
 import os
+import re
 import ssl
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from email.header import decode_header
 
@@ -25,6 +27,30 @@ RECOVERY_KEYWORDS = (
     "解消", "復旧確認", "正常稼働確認", "正常稼働を確認",
     "業務影響なし", "終了確認", "回復確認", "回復済", "復旧済",
 )
+
+# システム名の正規化用パターン
+_PAREN_RE = re.compile(r"[（(][^）)]*[）)]")
+_WS_RE = re.compile(r"\s+")
+
+
+def normalize_system_name(name: str | None) -> str:
+    """システム名の表記揺れを吸収するための正規化。
+
+    - NFKC 正規化（全角英数→半角、全角空白→半角等）
+    - 全角/半角カッコ内の補足表現を除去
+    - 連続空白を単一化してトリム
+    - ASCII 部分は小文字化（日本語はそのまま）
+    """
+    if not name:
+        return ""
+    s = unicodedata.normalize("NFKC", name)
+    s = _PAREN_RE.sub("", s)
+    s = _WS_RE.sub(" ", s).strip()
+    return "".join(ch.lower() if ch.isascii() else ch for ch in s)
+
+
+def _strip_tz(dt: datetime) -> datetime:
+    return dt.replace(tzinfo=None) if dt.tzinfo is not None else dt
 
 
 def _make_ssl_context() -> ssl.SSLContext:
@@ -75,29 +101,69 @@ def _parse_dt(s: str | None) -> datetime | None:
         return None
 
 
-def _find_existing_incident(session, system_name: str, occurred_at_str: str | None) -> Incident | None:
+def _find_existing_incident(
+    session, system_name: str, occurred_at_str: str | None
+) -> Incident | None:
+    """発生中インシデントの中から、system_name の表記揺れを吸収して同一とみなせる
+    インシデントを返す。Pass1=正規化後完全一致、Pass2=正規化後の双方向 prefix。
+    """
+    target_norm = normalize_system_name(system_name)
+    if not target_norm:
+        return None
+
     stmt = (
         select(Incident)
-        .where(Incident.system_name == system_name)
         .where(Incident.status == "発生中")
         .order_by(Incident.created_at.desc())
     )
     candidates = session.execute(stmt).scalars().all()
     if not candidates:
         return None
-    if occurred_at_str:
-        target_dt = _parse_dt(occurred_at_str)
-        if target_dt:
-            window = timedelta(hours=INCIDENT_MATCH_WINDOW_HOURS)
-            for c in candidates:
-                if c.occurred_at:
-                    diff = abs(
-                        c.occurred_at.replace(tzinfo=None) - target_dt.replace(tzinfo=None)
-                    )
-                    if diff <= window:
-                        return c
-            return None
-    return candidates[0]
+
+    target_dt = _parse_dt(occurred_at_str) if occurred_at_str else None
+    window = timedelta(hours=INCIDENT_MATCH_WINDOW_HOURS)
+
+    def _within_window(c: Incident) -> bool:
+        if target_dt is None or c.occurred_at is None:
+            return True
+        diff = abs(_strip_tz(c.occurred_at) - _strip_tz(target_dt))
+        return diff <= window
+
+    # Pass 1: 正規化後の完全一致
+    exact = [
+        c for c in candidates
+        if normalize_system_name(c.system_name) == target_norm and _within_window(c)
+    ]
+    if exact:
+        return _pick_closest(exact, target_dt)
+
+    # Pass 2: 正規化後の前方一致（短い側が長い側の prefix、3 文字以上のガード）
+    if len(target_norm) >= 3:
+        prefix = []
+        for c in candidates:
+            cn = normalize_system_name(c.system_name)
+            if not cn or len(cn) < 3 or not _within_window(c):
+                continue
+            if cn.startswith(target_norm) or target_norm.startswith(cn):
+                prefix.append(c)
+        if prefix:
+            return _pick_closest(prefix, target_dt)
+
+    return None
+
+
+def _pick_closest(cands: list[Incident], target_dt: datetime | None) -> Incident:
+    """occurred_at が target_dt に最も近い候補を返す。target_dt が None なら
+    created_at が最新の候補を返す。"""
+    if target_dt is None:
+        return max(cands, key=lambda c: c.created_at)
+
+    def _key(c: Incident) -> timedelta:
+        if c.occurred_at is None:
+            return timedelta.max
+        return abs(_strip_tz(c.occurred_at) - _strip_tz(target_dt))
+
+    return min(cands, key=_key)
 
 
 def _has_inline_recovery(extracted: dict, body: str) -> bool:

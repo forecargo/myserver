@@ -1,0 +1,6 @@
+# テスト用最小依存（本番ランタイム用は requirements.txt 参照）
+# Python 3.14 でも導入可能な軽量セットに絞っている。
+sqlalchemy>=2.0.41
+python-dateutil>=2.9.0
+pydantic>=2.0
+pytest>=8.0
