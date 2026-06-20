@@ -28,12 +28,22 @@ struct QuizResultView: View {
                             .tracking(1)
                             .foregroundStyle(Color.taOnSurfaceVariant)
                         ForEach(vm.wrongDomains, id: \.id) { domain in
-                            HStack {
-                                Text(domain.item.word).font(.body.weight(.semibold))
-                                Spacer()
-                                Text(domain.item.phonetic)
-                                    .font(.caption.italic())
-                                    .foregroundStyle(Color.taOnSurfaceVariant)
+                            VStack(alignment: .leading, spacing: 2) {
+                                HStack {
+                                    Text(domain.item.word).font(.body.weight(.semibold))
+                                    Spacer()
+                                    Text(domain.item.phonetic)
+                                        .font(.caption.italic())
+                                        .foregroundStyle(Color.taOnSurfaceVariant)
+                                }
+                                let meanings = formattedMeanings(domain.item)
+                                if !meanings.isEmpty {
+                                    Text(meanings)
+                                        .font(.caption)
+                                        .foregroundStyle(Color.taOnSurfaceVariant)
+                                        .frame(maxWidth: .infinity, alignment: .leading)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                }
                             }
                             .padding(.vertical, 4)
                         }
@@ -62,5 +72,26 @@ struct QuizResultView: View {
             .padding()
         }
         .background(Color(.systemGroupedBackground))
+    }
+
+    private func formattedMeanings(_ item: APIVocabularyItem) -> String {
+        item.definitions.compactMap { group -> String? in
+            let joined = group.meanings
+                .map(stripLeadingCircledNumber)
+                .filter { !$0.isEmpty }
+                .joined(separator: "、")
+            guard !joined.isEmpty else { return nil }
+            return group.part_of_speech.isEmpty
+                ? joined
+                : "(\(group.part_of_speech)) \(joined)"
+        }.joined(separator: " / ")
+    }
+
+    // ① ② など先頭の丸数字を除去する
+    private func stripLeadingCircledNumber(_ s: String) -> String {
+        guard let first = s.unicodeScalars.first,
+              (0x2460...0x2473).contains(first.value)
+        else { return s }
+        return String(s.dropFirst()).trimmingCharacters(in: .whitespaces)
     }
 }
