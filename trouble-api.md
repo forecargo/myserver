@@ -604,7 +604,7 @@ with imapclient.IMAPClient('imap.spmode.ne.jp', port=993, ssl=True) as s:
 `collector.py` の `_find_existing_incident()` が担当。
 
 1. 同じ `system_name` でステータスが「発生中」のインシデントを検索（復旧済みは対象外）
-2. `occurred_at` が `INCIDENT_MATCH_WINDOW_HOURS`（環境変数, デフォルト 72 時間）以内なら同一インシデントとして更新
+2. `occurred_at` が `INCIDENT_MATCH_WINDOW_HOURS`（環境変数, デフォルト 672 時間 = 28 日）以内なら同一インシデントとして更新
 3. 時間窓外なら新規インシデントとして登録
 
 → 誤マッチが多い場合は `INCIDENT_MATCH_WINDOW_HOURS` を短縮するか、`system_name` の正規化を先に行う。長時間継続する障害が分断される場合は値を大きくする。

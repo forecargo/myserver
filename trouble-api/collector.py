@@ -21,7 +21,7 @@ IMAP_PORT = int(os.getenv("IMAP_PORT", "993"))
 IMAP_USERNAME = os.getenv("IMAP_USERNAME")
 IMAP_PASSWORD = os.getenv("IMAP_PASSWORD")
 SENDER_FILTER = os.getenv("SENDER_FILTER", "ncbonline@nttdata-ncb.co.jp")
-INCIDENT_MATCH_WINDOW_HOURS = int(os.getenv("INCIDENT_MATCH_WINDOW_HOURS", "72"))
+INCIDENT_MATCH_WINDOW_HOURS = int(os.getenv("INCIDENT_MATCH_WINDOW_HOURS", "672"))
 
 RECOVERY_KEYWORDS = (
     "解消", "復旧確認", "正常稼働確認", "正常稼働を確認",
