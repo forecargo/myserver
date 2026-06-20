@@ -18,6 +18,9 @@ final class WordProgress {
     var lastViewedAt: Date?
     var correctCount: Int
     var wrongCount: Int
+    /// クイズの連続記録。正なら連続正解数、負なら連続不正解数、0 は記録なし。
+    /// 後付けフィールドのため宣言側に `= 0` の既定値が必須 (SwiftData 軽量マイグレーション要件)。
+    var currentStreak: Int = 0
     var note: String
 
     init(
@@ -33,6 +36,7 @@ final class WordProgress {
         lastViewedAt: Date? = nil,
         correctCount: Int = 0,
         wrongCount: Int = 0,
+        currentStreak: Int = 0,
         note: String = ""
     ) {
         self.key = key
@@ -47,7 +51,19 @@ final class WordProgress {
         self.lastViewedAt = lastViewedAt
         self.correctCount = correctCount
         self.wrongCount = wrongCount
+        self.currentStreak = currentStreak
         self.note = note
+    }
+}
+
+extension WordProgress {
+    /// 3 連続正解で自動既習化する閾値
+    static let autoLearnThreshold = 3
+    /// 3 連敗で警告マークを出す閾値
+    static let warnLosingStreakThreshold = 3
+
+    var shouldShowWarning: Bool {
+        currentStreak <= -Self.warnLosingStreakThreshold
     }
 }
 

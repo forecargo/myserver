@@ -191,12 +191,20 @@ final class QuizViewModel {
         }
         if isCorrect {
             progress.correctCount += 1
+            // 連勝記録: 連敗中だったら 1 にリセット、連勝中はインクリメント
+            progress.currentStreak = (progress.currentStreak < 0) ? 1 : progress.currentStreak + 1
+            // 3 連続正解で自動既習化
+            if progress.currentStreak >= WordProgress.autoLearnThreshold {
+                progress.isLearned = true
+            }
         } else {
             progress.wrongCount += 1
             // 復習リストで間違えた直後の単語が上位に来るよう、最終閲覧時刻も更新する。
             progress.lastViewedAt = .now
             // 既習にしていてもクイズで間違えたら未習に戻し、復習対象に復活させる。
             progress.isLearned = false
+            // 連敗記録: 連勝中だったら -1 にリセット、連敗中はデクリメント
+            progress.currentStreak = (progress.currentStreak > 0) ? -1 : progress.currentStreak - 1
         }
         try? context.save()
     }

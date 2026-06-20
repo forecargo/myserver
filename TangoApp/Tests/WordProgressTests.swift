@@ -64,6 +64,88 @@ final class WordProgressTests: XCTestCase {
         XCTAssertThrowsError(try context.save())
     }
 
+    // MARK: - クイズ自動既習化 (SPEC_SwiftUI.md §8.1 / §8.2)
+
+    private func makeItem(id: String = "001", word: String = "test") -> APIVocabularyItem {
+        APIVocabularyItem(
+            id: id, word: word, phonetic: "[test]", level_tag: nil,
+            definitions: [], usages_and_notes: [], word_origin: nil, examples: []
+        )
+    }
+
+    private func makeDomain(id: String = "001") -> DomainWord {
+        DomainWord(batch: "test", stem: "stem", item: makeItem(id: id))
+    }
+
+    private func makeQuestion(domain: DomainWord) -> QuizGenerator.Question {
+        QuizGenerator.Question(
+            id: UUID(), promptDomain: domain,
+            choices: ["A", "B", "C", "D"], correctIndex: 0
+        )
+    }
+
+    /// (A) 同一単語に 3 連続正解 → isLearned=true / currentStreak=3。
+    @MainActor
+    func testThreeConsecutiveCorrectOnSameWord_marksLearned() throws {
+        let context = try makeContext()
+        let vm = QuizViewModel()
+        let domain = makeDomain()
+        vm.questions = [makeQuestion(domain: domain), makeQuestion(domain: domain), makeQuestion(domain: domain)]
+        vm.currentIndex = 0
+
+        vm.answer(choice: 0, context: context); vm.next(context: context)
+        vm.answer(choice: 0, context: context); vm.next(context: context)
+        vm.answer(choice: 0, context: context)
+
+        let fetched = try context.fetch(FetchDescriptor<WordProgress>())
+        XCTAssertEqual(fetched.count, 1, "同じ key で 1 件に統合されているはず")
+        XCTAssertEqual(fetched.first?.currentStreak, 3)
+        XCTAssertTrue(fetched.first?.isLearned ?? false, "3 連勝で自動既習化されない")
+    }
+
+    /// (B) 別単語 3 つに 1 回ずつ正解 (= 1 セッション内 3 連続正解) → 自動既習化されない。
+    @MainActor
+    func testOneCorrectEachOnThreeWords_doesNotMarkLearned() throws {
+        let context = try makeContext()
+        let vm = QuizViewModel()
+        let domains = (0..<3).map { makeDomain(id: String(format: "%03d", $0)) }
+        vm.questions = domains.map { makeQuestion(domain: $0) }
+        vm.currentIndex = 0
+
+        vm.answer(choice: 0, context: context); vm.next(context: context)
+        vm.answer(choice: 0, context: context); vm.next(context: context)
+        vm.answer(choice: 0, context: context)
+
+        let fetched = try context.fetch(FetchDescriptor<WordProgress>())
+        XCTAssertEqual(fetched.count, 3)
+        for p in fetched {
+            XCTAssertEqual(p.currentStreak, 1, "別単語の連続正解は各単語 streak=1 にしかならない")
+            XCTAssertFalse(p.isLearned)
+        }
+    }
+
+    /// (リセット) 連勝 2 回 → 不正解 1 回 → 連勝 3 回で isLearned=true。
+    @MainActor
+    func testStreakResetAfterWrong_thenThreeMoreCorrect_marksLearned() throws {
+        let context = try makeContext()
+        let vm = QuizViewModel()
+        let domain = makeDomain()
+        vm.questions = (0..<6).map { _ in makeQuestion(domain: domain) }
+        vm.currentIndex = 0
+
+        vm.answer(choice: 0, context: context); vm.next(context: context)  // streak=1
+        vm.answer(choice: 0, context: context); vm.next(context: context)  // streak=2
+        vm.answer(choice: 1, context: context); vm.next(context: context)  // streak=-1
+        vm.answer(choice: 0, context: context); vm.next(context: context)  // streak=1
+        vm.answer(choice: 0, context: context); vm.next(context: context)  // streak=2
+        vm.answer(choice: 0, context: context)                              // streak=3, isLearned=true
+
+        let fetched = try context.fetch(FetchDescriptor<WordProgress>())
+        XCTAssertEqual(fetched.count, 1)
+        XCTAssertEqual(fetched.first?.currentStreak, 3)
+        XCTAssertTrue(fetched.first?.isLearned ?? false)
+    }
+
     @MainActor
     func testQuizAttemptInsert() throws {
         let context = try makeContext()

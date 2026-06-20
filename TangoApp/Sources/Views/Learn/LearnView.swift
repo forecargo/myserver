@@ -125,6 +125,10 @@ private struct WordRow: View {
     @ViewBuilder
     private var trailingIcons: some View {
         HStack(spacing: 6) {
+            if progress?.shouldShowWarning == true {
+                Image(systemName: "exclamationmark.triangle.fill")
+                    .foregroundStyle(.orange)
+            }
             if progress?.isFavorite == true {
                 Image(systemName: "star.fill").foregroundStyle(.yellow)
             }

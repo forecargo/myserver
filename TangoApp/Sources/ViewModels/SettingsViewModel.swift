@@ -49,6 +49,7 @@ final class SettingsViewModel {
                 item.lastViewedAt = nil
                 item.correctCount = 0
                 item.wrongCount = 0
+                item.currentStreak = 0
                 item.isLearned = false
             }
             try? context.save()

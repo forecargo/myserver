@@ -333,7 +333,9 @@ TabView
 8.1 お気に入りと既習/未習
 
 - **お気に入り (★)**: WordListView / WordDetailView 両方に配置。タップで `WordProgress.isFavorite` をトグル。`ModelContext` に upsert (`fetchProgress(key:) ?? new()`)
-- **既習/未習**: WordDetailView のフッタに「既習にする」トグル + WordListView の右端にチェックアイコン
+- **既習/未習 (手動)**: WordDetailView のフッタに「既習にする」トグル + WordListView の右端にチェックアイコン (✓)
+- **既習/未習 (自動)**: クイズで **3 連続正解** すると `isLearned = true` を自動付与する (§8.2 参照)。逆にクイズで不正解すると `isLearned` を `false` に戻し、復習対象に復活させる
+- **要警告マーク (⚠)**: クイズで **3 連続不正解** の単語は、WordListView / LearnView の各行に橙色の警告アイコンを表示する
 
 8.2 学習履歴の記録粒度
 
@@ -342,7 +344,16 @@ WordDetailView を開いた瞬間に以下を更新:
 - `viewCount += 1`
 - `lastViewedAt = .now`
 
-クイズで出題された結果は `correctCount` / `wrongCount` に蓄積する。
+クイズで出題された結果は `correctCount` / `wrongCount` に蓄積するとともに、`currentStreak` (連続記録) を以下のルールで更新する:
+
+| 結果 | 更新ルール |
+| --- | --- |
+| 正解 | `correctCount += 1`。`currentStreak < 0` (連敗中) なら `1` にリセット、それ以外は `+1` |
+| 正解 (連勝 ≥ 3) | 上記に加え `isLearned = true` (自動既習化、閾値は `WordProgress.autoLearnThreshold = 3`) |
+| 不正解 | `wrongCount += 1`、`lastViewedAt = .now` (復習リスト上位に再浮上)、`isLearned = false` (既習を解除)。`currentStreak > 0` (連勝中) なら `-1` にリセット、それ以外は `-1` |
+| 不正解 (連敗 ≥ 3) | 上記に加え `shouldShowWarning == true` となり、WordListView / LearnView に警告アイコン表示 (閾値は `WordProgress.warnLosingStreakThreshold = 3`) |
+
+`currentStreak` は 1 つの整数で連勝・連敗を表す (正=連勝数、負=連敗数の絶対値、0=記録なし)。中断したクイズ (`abort()`) でも、各問の `WordProgress` 加算は確定で残る。`QuizAttempt` (セッション記録) は完走時のみ保存される。
 
 8.3 4 択クイズ問題生成ロジック (QuizGenerator)
 
@@ -456,10 +467,17 @@ final class WordProgress {
     var lastViewedAt: Date?
     var correctCount: Int = 0
     var wrongCount: Int = 0
+    var currentStreak: Int = 0                  // 正=連勝, 負=連敗, 0=記録なし
     var note: String = ""                       // 自由メモ (将来用)
 
     init(key: String, batch: String, stem: String, wordId: String,
          wordSnapshot: String, phoneticSnapshot: String) { ... }
+}
+
+extension WordProgress {
+    static let autoLearnThreshold = 3           // 3 連勝で isLearned=true
+    static let warnLosingStreakThreshold = 3    // 3 連敗で警告アイコン表示
+    var shouldShowWarning: Bool { currentStreak <= -Self.warnLosingStreakThreshold }
 }
 
 @Model
@@ -478,6 +496,8 @@ final class QuizAttempt {
 - `App.swift` で `.modelContainer(for: [WordProgress.self, QuizAttempt.self])` を Window に付与
 - `Sources/Models/MigrationPlan.swift` に `SchemaMigrationPlan` を空実装で用意し、将来のバージョンアップに備える
 - 初回起動でコンテナ生成に失敗した場合は `do/catch` で「データクリアして再起動」案内を表示
+- **`@Model` への後付けフィールドは宣言側にデフォルト値が必須** (例: `var currentStreak: Int = 0`)。`init` パラメータのデフォルトだけでは軽量マイグレーションが成立せず、SwiftData が既存ストアを開けないか、開けても以降の `context.save()` がサイレント失敗する。Optional 型 (`Int?` 等) で受けるか、`SchemaMigrationPlan` で明示的に既定値を与える運用に切り替える場合はバージョン番号も合わせて更新する
+- 非 Optional の必須フィールドを新規追加する変更を入れる前後では、開発者・テスター端末でアプリを **一度削除して再インストール** すること (`var x: Int = 0` 既定があれば原則不要だが、過去ビルドで不整合になったストアは消えないため)
 
 11.3 iCloud 同期
 
@@ -494,7 +514,7 @@ final class QuizAttempt {
 | TTS 発話速度 | Slider | 0.45 | 範囲 0.30–0.60 |
 | テーマ | Picker | システム追従 | 強制ライト / 強制ダーク |
 | データクリア (お気に入り) | Button | — | 確認ダイアログ後、`WordProgress.isFavorite = false` を一括更新 |
-| データクリア (学習履歴) | Button | — | `viewCount` / `correctCount` / `wrongCount` をリセット |
+| データクリア (学習履歴) | Button | — | `viewCount` / `lastViewedAt` / `correctCount` / `wrongCount` / `currentStreak` / `isLearned` をリセット |
 | データクリア (クイズ履歴) | Button | — | `QuizAttempt` を全削除 |
 | バージョン情報 | Label | `MARKETING_VERSION` | — |
 
@@ -508,11 +528,15 @@ final class QuizAttempt {
 | --- | --- |
 | `CodableTests.swift` | tango リポジトリの `output/*.json` を Bundle resource として梱包し、`APIVocabularyResult` への往復デコードを検証 (Pydantic との契約整合性) |
 | `QuizGeneratorTests.swift` | 固定 seed で問題が再現生成されること、プール 4 未満で `insufficientPool` エラー、ダミー被り防止、品詞・level_tag 優先ロジック |
-| `WordProgressTests.swift` | in-memory `ModelContainer` を使った upsert、`isFavorite` toggle、`key` 衝突なしの確認 |
+| `WordProgressTests.swift` | in-memory `ModelContainer` を使った upsert、`isFavorite` toggle、`key` 衝突なしの確認、`QuizViewModel.answer(...)` 経由での自動既習化 (3 連勝 → `isLearned=true`)・連勝リセット挙動の検証 |
 
 ネットワーク層 (`TangoAPIService`) は `protocol TangoAPIServicing` を切って差し替え可能にしておくが、ViewModel の単体テストは MVP では作成しない (手動検証で許容)。
 
-実行: Xcode のテストナビゲータ、または `xcodebuild test -scheme TangoApp -destination 'platform=iOS Simulator,name=iPhone 15'`。
+`project.yml` の `TangoAppTests` ターゲット設定には `GENERATE_INFOPLIST_FILE: YES` を付与する (code sign 用 Info.plist を自動生成させる)。これがないと `xcodebuild test` がビルド段階で失敗する。
+
+実行: Xcode のテストナビゲータ、または `xcodebuild test -scheme TangoApp -destination 'platform=iOS Simulator,name=iPhone 17'`。`xcrun simctl` が見つからない場合は `DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer` を環境変数で付ける (Command Line Tools のみが選択されている環境)。
+
+**既知の不安定テスト**: `testKeyMustBeUnique` は `@Attribute(.unique)` 違反が in-memory ストアでは `save()` 時に throw しないため fail する。実機の永続ストアでは制約が効くため運用影響は限定的。SwiftData の挙動が修正されるまで保留 (skip / `XCTExpectFailure` 化のいずれかで対応する)。
 
 14. viewer.py API 拡張要否 (Backend Considerations)
 
@@ -572,6 +596,8 @@ open TangoApp.xcodeproj
 | ngrok URL 失効 | アプリが API に到達不能 | `forecargo.ngrok.app` は有料プランで固定。設定画面で URL 書き換え可能 |
 | ngrok レイテンシ | クイズ体験低下 | メモリ LRU キャッシュ + 開始時の事前読み込み |
 | SwiftData 初回マイグレーション失敗 | 起動不能 | `do/catch` でユーザーへ「データクリアして再起動」案内 |
+| **`@Model` 後付けフィールドの宣言側デフォルト抜け** | 軽量マイグレーション破綻 → `try? context.save()` がサイレント失敗 → お気に入りトグル・クイズ進捗が UI に反映されなくなる (実害大) | 非 Optional 型は **必ず宣言側で `= 0` / `= false` / `= ""` を指定**。`init` パラメータの既定値だけでは不十分。レビュー時に `@Model` クラスの差分を必ず確認する |
+| **`try? context.save()` のエラー抑制** | 上記マイグレーション破綻時に問題が見えなくなる | 開発時のみ `do { try context.save() } catch { print(error) }` でログ出力するデバッグフラグを検討 (本番では握りつぶし継続) |
 | IPA フォントレンダリング | 一部記号が豆腐化 | システムフォント (SF) は IPA を十分カバーするが、`.font(.system(.body, design: .serif))` でフォールバック確認 |
 | AVSpeechSynthesizer の英語発音品質 | 不自然な箇所がある | Enhanced voice 優先利用 + 未インストール時はデフォルトへフォールバック |
 | **TTS が phonetic を読むと意味不明** | UX 著しく悪化 | **`phonetic` は読み上げ対象から除外** (本仕様書 §9 / 実装コメント両方に明記) |
@@ -586,7 +612,6 @@ open TangoApp.xcodeproj
 - viewer.py への `CORSMiddleware` 追加可否 (開発体験 vs セキュリティ)
 - `/api/data/{batch}/all` 実装優先度 (クイズ用途で必須化するか)
 - WordListView のファイル名表示整形 (「LEAP - part1 - 01」を「Part 1 - 01」等に短縮するか、原文のまま表示するか)
-- 「クイズ連続 3 回正解で自動既習」等の自動フラグ付与ルールの有無
 - 横画面 (Landscape) サポートの追加可否 (iPad 対応と合わせて検討)
 
 ***

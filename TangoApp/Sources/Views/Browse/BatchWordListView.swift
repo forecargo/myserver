@@ -5,8 +5,23 @@ struct BatchWordListView: View {
     let batch: String
     @State private var vm: BatchWordListViewModel
     @State private var showDiagnostic = false
+    @State private var countMode: CountDisplayMode = .total
     @Environment(\.modelContext) private var modelContext
     @Query private var progresses: [WordProgress]
+
+    enum CountDisplayMode: CaseIterable {
+        case total      // 総単語数
+        case learned    // 既習単語数
+        case rate       // 既習率
+
+        var next: CountDisplayMode {
+            switch self {
+            case .total: return .learned
+            case .learned: return .rate
+            case .rate: return .total
+            }
+        }
+    }
 
     init(batch: String) {
         self.batch = batch
@@ -52,18 +67,47 @@ struct BatchWordListView: View {
     private var countBadge: some View {
         let actual = vm.filteredWords.count
         let expected = vm.expectedCount
-        if !vm.failedStems.isEmpty || (expected > 0 && actual != expected && vm.searchText.isEmpty) {
-            Button {
-                showDiagnostic = true
-            } label: {
+        let isSearching = !vm.searchText.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
+        let hasMismatch = !vm.failedStems.isEmpty
+            || (expected > 0 && actual != expected && !isSearching)
+
+        if hasMismatch {
+            Button { showDiagnostic = true } label: {
                 Text("\(actual) / \(expected) 語")
                     .font(.caption.weight(.semibold))
                     .foregroundStyle(.orange)
             }
-        } else {
+        } else if isSearching {
             Text("\(actual) 語")
                 .font(.caption.weight(.semibold))
                 .foregroundStyle(Color.taOnSurfaceVariant)
+        } else {
+            Button { countMode = countMode.next } label: {
+                Text(countLabel)
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(Color.taOnSurfaceVariant)
+                    .contentTransition(.numericText())
+            }
+        }
+    }
+
+    private var totalCount: Int { vm.words.count }
+
+    private var learnedCount: Int {
+        let target = batch
+        return progresses.filter { $0.batch == target && $0.isLearned }.count
+    }
+
+    private var countLabel: String {
+        switch countMode {
+        case .total:
+            return "\(totalCount) 語"
+        case .learned:
+            return "既習 \(learnedCount)"
+        case .rate:
+            guard totalCount > 0 else { return "既習 0%" }
+            let rate = Double(learnedCount) / Double(totalCount) * 100
+            return String(format: "既習 %.1f%%", rate)
         }
     }
 
@@ -187,11 +231,13 @@ private struct WordRow: View {
     let query: String
 
     var body: some View {
-        HStack(alignment: .center, spacing: DesignTokens.Spacing.sm) {
-            Text("#\(domain.item.id)")
+        HStack(alignment: .center, spacing: 6) {
+            Text("#\(formattedId)")
                 .font(.caption.monospacedDigit())
                 .foregroundStyle(Color.taOnSurfaceVariant)
-                .frame(width: 48, alignment: .leading)
+                .layoutPriority(1)
+
+            statusIcon
 
             VStack(alignment: .leading, spacing: 2) {
                 Text(highlight(domain.item.word))
@@ -206,14 +252,34 @@ private struct WordRow: View {
         }
     }
 
+    /// "1" → "0001", "2090" → "2090" のように 4 桁ゼロ埋め。
+    private var formattedId: String {
+        let raw = domain.item.id
+        guard raw.count < 4 else { return raw }
+        return String(repeating: "0", count: 4 - raw.count) + raw
+    }
+
+    /// ID と単語の間に表示する進捗ステータス。
+    /// 警告と既習は両立しない (クイズで間違えると isLearned=false に戻る) ので、
+    /// 1 アイコン分の幅で固定し、いずれかを表示する。
+    private var statusIcon: some View {
+        ZStack {
+            // 幅確保用のダミー (透明)
+            Image(systemName: "checkmark.circle.fill").opacity(0)
+            if progress?.shouldShowWarning == true {
+                Image(systemName: "exclamationmark.triangle.fill")
+                    .foregroundStyle(.orange)
+            } else if progress?.isLearned == true {
+                Image(systemName: "checkmark.circle.fill")
+                    .foregroundStyle(.green)
+            }
+        }
+        .font(.callout)
+    }
+
     @ViewBuilder
     private var trailingIcons: some View {
         HStack(spacing: 6) {
-            if progress?.isLearned == true {
-                Image(systemName: "checkmark.circle.fill")
-                    .foregroundStyle(.green)
-                    .font(.callout)
-            }
             if progress?.isFavorite == true {
                 Image(systemName: "star.fill")
                     .foregroundStyle(.yellow)

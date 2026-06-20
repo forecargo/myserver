@@ -55,3 +55,4 @@ targets:
       SWIFT_VERSION: "5.9"
       PRODUCT_BUNDLE_IDENTIFIER: com.hoshinoji.tango.tests
       IPHONEOS_DEPLOYMENT_TARGET: "17.0"
+      GENERATE_INFOPLIST_FILE: YES
