@@ -6,6 +6,8 @@ struct BatchWordListView: View {
     @State private var vm: BatchWordListViewModel
     @State private var showDiagnostic = false
     @State private var countMode: CountDisplayMode = .total
+    /// 3 連敗以上 (shouldShowWarning) の単語のみ表示するフィルタ
+    @State private var showWarningOnly = false
     @Environment(\.modelContext) private var modelContext
     @Query private var progresses: [WordProgress]
 
@@ -31,11 +33,16 @@ struct BatchWordListView: View {
     var body: some View {
         @Bindable var vmBindable = vm
 
-        content
+        // 進捗ルックアップ辞書を body で 1 回だけ構築し、各所へ渡す。
+        // (毎要素ごとの線形探索 O(n×m) を O(n+m) に抑える)
+        let lookup = progressByKey
+        let shown = displayedWords(lookup: lookup)
+
+        content(shown: shown, lookup: lookup)
             .navigationTitle(batch.formattedBatchName)
             .navigationBarTitleDisplayMode(.inline)
             .searchable(text: $vmBindable.searchText, prompt: "単語・意味・発音で検索")
-            .toolbar { toolbarContent }
+            .toolbar { toolbarContent(shownCount: shown.count) }
             .alert("ロード状況", isPresented: $showDiagnostic) {
                 Button("OK") {}
                 Button("再取得") {
@@ -53,34 +60,44 @@ struct BatchWordListView: View {
     }
 
     @ToolbarContentBuilder
-    private var toolbarContent: some ToolbarContent {
+    private func toolbarContent(shownCount: Int) -> some ToolbarContent {
+        ToolbarItem(placement: .topBarTrailing) {
+            Button {
+                showWarningOnly.toggle()
+            } label: {
+                Image(systemName: showWarningOnly
+                    ? "exclamationmark.triangle.fill"
+                    : "exclamationmark.triangle")
+            }
+            .tint(showWarningOnly ? .orange : nil)
+            .accessibilityLabel(showWarningOnly ? "苦手フィルタ解除" : "苦手な単語のみ表示")
+        }
         ToolbarItem(placement: .topBarTrailing) {
             if vm.isLoading {
                 ProgressView()
             } else {
-                countBadge
+                countBadge(actual: shownCount)
             }
         }
     }
 
     @ViewBuilder
-    private var countBadge: some View {
-        let actual = vm.filteredWords.count
+    private func countBadge(actual: Int) -> some View {
         let expected = vm.expectedCount
-        let isSearching = !vm.searchText.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
+        let isFiltering = isSearching || showWarningOnly
         let hasMismatch = !vm.failedStems.isEmpty
-            || (expected > 0 && actual != expected && !isSearching)
+            || (expected > 0 && actual != expected)
 
-        if hasMismatch {
+        if isFiltering {
+            Text("\(actual) 語")
+                .font(.caption.weight(.semibold))
+                .foregroundStyle(showWarningOnly ? .orange : Color.taOnSurfaceVariant)
+        } else if hasMismatch {
             Button { showDiagnostic = true } label: {
                 Text("\(actual) / \(expected) 語")
                     .font(.caption.weight(.semibold))
                     .foregroundStyle(.orange)
             }
-        } else if isSearching {
-            Text("\(actual) 語")
-                .font(.caption.weight(.semibold))
-                .foregroundStyle(Color.taOnSurfaceVariant)
         } else {
             Button { countMode = countMode.next } label: {
                 Text(countLabel)
@@ -89,6 +106,22 @@ struct BatchWordListView: View {
                     .contentTransition(.numericText())
             }
         }
+    }
+
+    private var isSearching: Bool {
+        !vm.searchText.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
+    }
+
+    /// key → WordProgress のルックアップ辞書。body で 1 回だけ構築して使い回す。
+    private var progressByKey: [String: WordProgress] {
+        Dictionary(progresses.map { ($0.key, $0) }, uniquingKeysWith: { first, _ in first })
+    }
+
+    /// 検索フィルタ後に、必要なら 3 連敗以上の単語だけに絞り込んだ表示用リスト。
+    private func displayedWords(lookup: [String: WordProgress]) -> [DomainWord] {
+        let base = vm.filteredWords
+        guard showWarningOnly else { return base }
+        return base.filter { lookup[$0.id]?.shouldShowWarning == true }
     }
 
     private var totalCount: Int { vm.words.count }
@@ -135,7 +168,7 @@ struct BatchWordListView: View {
     }
 
     @ViewBuilder
-    private var content: some View {
+    private func content(shown: [DomainWord], lookup: [String: WordProgress]) -> some View {
         if vm.isLoading && vm.words.isEmpty {
             loadingView
         } else if let error = vm.errorMessage {
@@ -146,8 +179,23 @@ struct BatchWordListView: View {
                 systemImage: "text.book.closed",
                 description: Text("このバッチには単語が登録されていません")
             )
+        } else if shown.isEmpty {
+            emptyFilterView
         } else {
-            wordList
+            wordList(words: shown, lookup: lookup)
+        }
+    }
+
+    @ViewBuilder
+    private var emptyFilterView: some View {
+        if showWarningOnly {
+            ContentUnavailableView(
+                "苦手な単語はありません",
+                systemImage: "checkmark.seal",
+                description: Text("3 連続で間違えた単語がここに表示されます")
+            )
+        } else {
+            ContentUnavailableView.search(text: vm.searchText)
         }
     }
 
@@ -162,15 +210,14 @@ struct BatchWordListView: View {
         }
     }
 
-    private var wordList: some View {
-        let words = vm.filteredWords
-        return List(Array(words.enumerated()), id: \.element.id) { idx, w in
+    private func wordList(words: [DomainWord], lookup: [String: WordProgress]) -> some View {
+        List(Array(words.enumerated()), id: \.element.id) { idx, w in
             NavigationLink(value: BrowseRoute.wordDetail(
                 WordDetailContext(words: words, startIndex: idx)
             )) {
                 WordRow(
                     domain: w,
-                    progress: progressFor(domain: w),
+                    progress: lookup[w.id],
                     query: vm.searchText
                 )
             }
@@ -178,16 +225,12 @@ struct BatchWordListView: View {
                 Button {
                     toggleFavorite(domain: w)
                 } label: {
-                    let isFav = progressFor(domain: w)?.isFavorite == true
+                    let isFav = lookup[w.id]?.isFavorite == true
                     Image(systemName: isFav ? "star.slash" : "star.fill")
                 }
                 .tint(.yellow)
             }
         }
-    }
-
-    private func progressFor(domain: DomainWord) -> WordProgress? {
-        progresses.first { $0.key == domain.id }
     }
 
     private func toggleFavorite(domain: DomainWord) {
