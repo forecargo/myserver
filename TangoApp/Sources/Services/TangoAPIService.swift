@@ -108,7 +108,7 @@ actor TangoAPIService {
             let (_, result): (Data, [APIFileEntry]) = try await getJSONWithData(url)
             fileListCache[batch] = result
             return result
-        } catch let TangoAPIError.httpError(404, _) {
+        } catch TangoAPIError.httpError(404, _) {
             throw TangoAPIError.batchNotFound(batch)
         }
     }
@@ -134,7 +134,7 @@ actor TangoAPIService {
             insertLRU(key, value: result)
             writeDiskCache(path: relPath, data: data)
             return result
-        } catch let TangoAPIError.httpError(404, _) {
+        } catch TangoAPIError.httpError(404, _) {
             throw TangoAPIError.fileNotFound(batch: batch, stem: stem)
         }
     }

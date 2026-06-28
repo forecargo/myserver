@@ -6,6 +6,18 @@ options:
     iOS: "17.0"
   defaultConfig: Debug
 
+# Xcode の「Update to recommended settings」警告を恒久的に抑止するため、
+# プロジェクトの LastUpgradeCheck を現行 Xcode (26.x) に合わせる。
+attributes:
+  LastUpgradeCheck: "2660"
+  LastSwiftUpdateCheck: "2660"
+
+# 推奨ビルド設定: ビルドフェーズのスクリプトをサンドボックス化する。
+# 本プロジェクトはカスタム Run Script を持たないため安全に有効化できる。
+settings:
+  base:
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+
 configs:
   Debug: debug
   Release: release
@@ -25,9 +37,6 @@ targets:
           UIColorName: ""
         UISupportedInterfaceOrientations:
           - UIInterfaceOrientationPortrait
-        UISupportedInterfaceOrientations~ipad:
-          - UIInterfaceOrientationPortrait
-          - UIInterfaceOrientationPortraitUpsideDown
         NSAppTransportSecurity:
           NSAllowsLocalNetworking: true
           NSExceptionDomains:
@@ -42,6 +51,12 @@ targets:
       IPHONEOS_DEPLOYMENT_TARGET: "17.0"
       MARKETING_VERSION: "1.0"
       CURRENT_PROJECT_VERSION: "1"
+      TARGETED_DEVICE_FAMILY: "1"
+      # iPhone 専用。Mac (Apple Silicon) / Apple Vision Pro での
+      # 互換実行 ("Designed for iPhone") も対象外にする。
+      SUPPORTS_MACCATALYST: NO
+      SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
+      SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
 
   TangoAppTests:
     type: bundle.unit-test
