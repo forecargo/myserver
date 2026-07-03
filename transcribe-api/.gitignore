@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+work/
+*.db
+.env
+.coverage
+htmlcov/
+uv.lock.bak
+
+# 音声・成果物（テスト用実データはコミットしない）
+*.m4a
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.ogg

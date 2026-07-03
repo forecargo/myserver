@@ -66,6 +66,12 @@
         reverse_proxy tango:8005
     }
 
+    # transcribe-api はホスト上で native 実行（mlx-whisper が Apple Silicon 専用のため）
+    route /transcribe* {
+        uri strip_prefix /transcribe
+        reverse_proxy host.docker.internal:8007
+    }
+
     route /gpt-image* {
         basic_auth {
             ncbgpt {$GPT_IMAGE_BASIC_AUTH_HASH}
