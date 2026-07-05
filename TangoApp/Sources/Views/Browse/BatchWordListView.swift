@@ -28,6 +28,8 @@ struct BatchWordListView: View {
     init(batch: String) {
         self.batch = batch
         _vm = State(initialValue: BatchWordListViewModel(batch: batch))
+        // 進捗フェッチを当該バッチに限定し、毎描画の辞書構築を全アプリ→1 バッチに縮める。
+        _progresses = Query(filter: #Predicate<WordProgress> { $0.batch == batch })
     }
 
     var body: some View {

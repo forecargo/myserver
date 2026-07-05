@@ -6,8 +6,15 @@ struct DomainWord: Identifiable, Hashable {
     let batch: String
     let stem: String
     let item: APIVocabularyItem
+    // 合成キーはロード時に 1 度だけ計算して保持する (毎アクセスの文字列生成を回避)。
+    let id: String
 
-    var id: String { Self.makeKey(batch: batch, stem: stem, wordId: item.id) }
+    init(batch: String, stem: String, item: APIVocabularyItem) {
+        self.batch = batch
+        self.stem = stem
+        self.item = item
+        self.id = Self.makeKey(batch: batch, stem: stem, wordId: item.id)
+    }
 
     static func makeKey(batch: String, stem: String, wordId: String) -> String {
         "\(batch)::\(stem)::\(wordId)"
