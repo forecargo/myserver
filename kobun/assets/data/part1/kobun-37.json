@@ -1,0 +1,137 @@
+{
+  "image_file": "Part1/kobun - 37.jpg",
+  "printed_page": 79,
+  "pos_category": "形容詞",
+  "entries": [
+    {
+      "entry_no": "066",
+      "pages": [
+        79
+      ],
+      "headword": "いはけなし",
+      "headword_variants": [],
+      "reading": "いはけなし",
+      "sub_glosses": [],
+      "conjugation_type": "ク活用",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "幼い・あどけない・子どもっぽい"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "いとけなし・いときなし",
+          "reading": "いとけなし",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "幼い"
+            }
+          ]
+        }
+      ],
+      "commentary": "下二段動詞「稚く（＝幼い様子である）」に「はなはだしい」の意の「なし」がつき、形容詞化した語。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "いはけなくかいやりたる額つき、髪ざし、いみじううつくし。",
+          "target_words": [
+            "いはけなく"
+          ],
+          "translation": "（若紫が）子どもっぽく（髪を）かきあげた額の様子や、髪の生え具合が、とてもかわいらしい。",
+          "source": "源氏・若紫"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "その子いまだいとけなき程に、日本に帰る。",
+          "target_words": [
+            "いとけなき"
+          ],
+          "translation": "その子はまだ幼いころに、日本に帰る。",
+          "source": "宇治・巻十四・四話"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「いはけなし」＝幼い・あどけない。語呂は『岩（いは）に気（け）なし＝まだ岩のように固くなく、あどけない』。小さな子のあどけなさをことだまの幼い仕草で表す。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『いはけなし』。意味『①幼い ②あどけない ③子どもっぽい』。場面：まだとても小さなひな鳥姿のことだまが、よちよちと無邪気に首をかしげ、あどけない笑顔でこちらを見ている。ふわふわの綿毛とまんまるの目で幼さを表現する。",
+        "image_path": "assets/manga/part1/066.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "067",
+      "pages": [
+        79
+      ],
+      "headword": "つらし",
+      "headword_variants": [],
+      "reading": "つらし",
+      "sub_glosses": [],
+      "conjugation_type": "ク活用",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "薄情だ・冷淡だ"
+        },
+        {
+          "no": 2,
+          "gloss": "つらい（現代語と同じ）"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "現代語と同じ「つらい・苦痛だ」という意味もあるが、もともとは「（自分がつらくなるほど相手が）薄情だ」という意味。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "つらくもおはしますかな。",
+          "target_words": [
+            "つらく"
+          ],
+          "translation": "（父上は）薄情でいらっしゃるなあ。",
+          "source": "源氏・少女"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": true,
+      "manga": {
+        "concept": "「つらし」は本来『（自分がつらくなるほど相手が）薄情だ・冷淡だ』の意。現代語の『つらい』ともつながる。相手のそっけない態度に心が痛む場面で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『つらし』。意味『①薄情だ・冷淡だ ②つらい』。場面：そっぽを向いてそっけない態度をとる相手の鳥に、ことだまが少し眉を下げ、胸に羽をあててしょんぼり。冷たくされて心が痛む様子を、優しいタッチで穏やかに表現する。",
+        "image_path": "assets/manga/part1/067.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

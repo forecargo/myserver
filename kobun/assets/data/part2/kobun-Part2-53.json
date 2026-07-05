@@ -1,0 +1,276 @@
+{
+  "image_file": "Part2/kobun-Part2 - 53.jpg",
+  "printed_page": 202,
+  "pos_category": "名詞",
+  "entries": [
+    {
+      "entry_no": "249",
+      "pages": [
+        202
+      ],
+      "headword": "そこ",
+      "headword_variants": [],
+      "reading": "そこ",
+      "sub_glosses": [],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "あなた〔二人称〕"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "「そこ」「ここ」は場所を表すだけでなく、会話の中で「あなた」「わたし」を表す人称代名詞の用法があります。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "皇子たちあまたあれど、そこをのみなむかかるほどより明け暮れ見し。",
+          "target_words": [
+            "そこ"
+          ],
+          "translation": "皇子たちはたくさんいるけれども、ただ〔あなた〕だけをこのような（幼い）ときから朝晩見てきた。",
+          "source": "源氏・紅葉賀"
+        }
+      ],
+      "illustration": {
+        "present": true,
+        "caption": "そこは元気だから ココは大丈夫！",
+        "description": "人を指さす男性が「そこ（＝あなた）は元気だから、ここ（＝わたし）は大丈夫！」と言い、「そこ・ここ」が人称代名詞になることを示したイラスト。"
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「そこ」は場所だけでなく、会話で相手を指す『あなた』（二人称）になる。指さした先の相手＝そこ＝あなた、で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『そこ』。意味『①あなた（二人称）』。場面：ことだまがにっこり笑って小さな羽でまっすぐこちらを指さし、見ている人＝あなたを呼びかけている一コマ。",
+        "image_path": "assets/manga/part2/249.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "250",
+      "pages": [
+        202
+      ],
+      "headword": "ここ",
+      "headword_variants": [],
+      "reading": "ここ",
+      "sub_glosses": [],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "このわたし〔一人称〕"
+        },
+        {
+          "no": 2,
+          "gloss": "あなた〔二人称〕"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "ここをば捨てさせ給ひつるか。",
+          "target_words": [
+            "ここ"
+          ],
+          "translation": "〔このわたし〕をお見捨てになったのか。",
+          "source": "栄花・楚王のゆめ"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「ここ」は場所だけでなく、会話で自分『このわたし』（一人称）や相手『あなた』（二人称）を指す。手元＝ここ＝わたし、で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『ここ』。意味『①このわたし（一人称）②あなた（二人称）』。場面：ことだまが両方の羽を自分の胸にあてて、にこにこ笑いながら『わたし』を指し示している一コマ。",
+        "image_path": "assets/manga/part2/250.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "251",
+      "pages": [
+        202
+      ],
+      "headword": "かれ",
+      "headword_variants": [],
+      "reading": "かれ",
+      "sub_glosses": [],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "あの人（あの男・あの女）"
+        },
+        {
+          "no": 2,
+          "gloss": "あれ・あのもの"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "「かれ」は「he」ではなく、「that」です。つまり、「あの人」「あれ」の意で、女性を指すこともあります。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "「かれが申さむこと、院に奏せよ。（中略）」と仰せたまうければ、",
+          "target_words": [
+            "かれ"
+          ],
+          "translation": "（帝は遊女のことを気がかりにお思いになって）「〔あの女〕が申すことを、わたしに申し上げよ。（中略）」とおっしゃったので、",
+          "source": "大和・一四六段"
+        }
+      ],
+      "illustration": {
+        "present": true,
+        "caption": "かれを召せ！",
+        "description": "ある人物を指さして「かれを召せ！」と命じる場面のイラスト。"
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「かれ」は英語のheではなくthat。『あの人（男も女も）』『あれ・あのもの』を指す遠称。遠くを指して『あの〜』で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『かれ』。意味『①あの人（あの男・あの女）②あれ・あのもの』。場面：ことだまが小枝の上から遠くの方角を羽でそっと指さし、はるか向こうにある『あの一つ』を見つめている一コマ。",
+        "image_path": "assets/manga/part2/251.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "252",
+      "pages": [
+        202
+      ],
+      "headword": "それ",
+      "headword_variants": [],
+      "reading": "それ",
+      "sub_glosses": [],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "その人"
+        },
+        {
+          "no": 2,
+          "gloss": "あなた〔二人称〕"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "",
+      "examples": [],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「それ」は中称の指示語で、人を指して『その人』、会話では相手を指す『あなた』（二人称）にもなる。少し離れた相手＝それ＝あなた、で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『それ』。意味『①その人②あなた（二人称）』。場面：ことだまが少し離れたところにいる相手の方へ羽を向け、やさしく『そちらのあなた』と呼びかけている一コマ。",
+        "image_path": "assets/manga/part2/252.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "253",
+      "pages": [
+        202
+      ],
+      "headword": "これ",
+      "headword_variants": [],
+      "reading": "これ",
+      "sub_glosses": [],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "この人"
+        },
+        {
+          "no": 2,
+          "gloss": "このわたし〔一人称〕"
+        },
+        {
+          "no": 3,
+          "gloss": "あなた〔二人称〕"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "",
+      "examples": [
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "これはたびたび参つて候ふ間、案内は存知して候ふ。",
+          "target_words": [
+            "これ"
+          ],
+          "translation": "〔このわたし〕は度々参っておりますので、様子は分かっております。",
+          "source": "平家・巻十一"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「これ」は近称の指示語で、人を指して『この人』、会話では自分『このわたし』（一人称）や相手『あなた』（二人称）にもなる。手元の近いもの＝これ、で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『これ』。意味『①この人②このわたし（一人称）③あなた（二人称）』。場面：ことだまがすぐ目の前に置かれた小さな木の実を両羽でそっと示し、にこにこと『この一番近いもの』を指している一コマ。",
+        "image_path": "assets/manga/part2/253.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

@@ -93,6 +93,16 @@ services:
     volumes:
       - ./tango:/app
 
+  kobun-api:
+    build: ./kobun
+    restart: unless-stopped
+    ports:
+      - "8006:8006"
+    env_file:
+      - .env
+    volumes:
+      - ./kobun:/app
+
   ngrok:
     image: ngrok/ngrok:latest
     restart: unless-stopped

@@ -1,0 +1,151 @@
+{
+  "image_file": "Part1/kobun - 66.jpg",
+  "printed_page": 109,
+  "pos_category": "名詞",
+  "entries": [
+    {
+      "entry_no": "111",
+      "pages": [
+        109
+      ],
+      "headword": "かたち",
+      "headword_variants": [],
+      "reading": "かたち",
+      "sub_glosses": [
+        "形",
+        "容貌"
+      ],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "形・外見〔現代語と同じ〕"
+        },
+        {
+          "no": 2,
+          "gloss": "容貌・顔立ち"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "みめ",
+          "reading": "みめ",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "見た目・容貌"
+            }
+          ]
+        }
+      ],
+      "commentary": "「かたち」は主に顔をいうのに対し、「すがた」は衣服を身につけた全体の様子をいう。",
+      "examples": [
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "さかりにならば、かたちも限りなくよく、髪もいみじく長くなりなむ。",
+          "target_words": [
+            "かたち"
+          ],
+          "translation": "（わたしも）年ごろになったら、きっと容貌もこの上なく美しく、髪もたいそう長くなるだろう。",
+          "source": "更級"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「かたち」は形・外見だけでなく、主に『顔立ち・容貌』を表す点が核。鏡に映る顔を見て『きれいなかたち』と覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『かたち（形・容貌）』。意味『①形・外見 ②容貌・顔立ち』。場面：ことだまが丸い鏡をのぞきこみ、鏡に映る自分のかわいい顔（容貌）を見てうれしそうにほほえんでいる。",
+        "image_path": "assets/manga/part1/111.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "112",
+      "pages": [
+        109
+      ],
+      "headword": "かげ",
+      "headword_variants": [],
+      "reading": "かげ",
+      "sub_glosses": [
+        "影",
+        "陰"
+      ],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "光"
+        },
+        {
+          "no": 2,
+          "gloss": "姿・形"
+        },
+        {
+          "no": 3,
+          "gloss": "陰〔光の当たらない所〕・物陰〔現代語と同じ〕"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "光も「かげ」、人の姿も「かげ」、水面に映る物の姿（形）も「かげ」と言う。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "木の間よりもりくる月の影見れば心づくしの秋は来にけり",
+          "target_words": [
+            "影"
+          ],
+          "translation": "木々の枝の間から漏れてくる月の光を見ると、もの思いをすることが多い秋が来たことだなあ。",
+          "source": "古今・一八四"
+        },
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "月隈なくさし出でて、ふと人の影見えければ、",
+          "target_words": [
+            "影"
+          ],
+          "translation": "月の光がこうこうと照りはじめて、すっと人の姿が見えたので、",
+          "source": "源氏・空蟬"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": true,
+      "manga": {
+        "concept": "「かげ」は『光』『姿・形』『陰』と一見正反対の意味を併せ持つのが核。月の光（かげ）と、その光に照らされて現れる人の姿（かげ）を一枚で対比して覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『かげ』。意味『①光 ②姿・形 ③陰』。場面：夜、こうこうと照る月の光（かげ）に照らされたことだまが、足元に自分の影（かげ）を落としながら見上げ、光と影の両方をやさしく見つめている。",
+        "image_path": "assets/manga/part1/112.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

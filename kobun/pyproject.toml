@@ -1,0 +1,31 @@
+[project]
+name = "kobun-api"
+version = "0.1.0"
+description = "古文単語アプリ「ことだま」向けコンテンツ配信 API（単語・慣用句・暗記カード画像）"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic>=2.9.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+    "httpx>=0.27.0",
+    "ruff>=0.6.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+# FastAPI の Depends()/Query() を引数デフォルトに置くのは定石のため B008 は無視。
+ignore = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

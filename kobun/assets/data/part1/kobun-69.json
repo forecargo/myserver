@@ -1,0 +1,118 @@
+{
+  "image_file": "Part1/kobun - 69.jpg",
+  "printed_page": 112,
+  "pos_category": "名詞",
+  "entries": [
+    {
+      "entry_no": "116",
+      "pages": [
+        112
+      ],
+      "headword": "こと",
+      "headword_variants": [],
+      "reading": "こと",
+      "sub_glosses": [
+        "言"
+      ],
+      "conjugation_type": null,
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "言葉"
+        },
+        {
+          "no": 2,
+          "gloss": "和歌"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "ことなり",
+          "reading": "ことなり",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "異なっている・格別だ"
+            }
+          ]
+        },
+        {
+          "marker": "関",
+          "word": "ことに",
+          "reading": "ことに",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "特に・とりわけ"
+            }
+          ]
+        }
+      ],
+      "commentary": "「こと」は「事」だと決めつけてはいけない。「こと」は「言」、つまり「言葉」、言葉の中でも特に「和歌」を指すことがある。入試で「こと」に漢字をあてる問題は「異」が答えになることがもっとも多い。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "ことに出でて言はぬばかりぞ",
+          "target_words": [
+            "こと"
+          ],
+          "translation": "言葉に出して言わないだけだ（心の中では思っているよ）。",
+          "source": "古今・六〇七"
+        },
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "これにただ今覚えむ古き言、ひとつづつ書け。",
+          "target_words": [
+            "言"
+          ],
+          "translation": "この紙に、今すぐ思い出せる古い和歌を、各自一首ずつ書け。",
+          "source": "枕・清涼殿のうしとらのすみの"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "紫の紙に書い給へる墨つきのいとことなるを取りて見ゐ給へり。",
+          "target_words": [
+            "ことなる"
+          ],
+          "translation": "（光源氏が）紫の紙に書きなさった筆跡がとても格別なのを（紫の上は）手に取ってじっと見ていらっしゃった。",
+          "source": "源氏・若紫"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "山里は秋こそことにわびしけれ",
+          "target_words": [
+            "ことに"
+          ],
+          "translation": "山里の住まいは（四季の中でも）とりわけ秋がさびしくつらいことだ。",
+          "source": "古今・二一四"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「こと」は「事」ではなく「言」、つまり『言葉』、とりわけ『和歌』を指す。口から出る『こと（言）＝言葉』のイメージで覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『こと（言）』。意味『①言葉 ②和歌』。場面：ことだまが優しくほほえみながら口を開き、その口元からふんわりと言葉があふれ出る。あふれた光のしずくが、和歌をしたためた小さな短冊（巻物）へと変わって舞い、和歌＝言葉であることを表す。",
+        "image_path": "assets/manga/part1/116.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

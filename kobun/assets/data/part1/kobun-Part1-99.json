@@ -1,0 +1,195 @@
+{
+  "image_file": "Part1/kobun-Part1 - 99.jpg",
+  "printed_page": 42,
+  "pos_category": "動詞",
+  "entries": [
+    {
+      "entry_no": "010",
+      "pages": [
+        42
+      ],
+      "headword": "なやむ",
+      "headword_variants": [],
+      "reading": "なやむ",
+      "sub_glosses": [
+        "悩む"
+      ],
+      "conjugation_type": "マ行四段",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "病気になる・病気で苦しむ"
+        },
+        {
+          "no": 2,
+          "gloss": "苦労する・骨を折る"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "わづらふ",
+          "reading": "わづらふ",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "苦しむ・（動詞について）～しかねる"
+            }
+          ]
+        },
+        {
+          "marker": "関",
+          "word": "心地",
+          "reading": "ここち",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "病気・気分（の悪さ）"
+            }
+          ]
+        },
+        {
+          "marker": "関",
+          "word": "いたはる",
+          "reading": "いたはる",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "病気で苦しむ"
+            }
+          ]
+        }
+      ],
+      "commentary": "現代語では精神的に苦しむことだが、古語では肉体の病気で苦しむことを主に表す。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "やむごとなく思ふ人のなやむを聞きて、",
+          "target_words": [
+            "なやむ"
+          ],
+          "translation": "自分にとって大事に思っている人が病気で苦しむのを聞いて、",
+          "source": "枕・うれしき物"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "中納言、たちまちに御心地も止みてめでたし。",
+          "target_words": [
+            "心地"
+          ],
+          "translation": "中納言は、たちまちにご病気も治り、すばらしいことだ。",
+          "source": "落窪・巻三"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "日ごろいたはるところ侍りて、",
+          "target_words": [
+            "いたはる"
+          ],
+          "translation": "数日来、病気で苦しむことがございまして、",
+          "source": "宇津保・国譲下"
+        }
+      ],
+      "illustration": {
+        "present": true,
+        "caption": "なやむ",
+        "description": "腕を組んで苦しむキャラクターの絵"
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「なやむ（悩む）」は古語では心ではなく『体』が病んで苦しむこと。現代語の精神的に悩むイメージとの違いを、寝込んで体調を崩す場面で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『なやむ（悩む）』。意味『①病気になる・病気で苦しむ ②苦労する』。場面：ことだまが布団に寝込み、額に冷たい手ぬぐいをのせて頬を赤くしながら、つらそうにしている。枕元には湯気の立つお椀が置かれ、体の不調を表す。",
+        "image_path": "assets/manga/part1/010.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "011",
+      "pages": [
+        42
+      ],
+      "headword": "おこたる",
+      "headword_variants": [],
+      "reading": "おこたる",
+      "sub_glosses": [
+        "怠る"
+      ],
+      "conjugation_type": "ラ行四段",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "病気が治る"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "おこたり",
+          "reading": "おこたり",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "（過失の）おわび・謝罪"
+            }
+          ]
+        }
+      ],
+      "commentary": "現代語と同じ「なまける」の意もあるが、覚えておくべき意味は「病気が治る」。前提として誰かが病気になっている状況があるので、現代語の意味とは明確に区別できる。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "おこたりたる由、消息聞くも、いとうれし。",
+          "target_words": [
+            "おこたり"
+          ],
+          "translation": "（病気になった人を心配していたとき、）病気が治ったという知らせを聞くのも、とてもうれしい。",
+          "source": "枕・うれしき物"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "「おこたり申しまうでたるなり」といひて、",
+          "target_words": [
+            "おこたり"
+          ],
+          "translation": "「おわびを申し上げに参上したのです」と言って、",
+          "source": "無名抄"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「おこたる（怠る）」は現代語の『なまける』ではなく、覚えるべき意味は『病気が治る』。誰かが病気の状況が前提、と押さえる。なまけて治る、ではなく『おこたる＝快復』と逆転で覚える。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『おこたる（怠る）』。意味『①病気が治る』。場面：たたんだ布団のそばで、ことだまが病み上がりからすっかり元気を取り戻し、両翼を広げて晴れやかに笑っている。背景には朝日と小さな花が咲き、快復の喜びを表す。",
+        "image_path": "assets/manga/part1/011.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

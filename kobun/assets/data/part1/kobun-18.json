@@ -1,0 +1,160 @@
+{
+  "image_file": "Part1/kobun - 18.jpg",
+  "printed_page": 56,
+  "pos_category": "動詞",
+  "entries": [
+    {
+      "entry_no": "033",
+      "pages": [
+        56
+      ],
+      "headword": "経",
+      "headword_variants": [],
+      "reading": "ふ",
+      "sub_glosses": [
+        "経"
+      ],
+      "conjugation_type": "ハ行下二段",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "（時間が）たつ（経過する）"
+        },
+        {
+          "no": 2,
+          "gloss": "（場所を）通る（経由する）"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [],
+      "commentary": "1・2の意味とも二字熟語「経過・経由」として覚えればよい。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "日ごろ経て、宮に帰りたまうけり。",
+          "target_words": [
+            "経"
+          ],
+          "translation": "数日がたって、御所にお帰りになった。",
+          "source": "伊勢・八三段"
+        },
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "黒崎の松原をへて行く。",
+          "target_words": [
+            "へ"
+          ],
+          "translation": "黒崎の松原を通って行く。",
+          "source": "土佐・二月一日"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「経（ふ）」は二字熟語「経過・経由」で覚える。①時間がたつ（経過）②場所を通る（経由）の二系統。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『経（ふ）』。意味『①（時間が）たつ ②（場所を）通る』。場面：砂時計の砂がさらさら落ちて時間が過ぎていく横で、ことだまが小道に沿って前へ進み、振り返って優しくほほえんでいる。時の経過と道を通り過ぎる様子をひとつの場面で表す。",
+        "image_path": "assets/manga/part1/033.png",
+        "status": "generated"
+      }
+    },
+    {
+      "entry_no": "034",
+      "pages": [
+        56
+      ],
+      "headword": "さる",
+      "headword_variants": [],
+      "reading": "さる",
+      "sub_glosses": [
+        "避る",
+        "去る"
+      ],
+      "conjugation_type": "ラ行四段",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "避ける"
+        },
+        {
+          "no": 2,
+          "gloss": "（時節が）来る・（その時に）なる"
+        },
+        {
+          "no": 3,
+          "gloss": "立ち去る・過ぎ去る（現代語と同じ）"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "さる",
+          "reading": "さる",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "（連体詞）しかるべき・立派な"
+            }
+          ]
+        }
+      ],
+      "commentary": "「さる」には「避る」（現代語では「避ける」）と、「その季節・時間になる」という意の「去る」があることが重要。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "えさらぬことのみいとど重なりて、",
+          "target_words": [
+            "さら"
+          ],
+          "translation": "避けることのできないことばかりがますます重なって、",
+          "source": "徒然・五九段"
+        },
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "夕されば野辺の秋風身にしみて鶉鳴くなり深草の里",
+          "target_words": [
+            "され"
+          ],
+          "translation": "夕方になると野辺の秋風が身にしみて、鶉が鳴く声が聞こえてくる。深草の里で。",
+          "source": "千載・二五九"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「さる」は「避る（避ける）」と「去る」の二系統。とくに「（時節が）来る・その時になる」（夕されば＝夕方になると）が重要。現代語と同じ「立ち去る」もある。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『さる（避る・去る）』。意味『①避ける ②（時節が）来る・なる ③立ち去る』。場面：夕暮れの野辺に秋風が吹き、ことだまがそっと身をかわして何かを避けつつ、夕方の時間がやって来た穏やかな景色を見つめている。避けることと時節が来ることを一場面で表す。",
+        "image_path": "assets/manga/part1/034.png",
+        "status": "generated"
+      }
+    }
+  ]
+}

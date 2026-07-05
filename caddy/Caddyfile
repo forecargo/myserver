@@ -66,6 +66,11 @@
         reverse_proxy tango:8005
     }
 
+    route /kobun* {
+        uri strip_prefix /kobun
+        reverse_proxy kobun-api:8006
+    }
+
     # transcribe-api はホスト上で native 実行（mlx-whisper が Apple Silicon 専用のため）
     route /transcribe* {
         uri strip_prefix /transcribe

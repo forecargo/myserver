@@ -1,0 +1,142 @@
+{
+  "image_file": "Part1/kobun - 19.jpg",
+  "printed_page": 57,
+  "pos_category": "動詞",
+  "entries": [
+    {
+      "entry_no": "035",
+      "pages": [
+        57
+      ],
+      "headword": "ものす",
+      "headword_variants": [],
+      "reading": "ものす",
+      "sub_glosses": [
+        "物す"
+      ],
+      "conjugation_type": "サ行変格",
+      "meanings": [
+        {
+          "no": 1,
+          "gloss": "（ものごとを）する"
+        },
+        {
+          "no": 2,
+          "gloss": "〈「ものし給ふ」の形で〉いらっしゃる"
+        }
+      ],
+      "word_formation": null,
+      "semantic_shift": null,
+      "honorific": null,
+      "related_words": [
+        {
+          "marker": "関",
+          "word": "ものし",
+          "reading": "ものし",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "不快だ・見苦しい"
+            }
+          ]
+        },
+        {
+          "marker": "関",
+          "word": "あり",
+          "reading": "あり",
+          "meanings": [
+            {
+              "no": 1,
+              "gloss": "ある・いる"
+            },
+            {
+              "no": 2,
+              "gloss": "（ものごとを）する"
+            }
+          ]
+        }
+      ],
+      "commentary": "「ものす」はいろいろな動詞の代わりに用いられる（＝代動詞）。多くは日常的な状態や行為を表す「あり」「言ふ」「行く」「来」「書く」などの代わりに用いられる。サ変動詞「す」にも同じ用法がある。動詞「ものす」と混同してはいけない語に形容詞「ものし」がある。",
+      "examples": [
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "さる御文をだにものせさせ給へ。",
+          "target_words": [
+            "ものせ"
+          ],
+          "translation": "せめてそのようなお手紙だけでもお書きください。",
+          "source": "落窪・巻一"
+        },
+        {
+          "sense_no": 1,
+          "marker": null,
+          "text": "中将はいづこよりものしつるぞ。",
+          "target_words": [
+            "ものし"
+          ],
+          "translation": "中将（＝夕霧）はどこから来たのか。",
+          "source": "源氏・野分"
+        },
+        {
+          "sense_no": 2,
+          "marker": null,
+          "text": "かく世を離るるさまにものしたまへば、",
+          "target_words": [
+            "ものし"
+          ],
+          "translation": "（あなたは）このように俗世を離れた（＝出家した）様子でいらっしゃるので、",
+          "source": "源氏・夕顔"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "宮はいとどしき御心なれば、いとものしき御気色にて、",
+          "target_words": [
+            "ものしき"
+          ],
+          "translation": "宮はいっそう激しいご性格であるので、実に不快なご様子で、",
+          "source": "源氏・賢木"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "「見むと思はば」とあるを、",
+          "target_words": [
+            "ある"
+          ],
+          "translation": "（夫が）「見たいと思うならば」と言うのを、",
+          "source": "蜻蛉・上巻"
+        },
+        {
+          "sense_no": null,
+          "marker": "関",
+          "text": "「あさましく」とあり。",
+          "target_words": [
+            "あり"
+          ],
+          "translation": "（宮はお手紙に）「あきれたことです」とお書きになっている。",
+          "source": "和泉式部"
+        }
+      ],
+      "illustration": {
+        "present": false,
+        "caption": "",
+        "description": ""
+      },
+      "tip_box": "",
+      "mistake_note": {
+        "wrong": "",
+        "correct": "",
+        "note": ""
+      },
+      "qr_code": false,
+      "manga": {
+        "concept": "「ものす」は「あり・言ふ・行く・来・書く」などいろいろな動詞の代わりに使える万能の代動詞。『何にでも代われる便利な「もの」スタンプ』としてイメージすると覚えやすい。",
+        "prompt": "やわらかい水彩タッチの、かわいい癒し系の、古文単語の暗記カード（正方形 1:1）。主役は固定マスコットの子フクロウ「ことだま」：丸々したコノハズク風の小さなフクロウで、体は生成り〜淡い小麦色、ほっぺは淡いピンク、大きくつぶらな丸い黒目、小さな羽角、首に藤色のリボン。いつも優しくほほえみ、学習者を褒めて励ます表情。明るく親しみやすいトーン、背景は淡くシンプル。レイアウトは、上部に見出し語と読みを大きく、中央にイラスト、下部の帯に意味を配置する。文字はすべて正確な日本語で、誤字なく読みやすい明朝体で記す。見出し語『ものす（物す）』。意味『①（ものごとを）する ②いらっしゃる』。場面：ことだまが「ものす」と書かれた万能スタンプを持ち、書く・行く・言うを表す小さな絵の空欄にどれでもポンと押せて、にこにこ得意げにしている。",
+        "image_path": "assets/manga/part1/035.png",
+        "status": "generated"
+      }
+    }
+  ]
+}
